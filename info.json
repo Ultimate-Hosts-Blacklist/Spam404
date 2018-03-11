@@ -1,6 +1,7 @@
 {
     "arguments": [
         "--travis",
+        "-ad",
         "-a",
         "-ex",
         "--plain",
