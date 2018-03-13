@@ -1,8 +1,10 @@
-# About [Spam404]
+# About Spam404
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/Spam404.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/Spam404)
 
-[Description]
+```
+This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
+```
 
 --------------------------------------------------------------------------------
 
