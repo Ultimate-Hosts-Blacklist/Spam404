@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1520893275": [
+        "1521114569": [
             "0daygameparadise.com",
             "100arcade.com",
             "100giveaways.com",
@@ -427,7 +427,6 @@
             "csgo-boss.com",
             "csgo-capital.online",
             "csgo-doit.com",
-            "csgo-drop.com",
             "csgo-inject.com",
             "csgo-injected.com",
             "csgo-protected.ru",
@@ -444,7 +443,12 @@
             "csgocasino-winning.su",
             "csgocasino.su",
             "csgocolt.com",
-            "csgocute.com",
+            "csgocute.com"
+        ],
+        "to_test": [
+            "free-dominos.co.uk",
+            "papapearsagacheats.com",
+            "parkerhacks.com",
             "csgodc.com",
             "csgodolo.com",
             "csgoelect.com",
@@ -8909,12 +8913,7 @@
             "||zynga-poker-hack.net^",
             "||zynga-poker-hacks.com^",
             "||zyngapoker.hackfree.us^",
-            "||zyngapokerchips4free.com^"
-        ],
-        "to_test": [
-            "free-dominos.co.uk",
-            "papapearsagacheats.com",
-            "parkerhacks.com",
+            "||zyngapokerchips4free.com^",
             "!"
         ]
     }
