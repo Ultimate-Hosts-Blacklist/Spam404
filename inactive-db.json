@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1521114569": [
+        "1521460430": [
             "0daygameparadise.com",
             "100arcade.com",
             "100giveaways.com",
@@ -69,7 +69,6 @@
             "allopass-generator.com",
             "allostargen.com",
             "allpsncodes.com",
-            "alphajailbreak.com",
             "alqbyte.com",
             "alwaysfreexboxlive.com",
             "amazingoffer.biz",
@@ -130,7 +129,6 @@
             "audioload.net",
             "aussieupload.com",
             "australiaupload.com",
-            "autolikefb.net",
             "awesomehacks.org",
             "awesomeload.com",
             "axcmovie.com",
@@ -320,6 +318,7 @@
             "clash-of-clans-for-android.com",
             "clash-of-clans-hack.com",
             "clash-of-clans-hacks.net",
+            "clash4free.com",
             "clashhacktool.com",
             "clashofclans.hackfbgames.com",
             "clashofclans.htlwlnk.com",
@@ -373,6 +372,7 @@
             "coinsforfree.online",
             "com-mysterygifts.com",
             "comment-pirater-un-compte-facebook-gratuitement.com",
+            "commentpiraterfacebook.fr",
             "commentpiraterunfb.com",
             "commenttricher.com",
             "comohackearelface.com",
@@ -431,7 +431,12 @@
             "csgo-injected.com",
             "csgo-protected.ru",
             "csgo-quick.online",
-            "csgo-secure.com",
+            "csgo-secure.com"
+        ],
+        "to_test": [
+            "fbhackquick.com",
+            "itunes-giveaway.com",
+            "razor1911-games.com",
             "csgo-sxe.net",
             "csgo-tournament.com",
             "csgo2casino.com",
@@ -8916,12 +8921,7 @@
             "||zynga-poker-hack.net^",
             "||zynga-poker-hacks.com^",
             "||zyngapoker.hackfree.us^",
-            "||zyngapokerchips4free.com^"
-        ],
-        "to_test": [
-            "fbhackquick.com",
-            "itunes-giveaway.com",
-            "razor1911-games.com",
+            "||zyngapokerchips4free.com^",
             "!"
         ]
     }
