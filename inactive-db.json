@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1521460430": [
+        "1521807790": [
             "0daygameparadise.com",
             "100arcade.com",
             "100giveaways.com",
@@ -69,6 +69,7 @@
             "allopass-generator.com",
             "allostargen.com",
             "allpsncodes.com",
+            "alphajailbreak.com",
             "alqbyte.com",
             "alwaysfreexboxlive.com",
             "amazingoffer.biz",
@@ -100,6 +101,7 @@
             "app-hackss.com",
             "appbin.me",
             "appios-icloudcx.com",
+            "apple--iphone5.com",
             "apple-globe.com",
             "apple-gps-china.com",
             "apple-icloud-lost.top",
@@ -188,6 +190,7 @@
             "biggyupload.com",
             "bitcoinsgenerator.net",
             "bitdefenderlicense.com",
+            "bitskins.cn.com",
             "blackhacks24.com",
             "blackhatsky.com",
             "blackops.freehacks.pw",
@@ -204,7 +207,6 @@
             "bluehack.eu",
             "bmw-330d.com",
             "bo2wallhack.com",
-            "bonypin.com",
             "boombeach-cheat.com",
             "boombeachdiamant.org",
             "boombeachhacktools.com",
@@ -364,6 +366,7 @@
             "codepsnmaintenant.fr",
             "codesfreexbl.com",
             "codesnhacks.net",
+            "codesplaystationnetwork.fr",
             "codeswifigratuit.com",
             "codesxboxlivegratuit.com",
             "codghosts-hack.com",
@@ -445,7 +448,18 @@
             "csgocasino.su",
             "csgocolt.com",
             "csgocute.com",
-            "csgodolo.com",
+            "csgodolo.com"
+        ],
+        "to_test": [
+            "fastdone.info",
+            "fastfilesload.com",
+            "madgeniusreview.com",
+            "magazineofhacks.com",
+            "screenpictures.site",
+            "world-of-tanks-gold-hack.com",
+            "world-of-tanks-hack.com",
+            "worldcup2014streams.com",
+            "worldfilmdownloads.com",
             "csgoelect.com",
             "csgofine.com",
             "csgofireboom.com",
@@ -8919,18 +8933,7 @@
             "||zynga-poker-hack.net^",
             "||zynga-poker-hacks.com^",
             "||zyngapoker.hackfree.us^",
-            "||zyngapokerchips4free.com^"
-        ],
-        "to_test": [
-            "fastdone.info",
-            "fastfilesload.com",
-            "madgeniusreview.com",
-            "magazineofhacks.com",
-            "screenpictures.site",
-            "world-of-tanks-gold-hack.com",
-            "world-of-tanks-hack.com",
-            "worldcup2014streams.com",
-            "worldfilmdownloads.com",
+            "||zyngapokerchips4free.com^",
             "!"
         ]
     }
