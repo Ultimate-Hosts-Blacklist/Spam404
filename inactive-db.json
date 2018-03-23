@@ -448,7 +448,8 @@
             "csgocasino.su",
             "csgocolt.com",
             "csgocute.com",
-            "csgodolo.com"
+            "csgodolo.com",
+            "!"
         ],
         "to_test": [
             "fastdone.info",
@@ -8933,8 +8934,7 @@
             "||zynga-poker-hack.net^",
             "||zynga-poker-hacks.com^",
             "||zyngapoker.hackfree.us^",
-            "||zyngapokerchips4free.com^",
-            "!"
+            "||zyngapokerchips4free.com^"
         ]
     }
 }
