@@ -443,7 +443,8 @@
             "csgo2lucky.com",
             "csgoallbets.com",
             "csgoboom.net",
-            "csgobulls.com"
+            "csgobulls.com",
+            "!"
         ],
         "to_test": [
             "fastdone.info",
@@ -8934,8 +8935,7 @@
             "csgoskrill.com",
             "csgospare.com",
             "csgospice.com",
-            "csgosteamanalyst.eu.com",
-            "!"
+            "csgosteamanalyst.eu.com"
         ]
     }
 }
