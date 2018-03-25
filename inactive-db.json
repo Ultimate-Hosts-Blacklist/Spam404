@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1521894863": [
+        "1521981632": [
             "0daygameparadise.com",
             "100arcade.com",
             "100giveaways.com",
@@ -444,12 +444,12 @@
             "csgoallbets.com",
             "csgoboom.net",
             "csgobulls.com",
-            "!",
             "csgocasino-winning.su",
             "csgocolt.com",
             "csgocute.com",
             "csgodolo.com",
             "csgoelect.com",
+            "csgofast.trade",
             "csgofine.com",
             "csgofireboom.com",
             "csgofirewin.com",
@@ -461,6 +461,7 @@
             "csgofurious.net",
             "csgoguesswin.com",
             "csgohead.pro",
+            "csgohunt.trade",
             "csgoioung.com",
             "csgoiunge.com",
             "csgojack.net",
@@ -481,20 +482,7 @@
             "csgoplaytowin.com",
             "csgoravebet.com",
             "csgorealwin.com",
-            "csgorsv.com",
-            "csgoshakeit.com",
-            "csgoshuffle.co.uk",
-            "csgoshuffle.in",
-            "csgoshuffle.su",
-            "csgoskinsz.com",
-            "csgoskrill.com",
-            "csgospare.com",
-            "csgospice.com",
-            "csgosteamanalyst.eu.com",
-            "csgosxe.com",
-            "csgotopplay.com",
-            "csgoroll.trade",
-            "csgofast.trade"
+            "csgoroll.trade"
         ],
         "to_test": [
             "fastdone.info",
@@ -8936,7 +8924,20 @@
             "||zynga-poker-hack.net^",
             "||zynga-poker-hacks.com^",
             "||zyngapoker.hackfree.us^",
-            "||zyngapokerchips4free.com^"
+            "||zyngapokerchips4free.com^",
+            "csgorsv.com",
+            "csgoshakeit.com",
+            "csgoshuffle.co.uk",
+            "csgoshuffle.in",
+            "csgoshuffle.su",
+            "csgoskinsz.com",
+            "csgoskrill.com",
+            "csgospare.com",
+            "csgospice.com",
+            "csgosteamanalyst.eu.com",
+            "csgosxe.com",
+            "csgotopplay.com",
+            "!"
         ]
     }
 }
