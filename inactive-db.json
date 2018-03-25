@@ -482,7 +482,8 @@
             "csgoplaytowin.com",
             "csgoravebet.com",
             "csgorealwin.com",
-            "csgoroll.trade"
+            "csgoroll.trade",
+            "!"
         ],
         "to_test": [
             "fastdone.info",
@@ -8936,8 +8937,7 @@
             "csgospice.com",
             "csgosteamanalyst.eu.com",
             "csgosxe.com",
-            "csgotopplay.com",
-            "!"
+            "csgotopplay.com"
         ]
     }
 }
