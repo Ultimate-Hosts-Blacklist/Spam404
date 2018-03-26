@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1521981632": [
+        "1522068686": [
             "0daygameparadise.com",
             "100arcade.com",
             "100giveaways.com",
@@ -434,6 +434,7 @@
             "csgo-protected.ru",
             "csgo-quick.online",
             "csgo-secure.com",
+            "csgo-star.com",
             "csgo-sxe.net",
             "csgo-tournament.com",
             "csgo2casino.com",
@@ -478,20 +479,7 @@
             "csgoperry.com",
             "csgoplaytowin.com",
             "csgoravebet.com",
-            "csgorealwin.com",
-            "!",
-            "csgorsv.com",
-            "csgoshakeit.com",
-            "csgoshuffle.co.uk",
-            "csgoshuffle.in",
-            "csgoshuffle.su",
-            "csgoskinsz.com",
-            "csgoskrill.com",
-            "csgospare.com",
-            "csgospice.com",
-            "csgosteamanalyst.eu.com",
-            "csgo-star.com",
-            "clashofclansastuce.fr"
+            "csgorealwin.com"
         ],
         "to_test": [
             "fastdone.info",
@@ -8935,7 +8923,18 @@
             "||zyngapoker.hackfree.us^",
             "||zyngapokerchips4free.com^",
             "csgosxe.com",
-            "csgotopplay.com"
+            "csgotopplay.com",
+            "csgorsv.com",
+            "csgoshakeit.com",
+            "csgoshuffle.co.uk",
+            "csgoshuffle.in",
+            "csgoshuffle.su",
+            "csgoskinsz.com",
+            "csgoskrill.com",
+            "csgospare.com",
+            "csgospice.com",
+            "csgosteamanalyst.eu.com",
+            "!"
         ]
     }
 }
