@@ -1,18 +1,9 @@
 {
     "arguments": [
-        "--travis",
-        "-ad",
-        "-a",
-        "-ex",
-        "--plain",
-        "--split",
-        "-t 2",
-        "--share-logs"
+        "-ad"
     ],
-    "autosave_minutes": "10",
     "clean_list_file": "clean.list",
     "clean_original": "1",
-    "commit_autosave_message": "Testing for Ultimate Hosts Blacklist",
     "currently_under_test": "1",
     "days_until_next_test": "2",
     "last_test": "1522162982",
