@@ -458,9 +458,7 @@
             "csgofunspin.com",
             "csgofurious.net",
             "csgoguesswin.com",
-            "csgohead.pro"
-        ],
-        "to_test": [
+            "csgohead.pro",
             "csgoioung.com",
             "csgoiunge.com",
             "csgojack.net",
@@ -481,7 +479,6 @@
             "csgoplaytowin.com",
             "csgoravebet.com",
             "csgorealwin.com",
-            "csgoroll.trade",
             "csgorsv.com",
             "csgoshakeit.com",
             "csgoshuffle.co.uk",
@@ -494,7 +491,6 @@
             "csgosteamanalyst.eu.com",
             "csgosxe.com",
             "csgotopplay.com",
-            "csgotrade.co",
             "csgottr.com",
             "csgoturbobets.com",
             "csgovulcan.net",
@@ -852,7 +848,9 @@
             "filezworld.com",
             "filingfinding.com",
             "filinggood.com",
-            "filingok.com",
+            "filingok.com"
+        ],
+        "to_test": [
             "filingpal.com",
             "filingspace.com",
             "filminstan.pw",
