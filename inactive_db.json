@@ -429,9 +429,7 @@
             "csgo-betskins.pw",
             "csgo-boss.com",
             "csgo-capital.online",
-            "csgo-doit.com"
-        ],
-        "to_test": [
+            "csgo-doit.com",
             "csgo-inject.com",
             "csgo-injected.com",
             "csgo-protected.ru",
@@ -495,6 +493,7 @@
             "csgosteamanalyst.eu.com",
             "csgosxe.com",
             "csgotopplay.com",
+            "csgotrademax.com",
             "csgottr.com",
             "csgoturbobets.com",
             "csgovulcan.net",
@@ -846,7 +845,9 @@
             "fileuploadcash.com",
             "fileuploader.info",
             "fileuppe.com",
-            "filezfast.com",
+            "filezfast.com"
+        ],
+        "to_test": [
             "filezsharing.com",
             "filezuploading.com",
             "filezworld.com",
