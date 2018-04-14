@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1523449521": [
+        "1523707689": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -318,6 +318,7 @@
             "clash-of-clans-hacks.net",
             "clash4free.com",
             "clashhacktool.com",
+            "clashofclans-gen.com",
             "clashofclans.hackfbgames.com",
             "clashofclans.htlwlnk.com",
             "clashofclans.newzgames.com",
@@ -354,6 +355,7 @@
             "codadvancedwarfarehacks.net",
             "codbetakeys.us",
             "codcheats.net",
+            "code-free-wifi-gratuit.fr",
             "codeforpsn.com",
             "codegenerators.net",
             "codegratuit.net",
@@ -427,7 +429,9 @@
             "csgo-betskins.pw",
             "csgo-boss.com",
             "csgo-capital.online",
-            "csgo-doit.com",
+            "csgo-doit.com"
+        ],
+        "to_test": [
             "csgo-inject.com",
             "csgo-injected.com",
             "csgo-protected.ru",
@@ -2662,9 +2666,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
