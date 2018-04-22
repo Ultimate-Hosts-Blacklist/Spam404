@@ -2194,9 +2194,7 @@
             "screencapture.site",
             "screenclub.ru",
             "screenercloud.com",
-            "screenimage.online"
-        ],
-        "to_test": [
+            "screenimage.online",
             "screenjpeg.com",
             "screenpicture.tech",
             "screenpictures.site",
@@ -2219,7 +2217,6 @@
             "serveupload.com",
             "seventin17.com",
             "shadowfiend.info",
-            "shadyscamband.pw",
             "sharedez.com",
             "sharedownload.net",
             "sharefiled.com",
@@ -2628,7 +2625,9 @@
             "xboxlivefreegoldcodes.com",
             "xboxlivegoldcode.net",
             "xboxlivegoldgratuit.com",
-            "xboxlivegratuit.fr",
+            "xboxlivegratuit.fr"
+        ],
+        "to_test": [
             "xboxlivegratuitment.fr",
             "xboxlivepointscodes.com",
             "xboxnewcode.info",
