@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1524053801": [
+        "1524398957": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -350,7 +350,9 @@
             "clubpenguincheatsv.com",
             "clubpenguinmembershiphack.newzgames.com",
             "cnn-africa.co",
-            "cnn-breaking-news.info",
+            "cnn-breaking-news.info"
+        ],
+        "to_test": [
             "cod24.net",
             "codadvancedwarfarehacks.net",
             "codbetakeys.us",
@@ -2669,9 +2671,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
