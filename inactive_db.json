@@ -848,9 +848,7 @@
             "filesonnet.com",
             "filesrc.com",
             "filesservers.com",
-            "filetoday.net"
-        ],
-        "to_test": [
+            "filetoday.net",
             "fileuploadcash.com",
             "fileuploader.info",
             "fileuppe.com",
@@ -1044,6 +1042,7 @@
             "freeproductgiveaway.info",
             "freeprogramhack.com",
             "freepscodes.net",
+            "freepsn.net",
             "freepsnc.com",
             "freepsncodegen.org",
             "freepsncodegenerator.org",
@@ -1060,7 +1059,6 @@
             "freeriotpoints.me",
             "freeriotpointsgenerator.net",
             "freeriotpointsnow.net",
-            "freerobuxandtickets.in",
             "freerppoint.com",
             "freerunescapeaccounts.info",
             "freerunescapememberships.com",
@@ -1137,6 +1135,7 @@
             "gamehackarena.com",
             "gamehackfree.com",
             "gamehackfree.info",
+            "gamehacks1337.com",
             "gamehacks1337.eu",
             "gamehacks2014.com",
             "gamehacks4u.com",
@@ -1172,6 +1171,7 @@
             "gamesincrease.com",
             "gamesisle.net",
             "gamesoffersdirect.com",
+            "gamespothacks.com",
             "gamesprohacks.com",
             "gamesqeek.info",
             "gamessupersite.com",
@@ -1386,7 +1386,9 @@
             "hackgmx.com",
             "hackgta5online.org",
             "hackig.online",
-            "hackingclashofclans.com",
+            "hackingclashofclans.com"
+        ],
+        "to_test": [
             "hackingfbaccountpassword.com",
             "hackingfreak.com",
             "hackingnation.net",
