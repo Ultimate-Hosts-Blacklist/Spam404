@@ -902,9 +902,7 @@
             "free-android-hack.com",
             "free-apple-iphone.net",
             "free-clubpenguin.org",
-            "free-dominos.co.uk"
-        ],
-        "to_test": [
+            "free-dominos.co.uk",
             "free-gaiaonline.com",
             "free-hacks.info",
             "free-hacks1.com",
@@ -1173,7 +1171,6 @@
             "gamesincrease.com",
             "gamesisle.net",
             "gamesoffersdirect.com",
-            "gamespothacks.com",
             "gamesprohacks.com",
             "gamesqeek.info",
             "gamessupersite.com",
@@ -1356,7 +1353,9 @@
             "hackdofus.net",
             "hackdofuskamas.com",
             "hackdownload24.com",
-            "hackdownloadworld.com",
+            "hackdownloadworld.com"
+        ],
+        "to_test": [
             "hackearfacebook2013.com",
             "hackearfacebook2014.com",
             "hackearfb.org",
