@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1525004302": [
+        "1525349712": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -30,6 +30,7 @@
             "8jailbreak.net",
             "abonnement-xboxlive.fr",
             "abonnementxbox-live.fr",
+            "abonnementxboxlive.net",
             "abscbnetoph.biz",
             "accaount-secure-update.com",
             "actiongameshack.com",
@@ -135,6 +136,7 @@
             "azongift.com",
             "backupfilesserver.com",
             "bagusholidays.com",
+            "baseballheroes.haxdo.com",
             "baseofhacks.com",
             "battery-apps.com",
             "battery-booster-apps.com",
@@ -421,7 +423,9 @@
             "csdope.com",
             "csfastbets.com",
             "csgiveaways.com",
-            "csglobalcoin.online",
+            "csglobalcoin.online"
+        ],
+        "to_test": [
             "csgo--sxe.com",
             "csgo-amazing.com",
             "csgo-betskins.pw",
@@ -2678,9 +2682,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
