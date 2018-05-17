@@ -428,9 +428,7 @@
             "csgo-amazing.com",
             "csgo-betskins.pw",
             "csgo-boss.com",
-            "csgo-capital.online"
-        ],
-        "to_test": [
+            "csgo-capital.online",
             "csgo-doit.com",
             "csgo-inject.com",
             "csgo-injected.com",
@@ -498,6 +496,7 @@
             "csgoswapper.online",
             "csgosxe.com",
             "csgotopplay.com",
+            "csgotoptrader.pro",
             "csgotradearea.com",
             "csgotrademax.com",
             "csgottr.com",
@@ -705,6 +704,7 @@
             "exbeting.com",
             "exclusivenewhacks.com",
             "exforgames.net",
+            "exmovie.xyz",
             "exposedhacks.com",
             "express-gens.com",
             "expressupload.net",
@@ -729,7 +729,6 @@
             "facebookfbhack.com",
             "facebookgamehacks.net",
             "facebookhack.biz",
-            "facebookhack.pl",
             "facebookhackbase.com",
             "facebookhackbase.org",
             "facebookhacker2013.org",
@@ -836,7 +835,9 @@
             "filehuge.com",
             "fileishare.com",
             "fileleads.net",
-            "filelikes.com",
+            "filelikes.com"
+        ],
+        "to_test": [
             "filelinknow.com",
             "fileloadhub.com",
             "fileloadmax.com",
