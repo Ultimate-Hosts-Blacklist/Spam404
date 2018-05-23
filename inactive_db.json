@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1526819759": [
+        "1527078425": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -454,7 +454,9 @@
             "csgoelect.com",
             "csgofine.com",
             "csgofireboom.com",
-            "csgofirewin.com",
+            "csgofirewin.com"
+        ],
+        "to_test": [
             "csgofortunes.com",
             "csgofrozl.com",
             "csgofrozy.com",
@@ -2710,9 +2712,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
