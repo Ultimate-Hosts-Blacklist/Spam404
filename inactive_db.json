@@ -471,9 +471,7 @@
             "csgojackpot.be",
             "csgojackpot.co.uk",
             "csgojackpot.su",
-            "csgokeystrade.online"
-        ],
-        "to_test": [
+            "csgokeystrade.online",
             "csgoleep.com",
             "csgoletswin.com",
             "csgoletwin.com",
@@ -502,6 +500,7 @@
             "csgotopplay.com",
             "csgotoptrader.pro",
             "csgotradearea.com",
+            "csgotradefly.com",
             "csgotrademax.com",
             "csgottr.com",
             "csgoturbobets.com",
@@ -877,6 +876,7 @@
             "filingok.com",
             "filingpal.com",
             "filingspace.com",
+            "film-25.ru",
             "filmsfr.info",
             "filmsgratuit.net",
             "fimmovie.com",
@@ -984,7 +984,9 @@
             "freeelitegames.com",
             "freefbcredit.com",
             "freefbcredits.org",
-            "freefbcreditsonline.com",
+            "freefbcreditsonline.com"
+        ],
+        "to_test": [
             "freefifacoinandpoints.com",
             "freefileus.com",
             "freeflappybirdhacks.com",
