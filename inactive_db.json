@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1529845275": [
+        "1530103578": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -8,7 +8,6 @@
             "1hacks.com",
             "1minecraft8.ru",
             "2007botclient.com",
-            "2014gameshack.com",
             "2014hacks.com",
             "237482345sd.com",
             "24hoursgifts.com",
@@ -63,7 +62,6 @@
             "allgameshacksnew.com",
             "allgametrick.com",
             "allgethack.com",
-            "allhacksforgames.com",
             "allhacksfree.com",
             "allhackyouneed.com",
             "allhackz.net",
@@ -182,6 +180,7 @@
             "betabattefield4.com",
             "betaghosts.net",
             "betawildstarkey.com",
+            "betscsgoplay.com",
             "betterbatteryapps.com",
             "betterupload.net",
             "bfhredeemcodes.com",
@@ -332,11 +331,9 @@
             "clashofclanscheats.newzgames.com",
             "clashofclanscheatsx.com",
             "clashofclansforandroid.com",
-            "clashofclanshack.io",
             "clashofclanshack.newzgames.com",
             "clashofclanshack2014.net",
             "clashofclanshackcheats.com",
-            "clashofclanshacker.fr",
             "clashofclanshacknodownload.com",
             "clashofclanshacknosurvey.net",
             "clashofclanshackrz.com",
@@ -440,7 +437,9 @@
             "csgo-inject.com",
             "csgo-injected.com",
             "csgo-protected.ru",
-            "csgo-quick.online",
+            "csgo-quick.online"
+        ],
+        "to_test": [
             "csgo-secure.com",
             "csgo-star.com",
             "csgo-sxe.net",
@@ -2772,9 +2771,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
