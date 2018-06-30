@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1530103578": [
+        "1530362874": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -114,6 +114,7 @@
             "applicationshacks.eu",
             "appmyass.com",
             "apps-hacks.com",
+            "appscracker.com",
             "appsunlocker.com",
             "arboxyl.com",
             "arenadownload.org",
@@ -245,7 +246,6 @@
             "cardgen.co",
             "cardsfree.net",
             "cartepsn.fr",
-            "caseopening.store",
             "casgolounge.com",
             "cashfiles.org",
             "cashta.net",
@@ -447,7 +447,9 @@
             "csgo2lotto.com",
             "csgo2lucky.com",
             "csgoallbets.com",
-            "csgobest-trade.online",
+            "csgobest-trade.online"
+        ],
+        "to_test": [
             "csgoboom.net",
             "csgobulls.com",
             "csgocasino-winning.su",
@@ -2781,9 +2783,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
