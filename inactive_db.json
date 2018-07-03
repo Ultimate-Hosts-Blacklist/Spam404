@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1530362874": [
+        "1530622343": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -188,6 +188,7 @@
             "biggyupload.com",
             "bitcoinsgenerator.net",
             "bitdefenderlicense.com",
+            "bitfiles.net",
             "bitskins.cn.com",
             "black-files.com",
             "blackhacks24.com",
@@ -262,6 +263,7 @@
             "centrumhackers.com",
             "chatter-bate.com",
             "chaturbate-token-hack.com",
+            "chaturbatetokenhacks.com",
             "cheapestwowgold.us",
             "cheat-hacks-free-download.com",
             "cheat-topeleven.com",
@@ -420,6 +422,7 @@
             "crysis3keygen.org",
             "crzycheats.com",
             "cs-go.deals",
+            "cs-swap.pro",
             "cs6serial.net",
             "cs6serialcrack.com",
             "csbol.pro",
@@ -453,7 +456,9 @@
             "csgocasino-winning.su",
             "csgocolt.com",
             "csgocute.com",
-            "csgodolo.com",
+            "csgodolo.com"
+        ],
+        "to_test": [
             "csgoelect.com",
             "csgofine.com",
             "csgofireboom.com",
@@ -2785,9 +2790,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
