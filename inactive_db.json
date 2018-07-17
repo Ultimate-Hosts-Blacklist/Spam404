@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1531572904": [
+        "1531832198": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -114,7 +114,6 @@
             "applicationshacks.eu",
             "appmyass.com",
             "apps-hacks.com",
-            "appscracker.com",
             "appsunlocker.com",
             "arboxyl.com",
             "arenadownload.org",
@@ -208,7 +207,6 @@
             "bo2wallhack.com",
             "boombeach-cheat.com",
             "boombeachdiamant.org",
-            "boombeachhack.info",
             "boombeachhacktools.com",
             "boombeachunlimited.com",
             "boot-ini-missing.us",
@@ -423,6 +421,7 @@
             "crzycheats.com",
             "cs-go.deals",
             "cs-swap.pro",
+            "cs-trader.pro",
             "cs6serial.net",
             "cs6serialcrack.com",
             "csbol.pro",
@@ -448,7 +447,9 @@
             "csgo2casino.com",
             "csgo2happy.com",
             "csgo2lotto.com",
-            "csgo2lucky.com",
+            "csgo2lucky.com"
+        ],
+        "to_test": [
             "csgoallbets.com",
             "csgobest-trade.online",
             "csgoboom.net",
@@ -2798,9 +2799,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
