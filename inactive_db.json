@@ -1870,9 +1870,7 @@
             "mishacks.com",
             "missing-file.com",
             "mmogamecrack.com",
-            "mobile-watchdog.com"
-        ],
-        "to_test": [
+            "mobile-watchdog.com",
             "mobilestrikehacking.com",
             "modernhacks.net",
             "modifiedgames.net",
@@ -2344,7 +2342,9 @@
             "skidrowgames.us",
             "skincodesgiveaway.com",
             "skingang.com",
-            "skinsbeast.com",
+            "skinsbeast.com"
+        ],
+        "to_test": [
             "skinscastle.com",
             "skinsgang.com",
             "skintrad.es",
