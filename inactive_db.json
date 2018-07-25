@@ -856,9 +856,7 @@
             "filehuge.com",
             "fileishare.com",
             "fileleads.net",
-            "filelikes.com"
-        ],
-        "to_test": [
+            "filelikes.com",
             "filelinknow.com",
             "fileloadhub.com",
             "fileloadmax.com",
@@ -1321,6 +1319,7 @@
             "globalfiles.org",
             "globalhacks.net",
             "globalsaved.com",
+            "gmanetwork.info",
             "go4hack.com",
             "go4hacks.com",
             "gofreehack.com",
@@ -1356,10 +1355,13 @@
             "gta-5.co",
             "gta5-beta.net",
             "gta5-free-download.com",
+            "gta5-generator.com",
             "gta5-pc-download.com",
             "gta5cheat.org",
             "gta5cheatsmoney.net",
-            "gta5cheatsonline.net",
+            "gta5cheatsonline.net"
+        ],
+        "to_test": [
             "gta5fastmoney.net",
             "gta5freebeta.com",
             "gta5glitches.com",
