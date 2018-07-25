@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1532091701": [
+        "1532523524": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -295,12 +295,12 @@
             "cheatsflappybird.com",
             "cheatsforcallofduty.com",
             "cheatsforfacebookgames.com",
+            "cheatsfreedownload.eu",
             "cheatsimcity.com",
             "cheatsjunctionhq.com",
             "cheatsjungle.com",
             "cheatsnetwork.net",
             "cheatsplanet24.com",
-            "cheatstudio.com",
             "cheatswarface.com",
             "cheatsxhacks.com",
             "cheatszilla.com",
@@ -433,7 +433,9 @@
             "csgo--sxe.com",
             "csgo-amazing.com",
             "csgo-boss.com",
-            "csgo-capital.online",
+            "csgo-capital.online"
+        ],
+        "to_test": [
             "csgo-doit.com",
             "csgo-inject.com",
             "csgo-injected.com",
@@ -2795,9 +2797,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
