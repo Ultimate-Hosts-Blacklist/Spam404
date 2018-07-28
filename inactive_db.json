@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1532523524": [
+        "1532783390": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -106,7 +106,6 @@
             "apple-id-cziphone.top",
             "apple-service-systeam.com",
             "apple-visit-reply.com",
-            "applefreegifts.com",
             "applegiveaways.us",
             "appleid-china-apple.com",
             "appleld-ios9.com",
@@ -189,6 +188,7 @@
             "bitdefenderlicense.com",
             "bitfiles.net",
             "bitskins.cn.com",
+            "bitskins.com.ua",
             "black-files.com",
             "blackhacks24.com",
             "blackhatsky.com",
@@ -455,7 +455,9 @@
             "csgocolt.com",
             "csgocute.com",
             "csgodolo.com",
-            "csgoelect.com",
+            "csgoelect.com"
+        ],
+        "to_test": [
             "csgofine.com",
             "csgofireboom.com",
             "csgofirewin.com",
@@ -2797,9 +2799,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
