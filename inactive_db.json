@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1532783390": [
+        "1533128689": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -188,10 +188,10 @@
             "bitdefenderlicense.com",
             "bitfiles.net",
             "bitskins.cn.com",
-            "bitskins.com.ua",
             "black-files.com",
             "blackhacks24.com",
             "blackhatsky.com",
+            "blackhatsoft.net",
             "blackops.freehacks.pw",
             "blackops2.newzgames.com",
             "blackops2hack2013.com",
@@ -215,6 +215,7 @@
             "brave-frontier-hack.com",
             "brazzers-hack.com",
             "brazzersfreeaccount.net",
+            "brilliantfiles.com",
             "brillianthack.com",
             "browsergamescheats.net",
             "bthacks.us",
@@ -226,6 +227,7 @@
             "calhacks.org",
             "callofdutycheats.org",
             "callofdutyghosthack.com",
+            "callofdutyghosts.pw",
             "callofdutyghostsprestigehack.com",
             "callofdutygost.com",
             "callofdutyprestigehacks.com",
@@ -389,6 +391,8 @@
             "comptefacebookpirater.fr",
             "consolesupply.com",
             "coolmydl.com",
+            "cori.pw",
+            "couponshop.pw",
             "cpafornoob.com",
             "cpaoi.com",
             "crackaapp.com",
@@ -432,6 +436,7 @@
             "csglobaltrader.org",
             "csgo--sxe.com",
             "csgo-amazing.com",
+            "csgo-betskins.pw",
             "csgo-boss.com",
             "csgo-capital.online",
             "csgo-doit.com",
@@ -447,7 +452,9 @@
             "csgo2happy.com",
             "csgo2lotto.com",
             "csgo2lucky.com",
-            "csgoallbets.com",
+            "csgoallbets.com"
+        ],
+        "to_test": [
             "csgobest-trade.online",
             "csgoboom.net",
             "csgobulls.com",
@@ -2802,9 +2809,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
