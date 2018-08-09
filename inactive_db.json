@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "1533474436": [
+        "1533820152": [
             "100arcade.com",
             "100giveaways.com",
             "12gmedia.com",
@@ -12,6 +12,7 @@
             "237482345sd.com",
             "24hoursgifts.com",
             "24screen.net",
+            "24tradecs.net",
             "2shocking4you.com",
             "35hacks.com",
             "360emulator.com",
@@ -188,6 +189,7 @@
             "bitdefenderlicense.com",
             "bitfiles.net",
             "bitskins.cn.com",
+            "bitskins.com.ua",
             "black-files.com",
             "blackhacks24.com",
             "blackhatsky.com",
@@ -247,6 +249,7 @@
             "cardgen.co",
             "cardsfree.net",
             "cartepsn.fr",
+            "caseopening.store",
             "casgolounge.com",
             "cashfiles.org",
             "cashta.net",
@@ -307,6 +310,7 @@
             "cheatswarface.com",
             "cheatsxhacks.com",
             "cheatszilla.com",
+            "checkcsgo.com",
             "checkinonlinehere.com",
             "chefvillehacks.info",
             "christmasvoucher.net",
@@ -383,6 +387,7 @@
             "com-mysterygifts.com",
             "comment-pirater-un-compte-facebook-gratuitement.com",
             "commentpiraterfacebook.fr",
+            "commentpiraterfacebook.org",
             "commentpirateruncomptefacebook.org",
             "commentpiraterunfb.com",
             "commenttricher.com",
@@ -459,7 +464,9 @@
             "csgobulls.com",
             "csgocasino-winning.su",
             "csgocolt.com",
-            "csgocute.com",
+            "csgocute.com"
+        ],
+        "to_test": [
             "csgodolo.com",
             "csgoelect.com",
             "csgofine.com",
@@ -2831,9 +2838,7 @@
             "zumedianetwork.com",
             "zynga-poker-hack.net",
             "zynga-poker-hacks.com",
-            "zyngapokerchips4free.com"
-        ],
-        "to_test": [
+            "zyngapokerchips4free.com",
             "0daygameparadise.com"
         ]
     }
