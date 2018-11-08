@@ -10626,8 +10626,8 @@
             "state": "future"
         },
         "mdownzone.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "media-fire.org": {
@@ -10638,11 +10638,11 @@
         "mediafire.vc": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mediafirefiles.net": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "mediafiregames.net": {
@@ -14140,6 +14140,11 @@
             "expiration_date": "29-jan-2019",
             "state": "future"
         },
+        "source-hack.com": {
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
         "space-skins.com": {
             "epoch": "1572652800",
             "expiration_date": "02-nov-2019",
@@ -14158,6 +14163,11 @@
         "spacemega.com": {
             "epoch": "1558051200",
             "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "spacex.plus": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
             "state": "future"
         },
         "spam-egy.com": {
@@ -14293,7 +14303,7 @@
         "steam-coin.us": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "steam-free-games.com": {
             "epoch": "1576713600",
