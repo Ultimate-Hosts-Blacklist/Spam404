@@ -4946,9 +4946,9 @@
             "state": "future"
         },
         "fbprofileviewer.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "fbsniffing.com": {
             "epoch": "1561939200",
@@ -9191,8 +9191,8 @@
             "state": "future"
         },
         "hostujmy.pl": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "hot-hacks.com": {
@@ -9201,8 +9201,8 @@
             "state": "future"
         },
         "hot-releases.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "hotdbase.com": {
