@@ -3411,8 +3411,8 @@
             "state": "future"
         },
         "csgostix.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "csgoszone.net": {
@@ -3453,7 +3453,7 @@
         "csgotradegear.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "csgotunes.com": {
             "epoch": "1547164800",
@@ -3691,8 +3691,8 @@
             "state": "future"
         },
         "defaulthacks.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "defcon.pro": {
@@ -3786,8 +3786,8 @@
             "state": "future"
         },
         "digitalgamecheats.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "dinxteam.com": {
@@ -4366,9 +4366,9 @@
             "state": "future"
         },
         "easygamingtools.com": {
-            "epoch": "1534377600",
-            "expiration_date": "16-aug-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "easypotz.com": {
             "epoch": "1571875200",
