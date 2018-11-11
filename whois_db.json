@@ -11293,7 +11293,7 @@
         "mypcgamesdownload.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mypsncodes.com": {
             "epoch": "1542672000",
@@ -11873,7 +11873,7 @@
         "pcdownstation.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pcfullgamesfree.com": {
             "epoch": "1559433600",
@@ -11908,7 +11908,7 @@
         "pctelechargerjeux.net": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pdfebook.us": {
             "epoch": "1547424000",
@@ -12356,9 +12356,9 @@
             "state": "future"
         },
         "prohacktools.com": {
-            "epoch": "1534809600",
-            "expiration_date": "21-aug-2018",
-            "state": "past"
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
         },
         "promediasearch.com": {
             "epoch": "1564444800",
@@ -12701,9 +12701,9 @@
             "state": "future"
         },
         "rarecheats.com": {
-            "epoch": "1534377600",
-            "expiration_date": "16-aug-2018",
-            "state": "past"
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
         },
         "rarekeygencentral.com": {
             "epoch": "1549324800",
@@ -12758,7 +12758,7 @@
         "reapercase.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "recovercode.com": {
             "epoch": "1560902400",
@@ -13181,8 +13181,8 @@
             "state": "future"
         },
         "securefile.info": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "securefileupload.com": {
@@ -13453,7 +13453,7 @@
         "silverupload.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "simpledownloadz.com": {
             "epoch": "1543276800",
@@ -13643,6 +13643,11 @@
         "skinsbit.com": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "skinsbits.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
             "state": "future"
         },
         "skinsblur.com": {
@@ -14246,14 +14251,14 @@
             "state": "future"
         },
         "starstablehack.net": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "start-bets.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "startgifts.com": {
             "epoch": "1555027200",
