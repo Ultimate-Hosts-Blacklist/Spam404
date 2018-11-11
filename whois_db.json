@@ -15771,8 +15771,8 @@
             "state": "future"
         },
         "watchingmovie21.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "watchitallnow.com": {
@@ -15793,6 +15793,11 @@
         "watchmuvee.info": {
             "epoch": "1563926400",
             "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "watchrugbystream.com": {
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "watchthesenow.com": {
