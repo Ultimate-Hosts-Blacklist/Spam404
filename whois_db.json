@@ -9680,6 +9680,11 @@
             "expiration_date": "01-oct-2019",
             "state": "future"
         },
+        "iosgameshack.net": {
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
         "iosgameshacks.com": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
@@ -9746,8 +9751,8 @@
             "state": "future"
         },
         "itunecodegenerator.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "itunesboss.com": {
