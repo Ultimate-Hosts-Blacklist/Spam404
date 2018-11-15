@@ -726,13 +726,13 @@
             "state": "future"
         },
         "asphalt8airbornehack.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "asphalt8hack.com": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "astrocash.org": {
@@ -1196,8 +1196,8 @@
             "state": "future"
         },
         "boardsky.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "boltfiles.com": {
@@ -1543,7 +1543,7 @@
         "casespolygon.net": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "casespolygon.pro": {
             "epoch": "1543449600",
@@ -1656,9 +1656,9 @@
             "state": "future"
         },
         "chackscheats.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "chaoshackss.com": {
             "epoch": "1545868800",
@@ -2236,8 +2236,8 @@
             "state": "future"
         },
         "clashofclanshacksonline.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "clashofclanshacktriche.com": {
@@ -3036,9 +3036,9 @@
             "state": "future"
         },
         "csgofastrade.com": {
-            "epoch": "1535414400",
-            "expiration_date": "28-aug-2018",
-            "state": "past"
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "csgofenix.net": {
             "epoch": "1551398400",
@@ -3113,7 +3113,7 @@
         "csgohits.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "csgohop.com": {
             "epoch": "1548028800",
@@ -3451,9 +3451,9 @@
             "state": "future"
         },
         "csgotradegear.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "csgotunes.com": {
             "epoch": "1547164800",
