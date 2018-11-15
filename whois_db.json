@@ -12761,9 +12761,9 @@
             "state": "future"
         },
         "reapercase.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "recovercode.com": {
             "epoch": "1560902400",
@@ -12803,7 +12803,7 @@
         "regalhacks.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "releasehacks.com": {
             "epoch": "1534636800",
@@ -13166,9 +13166,9 @@
             "state": "future"
         },
         "secrethotgames.com": {
-            "epoch": "1535587200",
-            "expiration_date": "30-aug-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "secretosarevelar.com": {
             "epoch": "1550707200",
@@ -13308,7 +13308,7 @@
         "sharefileland.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sharefileworld.com": {
             "epoch": "1564704000",
@@ -13456,9 +13456,9 @@
             "state": "future"
         },
         "silverupload.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "simpledownloadz.com": {
             "epoch": "1543276800",
@@ -13940,6 +13940,11 @@
             "expiration_date": "26-jul-2019",
             "state": "future"
         },
+        "smartupload.org": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
         "smashingsports.co": {
             "epoch": "1542844800",
             "expiration_date": "22-nov-2018",
@@ -14261,9 +14266,9 @@
             "state": "future"
         },
         "start-bets.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "startgifts.com": {
             "epoch": "1555027200",
@@ -14283,7 +14288,7 @@
         "statuscheck.biz": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "steaccommunity.com": {
             "epoch": "1545350400",
@@ -14380,6 +14385,11 @@
             "expiration_date": "19-mar-2019",
             "state": "future"
         },
+        "steambonus.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
         "steamcammunitu.com": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
@@ -14463,6 +14473,11 @@
         "steamgift.org": {
             "epoch": "1566172800",
             "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "steamgiftbonus.com": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
             "state": "future"
         },
         "steamgiftcode.com": {
@@ -14976,9 +14991,9 @@
             "state": "future"
         },
         "toolbotx.com": {
-            "epoch": "1534982400",
-            "expiration_date": "23-aug-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "toolcheat.com": {
             "epoch": "1563926400",
@@ -15011,9 +15026,9 @@
             "state": "future"
         },
         "topelevenhackz.com": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "topfbcheats.com": {
             "epoch": "1556928000",
@@ -15788,11 +15803,11 @@
         "watchmovieonlinestreaming.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "watchmoviestream.in": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "watchmuvee.info": {
