@@ -4113,7 +4113,7 @@
         "downloadhack.net": {
             "epoch": "1542844800",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "downloadhackcheat.com": {
             "epoch": "1561334400",
@@ -4453,7 +4453,7 @@
         "elite-cheats.net": {
             "epoch": "1542844800",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "elitecases-cs.com": {
             "epoch": "1547164800",
@@ -4671,8 +4671,73 @@
             "state": "future"
         },
         "eulfa.com": {
-            "epoch": "1534896000",
-            "expiration_date": "22-aug-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "evad3rs.me": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "evasi0n-download.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "evasi0njb.net": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "evasion-jailbreak.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "evasion-jailbreak7.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "evasionjailbreak.net": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "everyday-fun.us": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "evil-hack.ru": {
+            "epoch": "1569369600",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "evohack.com": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "examplecase.org": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "excellenthacks.com": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "excellentmovies.net": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "exgrafix.com": {
+            "epoch": "1537488000",
+            "expiration_date": "21-sep-2018",
             "state": "past"
         },
         "face-geek.com": {
