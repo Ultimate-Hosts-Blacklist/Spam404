@@ -11360,6 +11360,11 @@
             "expiration_date": "06-aug-2019",
             "state": "future"
         },
+        "myetherzero.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
         "myfiletop.com": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
@@ -11411,8 +11416,8 @@
             "state": "future"
         },
         "mypsncodes.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "myreff.com": {
@@ -12306,8 +12311,8 @@
             "state": "future"
         },
         "portalhacks.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "powerfulcheats.com": {
@@ -12366,13 +12371,18 @@
             "state": "future"
         },
         "premiumaccountgenerator.com": {
-            "epoch": "1535760000",
-            "expiration_date": "01-sep-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "premiumaccountsgenerator.com": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "premiumbills.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
             "state": "future"
         },
         "premiumcrack.com": {
@@ -12461,8 +12471,8 @@
             "state": "future"
         },
         "productsrev.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "profbhack.com": {
