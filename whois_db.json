@@ -206,9 +206,9 @@
             "state": "future"
         },
         "abscbn-news-online.info": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
-            "state": "past"
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
         },
         "accountemporium.com": {
             "epoch": "1574640000",
@@ -763,7 +763,7 @@
         "attractivevideos.com": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "autolikefb.net": {
             "epoch": "1552867200",
@@ -1136,9 +1136,9 @@
             "state": "future"
         },
         "bksfr.com": {
-            "epoch": "1536624000",
-            "expiration_date": "11-sep-2018",
-            "state": "past"
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
         },
         "blackgameworld.com": {
             "epoch": "1689897600",
@@ -1583,7 +1583,7 @@
         "casespolygon.pro": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "casezdrop.com": {
             "epoch": "1547856000",
@@ -2196,8 +2196,8 @@
             "state": "future"
         },
         "clashofclansgemmesillimite.com": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "clashofclansgems.biz": {
@@ -3323,7 +3323,7 @@
         "csgomonstercase.com": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "csgoneo.top": {
             "epoch": "1548806400",
@@ -4755,6 +4755,11 @@
             "expiration_date": "22-oct-2019",
             "state": "future"
         },
+        "ex-sites.net": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
         "examplecase.org": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
@@ -4775,6 +4780,81 @@
             "expiration_date": "21-sep-2018",
             "state": "past"
         },
+        "expressgrab.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "extafiles.com": {
+            "epoch": "1553731200",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "extend-battery-life.com": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "extengames.com": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "extensiongames.com": {
+            "epoch": "1554422400",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "extofiles.com": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "extragamebox.com": {
+            "epoch": "1543449600",
+            "expiration_date": "29-nov-2018",
+            "state": "past"
+        },
+        "extrasdownload.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "ezcase.net": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "ezeedl.com": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "ezgameonline.com": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "ezgamesworld.com": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "ezzdrop.com": {
+            "epoch": "1539820800",
+            "expiration_date": "18-oct-2018",
+            "state": "past"
+        },
+        "f19.mobi": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "faboshine.com": {
+            "epoch": "1552608000",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
         "face-geek.com": {
             "epoch": "1639785600",
             "expiration_date": "18-dec-2021",
@@ -4783,6 +4863,36 @@
         "face-woot.com": {
             "epoch": "1595289600",
             "expiration_date": "21-jul-2020",
+            "state": "future"
+        },
+        "facebook-hacks.com": {
+            "epoch": "1548547200",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "facebookaccounthack.com": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "facebookgamecheat.org": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "facebookgamehacks.com": {
+            "epoch": "1539302400",
+            "expiration_date": "12-oct-2018",
+            "state": "past"
+        },
+        "facebookgameshacks.com": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "facebookhack.pl": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
             "state": "future"
         },
         "facebookpasswordhackonline.com": {
@@ -4951,8 +5061,8 @@
             "state": "future"
         },
         "fbaccountrecoverer.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "fbcheaterz.com": {
@@ -4971,8 +5081,8 @@
             "state": "future"
         },
         "fbcommentpirateruncompte.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "fbcreditsfree.com": {
