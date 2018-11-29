@@ -14098,7 +14098,7 @@
         "skinsmath.com": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "skinsnature.com": {
             "epoch": "1550016000",
@@ -16395,6 +16395,11 @@
             "expiration_date": "28-jun-2019",
             "state": "future"
         },
+        "worldofcracks.com": {
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
         "worldofgenerators.com": {
             "epoch": "1569283200",
             "expiration_date": "24-sep-2019",
@@ -16611,8 +16616,8 @@
             "state": "future"
         },
         "xn--c-irm.money": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "xn--cgo500-iz7b.com": {
@@ -16796,8 +16801,8 @@
             "state": "future"
         },
         "yourgamehack.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "yourgamesdownloads.com": {
