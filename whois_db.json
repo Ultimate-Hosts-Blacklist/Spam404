@@ -14883,7 +14883,7 @@
         "stickrunhack.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "stnitro.com": {
             "epoch": "1574640000",
@@ -15173,6 +15173,11 @@
         "thedailyreward.com": {
             "epoch": "1567123200",
             "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "thedataworld.com": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "thefreeiphoneunlock.com": {
@@ -16256,8 +16261,8 @@
             "state": "future"
         },
         "whatsappit.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "whatsappmy.com": {
@@ -16698,6 +16703,11 @@
         "yotefiles.com": {
             "epoch": "1544313600",
             "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "you-trader.com": {
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "youdownloadreadynow.com": {
