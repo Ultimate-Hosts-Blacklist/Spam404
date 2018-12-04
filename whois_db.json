@@ -2890,6 +2890,11 @@
             "expiration_date": "17-nov-2019",
             "state": "future"
         },
+        "csgo-tournament.com": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
         "csgo.run": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
@@ -3441,8 +3446,8 @@
             "state": "future"
         },
         "csgoshow.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "csgosign.net": {
@@ -3830,6 +3835,11 @@
             "expiration_date": "09-may-2019",
             "state": "future"
         },
+        "dfile.su": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
         "diamondores.com": {
             "epoch": "1564099200",
             "expiration_date": "26-jul-2019",
@@ -3916,8 +3926,8 @@
             "state": "future"
         },
         "dlhaven.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "dlmyapp.net": {
@@ -4368,6 +4378,11 @@
         "droidacid.com": {
             "epoch": "1564185600",
             "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "dropbbase.com": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
             "state": "future"
         },
         "dropskinz.net": {
