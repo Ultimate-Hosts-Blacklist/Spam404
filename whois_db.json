@@ -10975,6 +10975,11 @@
             "expiration_date": "06-dec-2018",
             "state": "future"
         },
+        "mediafile2518setup.tools": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
         "mediafire.vc": {
             "epoch": "1573171200",
             "expiration_date": "08-nov-2019",
@@ -11216,9 +11221,9 @@
             "state": "future"
         },
         "mixedhacks.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "mixmovie.biz": {
             "epoch": "1543276800",
@@ -14936,9 +14941,9 @@
             "state": "future"
         },
         "stickrunhack.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "stnitro.com": {
             "epoch": "1574640000",
@@ -15133,7 +15138,7 @@
         "telechargement-fr.us": {
             "epoch": "1543795200",
             "expiration_date": "03-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "telechargementspremium.com": {
             "epoch": "1583107200",
@@ -15391,8 +15396,8 @@
             "state": "future"
         },
         "tools4hack.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "top-eleven-hack.com": {
