@@ -13155,6 +13155,11 @@
             "expiration_date": "02-jun-2019",
             "state": "future"
         },
+        "redcrossworld.com": {
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
         "redeemcode.org": {
             "epoch": "1573948800",
             "expiration_date": "17-nov-2019",
@@ -13511,9 +13516,9 @@
             "state": "future"
         },
         "screensflare.com": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
-            "state": "past"
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
         },
         "scrillcase.com": {
             "epoch": "1547683200",
@@ -13696,8 +13701,8 @@
             "state": "future"
         },
         "sharehare.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "shareonlinefile.com": {
@@ -14201,9 +14206,9 @@
             "state": "future"
         },
         "skinsregal.com": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
-            "state": "past"
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
         },
         "skinsrevenge.com": {
             "epoch": "1550534400",
@@ -14616,8 +14621,8 @@
             "state": "future"
         },
         "spotifypremiumaccounts.info": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "stackpoints.com": {
@@ -14688,7 +14693,7 @@
         "steacommunlity.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "steacommuntly.com": {
             "epoch": "1545955200",
@@ -15023,11 +15028,16 @@
         "subway-surfers-cheats.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "sufiles.com": {
             "epoch": "1568160000",
             "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "summoners-war-hack.com": {
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "super-cheats.com": {
@@ -15261,9 +15271,9 @@
             "state": "future"
         },
         "thegamehack.com": {
-            "epoch": "1536969600",
-            "expiration_date": "15-sep-2018",
-            "state": "past"
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
         },
         "thehackonline.com": {
             "epoch": "1570233600",
@@ -15476,8 +15486,8 @@
             "state": "future"
         },
         "topmovies4free.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "topshopvidz.com": {
@@ -15570,6 +15580,11 @@
             "expiration_date": "04-sep-2019",
             "state": "future"
         },
+        "trickempire.com": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
         "trippinger.com": {
             "epoch": "1560902400",
             "expiration_date": "19-jun-2019",
@@ -15586,8 +15601,8 @@
             "state": "future"
         },
         "trucoslibre.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "true-hacks.com": {
@@ -15781,8 +15796,8 @@
             "state": "future"
         },
         "universalhack.net": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "universehacks.com": {
@@ -15911,8 +15926,8 @@
             "state": "future"
         },
         "uploaduj.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "uploadwire.com": {
@@ -16013,6 +16028,11 @@
         "vbucksepic.com": {
             "epoch": "1560729600",
             "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "vbucksmillionaire.com": {
+            "epoch": "1557705600",
+            "expiration_date": "13-may-2019",
             "state": "future"
         },
         "vederefilm.net": {
@@ -16161,8 +16181,8 @@
             "state": "future"
         },
         "vvassup.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "walemedia.com": {
@@ -16496,8 +16516,8 @@
             "state": "future"
         },
         "worldtrendingvideos.info": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "worldwidehacking.com": {
@@ -16521,8 +16541,8 @@
             "state": "future"
         },
         "wtfvid.net": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "wuplead.com": {
