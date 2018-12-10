@@ -3983,7 +3983,7 @@
         "dolcedrop.com": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dollarade.com": {
             "epoch": "1558224000",
@@ -4223,7 +4223,7 @@
         "downloadnow.us": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "downloadnt.com": {
             "epoch": "1561852800",
@@ -4606,8 +4606,8 @@
             "state": "future"
         },
         "energy-loot.com": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "enjoyfile.com": {
@@ -4616,9 +4616,9 @@
             "state": "future"
         },
         "enooc.com": {
-            "epoch": "1537488000",
-            "expiration_date": "21-sep-2018",
-            "state": "past"
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
         },
         "enterainmentbuzz.com": {
             "epoch": "1554163200",
@@ -4663,6 +4663,11 @@
         "epiccodes.com": {
             "epoch": "1578787200",
             "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
+        "epicgamehacks.com": {
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "epichackz.com": {
