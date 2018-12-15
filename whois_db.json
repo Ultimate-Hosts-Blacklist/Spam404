@@ -4846,8 +4846,8 @@
             "state": "future"
         },
         "extengames.com": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "extensiongames.com": {
@@ -4861,9 +4861,9 @@
             "state": "future"
         },
         "extragamebox.com": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
-            "state": "past"
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
         },
         "extrasdownload.com": {
             "epoch": "1547078400",
@@ -4888,6 +4888,11 @@
         "ezgamesworld.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "ezskins.trade": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
             "state": "future"
         },
         "ezzdrop.com": {
@@ -5071,8 +5076,8 @@
             "state": "future"
         },
         "fatetrade.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "fazebet.com": {
@@ -5891,8 +5896,8 @@
             "state": "future"
         },
         "folderurl.com": {
-            "epoch": "1544745600",
-            "expiration_date": "14-dec-2018",
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
             "state": "future"
         },
         "followhack.com": {
@@ -5988,7 +5993,7 @@
         "free-amazoncodes.com": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "free-clubpenguin.com": {
             "epoch": "1573084800",
