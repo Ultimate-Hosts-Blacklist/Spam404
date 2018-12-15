@@ -12763,7 +12763,7 @@
         "primemoney.us": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "printscrreens.info": {
             "epoch": "1562457600",
@@ -13801,8 +13801,8 @@
             "state": "future"
         },
         "sharkcase.net": {
-            "epoch": "1544745600",
-            "expiration_date": "14-dec-2018",
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
             "state": "future"
         },
         "sharkreviews.com": {
@@ -14111,9 +14111,9 @@
             "state": "future"
         },
         "skinsbrain.com": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
-            "state": "past"
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
         },
         "skinsbrave.com": {
             "epoch": "1552953600",
@@ -14973,7 +14973,7 @@
         "steamunibets.com": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "steamwalletadder.com": {
             "epoch": "1564185600",
