@@ -4061,8 +4061,8 @@
             "state": "future"
         },
         "dota2lut.com": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
             "state": "future"
         },
         "dota2money.ru": {
@@ -4730,6 +4730,11 @@
             "expiration_date": "16-mar-2019",
             "state": "future"
         },
+        "esl-play.com": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
         "eslcase.com": {
             "epoch": "1550188800",
             "expiration_date": "15-feb-2019",
@@ -4756,8 +4761,8 @@
             "state": "future"
         },
         "eucsgo.com": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "eulfa.com": {
