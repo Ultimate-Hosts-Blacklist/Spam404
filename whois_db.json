@@ -186,8 +186,8 @@
             "state": "future"
         },
         "8cheat.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "99cheats.com": {
@@ -1078,7 +1078,7 @@
         "bets-fortune.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "bf3h.com": {
             "epoch": "1572220800",
@@ -2056,8 +2056,8 @@
             "state": "future"
         },
         "checkskins.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "cheersfile.net": {
@@ -3003,7 +3003,7 @@
         "csgobuster.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "csgocake.com": {
             "epoch": "1551657600",
@@ -3331,8 +3331,8 @@
             "state": "future"
         },
         "csgomagnat.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "csgomagnatcase.com": {
