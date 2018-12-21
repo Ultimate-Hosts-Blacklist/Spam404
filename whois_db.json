@@ -11945,6 +11945,11 @@
             "expiration_date": "26-mar-2019",
             "state": "future"
         },
+        "noirpirater.com": {
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
         "nosurveyhack.net": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
@@ -12856,8 +12861,8 @@
             "state": "future"
         },
         "ps4emulator.org": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "ps4emus.com": {
@@ -14261,8 +14266,8 @@
             "state": "future"
         },
         "skinspolygon.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "skinspositive.com": {
@@ -14331,9 +14336,9 @@
             "state": "future"
         },
         "skinstrue.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "skinstwice.com": {
             "epoch": "1552003200",
@@ -14671,9 +14676,9 @@
             "state": "past"
         },
         "special-promo.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "specialgifts4me.com": {
             "epoch": "1570752000",
@@ -14761,8 +14766,8 @@
             "state": "future"
         },
         "steaccommunity.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "steacommnuiity.com": {
@@ -14783,7 +14788,7 @@
         "steacommurity.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "steam-cards.com": {
             "epoch": "1557100800",
