@@ -3758,7 +3758,7 @@
         "darknesscsgo.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "databass.info": {
             "epoch": "1568246400",
@@ -4058,7 +4058,7 @@
         "dota2eta.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dota2lut.com": {
             "epoch": "1576540800",
@@ -4496,8 +4496,8 @@
             "state": "future"
         },
         "ebookstorm.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "ecurrency4all.com": {
@@ -4666,8 +4666,8 @@
             "state": "future"
         },
         "epic-skins.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "epiccheats.com": {
@@ -4836,9 +4836,9 @@
             "state": "future"
         },
         "exgrafix.com": {
-            "epoch": "1537488000",
-            "expiration_date": "21-sep-2018",
-            "state": "past"
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
         },
         "expressgrab.com": {
             "epoch": "1550188800",
