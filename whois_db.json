@@ -13021,8 +13021,8 @@
             "state": "future"
         },
         "pspgamesfd.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "psvitaapps.com": {
@@ -13121,8 +13121,8 @@
             "state": "future"
         },
         "qualitygamehacks.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "quantumfiles.com": {
@@ -13253,6 +13253,11 @@
         "razor1991games.org": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "realcelebrityphonenumber.com": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
             "state": "future"
         },
         "reapercase.com": {
@@ -13548,7 +13553,7 @@
         "rprewards.com": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "rubickgames.com": {
             "epoch": "1561593600",
@@ -14198,7 +14203,7 @@
         "skinschecker.com": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "skinscores.com": {
             "epoch": "1547942400",
