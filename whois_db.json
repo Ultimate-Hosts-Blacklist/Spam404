@@ -16266,8 +16266,8 @@
             "state": "future"
         },
         "viralvids.info": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "virtual-hack.fr": {
@@ -16603,7 +16603,7 @@
         "workingkeys.com": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "world-hack.com": {
             "epoch": "1548115200",
