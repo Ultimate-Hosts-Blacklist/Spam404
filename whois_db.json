@@ -246,8 +246,8 @@
             "state": "future"
         },
         "adbon.us": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "addcocgems.com": {
@@ -591,8 +591,8 @@
             "state": "future"
         },
         "apkcake.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "apkdeposit.com": {
@@ -876,8 +876,8 @@
             "state": "future"
         },
         "battlefield4-cdkey.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "baxcase.com": {
@@ -1223,6 +1223,11 @@
         "bloglock.net": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "blogsopt.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
             "state": "future"
         },
         "bo2-hack.com": {
@@ -1771,8 +1776,8 @@
             "state": "future"
         },
         "cheatengineer.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "cheatfbgames.com": {
@@ -2246,8 +2251,8 @@
             "state": "future"
         },
         "clashofclanshack.fr": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "clashofclanshack.io": {
@@ -2523,7 +2528,7 @@
         "codespsngratuit.fr": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "codesxblfree.com": {
             "epoch": "1579910400",
@@ -2711,9 +2716,9 @@
             "state": "future"
         },
         "crackedscripts.com": {
-            "epoch": "1534032000",
-            "expiration_date": "12-aug-2018",
-            "state": "past"
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
         },
         "crackedzone.org": {
             "epoch": "1562803200",
@@ -2946,8 +2951,8 @@
             "state": "future"
         },
         "csgoaimbot.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "csgoalley.com": {
@@ -3143,6 +3148,11 @@
         "csgofenix.net": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "csgofine.com": {
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "csgoflaming.com": {
