@@ -2918,7 +2918,7 @@
         "csgo-stars.top": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgo-sweetwin.com": {
             "epoch": "1573948800",
@@ -3541,8 +3541,8 @@
             "state": "future"
         },
         "csgotaunt.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "csgotrade.co": {
