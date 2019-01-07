@@ -12848,7 +12848,7 @@
         "pricecsgo.net": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "primecodes.net": {
             "epoch": "1552348800",
@@ -13248,7 +13248,7 @@
         "rarshare.com": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "rasahack.com": {
             "epoch": "1558742400",
@@ -13356,8 +13356,8 @@
             "state": "past"
         },
         "reliablecheats.com": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "reliabledownloads.org": {
@@ -13496,8 +13496,8 @@
             "state": "future"
         },
         "robucs.com": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "robux-hacks.com": {
@@ -13725,6 +13725,11 @@
             "expiration_date": "26-sep-2018",
             "state": "past"
         },
+        "secure-runescape.co": {
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
         "secure-runescape.com": {
             "epoch": "1554595200",
             "expiration_date": "07-apr-2019",
@@ -13831,8 +13836,8 @@
             "state": "future"
         },
         "sharecash.org": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "sharechronic.com": {
@@ -14076,8 +14081,8 @@
             "state": "future"
         },
         "skinanalysts.com": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "skinfloat.com": {
@@ -14831,8 +14836,8 @@
             "state": "future"
         },
         "starts-bets.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "statuscheck.biz": {
@@ -14888,7 +14893,7 @@
         "steam-gift-code.com": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "steam-halloween.com": {
             "epoch": "1573776000",
@@ -15468,6 +15473,11 @@
         "thequiltmakersshoppe.com": {
             "epoch": "1559865600",
             "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "thesecureoffer.com": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
             "state": "future"
         },
         "thesnaphack.net": {
