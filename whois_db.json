@@ -833,7 +833,7 @@
         "badahub.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "baltihen.com": {
             "epoch": "1569456000",
@@ -5185,6 +5185,11 @@
             "expiration_date": "11-oct-2019",
             "state": "future"
         },
+        "fbgames-cheats.com": {
+            "epoch": "1578355200",
+            "expiration_date": "07-jan-2020",
+            "state": "future"
+        },
         "fbgamescheats.net": {
             "epoch": "1560124800",
             "expiration_date": "10-jun-2019",
@@ -5238,7 +5243,7 @@
         "fbhacktool.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "fbhackz.com": {
             "epoch": "1578009600",
@@ -5553,12 +5558,12 @@
         "files.cat": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "files.ly": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "files59.com": {
             "epoch": "1554768000",
