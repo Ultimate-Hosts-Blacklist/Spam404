@@ -5106,8 +5106,8 @@
             "state": "future"
         },
         "fastrade.net": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "fastskins4you.com": {
@@ -5251,9 +5251,9 @@
             "state": "future"
         },
         "fbhacktool.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
-            "state": "past"
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
         },
         "fbhackz.com": {
             "epoch": "1578009600",
@@ -5360,6 +5360,11 @@
             "expiration_date": "01-oct-2019",
             "state": "future"
         },
+        "fifa19tricks.com": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
         "fifapoints.net": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
@@ -5450,6 +5455,11 @@
             "expiration_date": "09-feb-2019",
             "state": "future"
         },
+        "filedlink.com": {
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
         "filedtransfer.com": {
             "epoch": "1561075200",
             "expiration_date": "21-jun-2019",
@@ -5526,13 +5536,13 @@
             "state": "future"
         },
         "fileme.us": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "fileml.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "filemy.net": {
@@ -5626,8 +5636,8 @@
             "state": "future"
         },
         "filesmy.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "filesonick.net": {
@@ -5648,6 +5658,11 @@
         "filesquick.net": {
             "epoch": "1571788800",
             "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "filesrc.com": {
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "filesrightnow.com": {
@@ -5716,8 +5731,8 @@
             "state": "future"
         },
         "fileups.net": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "fileurl.me": {
@@ -5788,7 +5803,7 @@
         "filmlair.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "filmlush.com": {
             "epoch": "1548720000",
