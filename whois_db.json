@@ -6976,8 +6976,8 @@
             "state": "future"
         },
         "freexboxgold.net": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "freexboxlive.cc": {
@@ -7491,8 +7491,8 @@
             "state": "future"
         },
         "gamescrack.fr": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "gamescrack.org": {
@@ -8426,8 +8426,8 @@
             "state": "future"
         },
         "gta5moneygenerator.com": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "gta5moneyglitch.org": {
@@ -8658,7 +8658,7 @@
         "hackandcheats.org": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "hackappz.com": {
             "epoch": "1578355200",
@@ -8721,8 +8721,8 @@
             "state": "future"
         },
         "hackdb.org": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
             "state": "future"
         },
         "hackdownload24.com": {
@@ -9891,9 +9891,9 @@
             "state": "future"
         },
         "igenerators.net": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
-            "state": "past"
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
         },
         "igfamous.me": {
             "epoch": "1574467200",
@@ -10281,8 +10281,8 @@
             "state": "future"
         },
         "jafiles.net": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "jailbreak-absinthe.com": {
@@ -10393,6 +10393,11 @@
         "joehacks.com": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "joharmovies.net": {
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "jquery-js.com": {
