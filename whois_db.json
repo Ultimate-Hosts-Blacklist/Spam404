@@ -5826,9 +5826,9 @@
             "state": "future"
         },
         "filmlair.com": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
-            "state": "past"
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
         },
         "filmlush.com": {
             "epoch": "1548720000",
@@ -9933,6 +9933,11 @@
         "iflix32.com": {
             "epoch": "1569715200",
             "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "ifreecards.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
             "state": "future"
         },
         "ig-free-follows.com": {
