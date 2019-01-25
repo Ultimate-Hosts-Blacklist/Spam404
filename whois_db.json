@@ -1166,9 +1166,9 @@
             "state": "future"
         },
         "bitdrop.top": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
         },
         "bitsc.io": {
             "epoch": "1568592000",
@@ -2941,8 +2941,8 @@
             "state": "future"
         },
         "csgo-luxe.top": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "csgo-stars.top": {
@@ -3356,8 +3356,8 @@
             "state": "future"
         },
         "csgoluxe.top": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "csgoluxetrade.com": {
@@ -3451,8 +3451,8 @@
             "state": "future"
         },
         "csgopump.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "csgoranger.com": {
@@ -4096,9 +4096,9 @@
             "state": "future"
         },
         "dota-spin.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
         },
         "dota2.money": {
             "epoch": "1570492800",
@@ -4153,7 +4153,7 @@
         "doublebtc.win": {
             "epoch": "1548374400",
             "expiration_date": "25-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "downhack.net": {
             "epoch": "1534636800",
@@ -4181,8 +4181,8 @@
             "state": "future"
         },
         "download-minecraft.ru": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "download.cm": {
