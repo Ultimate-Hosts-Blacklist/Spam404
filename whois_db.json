@@ -6616,8 +6616,8 @@
             "state": "future"
         },
         "freemcaccount.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "freemeez.com": {
@@ -6638,7 +6638,7 @@
         "freeminecraft.me": {
             "epoch": "1548374400",
             "expiration_date": "25-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freeminecraft.us": {
             "epoch": "1569369600",
@@ -7026,8 +7026,8 @@
             "state": "future"
         },
         "freexboxlive.cc": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "freexboxlivecodesgen.com": {
@@ -7230,6 +7230,11 @@
             "expiration_date": "20-jun-2019",
             "state": "future"
         },
+        "gameandaddons.com": {
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
         "gameandcheats.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
@@ -7418,6 +7423,11 @@
         "gamenationz.com": {
             "epoch": "1553558400",
             "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "gameofthronesseason4episode2.com": {
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
             "state": "future"
         },
         "gamepsvita.com": {
@@ -8716,9 +8726,9 @@
             "state": "future"
         },
         "hackandcheats.org": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
-            "state": "past"
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
         },
         "hackappz.com": {
             "epoch": "1578355200",
@@ -8846,9 +8856,9 @@
             "state": "future"
         },
         "hackerfiles.net": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
         },
         "hackersface.com": {
             "epoch": "1551398400",
