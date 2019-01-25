@@ -11861,8 +11861,8 @@
             "state": "future"
         },
         "myetherzero.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "myfiletop.com": {
@@ -11926,9 +11926,9 @@
             "state": "future"
         },
         "mysoftwareplace.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
         },
         "nafamovies.com": {
             "epoch": "1579132800",
@@ -12906,8 +12906,8 @@
             "state": "future"
         },
         "premium-softwares.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "premium18age.com": {
@@ -13411,8 +13411,8 @@
             "state": "future"
         },
         "razerbets.com": {
-            "epoch": "1548115200",
-            "expiration_date": "22-jan-2019",
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "razergo.com": {
@@ -13896,8 +13896,8 @@
             "state": "future"
         },
         "securefileupload.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "seizefile.co": {
@@ -14386,8 +14386,8 @@
             "state": "future"
         },
         "skinscage.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "skinscheck.com": {
@@ -14623,6 +14623,11 @@
         "skull-bets.io": {
             "epoch": "1553299200",
             "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "slickcheats.com": {
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
             "state": "future"
         },
         "slimdownload.co": {
