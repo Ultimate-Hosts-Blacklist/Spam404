@@ -3888,7 +3888,7 @@
         "desirelead.com": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "desktopcomputer4free.com": {
             "epoch": "1559433600",
@@ -4133,7 +4133,7 @@
         "dota2xbet.com": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "dota4bet.com": {
             "epoch": "1570147200",
@@ -4611,8 +4611,8 @@
             "state": "future"
         },
         "elitehack24.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "elitehacking.net": {
@@ -4806,8 +4806,8 @@
             "state": "future"
         },
         "eu-roulette.com": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
             "state": "future"
         },
         "eucsgo.com": {
