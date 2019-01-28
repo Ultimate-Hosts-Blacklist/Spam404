@@ -11516,8 +11516,8 @@
             "state": "future"
         },
         "mobigrr.com": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
             "state": "future"
         },
         "mobilegamehackers.com": {
@@ -11868,7 +11868,7 @@
         "myfiletop.com": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "myfreehacks.com": {
             "epoch": "1553385600",
@@ -12301,8 +12301,8 @@
             "state": "future"
         },
         "onlinegamecheats.net": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
             "state": "future"
         },
         "onlinegamesfiles.com": {
@@ -12353,7 +12353,7 @@
         "opencheats.com": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "opengamehack.com": {
             "epoch": "1576454400",
@@ -12533,6 +12533,11 @@
         "pcgameshackcenter.com": {
             "epoch": "1565395200",
             "expiration_date": "10-aug-2019",
+            "state": "future"
+        },
+        "pcgamez.net": {
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
             "state": "future"
         },
         "pcplayz.com": {
