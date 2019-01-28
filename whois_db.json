@@ -6611,8 +6611,8 @@
             "state": "future"
         },
         "freemaddencoins.com": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
             "state": "future"
         },
         "freemcaccount.com": {
@@ -6636,9 +6636,9 @@
             "state": "future"
         },
         "freeminecraft.me": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
-            "state": "past"
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
         },
         "freeminecraft.us": {
             "epoch": "1569369600",
@@ -7243,7 +7243,7 @@
         "gameandcheats.org": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "gameandextensions.com": {
             "epoch": "1536278400",
