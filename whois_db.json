@@ -11241,8 +11241,8 @@
             "state": "future"
         },
         "mediafile2518setup.tools": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "mediafire.vc": {
@@ -11278,7 +11278,7 @@
         "meez.us": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "meezhacks.net": {
             "epoch": "1560384000",
@@ -11413,6 +11413,11 @@
         "minecrafthosting.biz": {
             "epoch": "1555545600",
             "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "minecrafthostingforfree.com": {
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "minecraftmodification.com": {
@@ -11641,8 +11646,8 @@
             "state": "future"
         },
         "moviease.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "moviebis.com": {
@@ -11696,8 +11701,8 @@
             "state": "future"
         },
         "movielush.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "movieoi.com": {
@@ -11871,9 +11876,9 @@
             "state": "future"
         },
         "myfiletop.com": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
-            "state": "past"
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
         },
         "myfreehacks.com": {
             "epoch": "1553385600",
@@ -12356,9 +12361,9 @@
             "state": "future"
         },
         "opencheats.com": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
-            "state": "past"
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
         },
         "opengamehack.com": {
             "epoch": "1576454400",
