@@ -11768,7 +11768,7 @@
         "moviestree.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "moviesty.com": {
             "epoch": "1552521600",
@@ -12316,8 +12316,8 @@
             "state": "future"
         },
         "onlineclashofclanshack.com": {
-            "epoch": "1549238400",
-            "expiration_date": "04-feb-2019",
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
             "state": "future"
         },
         "onlinefacebookhacking.com": {
@@ -12481,8 +12481,8 @@
             "state": "future"
         },
         "pashuber.in": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
             "state": "future"
         },
         "pashuber.net": {
@@ -16406,8 +16406,23 @@
             "state": "future"
         },
         "valueskins.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "vbtrst.info": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "vbtrst.pro": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "vbucks-generator.com": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
             "state": "future"
         },
         "vbucksepic.com": {
