@@ -10178,7 +10178,7 @@
         "instantcodegenerator.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "instantdownloadsz.com": {
             "epoch": "1565222400",
@@ -10366,8 +10366,8 @@
             "state": "future"
         },
         "jackpot-bets.com": {
-            "epoch": "1549065600",
-            "expiration_date": "02-feb-2019",
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
             "state": "future"
         },
         "jafiles.net": {
@@ -10786,8 +10786,8 @@
             "state": "future"
         },
         "leethax.net": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "leetskins.com": {
@@ -10840,6 +10840,11 @@
             "expiration_date": "01-jun-2019",
             "state": "future"
         },
+        "letsweb.info": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
         "lfunny.com": {
             "epoch": "1561420800",
             "expiration_date": "25-jun-2019",
@@ -10853,6 +10858,11 @@
         "libros-gratis.org": {
             "epoch": "1563321600",
             "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "lightdrop.top": {
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
             "state": "future"
         },
         "lightingshots.com": {
