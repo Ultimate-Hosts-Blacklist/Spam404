@@ -283,7 +283,7 @@
         "addition4u.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "adgatemedia.com": {
             "epoch": "1579564800",
@@ -721,8 +721,8 @@
             "state": "future"
         },
         "argonfiles.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "argosvoucher.net": {
@@ -1261,8 +1261,8 @@
             "state": "future"
         },
         "bo2seasonpass.com": {
-            "epoch": "1549584000",
-            "expiration_date": "08-feb-2019",
+            "epoch": "1581120000",
+            "expiration_date": "08-feb-2020",
             "state": "future"
         },
         "boardsky.com": {
@@ -3086,9 +3086,9 @@
             "state": "future"
         },
         "csgodang.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "csgodarkness.com": {
             "epoch": "1575504000",
@@ -3108,7 +3108,7 @@
         "csgodino.net": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgodrone.net": {
             "epoch": "1550880000",
@@ -3138,7 +3138,7 @@
         "csgoemperialbet.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgoend.net": {
             "epoch": "1576281600",
@@ -3348,7 +3348,7 @@
         "csgolounge.trade": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgoluckywheel.com": {
             "epoch": "1555113600",
@@ -3426,9 +3426,9 @@
             "state": "future"
         },
         "csgopassion.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
-            "state": "past"
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "csgoplacebet.com": {
             "epoch": "1570838400",
@@ -3473,12 +3473,12 @@
         "csgoreamer.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgoretailer.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgorider.com": {
             "epoch": "1576972800",
@@ -3523,7 +3523,7 @@
         "csgosign.net": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgoskulls.com": {
             "epoch": "1573776000",
@@ -3696,8 +3696,8 @@
             "state": "future"
         },
         "csreaver.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "cswinshigh.com": {
@@ -3923,7 +3923,7 @@
         "diemov.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "dieorhack.com": {
             "epoch": "1554681600",
