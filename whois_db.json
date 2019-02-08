@@ -12933,7 +12933,7 @@
         "predatorhacks.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "premium-cheats.net": {
             "epoch": "1578873600",
@@ -13386,8 +13386,8 @@
             "state": "future"
         },
         "ragegamble.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "rainbow-case.com": {
