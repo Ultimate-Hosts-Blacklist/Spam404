@@ -12941,9 +12941,9 @@
             "state": "future"
         },
         "predatorhacks.com": {
-            "epoch": "1549584000",
-            "expiration_date": "08-feb-2019",
-            "state": "past"
+            "epoch": "1581120000",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
         },
         "premium-cheats.net": {
             "epoch": "1578873600",
@@ -13725,6 +13725,11 @@
             "expiration_date": "30-jan-2020",
             "state": "future"
         },
+        "roll4big.com": {
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
         "roll4skins.com": {
             "epoch": "1580774400",
             "expiration_date": "04-feb-2020",
@@ -13761,9 +13766,9 @@
             "state": "past"
         },
         "royal-skin.net": {
-            "epoch": "1549584000",
-            "expiration_date": "08-feb-2019",
-            "state": "past"
+            "epoch": "1581120000",
+            "expiration_date": "08-feb-2020",
+            "state": "future"
         },
         "royalfolders.com": {
             "epoch": "1569456000",
@@ -14175,6 +14180,11 @@
             "expiration_date": "10-jan-2020",
             "state": "future"
         },
+        "shopwf.ru": {
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
         "shortez.com": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
@@ -14476,8 +14486,8 @@
             "state": "future"
         },
         "skinsflash.com": {
-            "epoch": "1549756800",
-            "expiration_date": "10-feb-2019",
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "skinsforce.com": {
@@ -14488,7 +14498,7 @@
         "skinsframe.com": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "skinsfree.win": {
             "epoch": "1543363200",
@@ -14496,13 +14506,18 @@
             "state": "past"
         },
         "skinsfury.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "skinsgang.com": {
             "epoch": "1571184000",
             "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "skinshall.com": {
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "skinshelper.com": {
@@ -14621,8 +14636,8 @@
             "state": "past"
         },
         "skinstrooper.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "skinstroopers.com": {
@@ -14641,8 +14656,8 @@
             "state": "future"
         },
         "skinswhite.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "skinswisdom.com": {
@@ -14891,8 +14906,8 @@
             "state": "future"
         },
         "softwarecrackworks.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "softwarestab.com": {
@@ -15600,6 +15615,16 @@
             "expiration_date": "19-oct-2019",
             "state": "future"
         },
+        "tf2millenium.com": {
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "tf2pull.com": {
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
         "the-d2.com": {
             "epoch": "1571961600",
             "expiration_date": "25-oct-2019",
@@ -15930,6 +15955,11 @@
             "expiration_date": "15-feb-2019",
             "state": "future"
         },
+        "tradeskins.cash": {
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
         "tradingcsgo.com": {
             "epoch": "1579824000",
             "expiration_date": "24-jan-2020",
@@ -16061,13 +16091,13 @@
             "state": "future"
         },
         "tweakingtricks.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "twirlskins.com": {
-            "epoch": "1549756800",
-            "expiration_date": "10-feb-2019",
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "twitchloot.com": {
