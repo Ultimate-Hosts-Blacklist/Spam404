@@ -6680,6 +6680,11 @@
             "expiration_date": "21-dec-2019",
             "state": "future"
         },
+        "freeminecraftserverhostings.com": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
         "freemobacoins.com": {
             "epoch": "1554681600",
             "expiration_date": "08-apr-2019",
@@ -7203,7 +7208,7 @@
         "galaxy-deals.com": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "galaxy-deals.net": {
             "epoch": "1552003200",
@@ -7570,6 +7575,11 @@
             "expiration_date": "01-aug-2019",
             "state": "future"
         },
+        "gamescrank.com": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
         "gamesemulated.com": {
             "epoch": "1552780800",
             "expiration_date": "17-mar-2019",
@@ -7636,8 +7646,8 @@
             "state": "future"
         },
         "gameshacktool.com": {
-            "epoch": "1549756800",
-            "expiration_date": "10-feb-2019",
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "gameshackz.com": {
@@ -8081,8 +8091,8 @@
             "state": "future"
         },
         "gitmovies.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "gitorm.info": {
@@ -8211,8 +8221,8 @@
             "state": "future"
         },
         "goldshare.net": {
-            "epoch": "1549929600",
-            "expiration_date": "12-feb-2019",
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
             "state": "future"
         },
         "goodcheats.net": {
@@ -8341,8 +8351,8 @@
             "state": "future"
         },
         "gratuitfile.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "gratuitminecraft.fr": {
@@ -8616,8 +8626,8 @@
             "state": "future"
         },
         "hack-clash-of-clans.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "hack-download.com": {
@@ -8676,8 +8686,8 @@
             "state": "future"
         },
         "hack-market.com": {
-            "epoch": "1549929600",
-            "expiration_date": "12-feb-2019",
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
             "state": "future"
         },
         "hack-planet.com": {
@@ -8836,8 +8846,8 @@
             "state": "future"
         },
         "hackearfacebook.net": {
-            "epoch": "1549756800",
-            "expiration_date": "10-feb-2019",
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "hackearfacebook.tv": {
@@ -9031,8 +9041,8 @@
             "state": "future"
         },
         "hackingfacebook.net": {
-            "epoch": "1549929600",
-            "expiration_date": "12-feb-2019",
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
             "state": "future"
         },
         "hackingfree.com": {
