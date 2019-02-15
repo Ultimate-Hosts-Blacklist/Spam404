@@ -6551,8 +6551,8 @@
             "state": "future"
         },
         "freehackz.org": {
-            "epoch": "1550102400",
-            "expiration_date": "14-feb-2019",
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
             "state": "future"
         },
         "freehst.com": {
@@ -7231,9 +7231,9 @@
             "state": "future"
         },
         "galaxy-deals.com": {
-            "epoch": "1549929600",
-            "expiration_date": "12-feb-2019",
-            "state": "past"
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
         },
         "galaxy-deals.net": {
             "epoch": "1552003200",
@@ -7406,8 +7406,8 @@
             "state": "future"
         },
         "gamehacksfree.com": {
-            "epoch": "1550188800",
-            "expiration_date": "15-feb-2019",
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
             "state": "future"
         },
         "gamehacksfree.net": {
@@ -7446,8 +7446,8 @@
             "state": "future"
         },
         "gamekeygens.net": {
-            "epoch": "1550188800",
-            "expiration_date": "15-feb-2019",
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
             "state": "future"
         },
         "gamekeyhack.com": {
@@ -8216,8 +8216,8 @@
             "state": "future"
         },
         "goggle.com": {
-            "epoch": "1550016000",
-            "expiration_date": "13-feb-2019",
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
             "state": "future"
         },
         "golden-hacks.com": {
@@ -9661,8 +9661,8 @@
             "state": "future"
         },
         "hearthstonegenerator.com": {
-            "epoch": "1550102400",
-            "expiration_date": "14-feb-2019",
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
             "state": "future"
         },
         "hearthstonehack.com": {
@@ -9833,7 +9833,7 @@
         "howl.one": {
             "epoch": "1550016000",
             "expiration_date": "13-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "howlmax.com": {
             "epoch": "1552003200",
@@ -10166,8 +10166,8 @@
             "state": "future"
         },
         "infocsgo.com": {
-            "epoch": "1549756800",
-            "expiration_date": "10-feb-2019",
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "infragantes.com": {
@@ -10333,6 +10333,16 @@
         "ireel.com": {
             "epoch": "1582416000",
             "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
+        "is-apple.com": {
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "islandofhacks.com": {
+            "epoch": "1581120000",
+            "expiration_date": "08-feb-2020",
             "state": "future"
         },
         "isopcgames.com": {
