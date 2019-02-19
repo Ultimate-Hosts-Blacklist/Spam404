@@ -5913,7 +5913,7 @@
         "firecash.org": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "firecpa.com": {
             "epoch": "1578441600",
@@ -10611,9 +10611,9 @@
             "state": "future"
         },
         "keygenallgame.com": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
-            "state": "past"
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
         },
         "keygenet.com": {
             "epoch": "1576454400",
