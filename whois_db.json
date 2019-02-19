@@ -461,8 +461,8 @@
             "state": "future"
         },
         "amazing-drop.net": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "amazingcash.org": {
@@ -1056,9 +1056,9 @@
             "state": "future"
         },
         "bestonlinegamecheats.net": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
-            "state": "past"
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
         },
         "bestsupertech.com": {
             "epoch": "1559865600",
@@ -2526,8 +2526,8 @@
             "state": "future"
         },
         "codes4free.net": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "codes4psn.com": {
@@ -2923,7 +2923,7 @@
         "csgo-fortune.com": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgo-fresh.com": {
             "epoch": "1551484800",
@@ -3066,8 +3066,8 @@
             "state": "past"
         },
         "csgocasino.pro": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "csgocasino.su": {
