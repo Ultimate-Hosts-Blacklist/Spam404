@@ -1951,9 +1951,9 @@
             "state": "future"
         },
         "cheatsnew.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
-            "state": "past"
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
         },
         "cheatsnhacks.net": {
             "epoch": "1568851200",
@@ -3086,9 +3086,9 @@
             "state": "future"
         },
         "csgocoinbet.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
-            "state": "past"
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
         },
         "csgocoolcase.com": {
             "epoch": "1572134400",
@@ -4051,9 +4051,9 @@
             "state": "future"
         },
         "dmzgames.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
-            "state": "past"
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
         },
         "dnjss.com": {
             "epoch": "1557532800",
@@ -4456,9 +4456,9 @@
             "state": "future"
         },
         "dragxon.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
-            "state": "past"
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
+            "state": "future"
         },
         "dream-file.com": {
             "epoch": "1562630400",
@@ -5645,6 +5645,11 @@
             "expiration_date": "17-oct-2019",
             "state": "future"
         },
+        "filequality.com": {
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
         "filerack.net": {
             "epoch": "1571788800",
             "expiration_date": "23-oct-2019",
@@ -5666,8 +5671,8 @@
             "state": "future"
         },
         "filesarena.net": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
             "state": "future"
         },
         "fileserverde.com": {
