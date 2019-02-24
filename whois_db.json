@@ -146,8 +146,8 @@
             "state": "future"
         },
         "3xfull.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
             "state": "future"
         },
         "3xupdate.com": {
@@ -1538,7 +1538,7 @@
         "canadianmedstores.org": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "candycrushcheat.com": {
             "epoch": "1554163200",
@@ -2246,8 +2246,8 @@
             "state": "future"
         },
         "clashofclansgemhack.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
             "state": "future"
         },
         "clashofclansgemmes.com": {
@@ -3013,7 +3013,7 @@
         "csgoback.cash": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgobeach.com": {
             "epoch": "1572220800",
