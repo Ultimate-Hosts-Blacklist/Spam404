@@ -7763,7 +7763,7 @@
         "gametofaster.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "gametrainersave.com": {
             "epoch": "1554940800",
@@ -10006,9 +10006,9 @@
             "state": "future"
         },
         "idealhacks.com": {
-            "epoch": "1550880000",
-            "expiration_date": "23-feb-2019",
-            "state": "past"
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
         },
         "idowngrade.com": {
             "epoch": "1552262400",
