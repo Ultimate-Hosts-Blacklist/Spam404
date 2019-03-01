@@ -208,7 +208,7 @@
         "99videos.biz": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "a1hacks.com": {
             "epoch": "1554249600",
@@ -1926,8 +1926,8 @@
             "state": "future"
         },
         "cheatscave.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "cheatselite.com": {
@@ -2336,8 +2336,8 @@
             "state": "future"
         },
         "clashofclanshackonline.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "clashofclanshackonline.net": {
@@ -2586,8 +2586,8 @@
             "state": "future"
         },
         "codghostshacks.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "codghostshacks.net": {
@@ -3176,8 +3176,8 @@
             "state": "future"
         },
         "csgoexpose.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "csgofairy.net": {
@@ -3203,7 +3203,7 @@
         "csgofenix.net": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgofine.com": {
             "epoch": "1577923200",
@@ -3731,8 +3731,8 @@
             "state": "future"
         },
         "csmoneycase.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "csreaver.com": {
