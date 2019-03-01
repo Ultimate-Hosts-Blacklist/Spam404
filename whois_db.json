@@ -5190,6 +5190,11 @@
             "expiration_date": "17-sep-2019",
             "state": "future"
         },
+        "fastleakedmedia.com": {
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
         "fastmediasearcher.com": {
             "epoch": "1559865600",
             "expiration_date": "07-jun-2019",
