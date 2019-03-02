@@ -9033,7 +9033,7 @@
         "hackfbhacker.com": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "hackfbprofile.com": {
             "epoch": "1561766400",
@@ -9548,7 +9548,7 @@
         "hacksstore.com": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "hackstation.net": {
             "epoch": "1582156800",
