@@ -808,7 +808,7 @@
         "awesome-case.com": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "awpcase.com": {
             "epoch": "1572220800",
@@ -2943,7 +2943,7 @@
         "csgo-fresh.com": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgo-gamble.net": {
             "epoch": "1581465600",
@@ -3201,9 +3201,9 @@
             "state": "future"
         },
         "csgofenix.net": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
-            "state": "past"
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
         },
         "csgofine.com": {
             "epoch": "1577923200",
@@ -6421,8 +6421,8 @@
             "state": "future"
         },
         "freedownloadfullversionpc.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "freedsipoints.co.uk": {
