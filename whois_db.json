@@ -11476,9 +11476,9 @@
             "state": "future"
         },
         "mgwlock.com": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
-            "state": "past"
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
         },
         "mhacks.net": {
             "epoch": "1566432000",
@@ -12201,8 +12201,8 @@
             "state": "future"
         },
         "newgamingstar.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "newgeneratorcodes.info": {
@@ -13051,8 +13051,8 @@
             "state": "future"
         },
         "pre-hackedgames.net": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "precrack.com": {
@@ -13841,9 +13841,9 @@
             "state": "future"
         },
         "rocket-galaxy.net": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
-            "state": "past"
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
         },
         "rocket-league-lounge.com": {
             "epoch": "1574812800",
@@ -14661,9 +14661,9 @@
             "state": "future"
         },
         "skinshowl.com": {
-            "epoch": "1551484800",
-            "expiration_date": "02-mar-2019",
-            "state": "past"
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
         },
         "skinshub.net": {
             "epoch": "1567123200",
@@ -15061,9 +15061,9 @@
             "state": "future"
         },
         "solidhacks.com": {
-            "epoch": "1551484800",
-            "expiration_date": "02-mar-2019",
-            "state": "past"
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
         },
         "sonic-skins.com": {
             "epoch": "1571616000",
@@ -15906,9 +15906,9 @@
             "state": "future"
         },
         "timeswap.net": {
-            "epoch": "1551484800",
-            "expiration_date": "02-mar-2019",
-            "state": "past"
+            "epoch": "1583107200",
+            "expiration_date": "02-mar-2020",
+            "state": "future"
         },
         "timeswap.pro": {
             "epoch": "1552867200",
@@ -16623,7 +16623,7 @@
         "vbucks-generator.com": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "vbucksepic.com": {
             "epoch": "1560729600",
