@@ -1478,7 +1478,7 @@
         "bulletflix.com": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "bullstresser.net": {
             "epoch": "1575244800",
@@ -1701,9 +1701,9 @@
             "state": "future"
         },
         "ce7.org": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
-            "state": "past"
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
         },
         "celebritiesphone.com": {
             "epoch": "1579478400",
@@ -3073,7 +3073,7 @@
         "csgocake.com": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgocasefun.com": {
             "epoch": "1534809600",
@@ -4423,7 +4423,7 @@
         "dragonballzstream.com": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "dragoncitycheat.info": {
             "epoch": "1569024000",
@@ -5943,7 +5943,7 @@
         "fire-alts.com": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "firecash.org": {
             "epoch": "1582070400",
@@ -7351,8 +7351,8 @@
             "state": "future"
         },
         "gameapp.pro": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "gamebeyond.com": {
@@ -8323,7 +8323,7 @@
         "goomia.net": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "goplayz.com": {
             "epoch": "1564876800",
