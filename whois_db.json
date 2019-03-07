@@ -13620,6 +13620,11 @@
             "expiration_date": "31-jan-2020",
             "state": "future"
         },
+        "razerzonne.com": {
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
         "razor-games.com": {
             "epoch": "1582329600",
             "expiration_date": "22-feb-2020",
@@ -14021,9 +14026,9 @@
             "state": "future"
         },
         "sbstriders.org": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
-            "state": "past"
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
         },
         "scars-acne.com": {
             "epoch": "1571011200",
@@ -14546,9 +14551,9 @@
             "state": "future"
         },
         "skinsbaron.com": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
-            "state": "past"
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
         },
         "skinsbarter.com": {
             "epoch": "1552694400",
@@ -14696,8 +14701,8 @@
             "state": "future"
         },
         "skinsknight.com": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "skinslegends.com": {
@@ -15626,8 +15631,8 @@
             "state": "future"
         },
         "supragame.com": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "surefile.org": {
@@ -15651,9 +15656,9 @@
             "state": "future"
         },
         "swapnesia.net": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
-            "state": "past"
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
         },
         "swaprocket.org": {
             "epoch": "1551744000",
