@@ -16596,8 +16596,8 @@
             "state": "future"
         },
         "usehack.com": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "usehacks.com": {
@@ -17176,9 +17176,9 @@
             "state": "future"
         },
         "wtfdrop.top": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
-            "state": "past"
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
         },
         "wtfvid.net": {
             "epoch": "1575763200",
@@ -17226,9 +17226,9 @@
             "state": "future"
         },
         "xblunter.net": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
-            "state": "past"
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
         },
         "xbox-livegratuit.fr": {
             "epoch": "1566000000",
@@ -17258,6 +17258,11 @@
         "xboxcodesnow.com": {
             "epoch": "1568678400",
             "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "xboxdailycode.com": {
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "xboxjailbreak.com": {
