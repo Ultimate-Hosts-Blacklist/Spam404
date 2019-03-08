@@ -1983,7 +1983,7 @@
         "cheatsoffuture.com": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "cheatsok.com": {
             "epoch": "1560297600",
@@ -4831,9 +4831,9 @@
             "state": "future"
         },
         "esl-case.org": {
-            "epoch": "1551916800",
-            "expiration_date": "07-mar-2019",
-            "state": "past"
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
         },
         "esl-cases.org": {
             "epoch": "1552694400",
@@ -5226,8 +5226,8 @@
             "state": "future"
         },
         "fazebet.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "faztplay.com": {
