@@ -7308,7 +7308,7 @@
         "galaxy-deals.net": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "galaxydrop.top": {
             "epoch": "1576108800",
@@ -7841,8 +7841,8 @@
             "state": "future"
         },
         "gamezlinks.net": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "gamezmelt.com": {
@@ -8818,7 +8818,7 @@
         "hack2all.com": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "hack2k.com": {
             "epoch": "1574726400",
