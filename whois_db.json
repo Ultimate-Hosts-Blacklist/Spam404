@@ -8816,9 +8816,9 @@
             "state": "future"
         },
         "hack2all.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
-            "state": "past"
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
         },
         "hack2k.com": {
             "epoch": "1574726400",
@@ -9921,9 +9921,9 @@
             "state": "past"
         },
         "howlmax.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
-            "state": "past"
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
         },
         "howlskin.com": {
             "epoch": "1552435200",
@@ -15820,6 +15820,11 @@
             "expiration_date": "31-may-2019",
             "state": "future"
         },
+        "thebesthack24.com": {
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
         "thebestpsncodegenerator.com": {
             "epoch": "1572825600",
             "expiration_date": "04-nov-2019",
@@ -15886,9 +15891,9 @@
             "state": "future"
         },
         "theonlyhacks.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
-            "state": "past"
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
         },
         "theprimitivebaptist.com": {
             "epoch": "1567036800",
@@ -15918,7 +15923,7 @@
         "thrillcase.com": {
             "epoch": "1552089600",
             "expiration_date": "09-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "ticfiles.com": {
             "epoch": "1555891200",
