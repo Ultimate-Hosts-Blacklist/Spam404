@@ -741,8 +741,8 @@
             "state": "future"
         },
         "armorhack.com": {
-            "epoch": "1552089600",
-            "expiration_date": "09-mar-2019",
+            "epoch": "1583712000",
+            "expiration_date": "09-mar-2020",
             "state": "future"
         },
         "arroapp.com": {
@@ -1518,7 +1518,7 @@
         "buzzfiles.net": {
             "epoch": "1552089600",
             "expiration_date": "09-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "bypassios7activationlock.com": {
             "epoch": "1554940800",
@@ -3423,7 +3423,7 @@
         "csgomezo.com": {
             "epoch": "1552089600",
             "expiration_date": "09-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgomoney.money": {
             "epoch": "1574812800",
