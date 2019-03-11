@@ -2450,15 +2450,7 @@
             "skinsdouble.net",
             "skinsfree.win",
             "skinshits.fun",
-            "Homepage:"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
-            "Last",
-            "License:",
-            "Link",
-            "Plus",
-            "shortz.so##[onclick=\"awaiting();\"]",
+            "Homepage:",
             "skinsjar.gg",
             "skinstradefast.com",
             "skintrad.es",
@@ -2566,7 +2558,15 @@
             "streamvid.tv",
             "studioomovie.com",
             "stv24x7.com",
-            "submityourgta5gamertag.com",
+            "submityourgta5gamertag.com"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
+            "Last",
+            "License:",
+            "Link",
+            "Plus",
+            "shortz.so##[onclick=\"awaiting();\"]",
             "subwaysurferscheatsonline.com",
             "sundrop.top",
             "superfreehacks.com",
