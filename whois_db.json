@@ -1493,7 +1493,7 @@
         "burnshare.net": {
             "epoch": "1552435200",
             "expiration_date": "13-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "burstskins.com": {
             "epoch": "1570060800",
@@ -1938,6 +1938,11 @@
         "cheatsempire.com": {
             "epoch": "1552608000",
             "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "cheatset.com": {
+            "epoch": "1615593600",
+            "expiration_date": "13-mar-2021",
             "state": "future"
         },
         "cheatsgamehack.com": {
@@ -3576,9 +3581,9 @@
             "state": "future"
         },
         "csgostage.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
-            "state": "past"
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
         },
         "csgostix.com": {
             "epoch": "1573257600",
@@ -3608,7 +3613,7 @@
         "csgotrade.co": {
             "epoch": "1552435200",
             "expiration_date": "13-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgotrade.zone": {
             "epoch": "1606435200",
@@ -3871,8 +3876,8 @@
             "state": "future"
         },
         "ddtdown.pro": {
-            "epoch": "1552348800",
-            "expiration_date": "12-mar-2019",
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
             "state": "future"
         },
         "decoderactive.com": {
@@ -3923,7 +3928,7 @@
         "descargar-pdf.org": {
             "epoch": "1552435200",
             "expiration_date": "13-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "descargas24.com": {
             "epoch": "1566000000",
