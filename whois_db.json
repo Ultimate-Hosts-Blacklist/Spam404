@@ -11840,6 +11840,11 @@
             "expiration_date": "23-jan-2020",
             "state": "future"
         },
+        "moviecit.com": {
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
+        },
         "moviefox.us": {
             "epoch": "1560902400",
             "expiration_date": "19-jun-2019",
@@ -11886,9 +11891,9 @@
             "state": "future"
         },
         "movieplatinum.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
-            "state": "past"
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
         },
         "movies-dl.net": {
             "epoch": "1581292800",
@@ -13186,9 +13191,9 @@
             "state": "future"
         },
         "primecodes.net": {
-            "epoch": "1552348800",
-            "expiration_date": "12-mar-2019",
-            "state": "past"
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
         },
         "primemoney.us": {
             "epoch": "1544832000",
@@ -13456,9 +13461,9 @@
             "state": "future"
         },
         "pubgten.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
-            "state": "past"
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
         },
         "puhlu.com": {
             "epoch": "1568678400",
@@ -14008,7 +14013,7 @@
         "saol.co": {
             "epoch": "1552435200",
             "expiration_date": "13-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "saveftp.com": {
             "epoch": "1552521600",
