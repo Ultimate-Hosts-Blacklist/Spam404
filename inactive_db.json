@@ -2110,9 +2110,7 @@
             "smashfree.net",
             "smashingsports.co",
             "sms-applecare.com",
-            "snaggy-screen.su"
-        ],
-        "to_test": [
+            "snaggy-screen.su",
             "!",
             "0daygameparadise.com",
             "100arcade.com",
@@ -2460,7 +2458,9 @@
             "Description:",
             "Domains-_-_-_-_-_-_-_-!",
             "Download\"]",
-            "Expires:",
+            "Expires:"
+        ],
+        "to_test": [
             "hepimovie.net###login",
             "Homepage:",
             "Last",
