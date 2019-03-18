@@ -15968,7 +15968,7 @@
         "timeswap.pro": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "tintubright.com": {
             "epoch": "1576627200",
@@ -16176,8 +16176,8 @@
             "state": "future"
         },
         "trainerfree.com": {
-            "epoch": "1552780800",
-            "expiration_date": "17-mar-2019",
+            "epoch": "1584403200",
+            "expiration_date": "17-mar-2020",
             "state": "future"
         },
         "trek21.net": {
