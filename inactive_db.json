@@ -2439,15 +2439,7 @@
             "skidrowgames.us",
             "csgotrade.co",
             "Homepage:",
-            "howl.one"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
-            "Last",
-            "License:",
-            "Link",
-            "Plus",
-            "shortz.so##[onclick=\"awaiting();\"]",
+            "howl.one",
             "skincodesgiveaway.com",
             "skinjarz.com",
             "skins-club.com",
@@ -2508,7 +2500,15 @@
             "starbound-play.com",
             "starcardsnbulls.com",
             "starcraftvip.com",
-            "starpasscodegenerator.goldmovie-trailer.com",
+            "starpasscodegenerator.goldmovie-trailer.com"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
+            "Last",
+            "License:",
+            "Link",
+            "Plus",
+            "shortz.so##[onclick=\"awaiting();\"]",
             "steaacommunity.com",
             "steam-coin.us",
             "steam-deal.com",
