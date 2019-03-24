@@ -438,7 +438,7 @@
         "alphajailbreak.com": {
             "epoch": "1553385600",
             "expiration_date": "24-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "alt-gen.com": {
             "epoch": "1572480000",
@@ -2556,8 +2556,8 @@
             "state": "future"
         },
         "codesandgenerators.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "codesforfree.net": {
@@ -3226,8 +3226,8 @@
             "state": "future"
         },
         "csgoflap.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "csgoforces.com": {
@@ -3273,7 +3273,7 @@
         "csgogunfire.com": {
             "epoch": "1553385600",
             "expiration_date": "24-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgohall.com": {
             "epoch": "1574553600",
@@ -3481,8 +3481,8 @@
             "state": "past"
         },
         "csgopour.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "csgopump.com": {
@@ -4531,8 +4531,8 @@
             "state": "future"
         },
         "dropskinz.net": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "drudgetube.com": {
@@ -4553,6 +4553,11 @@
         "dz-cheat.com": {
             "epoch": "1566864000",
             "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "e-gamespot.com": {
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
             "state": "future"
         },
         "e-iphoneunlock.com": {
@@ -5531,8 +5536,8 @@
             "state": "future"
         },
         "fileblckr.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "filecm.net": {
@@ -5986,9 +5991,9 @@
             "state": "future"
         },
         "fireskins.net": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
-            "state": "past"
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "firest0rm.net": {
             "epoch": "1558742400",
@@ -6406,9 +6411,9 @@
             "state": "future"
         },
         "freecodesgenerator.com": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
-            "state": "past"
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "freecodesitunes.com": {
             "epoch": "1575072000",
@@ -6526,9 +6531,9 @@
             "state": "future"
         },
         "freegamesaddons.com": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
-            "state": "past"
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "freegameserver.net": {
             "epoch": "1582156800",
