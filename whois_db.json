@@ -11151,8 +11151,8 @@
             "state": "future"
         },
         "logicielpirater.fr": {
-            "epoch": "1553644800",
-            "expiration_date": "27-mar-2019",
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
             "state": "future"
         },
         "loginthief.com": {
@@ -11173,7 +11173,7 @@
         "loliskins.com": {
             "epoch": "1553731200",
             "expiration_date": "28-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "lolmystery.net": {
             "epoch": "1559347200",
@@ -12070,6 +12070,11 @@
             "expiration_date": "28-jan-2020",
             "state": "future"
         },
+        "myfreecamtokenhack.com": {
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
         "myfreehacks.com": {
             "epoch": "1585008000",
             "expiration_date": "24-mar-2020",
@@ -12336,9 +12341,9 @@
             "state": "future"
         },
         "nintendobro.com": {
-            "epoch": "1553558400",
-            "expiration_date": "26-mar-2019",
-            "state": "past"
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
+            "state": "future"
         },
         "noirpirater.com": {
             "epoch": "1576713600",
@@ -13303,7 +13308,7 @@
         "ps4jailbreaker.com": {
             "epoch": "1553644800",
             "expiration_date": "27-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "ps4jailbreakk.com": {
             "epoch": "1573948800",
