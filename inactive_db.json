@@ -2559,12 +2559,7 @@
             "Homepage:",
             "Last",
             "License:",
-            "Link"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
-            "Plus",
-            "shortz.so##[onclick=\"awaiting();\"]",
+            "Link",
             "support--iphone.online",
             "support-apple-services.net",
             "surveybypassdirect.com",
@@ -2642,7 +2637,6 @@
             "titanfallhacked.com",
             "titanfallofficialbeta.com",
             "titaniumhacks.com",
-            "Title:",
             "tmvox.com",
             "toohack.com",
             "tools4everone.com",
@@ -2723,7 +2717,13 @@
             "ukash-hack.com",
             "ultimovie.com",
             "ultra-files.net",
-            "ultra-hack.com",
+            "ultra-hack.com"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
+            "Plus",
+            "shortz.so##[onclick=\"awaiting();\"]",
+            "Title:",
             "ultrasn0wtool.com",
             "undetectedcheats.com",
             "uniquehacks.org",
