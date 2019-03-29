@@ -428,7 +428,7 @@
         "allthecheats.net": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "allwarezfree.com": {
             "epoch": "1572480000",
@@ -648,7 +648,7 @@
         "app-hack.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "appcheats.co.uk": {
             "epoch": "1565049600",
@@ -666,8 +666,8 @@
             "state": "future"
         },
         "apple--iphone5.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "applefreegifts.com": {
@@ -2431,9 +2431,9 @@
             "state": "future"
         },
         "cleanfile.org": {
-            "epoch": "1553731200",
-            "expiration_date": "28-mar-2019",
-            "state": "past"
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
         },
         "cleanfiles.net": {
             "epoch": "1565136000",
@@ -4968,7 +4968,7 @@
         "excellentmovies.net": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "exgrafix.com": {
             "epoch": "1576540800",
@@ -5146,9 +5146,9 @@
             "state": "future"
         },
         "faceit-cases.org": {
-            "epoch": "1553731200",
-            "expiration_date": "28-mar-2019",
-            "state": "past"
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
         },
         "faceoffhacker.com": {
             "epoch": "1557532800",
