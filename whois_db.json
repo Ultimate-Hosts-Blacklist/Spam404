@@ -7403,7 +7403,7 @@
         "gamecheatpro.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "gamecheatsgiveaways.com": {
             "epoch": "1564531200",
@@ -7848,6 +7848,11 @@
         "gamezdownloadfree.com": {
             "epoch": "1581897600",
             "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "gamezfree.net": {
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
             "state": "future"
         },
         "gamezhack.com": {
@@ -12203,7 +12208,7 @@
         "netflixaccountsforfree.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "netflixgiftcard.net": {
             "epoch": "1574899200",
