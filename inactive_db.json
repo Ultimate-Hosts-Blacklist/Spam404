@@ -2546,12 +2546,7 @@
             "Homepage:",
             "Last",
             "License:",
-            "Link"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
-            "Plus",
-            "shortz.so##[onclick=\"awaiting();\"]",
+            "Link",
             "streamingvideoonline.net",
             "streams24.tv",
             "streamsaison.com",
@@ -2640,7 +2635,6 @@
             "titanfallhacked.com",
             "titanfallofficialbeta.com",
             "titaniumhacks.com",
-            "Title:",
             "tmvox.com",
             "toohack.com",
             "tools4everone.com",
@@ -2665,7 +2659,13 @@
             "tournaments-csgo.com",
             "tournamentscsgo.com",
             "tous-les-cheats.com",
-            "touslesjeuxpiraternouveau.fr",
+            "touslesjeuxpiraternouveau.fr"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
+            "Plus",
+            "shortz.so##[onclick=\"awaiting();\"]",
+            "Title:",
             "track-your-fedex-package.org",
             "trade-cs.com",
             "trade-kniwes.com",
