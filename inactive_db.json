@@ -2659,13 +2659,7 @@
             "tournaments-csgo.com",
             "tournamentscsgo.com",
             "tous-les-cheats.com",
-            "touslesjeuxpiraternouveau.fr"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
-            "Plus",
-            "shortz.so##[onclick=\"awaiting();\"]",
-            "Title:",
+            "touslesjeuxpiraternouveau.fr",
             "track-your-fedex-package.org",
             "trade-cs.com",
             "trade-kniwes.com",
@@ -2762,7 +2756,13 @@
             "veasydownload.net",
             "verallohacks.com",
             "verified-hacks.net",
-            "verifiedreview.online",
+            "verifiedreview.online"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
+            "Plus",
+            "shortz.so##[onclick=\"awaiting();\"]",
+            "Title:",
             "Version:",
             "vgdownloads.net",
             "via",
