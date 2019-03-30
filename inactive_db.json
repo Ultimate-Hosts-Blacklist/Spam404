@@ -2542,14 +2542,14 @@
             "storeapps24.com",
             "storm-hacks.com",
             "stream80.com",
-            "streaming.filmsgratuits.org"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
+            "streaming.filmsgratuits.org",
             "Homepage:",
             "Last",
             "License:",
-            "Link",
+            "Link"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
             "Plus",
             "shortz.so##[onclick=\"awaiting();\"]",
             "streamingvideoonline.net",
