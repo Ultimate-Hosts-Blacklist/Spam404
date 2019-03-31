@@ -2757,14 +2757,7 @@
             "verallohacks.com",
             "verified-hacks.net",
             "verifiedreview.online",
-            "clubpenguin.haxdo.com"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
-            "Plus",
-            "shortz.so##[onclick=\"awaiting();\"]",
-            "Title:",
-            "Version:",
+            "clubpenguin.haxdo.com",
             "vgdownloads.net",
             "via",
             "video-id.org",
@@ -2797,7 +2790,14 @@
             "watch-breaking-bad.com",
             "watch-the-fullvideo.pw",
             "watch.allharrypottermovies.com",
-            "watchdogsbeta.com",
+            "watchdogsbeta.com"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
+            "Plus",
+            "shortz.so##[onclick=\"awaiting();\"]",
+            "Title:",
+            "Version:",
             "watchgameofthrones4.com",
             "watchhdmovie.biz",
             "watchitonline.info",
