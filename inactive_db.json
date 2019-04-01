@@ -2789,14 +2789,14 @@
             "wifi-hack-password.com",
             "wifi-password-finder.org",
             "wifihack.org",
-            "wifihack2013.com"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
+            "wifihack2013.com",
             "Homepage:",
             "Last",
             "License:",
-            "Link",
+            "Link"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
             "Plus",
             "shortz.so##[onclick=\"awaiting();\"]",
             "Title:",
