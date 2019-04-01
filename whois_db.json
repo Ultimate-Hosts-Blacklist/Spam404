@@ -18075,6 +18075,11 @@
             "expiration_date": "22-apr-2019",
             "state": "future"
         },
+        "zlx-stresser.xyz": {
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
         "zmskins.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
@@ -18089,6 +18094,11 @@
             "epoch": "1610668800",
             "expiration_date": "15-jan-2021",
             "state": "future"
+        },
+        "zskins.online": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "past"
         },
         "zufiles.com": {
             "epoch": "1557360000",
