@@ -13550,9 +13550,19 @@
             "expiration_date": "26-feb-2020",
             "state": "future"
         },
+        "progenerators24.website": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
         "prohacktools.com": {
             "epoch": "1573344000",
             "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "projetneon.xyz": {
+            "epoch": "1616716800",
+            "expiration_date": "26-mar-2021",
             "state": "future"
         },
         "promediasearch.com": {
@@ -14070,6 +14080,11 @@
             "expiration_date": "11-jun-2019",
             "state": "future"
         },
+        "requesttooldownload296.space": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
         "revengecase.com": {
             "epoch": "1571616000",
             "expiration_date": "21-oct-2019",
@@ -14158,7 +14173,7 @@
         "rl-swap.com": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "roaringcash.com": {
             "epoch": "1561075200",
@@ -14325,6 +14340,11 @@
             "expiration_date": "10-mar-2020",
             "state": "future"
         },
+        "santa-case.fun": {
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
         "saol.co": {
             "epoch": "1584057600",
             "expiration_date": "13-mar-2020",
@@ -14408,7 +14428,7 @@
         "secretarea.net": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "secretfilez.com": {
             "epoch": "1554336000",
@@ -14700,6 +14720,11 @@
             "expiration_date": "12-jul-2019",
             "state": "future"
         },
+        "showmovie.xyz": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
         "shrinkonce.com": {
             "epoch": "1562371200",
             "expiration_date": "06-jul-2019",
@@ -14733,6 +14758,11 @@
         "simplelifetimeapp.com": {
             "epoch": "1568246400",
             "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "simplesystem.pw": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
             "state": "future"
         },
         "simplexdrop.com": {
@@ -15018,6 +15048,11 @@
         "skinshelper.com": {
             "epoch": "1576022400",
             "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
+        "skinshits.fun": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
             "state": "future"
         },
         "skinshowl.com": {
@@ -15925,6 +15960,11 @@
             "expiration_date": "27-jul-2019",
             "state": "future"
         },
+        "subsgifts.xyz": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
         "subway-surfers-cheats.com": {
             "epoch": "1575763200",
             "expiration_date": "08-dec-2019",
@@ -16275,6 +16315,11 @@
             "expiration_date": "25-jan-2020",
             "state": "future"
         },
+        "time4swap.fun": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
+            "state": "past"
+        },
         "timeswap.net": {
             "epoch": "1583107200",
             "expiration_date": "02-mar-2020",
@@ -16316,9 +16361,9 @@
             "state": "future"
         },
         "tmpgames.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
-            "state": "past"
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
         },
         "tobink.com": {
             "epoch": "1561334400",
@@ -16465,9 +16510,24 @@
             "expiration_date": "17-sep-2019",
             "state": "future"
         },
+        "tradebot.online": {
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
+        "tradebot.site": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
         "tradebot.top": {
             "epoch": "1576022400",
             "expiration_date": "11-dec-2019",
+            "state": "future"
+        },
+        "tradecsgo.online": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "tradefastskin.com": {
@@ -16483,6 +16543,11 @@
         "tradeskins.cash": {
             "epoch": "1580601600",
             "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "tradexskins.pw": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
             "state": "future"
         },
         "tradingcsgo.com": {
@@ -16718,6 +16783,11 @@
         "ultrahacks.org": {
             "epoch": "1588464000",
             "expiration_date": "03-may-2020",
+            "state": "future"
+        },
+        "undefined.pw": {
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "undetectedcheats.com": {
@@ -17020,6 +17090,11 @@
             "expiration_date": "14-feb-2020",
             "state": "future"
         },
+        "verifiedreview.online": {
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
         "verifiedreview.today": {
             "epoch": "1578268800",
             "expiration_date": "06-jan-2020",
@@ -17223,6 +17298,11 @@
         "watchthesenow.com": {
             "epoch": "1562284800",
             "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "wattpad.online": {
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "waxhack.com": {
