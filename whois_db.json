@@ -63,7 +63,7 @@
         "2014tools.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "21boxoffice.com": {
             "epoch": "1555545600",
@@ -603,7 +603,7 @@
         "anyhacks.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "apcoi.com": {
             "epoch": "1555200000",
@@ -1178,7 +1178,7 @@
         "bitcoin-lightning.info": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bitcoingenerator.org": {
             "epoch": "1565913600",
@@ -1588,7 +1588,7 @@
         "candycrushcheat.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "candycrushcheatzone.com": {
             "epoch": "1569628800",
@@ -1871,8 +1871,8 @@
             "state": "future"
         },
         "cheatfile.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "cheatfiles.org": {
@@ -4913,7 +4913,7 @@
         "enterainmentbuzz.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "ep0ch.net": {
             "epoch": "1560297600",
@@ -5798,7 +5798,7 @@
         "fileice.net": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "fileicehack.com": {
             "epoch": "1577664000",
@@ -5958,7 +5958,7 @@
         "filestate.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "filestemp.com": {
             "epoch": "1566259200",
@@ -10096,8 +10096,8 @@
             "state": "future"
         },
         "hostedgo.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "hostujmy.pl": {
@@ -10396,8 +10396,8 @@
             "state": "future"
         },
         "ihavetohave.net": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "iheaven.us": {
@@ -11213,7 +11213,7 @@
         "lekturymp3.pl": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "lenny-hacks.net": {
             "epoch": "1535155200",
