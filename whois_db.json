@@ -12566,8 +12566,8 @@
             "state": "future"
         },
         "newshared.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "newsregular.com": {
@@ -12601,8 +12601,8 @@
             "state": "future"
         },
         "nintendo3ds4free.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "nintendobro.com": {
@@ -14583,7 +14583,7 @@
         "sharefiledirect.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sharefileland.com": {
             "epoch": "1573776000",
