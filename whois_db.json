@@ -61,9 +61,9 @@
             "state": "future"
         },
         "2014tools.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "21boxoffice.com": {
             "epoch": "1555545600",
@@ -221,8 +221,8 @@
             "state": "past"
         },
         "a1hacks.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "abscbn-news-online.info": {
@@ -601,9 +601,9 @@
             "state": "future"
         },
         "anyhacks.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "apcoi.com": {
             "epoch": "1555200000",
@@ -898,7 +898,7 @@
         "baronskins.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "basdong.com": {
             "epoch": "1572480000",
@@ -1176,9 +1176,9 @@
             "state": "future"
         },
         "bitcoin-lightning.info": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "bitcoingenerator.org": {
             "epoch": "1565913600",
@@ -1586,9 +1586,9 @@
             "state": "future"
         },
         "candycrushcheat.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "candycrushcheatzone.com": {
             "epoch": "1569628800",
@@ -1936,8 +1936,8 @@
             "state": "future"
         },
         "cheats-factory.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "cheatsandhack.com": {
@@ -4690,6 +4690,11 @@
             "expiration_date": "19-feb-2020",
             "state": "future"
         },
+        "dwnld24.com": {
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
+        },
         "dz-cheat.com": {
             "epoch": "1566864000",
             "expiration_date": "27-aug-2019",
@@ -4911,9 +4916,9 @@
             "state": "future"
         },
         "enterainmentbuzz.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "ep0ch.net": {
             "epoch": "1560297600",
@@ -5796,9 +5801,9 @@
             "state": "future"
         },
         "fileice.net": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "fileicehack.com": {
             "epoch": "1577664000",
@@ -5956,9 +5961,9 @@
             "state": "future"
         },
         "filestate.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "filestemp.com": {
             "epoch": "1566259200",
@@ -6011,8 +6016,8 @@
             "state": "future"
         },
         "fileuploading.org": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "fileups.net": {
@@ -6191,8 +6196,8 @@
             "state": "future"
         },
         "fixshort.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "fkedup.com": {
@@ -7083,7 +7088,7 @@
         "freepsncodes.info": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "freepsncodesgenerator.org": {
             "epoch": "1583971200",
@@ -7131,9 +7136,9 @@
             "state": "future"
         },
         "freeriotpoint.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
-            "state": "past"
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
         },
         "freeriotpoints.me": {
             "epoch": "1574380800",
