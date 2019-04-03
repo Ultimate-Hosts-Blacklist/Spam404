@@ -2844,13 +2844,13 @@
             "xboxlivecodes.fr",
             "xboxlivecodesnow.info",
             "xboxlivefreegoldcodes.com",
-            "xboxlivegoldcode.net"
+            "xboxlivegoldcode.net",
+            "Last",
+            "License:",
+            "Link"
         ],
         "to_test": [
             "hepimovie.net###login",
-            "Last",
-            "License:",
-            "Link",
             "Plus",
             "shortz.so##[onclick=\"awaiting();\"]",
             "Title:",
