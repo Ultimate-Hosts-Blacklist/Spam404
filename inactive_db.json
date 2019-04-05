@@ -2767,14 +2767,14 @@
             "watchmovies.just4umedia.com",
             "watchmovieshd.co",
             "watchmoviesonlinefreefullstreaming.com",
-            "watchmoviesonlinefreeinhq.com"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
+            "watchmoviesonlinefreeinhq.com",
             "Homepage:",
             "Last",
             "License:",
-            "Link",
+            "Link"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
             "Plus",
             "shortz.so##[onclick=\"awaiting();\"]",
             "Title:",
