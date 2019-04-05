@@ -896,9 +896,9 @@
             "state": "future"
         },
         "baronskins.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "basdong.com": {
             "epoch": "1572480000",
@@ -1011,9 +1011,9 @@
             "state": "future"
         },
         "bestfiles.org": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
-            "state": "past"
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
         },
         "bestfreecodes.com": {
             "epoch": "1580774400",
@@ -2219,6 +2219,11 @@
             "epoch": "1534723200",
             "expiration_date": "20-aug-2018",
             "state": "past"
+        },
+        "cinemaon7.com": {
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
         },
         "cinemaxy.com": {
             "epoch": "1554508800",
@@ -4316,9 +4321,9 @@
             "state": "future"
         },
         "dota2traders.online": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
-            "state": "past"
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
         },
         "dota2xbet.com": {
             "epoch": "1580169600",
@@ -4993,7 +4998,7 @@
         "esea-lounge.com": {
             "epoch": "1554422400",
             "expiration_date": "05-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "esfiles.com": {
             "epoch": "1557878400",
@@ -5163,7 +5168,7 @@
         "extensiongames.com": {
             "epoch": "1554422400",
             "expiration_date": "05-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "extofiles.com": {
             "epoch": "1572220800",
@@ -5796,9 +5801,9 @@
             "state": "future"
         },
         "fileice.com": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
-            "state": "past"
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
         },
         "fileice.net": {
             "epoch": "1585785600",
@@ -7086,9 +7091,9 @@
             "state": "future"
         },
         "freepsncodes.info": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "freepsncodesgenerator.org": {
             "epoch": "1583971200",
@@ -8321,8 +8326,8 @@
             "state": "future"
         },
         "getpsncodesfree.com": {
-            "epoch": "1554422400",
-            "expiration_date": "05-apr-2019",
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
             "state": "future"
         },
         "getriotpointsforfree.com": {
