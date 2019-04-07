@@ -3977,14 +3977,14 @@
             "||looneyskins.com^",
             "||loooking.biz^",
             "||loopfiles.com^",
-            "||loot-skins.com^"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
+            "||loot-skins.com^",
             "Homepage:",
             "Last",
             "License:",
-            "Link",
+            "Link"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
             "Plus",
             "shortz.so##[onclick=\"awaiting();\"]",
             "Title:",
