@@ -1078,7 +1078,7 @@
         "besthacktools.net": {
             "epoch": "1554595200",
             "expiration_date": "07-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bestones.net": {
             "epoch": "1573257600",
@@ -1306,8 +1306,8 @@
             "state": "future"
         },
         "boltfiles.com": {
-            "epoch": "1554595200",
-            "expiration_date": "07-apr-2019",
+            "epoch": "1586217600",
+            "expiration_date": "07-apr-2020",
             "state": "future"
         },
         "bomb-hack.com": {
@@ -1666,8 +1666,8 @@
             "state": "future"
         },
         "cases8csgo.com": {
-            "epoch": "1554508800",
-            "expiration_date": "06-apr-2019",
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "casesbite.com": {
@@ -1933,6 +1933,11 @@
         "cheatnhack.com": {
             "epoch": "1585526400",
             "expiration_date": "30-mar-2020",
+            "state": "future"
+        },
+        "cheatpointsgenerator.com": {
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
             "state": "future"
         },
         "cheats-factory.com": {
@@ -2226,8 +2231,8 @@
             "state": "future"
         },
         "cinemaxy.com": {
-            "epoch": "1554508800",
-            "expiration_date": "06-apr-2019",
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "cipta.net": {
@@ -2971,8 +2976,8 @@
             "state": "future"
         },
         "cs-money.pro": {
-            "epoch": "1554508800",
-            "expiration_date": "06-apr-2019",
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "cs-trader.com": {
@@ -4996,9 +5001,9 @@
             "state": "future"
         },
         "esea-lounge.com": {
-            "epoch": "1554422400",
-            "expiration_date": "05-apr-2019",
-            "state": "past"
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
         },
         "esfiles.com": {
             "epoch": "1557878400",
@@ -5166,9 +5171,9 @@
             "state": "future"
         },
         "extensiongames.com": {
-            "epoch": "1554422400",
-            "expiration_date": "05-apr-2019",
-            "state": "past"
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
         },
         "extofiles.com": {
             "epoch": "1572220800",
@@ -5243,7 +5248,7 @@
         "facebookaccounthack.com": {
             "epoch": "1554595200",
             "expiration_date": "07-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "facebookaccounthack.net": {
             "epoch": "1576454400",
