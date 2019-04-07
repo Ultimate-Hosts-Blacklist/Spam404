@@ -14473,7 +14473,7 @@
         "secure-runescape.com": {
             "epoch": "1554595200",
             "expiration_date": "07-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "securefile.info": {
             "epoch": "1573344000",
@@ -15281,9 +15281,9 @@
             "state": "future"
         },
         "smashingsports.co": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
-            "state": "past"
+            "epoch": "1586217600",
+            "expiration_date": "07-apr-2020",
+            "state": "future"
         },
         "smitegemsgiveaway.com": {
             "epoch": "1560816000",
@@ -15761,8 +15761,8 @@
             "state": "past"
         },
         "steamcommunituy.com": {
-            "epoch": "1554508800",
-            "expiration_date": "06-apr-2019",
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "steamcommunnity.com": {
@@ -15786,8 +15786,8 @@
             "state": "future"
         },
         "steamconnmunitly.com": {
-            "epoch": "1554508800",
-            "expiration_date": "06-apr-2019",
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "steamconnmunulty.com": {
