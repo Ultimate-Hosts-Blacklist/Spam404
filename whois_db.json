@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
         "0hacks.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "0pencase.com": {
@@ -1538,7 +1538,7 @@
         "buteringift.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "buycounterfeitmoneynow.com": {
             "epoch": "1566691200",
@@ -2456,8 +2456,8 @@
             "state": "future"
         },
         "clashofclansresourcesgenerator.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "clashofclanstool.com": {
@@ -4101,8 +4101,8 @@
             "state": "future"
         },
         "dieorhack.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "digital-hacks.com": {
@@ -5246,9 +5246,9 @@
             "state": "future"
         },
         "facebookaccounthack.com": {
-            "epoch": "1554595200",
-            "expiration_date": "07-apr-2019",
-            "state": "past"
+            "epoch": "1586217600",
+            "expiration_date": "07-apr-2020",
+            "state": "future"
         },
         "facebookaccounthack.net": {
             "epoch": "1576454400",
@@ -5888,7 +5888,7 @@
         "files59.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "filesarena.net": {
             "epoch": "1582329600",
@@ -6986,8 +6986,8 @@
             "state": "future"
         },
         "freemobacoins.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "freemspcodes.com": {
@@ -8123,7 +8123,7 @@
         "gempubg.com": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "gems-community.com": {
             "epoch": "1583798400",
