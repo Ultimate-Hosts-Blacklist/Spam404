@@ -13723,7 +13723,7 @@
         "psnfreecards.info": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "psnfreecodes.org": {
             "epoch": "1571011200",
@@ -14476,9 +14476,9 @@
             "state": "future"
         },
         "secure-runescape.com": {
-            "epoch": "1554595200",
-            "expiration_date": "07-apr-2019",
-            "state": "past"
+            "epoch": "1586217600",
+            "expiration_date": "07-apr-2020",
+            "state": "future"
         },
         "securefile.info": {
             "epoch": "1573344000",
@@ -15796,8 +15796,8 @@
             "state": "future"
         },
         "steamconnmunulty.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "steamdesktopauthenticator.com": {
@@ -15846,8 +15846,8 @@
             "state": "future"
         },
         "steamkeysfree.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "steammarketcap.com": {
@@ -16023,6 +16023,11 @@
         "supercheatsandhacks.com": {
             "epoch": "1562284800",
             "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "superfreehacks.com": {
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "supragame.com": {
@@ -16221,8 +16226,8 @@
             "state": "future"
         },
         "thecheatplanet.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
             "state": "future"
         },
         "theclanofhack.com": {
@@ -16811,9 +16816,9 @@
             "state": "future"
         },
         "undetectedcheats.com": {
-            "epoch": "1536883200",
-            "expiration_date": "14-sep-2018",
-            "state": "past"
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
+            "state": "future"
         },
         "unionxcase.com": {
             "epoch": "1569196800",
