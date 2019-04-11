@@ -17851,9 +17851,9 @@
             "state": "future"
         },
         "xploitz.net": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
-            "state": "past"
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
         },
         "xravengames.com": {
             "epoch": "1581552000",
@@ -17883,6 +17883,11 @@
         "yeltex7.com": {
             "epoch": "1564185600",
             "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "yituf.com": {
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "yootube.com": {
