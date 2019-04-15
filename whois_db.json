@@ -606,8 +606,8 @@
             "state": "future"
         },
         "apcoi.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "apie-soft.com": {
@@ -2871,9 +2871,9 @@
             "state": "future"
         },
         "crackernapper.com": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
-            "state": "past"
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
         },
         "crackfulldownload.com": {
             "epoch": "1575849600",
@@ -4583,7 +4583,7 @@
         "dragon-cityhack.com": {
             "epoch": "1555286400",
             "expiration_date": "15-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "dragonballzstream.com": {
             "epoch": "1583280000",
@@ -6821,9 +6821,9 @@
             "state": "future"
         },
         "freehackstools.com": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
-            "state": "past"
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
         },
         "freehackz.com": {
             "epoch": "1588377600",
@@ -7286,8 +7286,8 @@
             "state": "future"
         },
         "freewifihack.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "freewifipasswordrecovery.com": {
