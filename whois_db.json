@@ -208,7 +208,7 @@
         "99cheats.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "99noivas.com": {
             "epoch": "1573862400",
@@ -1701,9 +1701,9 @@
             "state": "future"
         },
         "cash2share.us": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
-            "state": "past"
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
         },
         "cashbuzz.org": {
             "epoch": "1575936000",
@@ -4443,7 +4443,7 @@
         "downloadfullversionpcgamesonline.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "downloadgamespsvita.com": {
             "epoch": "1584489600",
@@ -4581,9 +4581,9 @@
             "state": "future"
         },
         "dragon-cityhack.com": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
-            "state": "past"
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
         },
         "dragonballzstream.com": {
             "epoch": "1583280000",
@@ -4661,8 +4661,8 @@
             "state": "future"
         },
         "drivers4you.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "drivetransfer.com": {
@@ -6696,8 +6696,8 @@
             "state": "future"
         },
         "freegamecards.us": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "freegamecode.us": {
@@ -7441,8 +7441,8 @@
             "state": "future"
         },
         "fullgamesonline.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "fullgamespc.com": {
