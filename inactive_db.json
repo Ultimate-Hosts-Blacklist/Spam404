@@ -2863,14 +2863,15 @@
             "xquad.su",
             "xstress.xyz",
             "xtracracks.com",
-            "y0utube.com.mx"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
+            "y0utube.com.mx",
+            "csgoflame.online",
             "Homepage:",
             "Last",
             "License:",
-            "Link",
+            "Link"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
             "Plus",
             "shortz.so##[onclick=\"awaiting();\"]",
             "Title:",
