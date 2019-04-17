@@ -13413,7 +13413,7 @@
         "powerfulcheats.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "powerfulhacks.com": {
             "epoch": "1576972800",
@@ -14203,7 +14203,7 @@
         "risehack.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "rizfilm.com": {
             "epoch": "1537142400",
@@ -14620,6 +14620,11 @@
             "expiration_date": "08-oct-2019",
             "state": "future"
         },
+        "sharefiled.com": {
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
+        },
         "sharefiledirect.com": {
             "epoch": "1585785600",
             "expiration_date": "02-apr-2020",
@@ -14721,9 +14726,9 @@
             "state": "future"
         },
         "shocking247.com": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
-            "state": "past"
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
         },
         "shopmiscere.com": {
             "epoch": "1578614400",
@@ -16521,9 +16526,9 @@
             "state": "future"
         },
         "topshopvidz.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
-            "state": "past"
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
         },
         "topuploadfile.com": {
             "epoch": "1567555200",
