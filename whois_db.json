@@ -68,7 +68,7 @@
         "21boxoffice.com": {
             "epoch": "1555545600",
             "expiration_date": "18-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "247gamerz.com": {
             "epoch": "1556236800",
@@ -4991,8 +4991,8 @@
             "state": "future"
         },
         "episodesaison.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "esavefile.com": {
@@ -5346,8 +5346,8 @@
             "state": "future"
         },
         "famous-mobile.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "fandom-case.com": {
