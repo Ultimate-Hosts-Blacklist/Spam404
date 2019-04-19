@@ -66,9 +66,9 @@
             "state": "future"
         },
         "21boxoffice.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
-            "state": "past"
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
         },
         "247gamerz.com": {
             "epoch": "1556236800",
@@ -206,9 +206,9 @@
             "state": "future"
         },
         "99cheats.com": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
-            "state": "past"
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
+            "state": "future"
         },
         "99noivas.com": {
             "epoch": "1573862400",
@@ -2413,7 +2413,7 @@
         "clashofclanshackonline.net": {
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "clashofclanshackonline.org": {
             "epoch": "1566950400",
@@ -2818,7 +2818,7 @@
         "cpadoom.com": {
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "cpalead.com": {
             "epoch": "1615939200",
@@ -4305,6 +4305,11 @@
             "expiration_date": "17-dec-2019",
             "state": "future"
         },
+        "dota2maphack.org": {
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
+        },
         "dota2money.ru": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
@@ -4441,9 +4446,9 @@
             "state": "future"
         },
         "downloadfullversionpcgamesonline.com": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
-            "state": "past"
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
+            "state": "future"
         },
         "downloadgamespsvita.com": {
             "epoch": "1584489600",
@@ -7878,7 +7883,7 @@
         "gamesarea24.com": {
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "gamesbase24.com": {
             "epoch": "1570406400",
