@@ -9346,8 +9346,8 @@
             "state": "future"
         },
         "hackgemsfree.com": {
-            "epoch": "1555632000",
-            "expiration_date": "19-apr-2019",
+            "epoch": "1587254400",
+            "expiration_date": "19-apr-2020",
             "state": "future"
         },
         "hackgenerations.com": {
@@ -9358,6 +9358,11 @@
         "hackgmail.net": {
             "epoch": "1556064000",
             "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "hackgmx.com": {
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "hackgta5online.com": {
@@ -10546,8 +10551,8 @@
             "state": "future"
         },
         "inhacks.com": {
-            "epoch": "1555632000",
-            "expiration_date": "19-apr-2019",
+            "epoch": "1587254400",
+            "expiration_date": "19-apr-2020",
             "state": "future"
         },
         "inlinevideos.com": {
@@ -11081,9 +11086,9 @@
             "state": "future"
         },
         "kingshacks.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
-            "state": "past"
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
         },
         "klaustrade.com": {
             "epoch": "1579824000",
@@ -12995,6 +13000,11 @@
             "expiration_date": "24-mar-2020",
             "state": "future"
         },
+        "parkerhacks.com": {
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
+        },
         "pashuber.in": {
             "epoch": "1580688000",
             "expiration_date": "03-feb-2020",
@@ -13416,9 +13426,9 @@
             "state": "future"
         },
         "powerfulcheats.com": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
-            "state": "past"
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
+            "state": "future"
         },
         "powerfulhacks.com": {
             "epoch": "1576972800",
@@ -13686,9 +13696,9 @@
             "state": "future"
         },
         "psnboy.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
-            "state": "past"
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
         },
         "psncardcodes.com": {
             "epoch": "1579219200",
