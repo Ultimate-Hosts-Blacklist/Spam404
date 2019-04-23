@@ -191,8 +191,8 @@
             "state": "future"
         },
         "7games7.com": {
-            "epoch": "1555891200",
-            "expiration_date": "22-apr-2019",
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
             "state": "future"
         },
         "7hacks.com": {
@@ -1090,6 +1090,11 @@
             "expiration_date": "17-feb-2020",
             "state": "future"
         },
+        "bestorican.com": {
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
+            "state": "future"
+        },
         "bestsupertech.com": {
             "epoch": "1559865600",
             "expiration_date": "07-jun-2019",
@@ -1738,7 +1743,7 @@
         "cazow.com": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "ce7.org": {
             "epoch": "1583193600",
@@ -1826,8 +1831,8 @@
             "state": "future"
         },
         "chaturbatetokenhack.org": {
-            "epoch": "1555891200",
-            "expiration_date": "22-apr-2019",
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
             "state": "future"
         },
         "cheapestgameservers.com": {
@@ -2783,7 +2788,7 @@
         "cooldocument.com": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "cooldownloadz.com": {
             "epoch": "1580342400",
@@ -3926,9 +3931,9 @@
             "state": "future"
         },
         "d2-roulette.com": {
-            "epoch": "1555804800",
-            "expiration_date": "21-apr-2019",
-            "state": "past"
+            "epoch": "1587427200",
+            "expiration_date": "21-apr-2020",
+            "state": "future"
         },
         "d2crazy.com": {
             "epoch": "1582588800",
@@ -4016,8 +4021,8 @@
             "state": "future"
         },
         "dehacks.com": {
-            "epoch": "1555891200",
-            "expiration_date": "22-apr-2019",
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
             "state": "future"
         },
         "delhack.net": {
@@ -6236,8 +6241,8 @@
             "state": "future"
         },
         "flamefolders.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "flamehacks.com": {
