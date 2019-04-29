@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Spam404/domains.list": {
-        "down": 168,
-        "invalid": 787,
-        "tested": 8168,
-        "up": 7213
+        "down": 1,
+        "invalid": 0,
+        "tested": 2515,
+        "up": 2514
     }
 }
