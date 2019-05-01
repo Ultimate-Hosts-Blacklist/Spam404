@@ -9163,7 +9163,7 @@
         "hack-team.org": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hack-tool.org": {
             "epoch": "1582416000",
@@ -10396,8 +10396,8 @@
             "state": "future"
         },
         "huiso.su": {
-            "epoch": "1556668800",
-            "expiration_date": "01-may-2019",
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
             "state": "future"
         },
         "humanverify.net": {
@@ -10881,8 +10881,8 @@
             "state": "future"
         },
         "itunescode-generator.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "itunescodegenerator.net": {
@@ -11081,8 +11081,8 @@
             "state": "future"
         },
         "k4movie.com": {
-            "epoch": "1556668800",
-            "expiration_date": "01-may-2019",
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
             "state": "future"
         },
         "keepskins.com": {
@@ -12665,6 +12665,11 @@
             "expiration_date": "24-may-2019",
             "state": "future"
         },
+        "newfbapps.com": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
+        },
         "newfreehacks.com": {
             "epoch": "1561334400",
             "expiration_date": "24-jun-2019",
@@ -13291,8 +13296,8 @@
             "state": "future"
         },
         "piratagefbgratuit.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "piratagelogiciels.com": {
