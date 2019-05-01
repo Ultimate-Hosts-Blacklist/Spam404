@@ -16355,6 +16355,11 @@
             "expiration_date": "19-oct-2019",
             "state": "future"
         },
+        "texturepacksminecraft.com": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
+        },
         "tf2legendary.com": {
             "epoch": "1580947200",
             "expiration_date": "06-feb-2020",
@@ -17226,8 +17231,8 @@
             "state": "future"
         },
         "usehacks.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "usscase.com": {
@@ -17736,8 +17741,8 @@
             "state": "future"
         },
         "wizard101giveaway.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "wonderhacks.com": {
