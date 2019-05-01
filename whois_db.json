@@ -236,8 +236,8 @@
             "state": "future"
         },
         "accountgiveaway.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "accounthackers.com": {
@@ -3000,6 +3000,11 @@
             "expiration_date": "29-jul-2019",
             "state": "future"
         },
+        "crypto-loot.com": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
         "cs-money.money": {
             "epoch": "1574294400",
             "expiration_date": "21-nov-2019",
@@ -4156,8 +4161,8 @@
             "state": "future"
         },
         "direct-hacks.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "directfilelinks.com": {
@@ -5676,9 +5681,9 @@
             "state": "future"
         },
         "fifa14-hack-players.biz": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
+            "state": "future"
         },
         "fifa15gen.com": {
             "epoch": "1576972800",
@@ -5788,7 +5793,7 @@
         "filedez.com": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "filedictation.com": {
             "epoch": "1581206400",
@@ -6003,7 +6008,7 @@
         "filespeedy.net": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "filespeedy.org": {
             "epoch": "1565654400",
@@ -6276,8 +6281,8 @@
             "state": "future"
         },
         "fkedup.com": {
-            "epoch": "1556668800",
-            "expiration_date": "01-may-2019",
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
             "state": "future"
         },
         "flamefile.com": {
@@ -6363,7 +6368,7 @@
         "forfreeminecraft.com": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "fornaxgames.com": {
             "epoch": "1583452800",
@@ -6413,7 +6418,7 @@
         "fox-hd.com": {
             "epoch": "1556668800",
             "expiration_date": "01-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "foxhax.com": {
             "epoch": "1560297600",
@@ -6573,6 +6578,11 @@
         "free-steam-code.com": {
             "epoch": "1559088000",
             "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "free-steam-games.com": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "free-steam-games.net": {
@@ -7856,8 +7866,8 @@
             "state": "future"
         },
         "gamercheatscode.com": {
-            "epoch": "1556668800",
-            "expiration_date": "01-may-2019",
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
             "state": "future"
         },
         "gamerlh.com": {
