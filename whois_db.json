@@ -9166,9 +9166,9 @@
             "state": "future"
         },
         "hack-team.org": {
-            "epoch": "1556668800",
-            "expiration_date": "01-may-2019",
-            "state": "past"
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
+            "state": "future"
         },
         "hack-tool.org": {
             "epoch": "1582416000",
@@ -9923,7 +9923,7 @@
         "hacksplanet.net": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hacksplanet.org": {
             "epoch": "1588291200",
@@ -12523,7 +12523,7 @@
         "mymediasearchnow.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "mymobileappz.com": {
             "epoch": "1577404800",
@@ -13141,8 +13141,8 @@
             "state": "future"
         },
         "pashuber.net": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "passhackfb.com": {
