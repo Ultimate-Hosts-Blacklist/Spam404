@@ -6096,14 +6096,14 @@
             "||xboxonegamesfree.com^",
             "||xboxpoints.info^",
             "||xboxpoints4free.com^",
-            "||xboxps3topc.com^"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
+            "||xboxps3topc.com^",
             "Homepage:",
             "Last",
             "License:",
-            "Link",
+            "Link"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
             "Plus",
             "shortz.so##[onclick=\"awaiting();\"]",
             "Title:",
