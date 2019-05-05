@@ -4675,14 +4675,14 @@
             "||premiumaccountgenerator.com^",
             "||premiumaccountsgenerator.com^",
             "||premiumarea.eu^",
-            "||premiumcrack.com^"
-        ],
-        "to_test": [
-            "hepimovie.net###login",
+            "||premiumcrack.com^",
             "Homepage:",
             "Last",
             "License:",
-            "Link",
+            "Link"
+        ],
+        "to_test": [
+            "hepimovie.net###login",
             "Plus",
             "shortz.so##[onclick=\"awaiting();\"]",
             "Title:",
