@@ -8858,7 +8858,7 @@
         "greenbill.us": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "grinchfile.com": {
             "epoch": "1583539200",
@@ -9931,9 +9931,9 @@
             "state": "future"
         },
         "hacksplanet.net": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
-            "state": "past"
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "hacksplanet.org": {
             "epoch": "1588291200",
@@ -10061,8 +10061,8 @@
             "state": "future"
         },
         "hackzs.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "haltgame.com": {
@@ -10223,7 +10223,7 @@
         "hillclimbracinghack.com": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hiperhacks.net": {
             "epoch": "1579910400",
@@ -11776,8 +11776,8 @@
             "state": "future"
         },
         "massivehacking.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "masszip.com": {
@@ -12531,9 +12531,9 @@
             "state": "future"
         },
         "mymediasearchnow.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
-            "state": "past"
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "mymobileappz.com": {
             "epoch": "1577404800",
