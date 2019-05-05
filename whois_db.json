@@ -955,6 +955,11 @@
             "expiration_date": "12-oct-2019",
             "state": "future"
         },
+        "beemtrade.com": {
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
+            "state": "future"
+        },
         "benget.com": {
             "epoch": "1575676800",
             "expiration_date": "07-dec-2019",
@@ -4773,7 +4778,7 @@
         "e-telecharger.com": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "earncodes.com": {
             "epoch": "1567641600",
@@ -4856,8 +4861,8 @@
             "state": "future"
         },
         "ehubgame.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "eightmilecreek.us": {
@@ -5256,8 +5261,8 @@
             "state": "future"
         },
         "ezgamesworld.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "ezskins.trade": {
@@ -7491,8 +7496,8 @@
             "state": "future"
         },
         "frogaming.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "fullepisodesfree.com": {
@@ -8178,6 +8183,11 @@
         "gamhack.com": {
             "epoch": "1580256000",
             "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
+        "gaming-gangsters.com": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "gamingcitadel.com": {
