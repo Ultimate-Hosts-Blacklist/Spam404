@@ -16661,8 +16661,8 @@
             "state": "future"
         },
         "topfbcheats.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "topfree.us": {
@@ -17373,6 +17373,11 @@
         "vidhaze.com": {
             "epoch": "1695513600",
             "expiration_date": "24-sep-2023",
+            "state": "future"
+        },
+        "vidpromoter.com": {
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
             "state": "future"
         },
         "viewfile.org": {
