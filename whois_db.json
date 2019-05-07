@@ -9796,8 +9796,8 @@
             "state": "future"
         },
         "hacksday.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "hacksdeposit.com": {
@@ -9926,8 +9926,8 @@
             "state": "future"
         },
         "hackspix.com": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
             "state": "future"
         },
         "hacksplanet.net": {
@@ -10221,9 +10221,9 @@
             "state": "future"
         },
         "hillclimbracinghack.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
-            "state": "past"
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
+            "state": "future"
         },
         "hiperhacks.net": {
             "epoch": "1579910400",
@@ -11253,7 +11253,7 @@
         "lasthacks.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "latestgamehacks.com": {
             "epoch": "1559260800",
@@ -11301,8 +11301,8 @@
             "state": "future"
         },
         "leaguerewards.net": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
             "state": "future"
         },
         "leagueriotpoints.com": {
@@ -12738,7 +12738,7 @@
         "news-report24.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "news-today.pw": {
             "epoch": "1564531200",
