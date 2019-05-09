@@ -9671,8 +9671,8 @@
             "state": "future"
         },
         "hacks-land.net": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "hacks-world.com": {
@@ -9866,8 +9866,8 @@
             "state": "future"
         },
         "hackshot.info": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "hackskypewebcam.com": {
@@ -11251,9 +11251,9 @@
             "state": "future"
         },
         "lasthacks.com": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
-            "state": "past"
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
+            "state": "future"
         },
         "latestgamehacks.com": {
             "epoch": "1559260800",
@@ -11525,6 +11525,11 @@
             "expiration_date": "30-nov-2019",
             "state": "future"
         },
+        "livepsncodes.com": {
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
+            "state": "future"
+        },
         "liversely.com": {
             "epoch": "1564444800",
             "expiration_date": "30-jul-2019",
@@ -11716,8 +11721,8 @@
             "state": "future"
         },
         "m0vl.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "maddenmobilehackcheats.xyz": {
@@ -11876,8 +11881,8 @@
             "state": "future"
         },
         "mediasearchdirect.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "meez.us": {
@@ -12736,9 +12741,9 @@
             "state": "future"
         },
         "news-report24.com": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
-            "state": "past"
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
+            "state": "future"
         },
         "news-today.pw": {
             "epoch": "1564531200",
@@ -12783,7 +12788,7 @@
         "ninjakeygens.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "nintendo3ds4free.com": {
             "epoch": "1585785600",
