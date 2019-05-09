@@ -46,8 +46,8 @@
             "state": "future"
         },
         "2013-hacks.net": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "2013hacks.com": {
@@ -713,7 +713,7 @@
         "approvedhacks.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "appscracker.com": {
             "epoch": "1563235200",
@@ -1076,8 +1076,8 @@
             "state": "future"
         },
         "besthacks4u.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "besthacksdll.com": {
@@ -4026,9 +4026,9 @@
             "state": "future"
         },
         "datcsgo.org": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
-            "state": "past"
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
+            "state": "future"
         },
         "datskins.com": {
             "epoch": "1580428800",
@@ -4128,7 +4128,7 @@
         "devteamjailbreak.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "dewisri.pw": {
             "epoch": "1585094400",
@@ -6408,7 +6408,7 @@
         "fortnitefreedownload.net": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "fortunefiles.org": {
             "epoch": "1571961600",
@@ -8506,8 +8506,8 @@
             "state": "future"
         },
         "giftcardsbay.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "giftcardsforu.com": {
