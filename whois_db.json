@@ -100,8 +100,8 @@
         "state": "future"
     },
     "3604free.com": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "360elite4free.com": {
@@ -879,6 +879,11 @@
         "expiration_date": "12-jan-2020",
         "state": "future"
     },
+    "bakmid.ru": {
+        "epoch": 1565568000,
+        "expiration_date": "12-aug-2019",
+        "state": "future"
+    },
     "baltihen.com": {
         "epoch": "1569456000",
         "expiration_date": "26-sep-2019",
@@ -1602,6 +1607,11 @@
     "buteringift.com": {
         "epoch": "1586390400",
         "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "butubi.ru": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "buycounterfeitmoneynow.com": {
@@ -4279,6 +4289,11 @@
         "expiration_date": "10-nov-2019",
         "state": "future"
     },
+    "dikisigi.ru": {
+        "epoch": 1562112000,
+        "expiration_date": "03-jul-2019",
+        "state": "future"
+    },
     "dinxteam.com": {
         "epoch": "1572048000",
         "expiration_date": "26-oct-2019",
@@ -4397,6 +4412,11 @@
     "dokona.ru": {
         "epoch": 1585094400,
         "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "doktordick.com": {
+        "epoch": 1563062400,
+        "expiration_date": "14-jul-2019",
         "state": "future"
     },
     "dolcedrop.com": {
@@ -8701,8 +8721,8 @@
     },
     "getriotpointsfree.com": {
         "epoch": "1559433600",
-        "expiration_date": "02-jun-2019",
-        "state": "future"
+        "expiration_date": "08-oct-2018",
+        "state": "past"
     },
     "geturbobit.biz": {
         "epoch": "1538956800",
@@ -11399,6 +11419,11 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "jupol.ru": {
+        "epoch": 1577664000,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
     "jurassicparkbuildercheats.net": {
         "epoch": "1606608000",
         "expiration_date": "29-nov-2020",
@@ -11429,9 +11454,19 @@
         "expiration_date": "24-jul-2019",
         "state": "future"
     },
+    "kafib.ru": {
+        "epoch": 1573689600,
+        "expiration_date": "14-nov-2019",
+        "state": "future"
+    },
     "karep.ru": {
         "epoch": 1583107200,
         "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "kated.ru": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "keepskins.com": {
@@ -11549,6 +11584,11 @@
         "expiration_date": "07-aug-2019",
         "state": "future"
     },
+    "kilut.ru": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "king-skin.net": {
         "epoch": "1574812800",
         "expiration_date": "27-nov-2019",
@@ -11567,6 +11607,11 @@
     "kipatos.ru": {
         "epoch": 1564185600,
         "expiration_date": "27-jul-2019",
+        "state": "future"
+    },
+    "kireb.ru": {
+        "epoch": 1571270400,
+        "expiration_date": "17-oct-2019",
         "state": "future"
     },
     "klaustrade.com": {
@@ -11597,6 +11642,11 @@
     "kufuner.ru": {
         "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
+        "state": "future"
+    },
+    "kukiwu.ru": {
+        "epoch": 1563580800,
+        "expiration_date": "20-jul-2019",
         "state": "future"
     },
     "kutozebi.ru": {
@@ -12154,6 +12204,11 @@
         "expiration_date": "20-oct-2019",
         "state": "future"
     },
+    "magicranktracker.com": {
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
     "magicsubmitter.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
@@ -12359,6 +12414,11 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
+    "mekikad.ru": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "memonod.ru": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
@@ -12465,7 +12525,7 @@
         "state": "future"
     },
     "minecrafthosting.biz": {
-        "epoch": "1555545600",
+        "epoch": 1555545600,
         "expiration_date": "18-apr-2019",
         "state": "past"
     },
@@ -14655,8 +14715,8 @@
         "state": "future"
     },
     "quickfiled.com": {
-        "epoch": "1557446400",
-        "expiration_date": "10-may-2019",
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
         "state": "future"
     },
     "quickfilmz.com": {
@@ -14747,6 +14807,11 @@
     "rasegamble.com": {
         "epoch": "1580774400",
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "ratose.ru": {
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "ravageskins.com": {
@@ -16585,9 +16650,9 @@
         "state": "future"
     },
     "steam-wallet.co": {
-        "epoch": "1558310400",
+        "epoch": 1558310400,
         "expiration_date": "20-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "steam-wallet.com": {
         "epoch": "1579392000",
@@ -16927,6 +16992,11 @@
     "suvoz.ru": {
         "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
+        "state": "future"
+    },
+    "svikob.ru": {
+        "epoch": 1562284800,
+        "expiration_date": "05-jul-2019",
         "state": "future"
     },
     "swapnesia.com": {
@@ -18664,6 +18734,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "wurovi.ru": {
+        "epoch": 1563148800,
+        "expiration_date": "15-jul-2019",
+        "state": "future"
+    },
     "wwwtestsportsclubs.com": {
         "epoch": "1563062400",
         "expiration_date": "14-jul-2019",
@@ -19149,6 +19224,11 @@
         "expiration_date": "04-aug-2019",
         "state": "future"
     },
+    "zelomeli.ru": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
     "zfile.us": {
         "epoch": "1638576000",
         "expiration_date": "04-dec-2021",
@@ -19162,6 +19242,11 @@
     "zimanew.ru": {
         "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
+        "state": "future"
+    },
+    "zimunap.ru": {
+        "epoch": 1564358400,
+        "expiration_date": "29-jul-2019",
         "state": "future"
     },
     "zippydownloads.com": {
