@@ -19346,7 +19346,8 @@
     },
     "yourfreeipadmini.com": {
         "epoch": "1566864000",
-        "expiration_date": "27-aug-2019",
+        "ex: "10-jun-2019",
+        "sta,
         "state": "future"
     },
     "yourfreeiphone.com": {
@@ -19585,6 +19586,11 @@
         "state": "future"
     },
     "zupiv.ru": {
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    }
+}    "zupiv.ru": {
         "epoch": 1592870400,
         "expiration_date": "23-jun-2020",
         "state": "future"
