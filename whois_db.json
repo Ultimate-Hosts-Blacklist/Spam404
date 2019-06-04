@@ -259,6 +259,11 @@
         "expiration_date": "15-mar-2019",
         "state": "past"
     },
+    "facebook-hack.org": {
+        "epoch": 1622764800,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
+    },
     "facebookpirateruncompte.com": {
         "epoch": 1576713600,
         "expiration_date": "19-dec-2019",
