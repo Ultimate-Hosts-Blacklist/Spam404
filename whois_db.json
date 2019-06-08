@@ -1261,6 +1261,11 @@
     },
     "hot-hacks.com": {
         "epoch": 1585872000,
+        "expiration_d: "08-jul-2019",
+        "state": "future"
+    },
+    "hot-hacks.com": {
+        "epoch": 1585872000,
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
@@ -1891,12 +1896,7 @@
     },
     "skinshall.com": {
         "epoch": 1577491200,
-        "expiration_date": "28-dec-2019",
-        "state": "future"
-    },
-    "skinslike.pro": {
-        "epoch": 1590537600,
-        "expiration_date": "27-may-2020",
+        "expiration_date": "2: "27-may-2020",
         "state": "future"
     },
     "snapchathack.co": {
@@ -2185,6 +2185,11 @@
         "state": "future"
     },
     "zufiles.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    }
+}  "zufiles.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
         "state": "future"
