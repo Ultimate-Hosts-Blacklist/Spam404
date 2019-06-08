@@ -1254,6 +1254,11 @@
         "expiration_date": "28-sep-2019",
         "state": "future"
     },
+    "holadescuentos.com": {
+        "epoch": 1562544000,
+        "expiration_date": "08-jul-2019",
+        "state": "future"
+    },
     "hot-hacks.com": {
         "epoch": 1585872000,
         "expiration_date": "03-apr-2020",
