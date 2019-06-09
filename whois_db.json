@@ -144,6 +144,11 @@
         "expiration_date": "12-jul-2019",
         "state": "future"
     },
+    "hackgta5online.com": {
+        "epoch": 1553299200,
+        "expiration_date": "23-mar-2019",
+        "state": "past"
+    },
     "hardfork-bitcoinabc.info": {
         "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
@@ -182,6 +187,11 @@
     "jfhvip.com": {
         "epoch": 1567468800,
         "expiration_date": "03-sep-2019",
+        "state": "future"
+    },
+    "karinot.ru": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "kesconti.com": {
