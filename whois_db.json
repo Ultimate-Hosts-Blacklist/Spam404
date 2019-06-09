@@ -194,6 +194,11 @@
         "expiration_date": "17-oct-2019",
         "state": "future"
     },
+    "klowis.ru": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
+        "state": "future"
+    },
     "konere.ru": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
