@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 5,
-        "counter": {
-            "down": 7155,
-            "invalid": 0,
-            "tested": 13497,
-            "up": 6342
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Jun 12 18:24:52 2019",
-    "end_epoch": 1560363892.294847,
+    "end_datetime": "Fri Jun 14 17:42:18 2019",
+    "end_epoch": 1560534138.91437,
     "last_autosave_datetime": "Fri Jun 14 17:22:12 2019",
     "last_autosave_epoch": 1560532932.898803,
     "name": "Spam404",
     "previous_stats": {
-        "builds": 7,
-        "clean.list": 6832,
+        "builds": 6,
+        "clean.list": 6877,
         "counter": {
-            "down": 7813,
+            "down": 7836,
             "invalid": 0,
-            "tested": 14645,
-            "up": 6832
+            "tested": 14713,
+            "up": 6877
         },
-        "domains.list": 14645,
-        "volatile.list": 6832,
-        "whitelisted.list": 6832
+        "domains.list": 14713,
+        "volatile.list": 6877,
+        "whitelisted.list": 6877
     },
     "raw_link": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
     "start_datetime": "Fri Jun 14 15:50:24 2019",
