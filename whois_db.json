@@ -849,6 +849,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "bepoc.ru": {
+        "epoch": 1563580800,
+        "expiration_date": "20-jul-2019",
+        "state": "future"
+    },
     "beprogamer.com": {
         "epoch": 1566172800,
         "expiration_date": "19-aug-2019",
@@ -4605,6 +4610,11 @@
         "state": "future"
     },
     "filefreehost.com": {
+        "epoch": 1564963200,
+        "expiration_date": "05-aug-2019",
+        "state": "future"
+    },
+    "filefreeshare.com": {
         "epoch": 1564963200,
         "expiration_date": "05-aug-2019",
         "state": "future"
