@@ -2589,6 +2589,11 @@
         "expiration_date": "29-jul-2019",
         "state": "future"
     },
+    "crypto-loot.com": {
+        "epoch": 1570147200,
+        "expiration_date": "04-oct-2019",
+        "state": "future"
+    },
     "cs-money.pro": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
@@ -8364,6 +8369,11 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "hellpoint.net": {
+        "epoch": 1555372800,
+        "expiration_date": "16-apr-2019",
+        "state": "past"
+    },
     "hellswap.com": {
         "epoch": 1567987200,
         "expiration_date": "09-sep-2019",
@@ -11569,6 +11579,11 @@
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "powggi.ru": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "poyed.ru": {
         "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
@@ -11672,6 +11687,11 @@
     "premiumhackgames.com": {
         "epoch": 1565395200,
         "expiration_date": "10-aug-2019",
+        "state": "future"
+    },
+    "premiumkeygenerators.com": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "premiumprovide.com": {
@@ -11982,6 +12002,11 @@
     "qomeg.ru": {
         "epoch": 1573689600,
         "expiration_date": "14-nov-2019",
+        "state": "future"
+    },
+    "qoqupi.ru": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "qskin.pro": {
