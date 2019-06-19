@@ -9350,9 +9350,9 @@
         "state": "future"
     },
     "keysetcrack.fr": {
-        "epoch": 1558051200,
-        "expiration_date": "17-may-2019",
-        "state": "past"
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
     },
     "kickmovies.com": {
         "epoch": 1581465600,
@@ -12357,6 +12357,11 @@
     "rigafah.ru": {
         "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
+        "state": "future"
+    },
+    "riorub.ru": {
+        "epoch": 1563926400,
+        "expiration_date": "24-jul-2019",
         "state": "future"
     },
     "riotcodesgenerator.com": {
@@ -15907,6 +15912,11 @@
     "zisew.ru": {
         "epoch": 1588291200,
         "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "zisogav.ru": {
+        "epoch": 1564444800,
+        "expiration_date": "30-jul-2019",
         "state": "future"
     },
     "zisuh.ru": {
