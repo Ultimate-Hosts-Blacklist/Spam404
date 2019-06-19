@@ -534,6 +534,11 @@
         "expiration_date": "11-feb-2020",
         "state": "future"
     },
+    "eventsteam.pro": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "examplecase.org": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
@@ -557,6 +562,11 @@
     "ezzdrop.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "facebookhack.pl": {
+        "epoch": 1563840000,
+        "expiration_date": "23-jul-2019",
         "state": "future"
     },
     "facebookpirateruncompte.com": {
@@ -828,6 +838,11 @@
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
         "state": "future"
+    },
+    "globalfiles.net": {
+        "epoch": 1555718400,
+        "expiration_date": "20-apr-2019",
+        "state": "past"
     },
     "gopawa.ru": {
         "epoch": 1594684800,
@@ -2082,6 +2097,11 @@
     "twazizo.ru": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "uberheadquarters.com": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "ubifee.ru": {
