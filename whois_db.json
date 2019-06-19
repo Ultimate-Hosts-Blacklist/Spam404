@@ -1414,6 +1414,11 @@
         "expiration_date": "13-may-2020",
         "state": "future"
     },
+    "cajaro.ru": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "calhacks.org": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
@@ -2118,6 +2123,11 @@
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
         "state": "future"
+    },
+    "clashofclanshackonline.net": {
+        "epoch": 1555632000,
+        "expiration_date": "19-apr-2019",
+        "state": "past"
     },
     "clashofclanshackonline.org": {
         "epoch": 1566950400,
