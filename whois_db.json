@@ -6074,6 +6074,11 @@
         "expiration_date": "27-jul-2019",
         "state": "future"
     },
+    "fugub.ru": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
     "fullepisodesfree.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -7830,9 +7835,9 @@
         "state": "future"
     },
     "hackgta5online.com": {
-        "epoch": 1553299200,
-        "expiration_date": "23-mar-2019",
-        "state": "past"
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
     },
     "hackig.com": {
         "epoch": 1586908800,
@@ -9817,6 +9822,11 @@
     "lootplatform.pro": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "lopagu.ru": {
+        "epoch": 1586563200,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "lordhacks.com": {
