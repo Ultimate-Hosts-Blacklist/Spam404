@@ -479,6 +479,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "approvedhacks.com": {
+        "epoch": 1557360000,
+        "expiration_date": "09-may-2019",
+        "state": "past"
+    },
     "appscracker.com": {
         "epoch": 1563235200,
         "expiration_date": "16-jul-2019",
@@ -1162,6 +1167,11 @@
     "cases500.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "cases8csgo.com": {
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "cashbuzz.org": {
@@ -5174,6 +5184,11 @@
         "expiration_date": "15-feb-2020",
         "state": "future"
     },
+    "gamekeysandhacks.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
     "gameofthronesseason4episode2.com": {
         "epoch": 1579564800,
         "expiration_date": "21-jan-2020",
@@ -6007,6 +6022,11 @@
     "gtavmoneycheat.com": {
         "epoch": 1574121600,
         "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
+    "gugelo.ru": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "gukes.ru": {
@@ -10820,7 +10840,7 @@
         "state": "future"
     },
     "snapchathack.co": {
-        "epoch": 16000,
+        "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
         "state": "future"
     },
@@ -11357,6 +11377,11 @@
     "talksense.net": {
         "epoch": 1562889600,
         "expiration_date": "12-jul-2019",
+        "state": "future"
+    },
+    "taxiqipi.ru": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
         "state": "future"
     },
     "taxoz.ru": {
