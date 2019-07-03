@@ -1219,6 +1219,11 @@
         "expiration_date": "06-sep-2019",
         "state": "future"
     },
+    "ceduday.ru": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
+        "state": "future"
+    },
     "celebrantsd.pw": {
         "epoch": 1461628800,
         "expiration_date": "26-apr-2016",
@@ -1678,6 +1683,11 @@
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
         "state": "future"
+    },
+    "clashofclanshackonline.net": {
+        "epoch": 1555632000,
+        "expiration_date": "19-apr-2019",
+        "state": "past"
     },
     "clashofclanshackonline.org": {
         "epoch": 1566950400,
@@ -2863,6 +2873,11 @@
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
         "state": "future"
+    },
+    "downloadcounterstrikehack.com": {
+        "epoch": 1557792000,
+        "expiration_date": "14-may-2019",
+        "state": "past"
     },
     "downloadfreelab.com": {
         "epoch": 1571184000,
@@ -7507,6 +7522,11 @@
     "karep.ru": {
         "epoch": 1583107200,
         "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "kated.ru": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "kegiw.ru": {
