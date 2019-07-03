@@ -4329,6 +4329,11 @@
         "expiration_date": "10-apr-2019",
         "state": "past"
     },
+    "freeamazongift.net": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
+        "state": "future"
+    },
     "freeastuces.com": {
         "epoch": 1562716800,
         "expiration_date": "10-jul-2019",
@@ -10565,9 +10570,9 @@
         "state": "past"
     },
     "skidrowtorrent.com": {
-        "epoch": 1556236800,
-        "expiration_date": "26-apr-2019",
-        "state": "past"
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
     },
     "skill-hacks.com": {
         "epoch": 1587772800,
@@ -11164,6 +11169,11 @@
         "expiration_date": "08-nov-2019",
         "state": "future"
     },
+    "stormxcup.pro": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "str3ssed.me": {
         "epoch": 1573171200,
         "expiration_date": "08-nov-2019",
@@ -11502,6 +11512,11 @@
     "thehackonline.com": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
+        "state": "future"
+    },
+    "thehackspot.com": {
+        "epoch": 1577923200,
+        "expiration_date": "02-jan-2020",
         "state": "future"
     },
     "thekeygenfactory.co.uk": {
@@ -12309,6 +12324,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "vudatop.ru": {
+        "epoch": 1586995200,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "vufese.ru": {
         "epoch": 1589328000,
         "expiration_date": "13-may-2020",
@@ -13097,6 +13117,11 @@
     "zobiv.ru": {
         "epoch": 1583280000,
         "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "zomuhan.ru": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "zoomfiles.net": {
