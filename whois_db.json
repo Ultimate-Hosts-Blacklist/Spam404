@@ -4779,6 +4779,11 @@
         "expiration_date": "26-apr-2020",
         "state": "future"
     },
+    "freesoftgenerators.com": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "freesoftware4all.com": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
@@ -9038,6 +9043,11 @@
         "epoch": 1584489600,
         "expiration_date": "18-mar-2020",
         "state": "future"
+    },
+    "officialgiveaway.net": {
+        "epoch": 1557446400,
+        "expiration_date": "10-may-2019",
+        "state": "past"
     },
     "okfiles.net": {
         "epoch": 1571788800,
