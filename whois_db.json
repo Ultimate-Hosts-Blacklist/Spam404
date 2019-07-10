@@ -684,6 +684,11 @@
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
+    "limehacks.com": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "lock24.net": {
         "epoch": 1590278400,
         "expiration_date": "24-may-2020",
