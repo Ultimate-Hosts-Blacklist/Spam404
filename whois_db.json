@@ -144,6 +144,11 @@
         "expiration_date": "04-oct-2019",
         "state": "future"
     },
+    "csgo-prize.site": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "csgo-skins4.pro": {
         "epoch": 1591488000,
         "expiration_date": "07-jun-2020",
@@ -837,6 +842,11 @@
     "newhacktools.net": {
         "epoch": 1594252800,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "nonamefiles-2sd.site": {
+        "epoch": 1570838400,
+        "expiration_date": "12-oct-2019",
         "state": "future"
     },
     "nonamefiles-4sd.site": {
