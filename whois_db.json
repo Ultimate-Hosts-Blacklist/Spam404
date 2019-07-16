@@ -1794,6 +1794,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "csgoinrate.com": {
+        "epoch": 1576454400,
+        "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
     "csgojust.ru": {
         "epoch": 1590105600,
         "expiration_date": "22-may-2020",
@@ -6824,6 +6829,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "mokov.ru": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "monsterlegendscheat.com": {
         "epoch": 1576454400,
         "expiration_date": "16-dec-2019",
@@ -8294,6 +8304,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "rodekon.ru": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
     "rofowa.ru": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
@@ -8912,7 +8927,7 @@
     "softwarecrackfree.com": {
         "epoch": 1558051200,
         "expiration_date": "17-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "softwarecrackworks.com": {
         "epoch": 1581206400,
