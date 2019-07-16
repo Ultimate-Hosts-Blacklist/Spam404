@@ -2619,6 +2619,11 @@
         "expiration_date": "14-mar-2020",
         "state": "future"
     },
+    "esl-play.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "esl-tournament.net": {
         "epoch": 1581379200,
         "expiration_date": "11-feb-2020",
@@ -3722,6 +3727,11 @@
     "freenetflixaccount.org": {
         "epoch": 1590796800,
         "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "freenetflixaccounts.com": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "freenewbooks.com": {
@@ -6304,6 +6314,11 @@
         "expiration_date": "17-jul-2019",
         "state": "future"
     },
+    "lifelinessd.pw": {
+        "epoch": 1461628800,
+        "expiration_date": "26-apr-2016",
+        "state": "past"
+    },
     "lightdrop.top": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
@@ -7666,6 +7681,11 @@
     },
     "playstationnetworkcodes.biz": {
         "epoch": 2352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "pobunu.ru": {
+        "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
