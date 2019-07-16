@@ -2789,6 +2789,11 @@
         "expiration_date": "26-oct-2019",
         "state": "future"
     },
+    "famog.ru": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "famous-mobile.com": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
@@ -3317,6 +3322,11 @@
     "focusfile.com": {
         "epoch": 1594252800,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "foduzi.ru": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "foldertube.com": {
