@@ -1004,6 +1004,11 @@
         "expiration_date": "10-sep-2019",
         "state": "future"
     },
+    "centralsave.com": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
     "centuryuniversalssdlaboratory.com": {
         "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
@@ -7284,6 +7289,11 @@
         "expiration_date": "06-sep-2019",
         "state": "future"
     },
+    "nuguz.ru": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "numberhacker.com": {
         "epoch": 1592438400,
         "expiration_date": "18-jun-2020",
@@ -9842,6 +9852,11 @@
     "up-flow.org": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
+        "state": "future"
+    },
+    "uploadcash.org": {
+        "epoch": 1604793600,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "uploaderonline.com": {
