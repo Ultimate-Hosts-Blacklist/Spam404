@@ -6644,6 +6644,11 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "gamextensions.net": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
     "gamezfree.net": {
         "epoch": 1585353600,
         "expiration_date": "28-mar-2020",
@@ -7644,6 +7649,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "hackearfb.com": {
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
     "hackearunfb.info": {
         "epoch": 1586822400,
         "expiration_date": "14-apr-2020",
@@ -8507,6 +8517,11 @@
     "hotmoviebox.com": {
         "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
+        "state": "future"
+    },
+    "housemovieonline.com": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "houseoffunfreecoins.xyz": {
@@ -12962,6 +12977,7 @@
     "skidrowcrack.com": {
         "epoch": 1570924800,
         "expiration_da: ": "13-oct-2019",
+        "expiration_date": "13-oct-2019",
         "state": "future"
     },
     "skidrowhacking.com": {
@@ -15097,6 +15113,11 @@
     "waystohack.com": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "wcracked.com": {
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "we-hack.com": {
