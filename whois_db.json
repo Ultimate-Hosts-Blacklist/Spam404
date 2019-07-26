@@ -69,6 +69,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "banhok.ru": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
     "baraga.ru": {
         "epoch": 1574208000,
         "expiration_date": "20-nov-2019",
@@ -548,6 +553,11 @@
         "epoch": 1557705600,
         "expiration_date": "13-may-2019",
         "state": "past"
+    },
+    "fiwoko.ru": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
     },
     "foxhax.com": {
         "epoch": 1560297600,
@@ -1474,6 +1484,11 @@
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
+    "rivocib.ru": {
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
     "robbobrothers.com": {
         "epoch": 1559174400,
         "expiration_date": "30-may-2019",
@@ -1518,6 +1533,11 @@
         "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
         "state": "past"
+    },
+    "runedo.ru": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
     },
     "sakumix.ru": {
         "epoch": 1584230400,
@@ -1624,10 +1644,20 @@
         "expiration_date": "08-jun-2019",
         "state": "past"
     },
+    "sodudak.ru": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
     "softwarecrackfree.com": {
         "epoch": 1558051200,
         "expiration_date": "17-may-2019",
         "state": "past"
+    },
+    "sozuv.ru": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
     },
     "spacemega.com": {
         "epoch": 1558051200,
@@ -1939,6 +1969,11 @@
         "expiration_date": "01-jan-2020",
         "state": "future"
     },
+    "webroo.ru": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "wetuma.ru": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
@@ -2077,6 +2112,11 @@
     "yourfreeflatscreen.com": {
         "epoch": 1564617600,
         "expiration_date": "01-aug-2019",
+        "state": "future"
+    },
+    "yourfreeipadmini.com": {
+        "epoch": 1566864000,
+        "expiration_date": "27-aug-2019",
         "state": "future"
     },
     "yourfreeistuff.com": {
