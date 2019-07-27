@@ -154,6 +154,11 @@
         "expiration_date": "01-jun-2019",
         "state": "past"
     },
+    "caxega.ru": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
     "cazarure.ru": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
@@ -1487,6 +1492,11 @@
     "qeqom.ru": {
         "epoch": 1597190400,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "qipob.ru": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
         "state": "future"
     },
     "qomeg.ru": {
