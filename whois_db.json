@@ -814,6 +814,11 @@
         "expiration_date": "01-jun-2019",
         "state": "past"
     },
+    "camasi.ru": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
+        "state": "future"
+    },
     "cardcodes.net": {
         "epoch": 1567382400,
         "expiration_date": "02-sep-2019",
@@ -3849,6 +3854,11 @@
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "fuzem.ru": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
+        "state": "future"
+    },
     "gabecsgo.com": {
         "epoch": 1589500800,
         "expiration_date": "15-may-2020",
@@ -5999,6 +6009,11 @@
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
+    "lezepi.ru": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "lfunny.com": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
@@ -6087,6 +6102,11 @@
     "lootplatform.pro": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "lootversus.wtf": {
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "lopagu.ru": {
@@ -7899,6 +7919,11 @@
         "expiration_date": "22-aug-2019",
         "state": "future"
     },
+    "rubickgames.com": {
+        "epoch": 1561593600,
+        "expiration_date": "27-jun-2019",
+        "state": "past"
+    },
     "russianhackers.com": {
         "epoch": 1591488000,
         "expiration_date": "07-jun-2020",
@@ -8897,6 +8922,11 @@
     "thebesthack24.com": {
         "epoch": 1583625600,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "thecheatplanet.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "theclanofhack.com": {
@@ -10247,6 +10277,11 @@
     "zoruke.ru": {
         "epoch": 1593561600,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "zrfxc.com": {
+        "epoch": 1572998400,
+        "expiration_date": "06-nov-2019",
         "state": "future"
     },
     "zufiles.com": {
