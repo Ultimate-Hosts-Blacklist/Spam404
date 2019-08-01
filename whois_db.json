@@ -84,6 +84,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "bimil.ru": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "blackgameworld.com": {
         "epoch": 1689897600,
         "expiration_date": "21-jul-2023",
@@ -214,6 +219,11 @@
         "expiration_date": "25-aug-2019",
         "state": "future"
     },
+    "copob.ru": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
     "cpro.su": {
         "epoch": 1597363200,
         "expiration_date": "14-aug-2020",
@@ -232,6 +242,11 @@
     "csgo-tournament.com": {
         "epoch": 1575072000,
         "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
+    "csgoaways.com": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "csgocoolcase.com": {
@@ -357,6 +372,11 @@
     "evasi0n-download.com": {
         "epoch": 1583884800,
         "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "eweibo.ru": {
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "ezgamesworld.com": {
@@ -494,6 +514,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "fullgamesfreedownload.com": {
+        "epoch": 1560643200,
+        "expiration_date": "16-jun-2019",
+        "state": "past"
+    },
     "fullgamespc.com": {
         "epoch": 1596153600,
         "expiration_date": "31-jul-2020",
@@ -622,6 +647,11 @@
     "hikoq.ru": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "himazim.ru": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "hojava.ru": {
@@ -932,6 +962,11 @@
     "opengamehack.com": {
         "epoch": 1583539200,
         "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "papekut.ru": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "pelano.ru": {
@@ -1294,6 +1329,11 @@
         "expiration_date": "20-nov-2019",
         "state": "future"
     },
+    "webeyu.ru": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
     "weeb-tv.pl": {
         "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
@@ -1397,6 +1437,11 @@
     "zomuhan.ru": {
         "epoch": 1595980800,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "zrfxc.com": {
+        "epoch": 1572998400,
+        "expiration_date": "06-nov-2019",
         "state": "future"
     },
     "zurev.ru": {
