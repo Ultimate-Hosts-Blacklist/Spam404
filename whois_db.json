@@ -319,6 +319,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "dlmyapp.net": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "domocaw.ru": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
@@ -912,6 +917,11 @@
     "mvcbattle.pro": {
         "epoch": 1591228800,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "mysoftwareplace.com": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
         "state": "future"
     },
     "neloxu.ru": {
