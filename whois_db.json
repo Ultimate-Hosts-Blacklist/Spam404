@@ -4,6 +4,11 @@
         "expiration_date": "05-dec-2019",
         "state": "future"
     },
+    "adminpaneltop.site": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "albumleaked.com": {
         "epoch": 1560470400,
         "expiration_date": "14-jun-2019",
@@ -49,6 +54,11 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "begeti.ru": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
     "benget.com": {
         "epoch": 1575676800,
         "expiration_date": "07-dec-2019",
@@ -88,6 +98,11 @@
         "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
         "state": "past"
+    },
+    "bobjobe.ru": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
+        "state": "future"
     },
     "bododu.ru": {
         "epoch": 1594944000,
@@ -579,6 +594,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "fugub.ru": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
     "fullgamesfreedownload.com": {
         "epoch": 1560643200,
         "expiration_date": "16-jun-2019",
@@ -982,6 +1002,11 @@
     "meveze.ru": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "migejo.ru": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "migohi.ru": {
@@ -1389,6 +1414,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "st4ck-giveaways.site": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "steam-wallet.com": {
         "epoch": 1579392000,
         "expiration_date": "19-jan-2020",
@@ -1657,6 +1687,11 @@
     "xgamble.wtf": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "xgame-drop.store": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "xidibumu.ru": {
