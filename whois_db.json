@@ -319,6 +319,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "dlmyapp.net": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "dokona.ru": {
         "epoch": 1585094400,
         "expiration_date": "25-mar-2020",
@@ -1144,6 +1149,11 @@
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
+    "piaybattlegrounds.com": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
     "pirater-compte.com": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
@@ -1297,6 +1307,16 @@
     "runedo.ru": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "ruyat.ru": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "saqix.ru": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "secure-runescape.com": {
