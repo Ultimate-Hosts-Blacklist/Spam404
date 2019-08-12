@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 37,
+        "builds": 38,
         "counter": {
-            "down": 8041,
-            "invalid": 2,
-            "tested": 15026,
-            "up": 6983
+            "down": 860,
+            "invalid": 0,
+            "tested": 2779,
+            "up": 1919
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Fri Aug  9 18:24:58 2019",
     "end_epoch": 1565375098.063857,
-    "last_autosave_datetime": "Mon Aug 12 09:29:18 2019",
-    "last_autosave_epoch": 1565602158.456127,
+    "last_autosave_datetime": "Mon Aug 12 20:59:43 2019",
+    "last_autosave_epoch": 1565643583.735082,
     "name": "Spam404",
     "previous_stats": {
         "builds": 6,
