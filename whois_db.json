@@ -199,6 +199,11 @@
         "expiration_date": "10-jun-2019",
         "state": "past"
     },
+    "cochack.site": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
     "coldenvy.info": {
         "epoch": 1577491200,
         "expiration_date": "28-dec-2019",
@@ -257,6 +262,11 @@
     "csgoluxetrade.com": {
         "epoch": 1574035200,
         "expiration_date": "18-nov-2019",
+        "state": "future"
+    },
+    "csgomarkets.icu": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "csgopattern.info": {
@@ -764,6 +774,11 @@
         "expiration_date": "20-may-2020",
         "state": "future"
     },
+    "historicskins.fun": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "hojava.ru": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
@@ -1269,6 +1284,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "qqskinsx.fun": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
     "rasegamble.com": {
         "epoch": 1587513600,
         "expiration_date": "22-apr-2020",
@@ -1374,6 +1394,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "skinmonero.fun": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
     "skins-index.info": {
         "epoch": 1590364800,
         "expiration_date": "25-may-2020",
@@ -1422,6 +1447,16 @@
     "ssuvumo.ru": {
         "epoch": 1588723200,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "st4ck-giveaways.site": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "st4ckgiveway.site": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "steam-wallet.com": {
@@ -1707,6 +1742,11 @@
     "xgamble.wtf": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "xgame-drop.store": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "xidibumu.ru": {
