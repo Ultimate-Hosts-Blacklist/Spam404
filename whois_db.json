@@ -69,6 +69,11 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
+    "bestdatastore.com": {
+        "epoch": 1560384000,
+        "expiration_date": "13-jun-2019",
+        "state": "past"
+    },
     "bestfreehacktools.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -104,6 +109,11 @@
         "expiration_date": "13-jun-2019",
         "state": "past"
     },
+    "bododu.ru": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "bombhack.com": {
         "epoch": 1559779200,
         "expiration_date": "06-jun-2019",
@@ -122,6 +132,11 @@
     "bowaq.ru": {
         "epoch": 1599350400,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "calhacks.org": {
+        "epoch": 1588464000,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "callofduty-beta.com": {
@@ -270,6 +285,11 @@
         "state": "future"
     },
     "csgoxcup.pro": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "csgoxtrade.pro": {
         "epoch": 1590451200,
         "expiration_date": "26-may-2020",
         "state": "future"
@@ -514,6 +534,11 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "foduzi.ru": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "fortnite.events": {
         "epoch": 1651968000,
         "expiration_date": "08-may-2022",
@@ -744,6 +769,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "hardfork-bitcoinabc.info": {
+        "epoch": 1572998400,
+        "expiration_date": "06-nov-2019",
+        "state": "future"
+    },
     "haxeg.ru": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
@@ -812,6 +842,11 @@
     "kabodo.ru": {
         "epoch": 1575158400,
         "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "kacupu.ru": {
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "kafib.ru": {
@@ -924,6 +959,11 @@
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "lopagu.ru": {
+        "epoch": 1586563200,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "lowifox.ru": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
@@ -932,6 +972,11 @@
     "ludoq.ru": {
         "epoch": 1595808000,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "mabexo.ru": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "maduga.ru": {
@@ -1119,6 +1164,11 @@
         "expiration_date": "31-may-2019",
         "state": "past"
     },
+    "olavmido.ru": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
     "onlinefbhack.com": {
         "epoch": 1559260800,
         "expiration_date": "31-may-2019",
@@ -1142,6 +1192,11 @@
     "pcgameshackcenter.com": {
         "epoch": 1597017600,
         "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "piaybattlegrounds.com": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
         "state": "future"
     },
     "pimpinggadgets.com": {
@@ -1209,6 +1264,11 @@
         "expiration_date": "02-aug-2019",
         "state": "past"
     },
+    "pubg-trade.com": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "pubgrize.com": {
         "epoch": 1592438400,
         "expiration_date": "18-jun-2020",
@@ -1272,6 +1332,11 @@
     "rocket-companion.info": {
         "epoch": 1580342400,
         "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
+    "rodekon.ru": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "rolls.wtf": {
