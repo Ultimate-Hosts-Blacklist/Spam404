@@ -419,6 +419,11 @@
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
+    "drop-cases.pro": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
     "dubemeqi.ru": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
@@ -667,6 +672,11 @@
     "fridero.ru": {
         "epoch": 1577664000,
         "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "fubiq.ru": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "fucebit.ru": {
@@ -1163,6 +1173,11 @@
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
         "state": "future"
+    },
+    "msxblpointscodes.com": {
+        "epoch": 1559692800,
+        "expiration_date": "05-jun-2019",
+        "state": "past"
     },
     "mujer-shopping.com": {
         "epoch": 1577059200,
@@ -1728,6 +1743,11 @@
         "epoch": 1560902400,
         "expiration_date": "19-jun-2019",
         "state": "past"
+    },
+    "trucoslibre.com": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
     },
     "truefiles.net": {
         "epoch": 1572048000,
