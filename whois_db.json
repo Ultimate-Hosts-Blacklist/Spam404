@@ -439,6 +439,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "applefreegifts.com": {
+        "epoch": 1595635200,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
     "applefreehacks.com": {
         "epoch": 1598486400,
         "expiration_date": "27-aug-2020",
@@ -5459,6 +5464,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "giffgaff-simswap.help": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "giftcards4fans.com": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
@@ -5592,6 +5602,11 @@
     "gogamecheats.com": {
         "epoch": 1598486400,
         "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "gohus.ru": {
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "goldgamehacks.com": {
@@ -7607,6 +7622,11 @@
     "lecoinsdesavantages.fr": {
         "epoch": 1590883200,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "leetskins.com": {
+        "epoch": 1630108800,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "legendarycheats.com": {
@@ -9890,6 +9910,11 @@
         "expiration_date": "11-jun-2019",
         "state": "past"
     },
+    "repozi.ru": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
     "reversed.biz": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
@@ -11630,6 +11655,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "turukana.ru": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
     "tvshowzonline.com": {
         "epoch": 1579132800,
         "expiration_date": "16-jan-2020",
@@ -12563,6 +12593,11 @@
     "xedore.ru": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "xenase.ru": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
         "state": "future"
     },
     "xgamble.wtf": {
