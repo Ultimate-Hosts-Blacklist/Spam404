@@ -139,6 +139,11 @@
         "expiration_date": "14-apr-2020",
         "state": "future"
     },
+    "chop.wtf": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "cinac.ru": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
@@ -734,6 +739,11 @@
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "lowifox.ru": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "mabexo.ru": {
         "epoch": 1596153600,
         "expiration_date": "31-jul-2020",
@@ -1309,6 +1319,11 @@
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
+    "xblunter.net": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "xboxlab.com": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
@@ -1367,6 +1382,11 @@
     "zupiv.ru": {
         "epoch": 1592870400,
         "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "zurev.ru": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
         "state": "future"
     }
 }
