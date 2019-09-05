@@ -3759,6 +3759,11 @@
         "expiration_date": "16-jun-2020",
         "state": "future"
     },
+    "eventcsgo.pro": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "eventsteam.pro": {
         "epoch": 1590192000,
         "expiration_date": "23-may-2020",
