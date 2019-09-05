@@ -354,6 +354,11 @@
         "expiration_date": "31-oct-2019",
         "state": "future"
     },
+    "alphacsgo.pro": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "alt-gen.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
@@ -9199,6 +9204,11 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "maduga.ru": {
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "magicranktracker.com": {
         "epoch": 1576627200,
         "expiration_date": "18-dec-2019",
@@ -9373,6 +9383,11 @@
         "epoch": 1597104000,
         "expiration_date": "11-aug-2020",
         "state": "future"
+    },
+    "megahackfrancaise.com": {
+        "epoch": 1561507200,
+        "expiration_date": "26-jun-2019",
+        "state": "past"
     },
     "megapolis-hack.com": {
         "epoch": 1580688000,
@@ -13620,8 +13635,8 @@
         "state": "future"
     },
     "universehacks.com": {
-        "epoch": 1574726400,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1576800000,
+        "expiration_date": "20-dec-2019",
         "state": "future"
     },
     "universityofhackers.com": {
@@ -14022,6 +14037,11 @@
     "vskin.pro": {
         "epoch": 1585785600,
         "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "vudatop.ru": {
+        "epoch": 1586995200,
+        "expiration_date": "16-apr-2020",
         "state": "future"
     },
     "vufese.ru": {
