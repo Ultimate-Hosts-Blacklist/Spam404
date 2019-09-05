@@ -8604,6 +8604,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "keliye.ru": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
     "kellaform.ru": {
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
@@ -8622,6 +8627,11 @@
     "kevuci.ru": {
         "epoch": 1593734400,
         "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
+    "kexup.ru": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "keygen-steam.com": {
@@ -9949,6 +9959,11 @@
         "expiration_date": "29-nov-2019",
         "state": "future"
     },
+    "nehisoho.ru": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "neloxu.ru": {
         "epoch": 1595548800,
         "expiration_date": "24-jul-2020",
@@ -10235,9 +10250,9 @@
         "state": "future"
     },
     "numberhacker.com": {
-        "epoch": 1560816000,
-        "expiration_date": "18-jun-2019",
-        "state": "past"
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
     },
     "nutom.ru": {
         "epoch": 1597190400,
@@ -13992,6 +14007,11 @@
     "vooney.com": {
         "epoch": 1602288000,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "voqboard.ru": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "vor.cc": {
