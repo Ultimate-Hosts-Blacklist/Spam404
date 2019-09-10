@@ -2149,6 +2149,11 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "csgoaways.com": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "csgobeach.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
@@ -2487,6 +2492,11 @@
     "customermgmt.net": {
         "epoch": 1589500800,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "cutin.ru": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
         "state": "future"
     },
     "cuwuk.ru": {
@@ -6964,6 +6974,11 @@
         "expiration_date": "09-sep-2019",
         "state": "past"
     },
+    "huznim.ru": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
     "hypedrop.net": {
         "epoch": 15876000000,
         "expiration_date": "23-apr-2020",
@@ -7669,6 +7684,11 @@
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
+    "lecoindushopping-news.fr": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
     "leethax.net": {
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
@@ -8052,6 +8072,11 @@
     "mebesee.ru": {
         "epoch": 1592438400,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "mecetu.ru": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "media-tricks.com": {
@@ -8994,6 +9019,11 @@
         "expiration_date": "11-jul-2019",
         "state": "past"
     },
+    "papekut.ru": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "partage-mail.fr": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
@@ -9447,6 +9477,11 @@
     "prkrls.info": {
         "epoch": 1596499200,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "probtc.org": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "prodesigners.club": {
@@ -11674,6 +11709,11 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "tunuk.ru": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "tvseries-cravings.info": {
         "epoch": 1588550400,
         "expiration_date": "04-may-2020",
@@ -12112,6 +12152,11 @@
     "vokahoko.ru": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "volifern.ru": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "vomoko.ru": {
