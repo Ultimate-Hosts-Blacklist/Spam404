@@ -39,6 +39,11 @@
         "expiration_date": "08-dec-2019",
         "state": "future"
     },
+    "bahoci.ru": {
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
     "bakmid.ru": {
         "epoch": 1597190400,
         "expiration_date": "12-aug-2020",
@@ -282,6 +287,11 @@
     "cupwith.pro": {
         "epoch": 1590451200,
         "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "cutin.ru": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
         "state": "future"
     },
     "cuwuk.ru": {
@@ -1274,6 +1284,11 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "sokiz.ru": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
     "sozuv.ru": {
         "epoch": 1584403200,
         "expiration_date": "17-mar-2020",
@@ -1307,6 +1322,11 @@
     "steamconmunity.ru": {
         "epoch": 1600128000,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "steamplatform.wtf": {
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "steamwalletadder.com": {
