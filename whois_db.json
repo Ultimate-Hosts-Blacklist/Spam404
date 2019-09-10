@@ -804,6 +804,11 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "klowis.ru": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
     "konere.ru": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
@@ -822,6 +827,11 @@
     "labono.ru": {
         "epoch": 1591747200,
         "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "leaguegamer.net": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "lecoindushopping-news.fr": {
@@ -1103,6 +1113,11 @@
         "epoch": 1595376000,
         "expiration_date": "22-jul-2020",
         "state": "future"
+    },
+    "prodesigners.club": {
+        "epoch": 1564704000,
+        "expiration_date": "02-aug-2019",
+        "state": "past"
     },
     "ps3redeemcodes.com": {
         "epoch": 1564099200,
@@ -1632,6 +1647,11 @@
     "xn--imgr-x05a.com": {
         "epoch": 1574380800,
         "expiration_date": "22-nov-2019",
+        "state": "future"
+    },
+    "xogeh.ru": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
         "state": "future"
     },
     "xoguq.ru": {
