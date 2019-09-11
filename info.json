@@ -1,27 +1,18 @@
 {
-    "current_stats": {
-        "builds": 56,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Wed Sep 11 23:09:30 2019",
+    "end_epoch": 1568243370.935085,
+    "last_autosave_datetime": "Wed Sep 11 22:50:53 2019",
+    "last_autosave_epoch": 1568242253.272337,
+    "name": "Spam404",
+    "previous_stats": {
+        "builds": 57,
         "counter": {
             "down": 8059,
             "invalid": 23,
             "tested": 15067,
             "up": 6985
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Tue Sep 10 03:44:36 2019",
-    "end_epoch": 1568087076.580541,
-    "last_autosave_datetime": "Wed Sep 11 22:50:53 2019",
-    "last_autosave_epoch": 1568242253.272337,
-    "name": "Spam404",
-    "previous_stats": {
-        "builds": 6,
-        "counter": {
-            "down": 7414,
-            "invalid": 5,
-            "tested": 14393,
-            "up": 6974
         },
         "volatile.list": 6973,
         "whitelisted.list": 6973
