@@ -754,6 +754,11 @@
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
+    "hack-release.com": {
+        "epoch": 1563235200,
+        "expiration_date": "16-jul-2019",
+        "state": "past"
+    },
     "hackdragoncity.net": {
         "epoch": 1562457600,
         "expiration_date": "07-jul-2019",
@@ -1434,6 +1439,11 @@
         "expiration_date": "08-apr-2020",
         "state": "future"
     },
+    "roaringcash.com": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "robig.ru": {
         "epoch": 1583539200,
         "expiration_date": "07-mar-2020",
@@ -1463,6 +1473,11 @@
         "epoch": 1591228800,
         "expiration_date": "04-jun-2020",
         "state": "future"
+    },
+    "royalhacks.net": {
+        "epoch": 1564185600,
+        "expiration_date": "27-jul-2019",
+        "state": "past"
     },
     "rozqet.ru": {
         "epoch": 1594166400,
@@ -2082,6 +2097,11 @@
     "zomuka.ru": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "zrfxc.com": {
+        "epoch": 1572998400,
+        "expiration_date": "06-nov-2019",
         "state": "future"
     },
     "zupiv.ru": {
