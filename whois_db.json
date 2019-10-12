@@ -544,6 +544,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "fb-accounts.com": {
+        "epoch": 1632960000,
+        "expiration_date": "30-sep-2021",
+        "state": "future"
+    },
     "fbcheats.com": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
@@ -892,6 +897,11 @@
     "hecuq.ru": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "hihuz.ru": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
         "state": "future"
     },
     "hobfezu.ru": {
