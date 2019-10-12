@@ -44,6 +44,11 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "bakmid.ru": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "bamosis.ru": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
@@ -743,6 +748,11 @@
         "epoch": 1588636800,
         "expiration_date": "05-may-2020",
         "state": "future"
+    },
+    "gameloverz.com": {
+        "epoch": 1564790400,
+        "expiration_date": "03-aug-2019",
+        "state": "past"
     },
     "games-4roll.com": {
         "epoch": 1590364800,
@@ -2052,6 +2062,11 @@
     "uploadrecord.com": {
         "epoch": 1596326400,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "uploadserver.net": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "vadval.ru": {
