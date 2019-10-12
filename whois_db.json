@@ -1794,6 +1794,11 @@
         "expiration_date": "26-may-2020",
         "state": "future"
     },
+    "skinscheck.com": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "skinscloud.fun": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
@@ -2277,6 +2282,11 @@
     "xorody.ru": {
         "epoch": 1597190400,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "xroll.pro": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "yinkuya.ru": {
