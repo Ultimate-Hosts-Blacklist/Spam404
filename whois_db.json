@@ -519,6 +519,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "ezzdrop.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "facebookgamecheat.org": {
         "epoch": 1601942400,
         "expiration_date": "06-oct-2020",
@@ -582,6 +587,11 @@
     "filefreeshare.com": {
         "epoch": 1596585600,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "filezip.net": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "filmenstreaminggratuit.com": {
@@ -1444,6 +1454,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "predatorgamesforyou.com": {
+        "epoch": 1566259200,
+        "expiration_date": "20-aug-2019",
+        "state": "past"
+    },
     "premiumaccountsgenerator.com": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
@@ -1467,6 +1482,11 @@
     "promediasearch.com": {
         "epoch": 1564444800,
         "expiration_date": "30-jul-2019",
+        "state": "past"
+    },
+    "ps3redeemcodes.com": {
+        "epoch": 1564099200,
+        "expiration_date": "26-jul-2019",
         "state": "past"
     },
     "psncodesgenerators.com": {
