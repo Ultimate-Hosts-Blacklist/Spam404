@@ -314,6 +314,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "csgoflex.site": {
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
     "csgogem.trade": {
         "epoch": 1595808000,
         "expiration_date": "27-jul-2020",
