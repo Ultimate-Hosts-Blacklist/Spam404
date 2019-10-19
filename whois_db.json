@@ -11199,6 +11199,11 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "qexow.ru": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "qipob.ru": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
