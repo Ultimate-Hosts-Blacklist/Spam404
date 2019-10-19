@@ -3374,6 +3374,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "dropsxskin.site": {
+        "epoch": 1592092800,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
     "dubemeqi.ru": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
@@ -10603,6 +10608,11 @@
         "epoch": 1580083200,
         "expiration_date": "27-jan-2020",
         "state": "future"
+    },
+    "piratercompte-facebook.com": {
+        "epoch": 1567468800,
+        "expiration_date": "03-sep-2019",
+        "state": "past"
     },
     "piratercomptefacebook.com": {
         "epoch": 1587772800,
