@@ -5754,6 +5754,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "gamehacks.co": {
+        "epoch": 1564963200,
+        "expiration_date": "05-aug-2019",
+        "state": "past"
+    },
     "gamehacks.me": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
