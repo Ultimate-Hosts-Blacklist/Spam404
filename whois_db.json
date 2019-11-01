@@ -1394,6 +1394,11 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "cipane.ru": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "cipta.net": {
         "epoch": 1586304000,
         "expiration_date": "08-apr-2020",
@@ -2803,6 +2808,11 @@
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
         "state": "future"
+    },
+    "easy-case.com": {
+        "epoch": 1567382400,
+        "expiration_date": "02-sep-2019",
+        "state": "past"
     },
     "easygames24.com": {
         "epoch": 1602979200,
@@ -4992,6 +5002,11 @@
     "genuinehacks.com": {
         "epoch": 1589587200,
         "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "get-bills.com": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "get-cracked.com": {
@@ -10219,6 +10234,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "taged.ru": {
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
     "takedaxgames.com": {
         "epoch": 1584921600,
         "expiration_date": "23-mar-2020",
@@ -10577,6 +10597,11 @@
     "topuploadfile.com": {
         "epoch": 1599177600,
         "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "torafav.ru": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "tovoxu.ru": {
@@ -11117,6 +11142,11 @@
     "vooney.com": {
         "epoch": 1602288000,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "voqboard.ru": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "vufese.ru": {
