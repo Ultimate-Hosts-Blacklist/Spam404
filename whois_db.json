@@ -284,6 +284,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "fireskin.website": {
+        "epoch": 1592092800,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
     "free-lol-skins.org": {
         "epoch": 1598918400,
         "expiration_date": "01-sep-2020",
@@ -618,6 +623,11 @@
         "epoch": 1588550400,
         "expiration_date": "04-may-2020",
         "state": "future"
+    },
+    "predatorgamesforyou.com": {
+        "epoch": 1566259200,
+        "expiration_date": "20-aug-2019",
+        "state": "past"
     },
     "pushcloud.org": {
         "epoch": 1596844800,
