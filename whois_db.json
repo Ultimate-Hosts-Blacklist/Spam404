@@ -2109,6 +2109,11 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "coldenvy.info": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
     "com-cheat.in": {
         "epoch": 1600819200,
         "expiration_date": "23-sep-2020",
@@ -2622,6 +2627,11 @@
     "csgopump.com": {
         "epoch": 1588291200,
         "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "csgoranger.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "csgoraptor.com": {
@@ -7239,6 +7249,11 @@
         "expiration_date": "16-may-2020",
         "state": "future"
     },
+    "hackmeout.net": {
+        "epoch": 1568246400,
+        "expiration_date": "12-sep-2019",
+        "state": "past"
+    },
     "hackmobilegames.com": {
         "epoch": 1581033600,
         "expiration_date": "07-feb-2020",
@@ -8248,6 +8263,11 @@
         "epoch": 1584921600,
         "expiration_date": "23-mar-2020",
         "state": "future"
+    },
+    "itunescodesnow.com": {
+        "epoch": 1566691200,
+        "expiration_date": "25-aug-2019",
+        "state": "past"
     },
     "itunesfreecards.com": {
         "epoch": 1600732800,
@@ -9654,6 +9674,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "multigamble.wtf": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "multimc.info": {
         "epoch": 1603411200,
         "expiration_date": "23-oct-2020",
@@ -10022,6 +10047,11 @@
     "nowmusik.com": {
         "epoch": 1633392000,
         "expiration_date": "05-oct-2021",
+        "state": "future"
+    },
+    "nuadagi.ru": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "nucur.ru": {
