@@ -529,6 +529,11 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "flexdrop.fun": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "frankjackpot.io": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
@@ -879,9 +884,19 @@
         "expiration_date": "21-may-2020",
         "state": "future"
     },
+    "legendary-skins.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "legendarycheats.com": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
+    "letsweb.info": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "lexec.ru": {
