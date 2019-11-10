@@ -89,6 +89,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "bepoc.ru": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "bestcounterfeitmoney.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
@@ -569,6 +574,16 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "ffa-hosting.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "fifa19tricks.com": {
+        "epoch": 1569542400.0,
+        "expiration_date": "27-sep-2019",
+        "state": "past"
+    },
     "filequality.com": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
@@ -819,6 +834,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "hacksandcheatsandroid.com": {
+        "epoch": 1568073600.0,
+        "expiration_date": "10-sep-2019",
+        "state": "past"
+    },
     "hacksday.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
@@ -914,6 +934,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "jquery-js.com": {
+        "epoch": 1577923200.0,
+        "expiration_date": "02-jan-2020",
+        "state": "future"
+    },
     "jupol.ru": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
@@ -1002,6 +1027,11 @@
     "lexec.ru": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "lezepi.ru": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "loot-kings.fun": {
@@ -1129,6 +1159,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "nehisoho.ru": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "neloxu.ru": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
@@ -1147,6 +1182,11 @@
     "nojose.ru": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "nopaku.ru": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "nutom.ru": {
@@ -1289,6 +1329,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "rofowa.ru": {
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "rolls.wtf": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -1362,6 +1407,11 @@
     "snapchathack.co": {
         "epoch": 1634774400.0,
         "expiration_date": "21-oct-2021",
+        "state": "future"
+    },
+    "snapchathack.org": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "soigbu.ru": {
@@ -1632,6 +1682,11 @@
     "xclusivedigital.com": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "xenase.ru": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "xgamble.wtf": {
