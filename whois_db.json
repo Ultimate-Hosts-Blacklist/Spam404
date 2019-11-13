@@ -780,8 +780,8 @@
         "state": "past"
     },
     "asphalt8hack.com": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "astralgamble.com": {
@@ -3794,6 +3794,11 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "dns05.com": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
     "dnset.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -4753,6 +4758,11 @@
         "epoch": 1569715200.0,
         "expiration_date": "29-sep-2019",
         "state": "past"
+    },
+    "ezua.com": {
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
     },
     "ezzdrop.com": {
         "epoch": 1578009600.0,
@@ -10824,6 +10834,11 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "lflinkup.com": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
     "lflinkup.net": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -12564,6 +12579,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "onedumb.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "onelovehacks.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -13799,6 +13819,11 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "rebatesrule.net": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "recovercode.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
@@ -14312,6 +14337,11 @@
     "sekaze.ru": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "sellclassics.com": {
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "semec.ru": {
@@ -17657,6 +17687,11 @@
     "xxuz.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "xxxy.biz": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "xxxy.info": {
