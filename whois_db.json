@@ -3534,6 +3534,11 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "ddns.ms": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "ddtdown.pro": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
@@ -4602,6 +4607,11 @@
     "eslcase.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "esmtp.biz": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "espiondiscret.com": {
@@ -6879,6 +6889,11 @@
         "expiration_date": "14-mar-2020",
         "state": "future"
     },
+    "ftp1.biz": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
     "ftpserver.biz": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
@@ -8137,6 +8152,11 @@
     "gpskins.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "gr8domain.biz": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "gr8musik.com": {
@@ -10710,8 +10730,8 @@
         "state": "future"
     },
     "leakedmovies.net": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "leakers.info": {
@@ -12825,9 +12845,9 @@
         "state": "future"
     },
     "pcdownstation.com": {
-        "epoch": 1573430400.0,
-        "expiration_date": "11-nov-2019",
-        "state": "past"
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
     },
     "pcfullgamesfree.com": {
         "epoch": 1591056000.0,
@@ -13597,6 +13617,11 @@
     "qexow.ru": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "qhigh.com": {
+        "epoch": 1585872000.0,
+        "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "qipob.ru": {
@@ -16214,6 +16239,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "trickip.org": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "trixcase.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
@@ -17344,6 +17374,16 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "www1.biz": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "wwwhost.biz": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "wwwtestsportsclubs.com": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
@@ -17619,6 +17659,11 @@
         "expiration_date": "30-mar-2020",
         "state": "future"
     },
+    "xxxy.info": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "yabeme.ru": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
@@ -17865,8 +17910,8 @@
         "state": "future"
     },
     "zagamers.com": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "zebracheats.com": {
