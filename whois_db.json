@@ -514,6 +514,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "americanunfinished.com": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "amgcase.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -1787,6 +1792,11 @@
     "chackscheats.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "changeip.net": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "changeip.org": {
@@ -7824,6 +7834,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "gettrials.com": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "gewor.ru": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
@@ -11359,6 +11374,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "mefound.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
     "mega-cheat.net": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
@@ -12082,6 +12102,11 @@
     "mypicture.info": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "mypop3.net": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "mypop3.org": {
@@ -14535,9 +14560,9 @@
         "state": "future"
     },
     "sharpdownloads.com": {
-        "epoch": 1566432000.0,
-        "expiration_date": "22-aug-2019",
-        "state": "past"
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
     },
     "shelleylalonde.com": {
         "epoch": 1599091200.0,
