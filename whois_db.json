@@ -84,6 +84,11 @@
         "expiration_date": "21-jan-2020",
         "state": "future"
     },
+    "25u.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "270inc.com": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
@@ -765,6 +770,11 @@
         "state": "future"
     },
     "authorizeddns.net": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "authorizeddns.org": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
         "state": "future"
@@ -2364,6 +2374,11 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "cleansite.biz": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
     "clickhosted.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
@@ -3687,6 +3702,11 @@
     "dmzgames.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "dns04.com": {
+        "epoch": 1584662400.0,
+        "expiration_date": "20-mar-2020",
         "state": "future"
     },
     "doatgiveaway.top": {
@@ -7557,7 +7577,7 @@
     "getfilesfrom.net": {
         "epoch": 1573603200.0,
         "expiration_date": "13-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "getfreehack.com": {
         "epoch": 1596499200.0,
@@ -10129,6 +10149,11 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "jungleheart.com": {
+        "epoch": 1580688000.0,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
     "jupol.ru": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
@@ -12162,6 +12187,11 @@
     "nvfile.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "ocry.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
         "state": "future"
     },
     "octavian.su": {
@@ -14204,6 +14234,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "sixth.biz": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
     "skidrow-apps.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
@@ -14752,6 +14787,11 @@
     "spotifypremiumaccounts.info": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
+    "squirly.info": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "ssuvumo.ru": {
