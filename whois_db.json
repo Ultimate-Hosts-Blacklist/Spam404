@@ -3794,6 +3794,11 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "dns-dns.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "dns-stuff.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
