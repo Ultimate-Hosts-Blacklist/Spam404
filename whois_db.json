@@ -259,6 +259,11 @@
         "expiration_date": "26-apr-2023",
         "state": "future"
     },
+    "acmetoy.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
     "activefiles.org": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
@@ -3509,6 +3514,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "ddns.info": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "ddns.me.uk": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
@@ -3627,6 +3637,11 @@
     "dfile.su": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "dhcp.biz": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "diamondores.com": {
@@ -4209,6 +4224,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "dumb1.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "dupidoq.ru": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
@@ -4247,6 +4267,11 @@
     "dynamicdns.biz": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "dynamicdns.co.uk": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "dynamicdns.me.uk": {
@@ -12339,6 +12364,11 @@
         "expiration_date": "05-oct-2021",
         "state": "future"
     },
+    "ns01.info": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "ns02.biz": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
@@ -12569,6 +12599,11 @@
         "expiration_date": "12-jul-2021",
         "state": "future"
     },
+    "onmypc.net": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
+    },
     "onmypc.org": {
         "epoch": 1626048000.0,
         "expiration_date": "12-jul-2021",
@@ -12602,6 +12637,11 @@
     "optout-blglb.net": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "organiccrap.com": {
+        "epoch": 1580688000.0,
+        "expiration_date": "03-feb-2020",
         "state": "future"
     },
     "orgdotcom.com": {
@@ -17549,6 +17589,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "ygto.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
     "yinkuya.ru": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
@@ -17882,6 +17927,16 @@
     "zurev.ru": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "zyns.com": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "zzux.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     }
 }
