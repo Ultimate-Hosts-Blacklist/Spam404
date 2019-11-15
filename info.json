@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 14,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "tested": 14613,
-            "up": 14613
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Nov 13 22:34:36 2019",
-    "end_epoch": 1573684476.188195,
+    "end_datetime": "Fri Nov 15 04:07:28 2019",
+    "end_epoch": 1573790848.984435,
     "last_autosave_datetime": "Fri Nov 15 03:11:16 2019",
     "last_autosave_epoch": 1573787476.40588,
     "name": "Spam404",
