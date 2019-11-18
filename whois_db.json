@@ -9830,9 +9830,9 @@
         "state": "future"
     },
     "icysn0w.com": {
-        "epoch": 1567900800.0,
-        "expiration_date": "08-sep-2019",
-        "state": "past"
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
     },
     "idaplay.com": {
         "epoch": 1580688000.0,
@@ -17642,6 +17642,11 @@
     "xboxlivegratuit.net": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "xboxlivegratuit.org": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "xboxlivemaintenant.fr": {
