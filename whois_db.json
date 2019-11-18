@@ -1320,8 +1320,8 @@
         "state": "future"
     },
     "bo2-hack.com": {
-        "epoch": 1573862400.0,
-        "expiration_date": "16-nov-2019",
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "bo2rzx9xhf.com": {
@@ -3332,6 +3332,11 @@
     "csgotakeoff.com": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "csgotape.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "csgotourneys.live": {
@@ -12767,6 +12772,11 @@
     "opencheats.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "openfree.fun": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "opengamehack.com": {
