@@ -304,6 +304,11 @@
         "expiration_date": "21-jan-2020",
         "state": "future"
     },
+    "adminpanelfaker.space": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "adminpaneltop.site": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
@@ -8537,7 +8542,7 @@
     "gtavmoneycheat.com": {
         "epoch": 1574121600.0,
         "expiration_date": "19-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "gugelo.ru": {
         "epoch": 1585267200.0,
