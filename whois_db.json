@@ -2519,6 +2519,11 @@
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
+    "cochack.site": {
+        "epoch": 1574726400.0,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
     "cochacks.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
@@ -3127,6 +3132,11 @@
     "csgoflap.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "csgoflex.site": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "csgoforces.com": {
@@ -5864,6 +5874,11 @@
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
+    "flyercase.fun": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
     "flyextensions.com": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
@@ -7112,6 +7127,11 @@
     "galaxy-deals.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "gamble-garden.fun": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "gamble.wtf": {
@@ -9704,6 +9724,11 @@
         "expiration_date": "24-sep-2019",
         "state": "past"
     },
+    "howllskins.fun": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
     "howtobypasssurveys.com": {
         "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
@@ -10972,6 +10997,11 @@
     "linkz.it": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
+    "lionskins.pw": {
+        "epoch": 1580947200.0,
+        "expiration_date": "06-feb-2020",
         "state": "future"
     },
     "litebackup.com": {
@@ -15914,6 +15944,11 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "tesla-gifting.site": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "tesopportunites.fr": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
@@ -16650,9 +16685,9 @@
         "state": "future"
     },
     "unlimited-portals.com": {
-        "epoch": 1567209600.0,
-        "expiration_date": "31-aug-2019",
-        "state": "past"
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
     },
     "unlimitedhack.net": {
         "epoch": 1576540800.0,
