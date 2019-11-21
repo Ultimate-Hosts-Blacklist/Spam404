@@ -10149,6 +10149,11 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "iosapphacks.com": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
     "iosfreehacks.com": {
         "epoch": 1569283200.0,
         "expiration_date": "24-sep-2019",
@@ -11300,8 +11305,8 @@
         "state": "future"
     },
     "magictrucs.com": {
-        "epoch": 1574294400.0,
-        "expiration_date": "21-nov-2019",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "make-image.com": {
@@ -13432,7 +13437,7 @@
     "premiumaccountgenerator.com": {
         "epoch": 1574294400.0,
         "expiration_date": "21-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "premiumaccountsgenerator.com": {
         "epoch": 1586476800.0,
