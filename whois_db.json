@@ -14684,6 +14684,11 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "skins-index.info": {
+        "epoch": 1590364800.0,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
     "skins-push.com": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
@@ -17952,6 +17957,11 @@
     "zrfxc.com": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "zufiles.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "zulaman.ru": {
