@@ -8505,9 +8505,9 @@
         "state": "future"
     },
     "hack-guru.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "hack-market.com": {
         "epoch": 1581465600.0,
@@ -8917,6 +8917,11 @@
     "hacks-land.net": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "hacks-world.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "hacks24h.com": {
