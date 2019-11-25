@@ -3279,6 +3279,11 @@
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
+    "csgotap.fun": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "csgotape.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -3400,9 +3405,9 @@
         "state": "future"
     },
     "cubeworlddownload.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "cudaminer.com": {
         "epoch": 1568851200.0,
@@ -8790,9 +8795,9 @@
         "state": "future"
     },
     "hackimperium.com": {
-        "epoch": 1567728000.0,
-        "expiration_date": "06-sep-2019",
-        "state": "past"
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
     },
     "hackindustry.com": {
         "epoch": 1623542400.0,
