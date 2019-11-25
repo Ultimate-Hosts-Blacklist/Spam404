@@ -764,6 +764,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "askfmtracker.info": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "asphalt8airbornehack.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
@@ -2685,8 +2690,8 @@
         "state": "future"
     },
     "cotelia.com": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "counterfeitdoc.com": {
@@ -8625,9 +8630,9 @@
         "state": "future"
     },
     "hackdownloadzone.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "hackdragoncity.net": {
         "epoch": 1602979200.0,
