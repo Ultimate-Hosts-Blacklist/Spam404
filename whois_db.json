@@ -7417,7 +7417,7 @@
     "gamespeak.net": {
         "epoch": 1574726400.0,
         "expiration_date": "26-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "gamespothacks.com": {
         "epoch": 1587859200.0,
@@ -17477,6 +17477,11 @@
     "xboxlivemaintenant.fr": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "xboxonegamesfree.com": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "xboxps3topc.com": {
