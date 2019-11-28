@@ -5597,7 +5597,7 @@
     "filmenstreaminghdgratuit.com": {
         "epoch": 1574899200.0,
         "expiration_date": "28-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "filmentier-vf.com": {
         "epoch": 1576886400.0,
@@ -7445,9 +7445,9 @@
         "state": "future"
     },
     "gamespeak.net": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
-        "state": "past"
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
     },
     "gamespothacks.com": {
         "epoch": 1587859200.0,
@@ -8585,8 +8585,8 @@
         "state": "future"
     },
     "hack2k.com": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "hack4gamers.com": {
