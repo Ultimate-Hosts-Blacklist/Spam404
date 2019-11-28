@@ -29,6 +29,11 @@
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
+    "1hacks.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
     "2012hacks.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
@@ -6005,8 +6010,8 @@
         "state": "future"
     },
     "free-pokecoins.org": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "free-psncards.com": {
@@ -11312,7 +11317,7 @@
     "mediafires.biz": {
         "epoch": 1574812800.0,
         "expiration_date": "27-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "medialateral.com": {
         "epoch": 1574812800.0,
@@ -13065,8 +13070,8 @@
         "state": "future"
     },
     "playdownload.info": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "playdownstation.com": {
