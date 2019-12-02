@@ -1414,6 +1414,11 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "booter.pw": {
+        "epoch": 1577577600.0,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
     "bootme.club": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
@@ -16175,8 +16180,8 @@
         "state": "future"
     },
     "tradeskinxfast.cn": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "trafficultimatum.com": {
