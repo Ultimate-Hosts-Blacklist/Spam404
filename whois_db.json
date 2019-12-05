@@ -3669,6 +3669,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "direct-hacks.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "directfilelinks.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -8555,9 +8560,9 @@
         "state": "future"
     },
     "hack-planet.com": {
-        "epoch": 1568419200.0,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "hack-team.org": {
         "epoch": 1627689600.0,
@@ -11807,6 +11812,11 @@
     "moviestarplanethack.org": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "moviestopia.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "moviestree.com": {
