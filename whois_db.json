@@ -4015,9 +4015,9 @@
         "state": "future"
     },
     "downloading-free.com": {
-        "epoch": 1568246400.0,
-        "expiration_date": "12-sep-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "downloadity.net": {
         "epoch": 1603411200.0,
@@ -15912,7 +15912,7 @@
     "thegamehack.com": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "thehackonline.com": {
         "epoch": 1570233600.0,
