@@ -7964,6 +7964,11 @@
         "expiration_date": "05-sep-2020",
         "state": "future"
     },
+    "glitchez.com": {
+        "epoch": 1579305600.0,
+        "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
     "globaldocumentation.net": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
@@ -8760,8 +8765,8 @@
         "state": "future"
     },
     "hackfacebook2015.net": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "hackfacebookaccount.com": {
