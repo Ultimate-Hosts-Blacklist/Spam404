@@ -2242,7 +2242,7 @@
     "clashclanshack.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "clashgenerator.com": {
         "epoch": 1582070400.0,
@@ -13009,6 +13009,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "piratagefacebook.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
     "piratagelogiciels.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -13037,6 +13042,11 @@
     "piratersonsnapchat.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "pirates-hack.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "pistes.ru": {
