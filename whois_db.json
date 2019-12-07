@@ -4180,8 +4180,8 @@
         "state": "future"
     },
     "dreamhackz.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "drelkawon.ru": {
@@ -4587,6 +4587,11 @@
     "esavefile.com": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "esea-drop.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "esfiles.com": {
@@ -16075,9 +16080,9 @@
         "state": "future"
     },
     "titaniumstresser.net": {
-        "epoch": 1568246400.0,
-        "expiration_date": "12-sep-2019",
-        "state": "past"
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
     },
     "tizenhub.com": {
         "epoch": 1593043200.0,
