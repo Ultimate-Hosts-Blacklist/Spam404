@@ -274,6 +274,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "addcocgems.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "addgramfollows.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -1515,8 +1520,8 @@
         "state": "future"
     },
     "bullstresser.net": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "bumpgaming.net": {
