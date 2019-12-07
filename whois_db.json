@@ -5285,8 +5285,8 @@
         "state": "future"
     },
     "filee.org": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "filefirst.net": {
@@ -10557,6 +10557,11 @@
     "kickplays.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "kikmessengerforpcs.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "kilut.ru": {
