@@ -3484,6 +3484,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "cyberoos.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "d2pump.com": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
@@ -4232,7 +4237,7 @@
     "drudgetube.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dsmtp.com": {
         "epoch": 1607731200.0,
@@ -7922,7 +7927,7 @@
     "giftcode.pl": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "giftcodes4u.com": {
         "epoch": 1591833600.0,
