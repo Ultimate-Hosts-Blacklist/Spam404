@@ -8040,8 +8040,8 @@
         "state": "future"
     },
     "go4freehacks.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "gofiq.ru": {
@@ -10790,8 +10790,8 @@
         "state": "future"
     },
     "legendarycheats.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "legitcheats.com": {
@@ -13630,9 +13630,9 @@
         "state": "future"
     },
     "puhlu.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "pulfa.com": {
         "epoch": 1598313600.0,
@@ -13902,7 +13902,7 @@
     "redcrossworld.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "redeemcode.org": {
         "epoch": 1605571200.0,
