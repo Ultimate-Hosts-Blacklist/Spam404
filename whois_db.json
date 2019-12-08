@@ -405,9 +405,9 @@
         "state": "future"
     },
     "allhackarena.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "allhacks2games.com": {
         "epoch": 1594252800.0,
@@ -3255,8 +3255,8 @@
         "state": "future"
     },
     "csgoranger.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "csgoraptor.com": {
@@ -7115,8 +7115,8 @@
         "state": "future"
     },
     "gameandhack.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "gameapp.pro": {
@@ -8160,9 +8160,9 @@
         "state": "future"
     },
     "gosugrounds.com": {
-        "epoch": 1568678400.0,
-        "expiration_date": "17-sep-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "got-game.org": {
         "epoch": 1611273600.0,
@@ -12037,6 +12037,11 @@
     "my03.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "myamzgiftcards.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "myboxgo.com": {
