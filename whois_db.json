@@ -3115,9 +3115,9 @@
         "state": "future"
     },
     "csgogreedy.com": {
-        "epoch": 1568851200.0,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
     },
     "csgohank.com": {
         "epoch": 1583971200.0,
@@ -8975,9 +8975,9 @@
         "state": "future"
     },
     "hackntricks.net": {
-        "epoch": 1568332800.0,
-        "expiration_date": "13-sep-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "hackoutils.com": {
         "epoch": 1582761600.0,
