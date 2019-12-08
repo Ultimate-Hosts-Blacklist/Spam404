@@ -5199,6 +5199,11 @@
         "expiration_date": "27-sep-2019",
         "state": "past"
     },
+    "fifacoinsgenerator.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "fifaeasport19.live": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
@@ -17177,6 +17182,11 @@
     "web20links.com": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "webdev0.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "webeyu.ru": {
