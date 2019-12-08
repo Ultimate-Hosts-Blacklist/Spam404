@@ -4535,8 +4535,8 @@
         "state": "future"
     },
     "enooc.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "ep0ch.net": {
@@ -9007,6 +9007,11 @@
     "hacks-games.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "hacks-house.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "hacks-land.net": {
