@@ -8705,9 +8705,9 @@
         "state": "future"
     },
     "hackbud.com": {
-        "epoch": 1569024000.0,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
     },
     "hackcheatz.com": {
         "epoch": 1583020800.0,
@@ -17455,6 +17455,11 @@
         "state": "future"
     },
     "worldcase.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "worldcases.fun": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
         "state": "future"
