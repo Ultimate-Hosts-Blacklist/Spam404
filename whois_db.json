@@ -4914,6 +4914,11 @@
         "expiration_date": "30-sep-2021",
         "state": "future"
     },
+    "fb-autoliker.com": {
+        "epoch": 1577232000.0,
+        "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
     "fb-hacker.net": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -10767,6 +10772,11 @@
     "libez.ru": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "liftmygram.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "lightdrop.top": {
@@ -16978,6 +16988,11 @@
         "epoch": 1572134400.0,
         "expiration_date": "27-oct-2019",
         "state": "past"
+    },
+    "waystohack.com": {
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
     },
     "wcracked.com": {
         "epoch": 1590969600.0,
