@@ -2299,6 +2299,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "clashofclanshackers.net": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "clashofclanshackgems.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
@@ -9827,6 +9832,11 @@
     "ihavetohave.net": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "iheaven.us": {
+        "epoch": 1576800000.0,
+        "expiration_date": "20-dec-2019",
         "state": "future"
     },
     "ikwb.com": {
