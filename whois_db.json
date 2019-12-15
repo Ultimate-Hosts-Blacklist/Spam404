@@ -6019,6 +6019,11 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "free-serv.com": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
     "free-steam-code.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -11269,6 +11274,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "meez.us": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "meezhacks.net": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
@@ -14909,6 +14919,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "smushgame.com": {
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "state": "future"
+    },
     "snackygame.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -15982,6 +15997,11 @@
     "tobink.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "todayinfos.us": {
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "toh.info": {
