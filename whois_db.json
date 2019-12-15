@@ -3330,8 +3330,8 @@
         "state": "future"
     },
     "cskrix.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "csmoney.cc": {
@@ -4017,6 +4017,11 @@
     "downloadne.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "downloadnow.us": {
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
         "state": "future"
     },
     "downloadnt.com": {
@@ -12425,9 +12430,9 @@
         "state": "future"
     },
     "nulledstore.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "numberhacker.com": {
         "epoch": 1599264000.0,
@@ -16277,6 +16282,11 @@
     "turukana.ru": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "tvmovies.us": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "tvseries-cravings.info": {
