@@ -3162,7 +3162,7 @@
     "csgoinrate.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "csgoitemsprices.com": {
         "epoch": 1588723200.0,
@@ -3317,7 +3317,7 @@
     "csgotakeoff.com": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "csgotape.com": {
         "epoch": 1605398400.0,
@@ -8389,6 +8389,11 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "greenbill.us": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
     "greenfro.ru": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
@@ -8917,6 +8922,11 @@
     "hackfor.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "hackgames.us": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "hackgames4all.com": {
@@ -12597,6 +12607,11 @@
     "ns01.info": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "ns01.us": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
         "state": "future"
     },
     "ns02.biz": {
@@ -16309,6 +16324,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "topfree.us": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
     "topfreecheats.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -17069,6 +17089,11 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "viral-videos.xyz": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "viralgag.net": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
@@ -17217,6 +17242,11 @@
     "wasape.ru": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "watch-now.us": {
+        "epoch": 1581033600.0,
+        "expiration_date": "07-feb-2020",
         "state": "future"
     },
     "watchdogsdownload.com": {
