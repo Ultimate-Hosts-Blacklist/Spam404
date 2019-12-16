@@ -1309,6 +1309,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "blog-uk.com": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
     "bloglock.net": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
@@ -8155,9 +8160,9 @@
         "state": "future"
     },
     "goldenfiles.net": {
-        "epoch": 1569369600.0,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
     },
     "goldenuploading.com": {
         "epoch": 1578009600.0,
@@ -10200,9 +10205,9 @@
         "state": "future"
     },
     "iosfreehacks.com": {
-        "epoch": 1569283200.0,
-        "expiration_date": "24-sep-2019",
-        "state": "past"
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
     },
     "iosgamecheats.com": {
         "epoch": 1593129600.0,
@@ -16772,6 +16777,11 @@
     "unlck.com": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "unlck.us": {
+        "epoch": 1585958400.0,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "unlcked.net": {
