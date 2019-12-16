@@ -3779,6 +3779,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "dns1.us": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "dns2.us": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
@@ -5980,9 +5985,9 @@
         "state": "future"
     },
     "free-hack.org": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "free-hack24.com": {
         "epoch": 1592784000.0,
