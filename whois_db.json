@@ -2659,6 +2659,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "com-promotions.us": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
     "com-ws.cz": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
@@ -8244,6 +8249,11 @@
         "expiration_date": "23-oct-2020",
         "state": "future"
     },
+    "gotgamefree.us": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "gotlinks.co": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
@@ -10532,6 +10542,11 @@
     "justdied.com": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "k-cheats.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "k4movie.com": {
