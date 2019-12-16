@@ -6309,6 +6309,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "freegamecode.us": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
     "freegamecode4u.com": {
         "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
@@ -16584,6 +16589,11 @@
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
+    "tvreel.us": {
+        "epoch": 1584144000.0,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
     "tvseries-cravings.info": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -18247,6 +18257,11 @@
     "zemuro.ru": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "zfile.us": {
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
         "state": "future"
     },
     "zimanew.ru": {
