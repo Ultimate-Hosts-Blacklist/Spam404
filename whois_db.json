@@ -4299,6 +4299,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "dudemobile.net": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "dulue.ru": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
@@ -4715,9 +4720,9 @@
         "state": "future"
     },
     "evasion-jailbreak7.com": {
-        "epoch": 1569283200.0,
-        "expiration_date": "24-sep-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "evasionjailbreak.net": {
         "epoch": 1592265600.0,
@@ -6752,6 +6757,11 @@
     "freesocialfollowers.net": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "freesoftgenerators.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "freesoftware4all.com": {
@@ -13694,6 +13704,11 @@
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
+    "psncodegenerator.us": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "psncodegeneratordownload.net": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
@@ -14930,8 +14945,8 @@
         "state": "future"
     },
     "skin-pattern.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "skin-push.com": {
