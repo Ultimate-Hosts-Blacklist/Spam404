@@ -789,6 +789,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "astralis-giveaway.fun": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "astralis-loot.fun": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
@@ -822,6 +827,11 @@
     "authorizeddns.org": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "authorizeddns.us": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "autobuy.io": {
@@ -4212,6 +4222,11 @@
     "dropbbase.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "dropingskins.fun": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "dropskinz.net": {
@@ -8147,6 +8162,11 @@
     "gosteamanalyst.com": {
         "epoch": 1623974400.0,
         "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
+    "gostream.us": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "gosugrounds.com": {
@@ -12742,6 +12762,11 @@
     "opencheats.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "openfree.fun": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "opengamehack.com": {
