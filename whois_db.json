@@ -2754,6 +2754,11 @@
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
+    "cori.pw": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "cotelia.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
@@ -9977,6 +9982,11 @@
     "icloudlog.com": {
         "epoch": 1608940800.0,
         "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
+    "icloudunlock.xyz": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "icrcworld.com": {
@@ -17447,6 +17457,11 @@
     "watchthesenow.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "wattpad.online": {
+        "epoch": 1579737600.0,
+        "expiration_date": "23-jan-2020",
         "state": "future"
     },
     "waxhack.com": {
