@@ -1470,8 +1470,8 @@
         "state": "future"
     },
     "brillianthack.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "brokdrop.com": {
@@ -1683,6 +1683,11 @@
         "epoch": 1570579200.0,
         "expiration_date": "09-oct-2019",
         "state": "past"
+    },
+    "castleville-crowns.com": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
     },
     "catscase.com": {
         "epoch": 1580428800.0,
@@ -2017,6 +2022,11 @@
     "cheatson.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "cheatsongame.com": {
+        "epoch": 1579392000.0,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "cheatspcgames.net": {
@@ -2427,6 +2437,11 @@
     "cleansite.info": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "cleansite.us": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "clickhosted.com": {
@@ -9609,6 +9624,11 @@
         "expiration_date": "24-sep-2020",
         "state": "future"
     },
+    "holidayvoucher.us": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "hopdata.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
@@ -10222,6 +10242,11 @@
     "itunescode-generator.com": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "itunescodegenerator.net": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "itunescodesncards.com": {
@@ -13422,6 +13447,11 @@
     "pricecsgo.net": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "primemoney.us": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
         "state": "future"
     },
     "privilegechic.com": {
