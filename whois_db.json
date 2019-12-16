@@ -149,6 +149,11 @@
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
+    "3dsemulator.us": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
     "3dsvita.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -167,6 +172,11 @@
     "411playz.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "4dq.com": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "4mydomain.com": {
@@ -8734,6 +8744,11 @@
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
+    "hackarena.net": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
     "hackbud.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -10012,6 +10027,11 @@
     "imvubuzz.com": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "imvucheats.us": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "imvucredithacks.com": {
@@ -11462,6 +11482,11 @@
     "megadirtyfiles.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "megadown.us": {
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
         "state": "future"
     },
     "megadownloder.com": {
@@ -13330,9 +13355,9 @@
         "state": "future"
     },
     "pokemongocoinhacker.com": {
-        "epoch": 1569456000.0,
-        "expiration_date": "26-sep-2019",
-        "state": "past"
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
     },
     "pokemonomegarubyandalphasapphire.com": {
         "epoch": 1589760000.0,
