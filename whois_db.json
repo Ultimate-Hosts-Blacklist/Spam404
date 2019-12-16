@@ -1689,6 +1689,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "cash2share.us": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "cashbuzz.org": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -2637,6 +2642,11 @@
     "cogrem.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "coinsbet.us": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "coinshunt.com": {
@@ -9869,6 +9879,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "howtohackwifi-password.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "howtosnaphack.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
@@ -12549,6 +12564,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "newhacktools.net": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "newmediaz.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
@@ -12962,6 +12982,11 @@
     "onmypc.us": {
         "epoch": 1625961600.0,
         "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
+    "open-skins.space": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "opencheats.com": {
