@@ -2192,7 +2192,7 @@
     "chronicexpress.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cinac.ru": {
         "epoch": 1598745600.0,
@@ -14102,6 +14102,11 @@
     "ragebooter.net": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "rainbow-case.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "rainhack.com": {
