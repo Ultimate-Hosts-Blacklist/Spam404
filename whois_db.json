@@ -1344,6 +1344,11 @@
         "expiration_date": "23-oct-2020",
         "state": "future"
     },
+    "bluetick.online": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
     "bo2-hack.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
@@ -4414,6 +4419,11 @@
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
+    "dropx.fun": {
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "drudgetube.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
@@ -4932,6 +4942,11 @@
     "extofiles.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "extrafree.fun": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "extragamebox.com": {
@@ -5857,6 +5872,11 @@
     "filmhd21.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
+    "filminstan.pw": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "filmlair.com": {
@@ -7344,6 +7364,11 @@
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
+    "gamble-garden.fun": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "gamble.wtf": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
@@ -8284,6 +8309,11 @@
         "expiration_date": "05-sep-2020",
         "state": "future"
     },
+    "giveway-st4ck.site": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "glitchez.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
@@ -8502,6 +8532,11 @@
     "gpskins.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "gqskinsx.fun": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "gr8domain.biz": {
@@ -11499,6 +11534,11 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "lootplanet.pw": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "lootplatform.pro": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
@@ -11682,6 +11722,11 @@
     "maxcrack.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "maxdropcs.fun": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "maxecoko.ru": {
@@ -15834,6 +15879,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "st4ck-giveaways.site": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "st4ck-tournament.site": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
@@ -16873,6 +16923,11 @@
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
         "state": "future"
+    },
+    "tradexskins.pw": {
+        "epoch": 1570233600.0,
+        "expiration_date": "05-oct-2019",
+        "state": "past"
     },
     "trafficultimatum.com": {
         "epoch": 1603670400.0,
@@ -18004,6 +18059,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "winxdrops.fun": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "wiwox.ru": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
@@ -18439,6 +18499,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "xtopskins.fun": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "xuwud.ru": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
@@ -18470,9 +18535,9 @@
         "state": "future"
     },
     "yavteam.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
     },
     "ycrax.com": {
         "epoch": 1590624000.0,
