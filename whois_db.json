@@ -989,6 +989,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "bbc-1.site": {
+        "epoch": 1577577600.0,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
     "bchabc-bchsv-hardfork.info": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -1778,6 +1783,11 @@
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
         "state": "future"
+    },
+    "celebrantsd.pw": {
+        "epoch": 1461628800.0,
+        "expiration_date": "26-apr-2016",
+        "state": "past"
     },
     "celebritiesphone.com": {
         "epoch": 1579478400.0,
@@ -3009,6 +3019,11 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
+    "cscccase.online": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
     "cscccase.ru": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
@@ -3587,6 +3602,11 @@
     "cyber-hub.net": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "cyberchampion.space": {
+        "epoch": 1587859200.0,
+        "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "cybermini.com": {
@@ -5987,6 +6007,16 @@
     "flashipods4free.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
+    "flexdrop.fun": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "flexdrops.fun": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "flix-film.com": {
@@ -11289,6 +11319,11 @@
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
+    "lionskins.pw": {
+        "epoch": 1580947200.0,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
     "litebackup.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
@@ -11452,6 +11487,11 @@
     "loopfiles.com": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "loot-kings.fun": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "loot-skins.com": {
@@ -15119,6 +15159,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "showmovie.xyz": {
+        "epoch": 1570665600.0,
+        "expiration_date": "10-oct-2019",
+        "state": "past"
+    },
     "shrinkonce.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
@@ -15272,6 +15317,11 @@
     "skinjars.ru": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "skinmobile.fun": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "skinmonero.fun": {
@@ -15777,6 +15827,11 @@
     "ssuvumo.ru": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "st4ck-game.site": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "st4ck-tournament.site": {
@@ -16379,6 +16434,11 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "tesla-gifting.site": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "tesopportunites.fr": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
@@ -16777,6 +16837,11 @@
     "tradebot.cc": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "tradebot.online": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "tradebot.site": {
