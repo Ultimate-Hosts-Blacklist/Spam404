@@ -2230,9 +2230,9 @@
         "state": "future"
     },
     "chronicexpress.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
-        "state": "past"
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
     },
     "cinac.ru": {
         "epoch": 1598745600.0,
@@ -12617,6 +12617,11 @@
     "mypsncodes.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "myq-see.com": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "myreff.com": {
