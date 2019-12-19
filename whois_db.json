@@ -15334,6 +15334,11 @@
         "expiration_date": "30-may-2020",
         "state": "future"
     },
+    "skinanalysts.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "skinbaronevent.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
@@ -16250,9 +16255,9 @@
         "state": "future"
     },
     "super-cheats.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "super-download.com": {
         "epoch": 1602806400.0,
