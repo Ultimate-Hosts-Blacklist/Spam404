@@ -11039,6 +11039,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "knowledgeonline.site": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "kolopopo.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
@@ -12183,6 +12188,11 @@
         "epoch": 1571184000.0,
         "expiration_date": "16-oct-2019",
         "state": "past"
+    },
+    "moonskins.fun": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
     },
     "morehacks.net": {
         "epoch": 1594684800.0,
