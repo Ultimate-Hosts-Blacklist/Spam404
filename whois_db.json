@@ -1464,6 +1464,11 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "booter.pw": {
+        "epoch": 1672272000.0,
+        "expiration_date": "29-dec-2022",
+        "state": "future"
+    },
     "booter.xyz": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
