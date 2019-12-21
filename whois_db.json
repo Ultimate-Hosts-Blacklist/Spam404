@@ -217,7 +217,7 @@
     "8cheat.com": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "99cheats.com": {
         "epoch": 1593129600.0,
@@ -9355,8 +9355,8 @@
         "state": "future"
     },
     "hackiosgames.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "hackittoday.com": {
