@@ -10544,6 +10544,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "iosandroidworld.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "iosapphack.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
@@ -13010,9 +13015,9 @@
         "state": "future"
     },
     "noirpirater.com": {
-        "epoch": 1576713600.0,
-        "expiration_date": "19-dec-2019",
-        "state": "past"
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
     },
     "nojose.ru": {
         "epoch": 1592352000.0,
@@ -17472,7 +17477,7 @@
     "uploadgear.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "uploadlite.com": {
         "epoch": 1604102400.0,
