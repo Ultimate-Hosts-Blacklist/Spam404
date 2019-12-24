@@ -14339,6 +14339,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "pwrdon.com": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
     "qakot.ru": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
