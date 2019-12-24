@@ -13992,7 +13992,7 @@
     "premium-linkz.com": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "premium-softwares.com": {
         "epoch": 1579737600.0,
@@ -17505,9 +17505,9 @@
         "state": "future"
     },
     "uploadgear.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
-        "state": "past"
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
     },
     "uploadlite.com": {
         "epoch": 1604102400.0,
@@ -18860,8 +18860,8 @@
         "state": "future"
     },
     "yourfreevideoipods.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "yourfreexboxone.com": {
