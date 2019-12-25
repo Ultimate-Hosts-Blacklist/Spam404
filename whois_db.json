@@ -4914,6 +4914,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "evil-hack.ru": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "evohack.com": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
