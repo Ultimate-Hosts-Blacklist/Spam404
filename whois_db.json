@@ -49,6 +49,11 @@
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "centertrust.xyz": {
+        "epoch": 1570838400.0,
+        "expiration_date": "12-oct-2019",
+        "state": "past"
+    },
     "cheatsandhacks.net": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
@@ -248,6 +253,11 @@
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
         "state": "future"
+    },
+    "lifelinessd.pw": {
+        "epoch": 1461628800.0,
+        "expiration_date": "26-apr-2016",
+        "state": "past"
     },
     "lowifox.ru": {
         "epoch": 1592352000.0,
