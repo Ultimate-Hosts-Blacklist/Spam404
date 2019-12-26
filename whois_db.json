@@ -3474,6 +3474,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "csgotradefly.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "csgotradegear.com": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
