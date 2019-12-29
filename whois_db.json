@@ -8039,6 +8039,11 @@
         "expiration_date": "05-sep-2020",
         "state": "future"
     },
+    "giveskins4you.fun": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "glitchez.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
@@ -11843,6 +11848,11 @@
         "epoch": 1571184000.0,
         "expiration_date": "16-oct-2019",
         "state": "past"
+    },
+    "moonskins.fun": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
     },
     "morehacks.net": {
         "epoch": 1594684800.0,
@@ -15847,7 +15857,7 @@
     "superbhacks.com": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "supercheatsandhacks.com": {
         "epoch": 1602892800.0,
@@ -17382,6 +17392,11 @@
     "watchthesenow.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "wattpad.online": {
+        "epoch": 1579737600.0,
+        "expiration_date": "23-jan-2020",
         "state": "future"
     },
     "waxhack.com": {
