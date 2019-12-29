@@ -9014,6 +9014,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "hackinstagram.net": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "hackiosgames.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -12314,6 +12319,11 @@
         "expiration_date": "11-feb-2021",
         "state": "future"
     },
+    "mysoftwareplace.com": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
     "mywww.biz": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
@@ -15522,6 +15532,11 @@
     "starboundbeta.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "stardrop.fun": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "starrygamble.com": {
