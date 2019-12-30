@@ -2650,9 +2650,9 @@
         "state": "future"
     },
     "coldenvy.info": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "com-cheat.in": {
         "epoch": 1600819200.0,
@@ -4759,6 +4759,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "exmovie.xyz": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
     "experienceford.me": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
@@ -5597,6 +5602,11 @@
     "fileunique.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "fileunlckr.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "fileuploading.org": {
@@ -8082,6 +8092,11 @@
     "giveskins4you.fun": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "giveway-st4ck.site": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "glitchez.com": {
@@ -11267,6 +11282,11 @@
     "loopfiles.com": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "loot-kings.fun": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "loot-skins.com": {
@@ -14542,6 +14562,11 @@
     "samhacker.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "santa-case.fun": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "saol.co": {
