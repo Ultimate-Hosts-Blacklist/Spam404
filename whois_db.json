@@ -200,9 +200,9 @@
         "state": "future"
     },
     "623762.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
-        "state": "past"
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
     },
     "774378.com": {
         "epoch": 1579219200.0,
@@ -1317,6 +1317,11 @@
     "blogsopt.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "bluetick.online": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "bo2-hack.com": {
@@ -3204,6 +3209,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "csgoloot.site": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "csgolounge.trade": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
@@ -3322,6 +3332,11 @@
     "csgotakeoff.com": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "csgotap.fun": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "csgotape.com": {
@@ -3937,6 +3952,11 @@
     "dota2eta.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "dota2exchange.online": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "dota2maphack.org": {
@@ -10637,6 +10657,11 @@
     "justdied.com": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "justdrop.store": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "k-cheats.com": {
