@@ -1670,9 +1670,9 @@
         "state": "future"
     },
     "candycrushsagahack.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "carboneas.com": {
         "epoch": 1590883200.0,
@@ -8210,9 +8210,9 @@
         "state": "future"
     },
     "gmailhack.top": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
-        "state": "past"
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
     },
     "gmailhackerpro.com": {
         "epoch": 1587859200.0,
@@ -12152,6 +12152,11 @@
     "movieoi.com": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "movieozy.com": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "moviepies.co.uk": {
