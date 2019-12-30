@@ -529,6 +529,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "americanunfinished.com": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "amgcase.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -8069,6 +8074,11 @@
         "expiration_date": "21-jan-2020",
         "state": "future"
     },
+    "giftcodes.online": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
     "giftcodes4u.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
@@ -10867,6 +10877,11 @@
     "klowis.ru": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "knife-case.fun": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "knightsanddragonshack.com": {
