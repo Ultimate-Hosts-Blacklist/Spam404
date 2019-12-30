@@ -1389,6 +1389,11 @@
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
+    "bonypin.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
     "book4hacktools.com": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
@@ -1777,6 +1782,11 @@
     "celebrity-numbers.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "celebrity-phone-numbers.com": {
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
         "state": "future"
     },
     "celebrityphone.net": {
@@ -7912,6 +7922,11 @@
     "getcrackfile.com": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "getcraft.net": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "getfbhack.com": {
