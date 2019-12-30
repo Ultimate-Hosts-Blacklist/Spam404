@@ -2459,6 +2459,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "cloud-skins.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "clubproposte.it": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
@@ -7947,6 +7952,11 @@
     "ggooogle.com": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "ggxskins.fun": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "ghostsbetakeys.com": {
@@ -16814,6 +16824,11 @@
         "expiration_date": "20-dec-2020",
         "state": "future"
     },
+    "ultimatehacks.net": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "ultimatenarutohack.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
@@ -17257,7 +17272,7 @@
     "viralvids.info": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "virtual-hack.fr": {
         "epoch": 1602547200.0,
