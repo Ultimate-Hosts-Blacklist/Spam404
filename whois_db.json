@@ -179,6 +179,11 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "4ieghiufb.website": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
     "4mydomain.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
@@ -942,6 +947,11 @@
     "battlefield4download.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "battlepass.icu": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "baystrade.com": {
@@ -8059,6 +8069,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "giveawayskin.xyz": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "givehack.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
@@ -12242,7 +12257,7 @@
     "mydownstore.com": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mydownzone.com": {
         "epoch": 1596672000.0,
@@ -15272,6 +15287,11 @@
     "smarttvlive.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "smartupload.org": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "smashingsports.co": {
