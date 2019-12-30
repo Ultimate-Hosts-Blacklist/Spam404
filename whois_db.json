@@ -695,9 +695,9 @@
         "state": "future"
     },
     "appcheatsonline.com": {
-        "epoch": 1570665600.0,
-        "expiration_date": "10-oct-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "apphack.online": {
         "epoch": 1607040000.0,
@@ -4224,6 +4224,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "dragon-cityhack.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "dragonballzstream.com": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
@@ -6932,6 +6937,11 @@
     "freevpshosting.info": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "freewifihack.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "freewifipasswordrecovery.com": {
