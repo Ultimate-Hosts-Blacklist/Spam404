@@ -5999,6 +5999,11 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "free-down.xyz": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "free-ebookdownloads.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
@@ -7712,7 +7717,7 @@
     "gemsclashofclans.com": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "generaldownload.com": {
         "epoch": 1588377600.0,
@@ -8077,6 +8082,11 @@
     "gloverzz.net": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "glveway-st4ck.site": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "gmailhack.top": {
@@ -9667,6 +9677,11 @@
     "hiqazn.ru": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "historicskins.fun": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "hobbitkomsecrets.com": {
@@ -15519,6 +15534,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "st4ck-giveaways.site": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "st4ck-givesk1ns.site": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -17982,6 +18002,11 @@
     "xgamble.wtf": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "xgame-drop.store": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "xgamering.com": {
