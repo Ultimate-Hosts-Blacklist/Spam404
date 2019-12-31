@@ -10709,6 +10709,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "jozmovie.xyz": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "jquery-js.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
@@ -17497,6 +17502,11 @@
     "vipcheats.net": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "viral-videos.xyz": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
         "state": "future"
     },
     "viralgag.net": {
