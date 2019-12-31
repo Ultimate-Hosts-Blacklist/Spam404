@@ -3554,6 +3554,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "cyberchampion.space": {
+        "epoch": 1587859200.0,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
     "cybermini.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
@@ -5972,7 +5977,7 @@
     "flyextensions.com": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "focusfile.com": {
         "epoch": 1594252800.0,
@@ -8470,8 +8475,8 @@
         "state": "future"
     },
     "grabexpress.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "grabfile.co": {
