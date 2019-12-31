@@ -9497,7 +9497,7 @@
     "hacksnosurvey.com": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hacksoftwares.com": {
         "epoch": 1593820800.0,
@@ -12435,9 +12435,9 @@
         "state": "future"
     },
     "mydownstore.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "mydownzone.com": {
         "epoch": 1596672000.0,
@@ -13747,6 +13747,11 @@
     "powggi.ru": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "poyed.ru": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "ppapgame.com": {
