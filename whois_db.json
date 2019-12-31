@@ -3315,9 +3315,9 @@
         "state": "future"
     },
     "csgoplacebet.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "csgopump.com": {
         "epoch": 1588291200.0,
@@ -7482,6 +7482,11 @@
     "gameraidz.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "gamercheatblog.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "gamercheatscode.com": {
