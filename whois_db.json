@@ -955,9 +955,9 @@
         "state": "future"
     },
     "battlefield3game.info": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "battlefield4-cdkey.com": {
         "epoch": 1578096000.0,
@@ -18017,6 +18017,11 @@
     "world-case.fun": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "worldcase.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "worldhack.net": {
