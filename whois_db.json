@@ -1295,9 +1295,9 @@
         "state": "future"
     },
     "blacksoftworld.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
-        "state": "past"
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
     },
     "blazingskins.com": {
         "epoch": 1588118400.0,
@@ -4950,9 +4950,9 @@
         "state": "future"
     },
     "facebookgamehacks.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "facebookhack.pl": {
         "epoch": 1592611200.0,
@@ -7184,6 +7184,11 @@
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
+    "fullpcgames.xyz": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "fullysoftware.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -7227,6 +7232,11 @@
     "futstation.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "futureloot.fun": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "fuvow.ru": {
@@ -15733,6 +15743,11 @@
         "epoch": 1572048000.0,
         "expiration_date": "26-oct-2019",
         "state": "past"
+    },
+    "spacexskins.fun": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
     },
     "sparkcodes.com": {
         "epoch": 1582329600.0,
