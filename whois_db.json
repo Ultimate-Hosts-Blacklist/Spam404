@@ -12742,7 +12742,7 @@
     "novahacks.com": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "novedadesdiarias.com": {
         "epoch": 1607731200.0,
@@ -16792,6 +16792,11 @@
     "tubbing.net": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "tucugo.ru": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "tunuk.ru": {
