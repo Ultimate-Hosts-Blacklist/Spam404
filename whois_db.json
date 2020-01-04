@@ -3004,6 +3004,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "csgo-hacks.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "csgo-jackpot.net": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
@@ -4860,9 +4865,9 @@
         "state": "future"
     },
     "ezzdrop.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
-        "state": "past"
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
     },
     "f19.mobi": {
         "epoch": 1601769600.0,
@@ -10227,6 +10232,11 @@
     "inlinevideos.com": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
+    "inostriconsigli.it": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "insta-hack.com": {
