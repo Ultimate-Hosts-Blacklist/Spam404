@@ -279,6 +279,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "adbon.us": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
     "addcocgems.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
@@ -2654,6 +2659,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "coinsgame.icu": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "coinshunt.com": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
@@ -3037,6 +3047,11 @@
     "csgo-markets.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "csgo-prize.site": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "csgo-skins.website": {
@@ -3997,6 +4012,11 @@
     "dota2xbet.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "dotagive.com": {
+        "epoch": 1584662400.0,
+        "expiration_date": "20-mar-2020",
         "state": "future"
     },
     "dotcommoneypile.com": {
@@ -18282,6 +18302,11 @@
     "xofem.ru": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "xofub.ru": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "xogeh.ru": {
