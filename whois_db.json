@@ -6409,6 +6409,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "freedownloadfullversionpc.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "freedsipoints.co.uk": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
@@ -16032,6 +16037,11 @@
     "stickfile.net": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "stnitro.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "stoned-skins.fun": {
