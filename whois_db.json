@@ -2509,6 +2509,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "cloud-skins.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "clubproposte.it": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
@@ -6945,8 +6950,8 @@
         "state": "future"
     },
     "freethevbucks.live": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "freetophacks.com": {
@@ -9292,7 +9297,7 @@
     "hacks-games.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "hacks-house.com": {
         "epoch": 1607299200.0,
