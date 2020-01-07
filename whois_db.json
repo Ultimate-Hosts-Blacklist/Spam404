@@ -975,9 +975,9 @@
         "state": "future"
     },
     "battlefield4-cdkey.com": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
-        "state": "past"
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
     },
     "battlefield4download.com": {
         "epoch": 1587772800.0,
@@ -8142,6 +8142,11 @@
     "ggooogle.com": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "ggxskins.fun": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "ghostsbetakeys.com": {
@@ -15389,6 +15394,11 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "skinscloud.fun": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "skinscores.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -17455,8 +17465,8 @@
         "state": "future"
     },
     "verifiedreview.online": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "verifycaptcha.com": {
