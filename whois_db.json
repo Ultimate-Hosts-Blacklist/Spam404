@@ -994,6 +994,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "bbc-1.site": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
     "bchabc-bchsv-hardfork.info": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -13312,6 +13317,11 @@
     "pakcircles.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "panacinema.pw": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "pandawamovie.com": {
