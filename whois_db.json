@@ -1940,9 +1940,9 @@
         "state": "future"
     },
     "cheatgametools.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
-        "state": "past"
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
     },
     "cheathacktool.com": {
         "epoch": 1595721600.0,
@@ -4912,7 +4912,7 @@
     "extrasdownload.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ezeedl.com": {
         "epoch": 1607385600.0,
