@@ -1065,9 +1065,9 @@
         "state": "past"
     },
     "bestappsforpc.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "bestcounterfeitmoney.com": {
         "epoch": 1608249600.0,
@@ -10454,6 +10454,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "ios6jailbreaking.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "iosandroidworld.com": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
@@ -15195,8 +15200,8 @@
         "state": "future"
     },
     "shopmiscere.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "shoptonmail.fr": {
