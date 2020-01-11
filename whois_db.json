@@ -11599,6 +11599,11 @@
         "expiration_date": "13-dec-2020",
         "state": "future"
     },
+    "luckygaimes.cc": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
     "luckyhack.com": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
@@ -16800,9 +16805,9 @@
         "state": "future"
     },
     "tonibethphotography.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "toohack.com": {
         "epoch": 1589068800.0,
