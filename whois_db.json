@@ -3467,7 +3467,7 @@
     "csgozone.co.uk": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgozone.in": {
         "epoch": 1574899200.0,
@@ -10547,7 +10547,7 @@
     "iphonehackgames.com": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ireel.com": {
         "epoch": 1582416000.0,
@@ -12425,8 +12425,8 @@
         "state": "future"
     },
     "mtpgame.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "mtpint.mobi": {
@@ -13282,6 +13282,11 @@
     "opencheats.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "openfree.fun": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "opengamehack.com": {
@@ -15404,6 +15409,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "skinmobile.fun": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "skinmonero.fun": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
@@ -16407,6 +16417,11 @@
     "talk-for.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "talksense.net": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "taxiqipi.ru": {
