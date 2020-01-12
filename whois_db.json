@@ -4029,6 +4029,11 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "dota2exchange.online": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "dota2maphack.org": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
