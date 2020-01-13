@@ -309,6 +309,11 @@
         "expiration_date": "08-feb-2020",
         "state": "future"
     },
+    "addpaypal.com": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "adgatemedia.com": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
@@ -9792,7 +9797,7 @@
     "hay-day-hack.com": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "haydayhack.com": {
         "epoch": 1606521600.0,
