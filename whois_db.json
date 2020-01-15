@@ -8812,7 +8812,7 @@
     "gta5moneygenerator.com": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "gta5moneyglitch.org": {
         "epoch": 1607990400.0,
@@ -15007,7 +15007,7 @@
     "securefile.info": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "securefileupload.com": {
         "epoch": 1611446400.0,
@@ -15490,9 +15490,9 @@
         "state": "future"
     },
     "skins-trading.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
-        "state": "past"
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
     },
     "skins888trade.com": {
         "epoch": 1592265600.0,
