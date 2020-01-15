@@ -15615,8 +15615,8 @@
         "state": "future"
     },
     "skintracker.net": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "skintrade.pro": {
@@ -18272,6 +18272,11 @@
     "wowku.ru": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "wtfdrop.top": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "wtfdrops.com": {
