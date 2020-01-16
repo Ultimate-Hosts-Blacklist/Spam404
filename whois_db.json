@@ -11720,9 +11720,9 @@
         "state": "future"
     },
     "masterhax.com": {
-        "epoch": 1572220800.0,
-        "expiration_date": "28-oct-2019",
-        "state": "past"
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     },
     "mathskins.com": {
         "epoch": 1584144000.0,
@@ -13612,7 +13612,7 @@
     "piranhacheats.com": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "piratagefacebook.com": {
         "epoch": 1607040000.0,
