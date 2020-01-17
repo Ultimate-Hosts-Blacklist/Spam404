@@ -3147,7 +3147,7 @@
     "csgobetlegion.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgocasino.su": {
         "epoch": 1587859200.0,
@@ -8815,9 +8815,9 @@
         "state": "future"
     },
     "gta5moneygenerator.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "gta5moneyglitch.org": {
         "epoch": 1607990400.0,
@@ -14117,7 +14117,7 @@
     "psncardcodes.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "psncodecardgenerator.com": {
         "epoch": 1596412800.0,
@@ -18275,8 +18275,8 @@
         "state": "future"
     },
     "wowfanblog.info": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "wowku.ru": {
