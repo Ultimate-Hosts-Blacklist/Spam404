@@ -2477,7 +2477,7 @@
     "cleanfile.in": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cleanfile.org": {
         "epoch": 1604793600.0,
