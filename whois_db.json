@@ -10665,8 +10665,8 @@
         "state": "future"
     },
     "jafiles.net": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "jailbreak-absinthe.com": {
@@ -14362,7 +14362,7 @@
     "quickfilmz.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "qutuf.ru": {
         "epoch": 1594598400.0,
@@ -15010,9 +15010,9 @@
         "state": "future"
     },
     "securefile.info": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "securefileupload.com": {
         "epoch": 1611446400.0,
