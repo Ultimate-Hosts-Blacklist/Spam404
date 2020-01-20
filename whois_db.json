@@ -10069,6 +10069,11 @@
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
+    "howtocheat.net": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "howtohackfbpassword.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
@@ -16122,7 +16127,7 @@
     "steamcode.org": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "steamcommunitiy.com": {
         "epoch": 1596672000.0,
