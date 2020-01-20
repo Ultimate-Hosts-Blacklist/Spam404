@@ -1812,7 +1812,7 @@
     "celebritiesphone.com": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "celebrity-numbers.com": {
         "epoch": 1606780800.0,
@@ -2112,7 +2112,7 @@
     "cheatsongame.com": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cheatspcgames.net": {
         "epoch": 1610668800.0,
@@ -14115,9 +14115,9 @@
         "state": "future"
     },
     "psncardcodes.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
-        "state": "past"
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
     },
     "psncodecardgenerator.com": {
         "epoch": 1596412800.0,
