@@ -82,7 +82,7 @@
     "24hoursgifts.com": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "25u.com": {
         "epoch": 1591574400.0,
@@ -6157,7 +6157,7 @@
     "frankjackpot.io": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "frankjackpot.pro": {
         "epoch": 1590624000.0,
