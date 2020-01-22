@@ -2110,9 +2110,9 @@
         "state": "future"
     },
     "cheatsongame.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
-        "state": "past"
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
     },
     "cheatspcgames.net": {
         "epoch": 1610668800.0,
@@ -5367,6 +5367,11 @@
     "fifa19.mobi": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "fifa19.site": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "fifa19android.com": {
@@ -10392,7 +10397,7 @@
     "infinite-hacks.com": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "infinitydownline.com": {
         "epoch": 1580601600.0,
@@ -16130,9 +16135,9 @@
         "state": "future"
     },
     "steamcode.org": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
-        "state": "past"
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "state": "future"
     },
     "steamcommunitiy.com": {
         "epoch": 1596672000.0,
