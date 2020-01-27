@@ -6154,6 +6154,11 @@
         "expiration_date": "01-may-2021",
         "state": "future"
     },
+    "foxfile.pro": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
     "foxub.ru": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
@@ -11912,6 +11917,11 @@
     "megadownloder.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "megadropfiles.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "megafiles.biz": {
