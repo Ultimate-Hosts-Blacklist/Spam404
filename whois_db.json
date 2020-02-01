@@ -6779,6 +6779,11 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "freesteamgifts.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "freesteamwalletcodes.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
@@ -9577,7 +9582,7 @@
     "hdmoviespot.com": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hdstreaming.me": {
         "epoch": 1598486400.0,
