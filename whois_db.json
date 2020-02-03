@@ -397,7 +397,7 @@
     "alldaycheats.com": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "allfreesoftware.org": {
         "epoch": 1582243200.0,
@@ -5207,6 +5207,11 @@
     "fifa19.mobi": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "fifa19.site": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "fifa19android.com": {
@@ -10179,6 +10184,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "instantcodegenerator.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "instantdownloadsz.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -10762,6 +10772,11 @@
     "knightsanddragonshack.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "knowledgeonline.site": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "kolopopo.com": {
