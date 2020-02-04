@@ -4809,6 +4809,11 @@
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
+    "extofiles.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "extrafree.fun": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -9449,6 +9454,11 @@
         "expiration_date": "07-may-2020",
         "state": "future"
     },
+    "hacksplanet.net": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
     "hacksplanet.org": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
@@ -11384,6 +11394,11 @@
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
+    "loungexskins.fun": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "loveling.info": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -11412,6 +11427,11 @@
     "luckygaimes.cc": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "luckygaimes.cx": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "luckygaims.cc": {
@@ -18700,9 +18720,9 @@
         "state": "future"
     },
     "zuneplay.com": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
-        "state": "past"
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
     },
     "zupiv.ru": {
         "epoch": 1592870400.0,
