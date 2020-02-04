@@ -410,9 +410,9 @@
         "state": "future"
     },
     "allgameshack.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
-        "state": "past"
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
     },
     "allgengamingservers.com": {
         "epoch": 1611532800.0,
@@ -1072,7 +1072,7 @@
     "bestfreecodes.com": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bestfreehacks.com": {
         "epoch": 1601683200.0,
@@ -2965,8 +2965,8 @@
         "state": "future"
     },
     "cs1.money": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
         "state": "future"
     },
     "cscccase.online": {
@@ -13167,7 +13167,7 @@
     "pashuber.in": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "pashuber.net": {
         "epoch": 1588464000.0,
