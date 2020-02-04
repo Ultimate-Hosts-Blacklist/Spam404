@@ -1447,7 +1447,7 @@
     "bootme.club": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "botmafia.com": {
         "epoch": 1601337600.0,
@@ -3083,6 +3083,11 @@
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
         "state": "future"
+    },
+    "csgodmarket.com": {
+        "epoch": 1576108800.0,
+        "expiration_date": "12-dec-2019",
+        "state": "past"
     },
     "csgodragon2x.com": {
         "epoch": 1585785600.0,
@@ -6647,7 +6652,7 @@
     "freenetflixaccounts.com": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "freenewbooks.com": {
         "epoch": 1591401600.0,
@@ -9905,8 +9910,8 @@
         "state": "future"
     },
     "hugefileshare.com": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "huiso.su": {
@@ -10740,8 +10745,8 @@
         "state": "future"
     },
     "keygensland.com": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "keysetcrack.fr": {
@@ -12104,6 +12109,11 @@
         "expiration_date": "10-feb-2021",
         "state": "future"
     },
+    "movies-mania.com": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "movies20ntvshow.com": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
@@ -12345,8 +12355,8 @@
         "state": "future"
     },
     "mymoviestube.com": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "mynetav.net": {
