@@ -494,6 +494,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "amazingbizplan.com": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "amazingcash.org": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
@@ -4412,7 +4417,7 @@
     "easport19.com": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "easport19.live": {
         "epoch": 1588118400.0,
@@ -13630,8 +13635,8 @@
         "state": "future"
     },
     "premium18age.com": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
         "state": "future"
     },
     "premiumaccountgenerator.com": {
@@ -14254,6 +14259,11 @@
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
+    "reloadedhacks.com": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "state": "future"
+    },
     "renuriv.ru": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
@@ -14440,8 +14450,8 @@
         "state": "future"
     },
     "rollskins.top": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "roluf.ru": {
