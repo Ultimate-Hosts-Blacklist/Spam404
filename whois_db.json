@@ -3694,6 +3694,11 @@
         "expiration_date": "03-jul-2020",
         "state": "future"
     },
+    "dinxteam.com": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "diquf.ru": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
@@ -5884,6 +5889,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "flyercase.fun": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
     "flyextensions.com": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -5912,6 +5922,11 @@
     "folderzip.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "follow-insta.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "followhack.com": {
@@ -11114,6 +11129,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "litle.me": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "liveappsearch.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -14084,6 +14104,11 @@
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
+    "rarshare.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
     "rasahack.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
@@ -16622,6 +16647,11 @@
     "tradebot.online": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "tradecsgo.online": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "tradersbotgg.com": {
