@@ -9429,6 +9429,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "hacksplus.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
     "hacksroom.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
@@ -11100,8 +11105,8 @@
         "state": "future"
     },
     "lightdrop.top": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "lightingshots.com": {
@@ -14492,7 +14497,7 @@
     "rollskins.one": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "rollskins.top": {
         "epoch": 1612224000.0,
