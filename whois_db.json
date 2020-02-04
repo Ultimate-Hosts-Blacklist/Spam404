@@ -2645,8 +2645,8 @@
         "state": "future"
     },
     "coinshunt.com": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
         "state": "future"
     },
     "coinspokemongo.com": {
@@ -5072,6 +5072,11 @@
     "fbaccountrecoverer.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "fbcheaterz.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "fbcheats.com": {
@@ -12873,6 +12878,11 @@
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
         "state": "past"
+    },
+    "numberhacker.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
     },
     "numercoins.com": {
         "epoch": 1600732800.0,
