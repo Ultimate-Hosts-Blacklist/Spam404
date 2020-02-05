@@ -814,6 +814,11 @@
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
+    "esl-play.com": {
+        "epoch": 1575936000.0,
+        "expiration_date": "10-dec-2019",
+        "state": "past"
+    },
     "esl-tournament.net": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
@@ -1199,6 +1204,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "gewor.ru": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "gexaf.ru": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
@@ -1402,6 +1412,11 @@
     "hihuz.ru": {
         "epoch": 1614729600.0,
         "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "hikoq.ru": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "himazim.ru": {
@@ -1949,6 +1964,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "nehisoho.ru": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "neloxu.ru": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
@@ -2379,6 +2399,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "saison-x.com": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "sakumix.ru": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
@@ -2794,6 +2819,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "ticdewi.ru": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "tolap.ru": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
@@ -2912,6 +2942,11 @@
     "vavagov.ru": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
+    "vaxeta.ru": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "vbtrst.pro": {
