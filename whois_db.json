@@ -379,6 +379,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "aldenfiles.com": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
     "alivehacks.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
@@ -698,6 +703,11 @@
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
         "state": "past"
+    },
+    "apphackz.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
     },
     "apple--iphone5.com": {
         "epoch": 1585440000.0,
@@ -17527,7 +17537,7 @@
     "vivahacks.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "vizeveso.ru": {
         "epoch": 1594252800.0,
