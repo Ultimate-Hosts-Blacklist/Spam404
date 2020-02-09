@@ -854,6 +854,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "atomicwalletweb.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "authorizeddns.net": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -2652,6 +2657,11 @@
     "coinbase.gift": {
         "epoch": 1611792000.0,
         "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "coinbasepro-giveaway.com": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
         "state": "future"
     },
     "coinsgame.icu": {
@@ -4600,6 +4610,11 @@
         "state": "future"
     },
     "emiratesnbd-account.icu": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "emiratesnbd-upgrade.icu": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
         "state": "future"
@@ -8132,7 +8147,7 @@
     "gitmovies.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "gitorm.info": {
         "epoch": 1594425600.0,
@@ -13187,6 +13202,11 @@
     "onmypc.us": {
         "epoch": 1625961600.0,
         "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
+    "onomovie.xyz": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "open-skins.space": {
