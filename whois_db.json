@@ -1789,6 +1789,11 @@
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
+    "celebrity-cell.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "celebrity-numbers.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -4237,6 +4242,11 @@
     "dragoncitygems.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "dragoncitygemshack.com": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "dragoncityhack.net": {
