@@ -1814,6 +1814,11 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "celebrityphonehacks.com": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
     "celebritywizard.net": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
@@ -4644,6 +4649,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "emiratenbd-account.icu": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "emiratesnbd-account.icu": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -4655,6 +4665,11 @@
         "state": "future"
     },
     "emiratesnbds-account.icu": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "emlratesnbd-bank.icu": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
         "state": "future"
@@ -8187,6 +8202,11 @@
     "giftcode.pl": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "giftcodes.online": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "giftcodes4u.com": {
@@ -11794,6 +11814,11 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "maxmusics.com": {
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "state": "future"
+    },
     "mayukefile.com": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
@@ -14667,7 +14692,7 @@
     "riotpointscodes.info": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "riotpointscodes.net": {
         "epoch": 1590710400.0,
@@ -17879,6 +17904,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "wattpad.online": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
     "waxhack.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
@@ -18157,6 +18187,11 @@
     "workingkeys.com": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
+    "worldcase.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "worldhack.net": {
