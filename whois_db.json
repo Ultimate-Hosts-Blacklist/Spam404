@@ -1549,6 +1549,11 @@
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
+    "budgetwizard.io": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
+    },
     "bukul.ru": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
@@ -6282,7 +6287,7 @@
     "free-itunes-codes.net": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "free-lol-skins.org": {
         "epoch": 1598918400.0,
@@ -9315,9 +9320,9 @@
         "state": "future"
     },
     "hackmobilegames.com": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
-        "state": "past"
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
     },
     "hacknosurvey.org": {
         "epoch": 1601596800.0,
@@ -10827,6 +10832,11 @@
     "jurassicparkbuildercheats.net": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "just-watch-it.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "justdied.com": {
