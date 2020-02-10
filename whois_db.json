@@ -18039,6 +18039,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "webjaxx.io": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "webkinz-codes.com": {
         "epoch": 1609459200.0,
         "expiration_date": "01-jan-2021",
@@ -18752,6 +18757,11 @@
     "your-free-hack.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "your-surveys.com": {
+        "epoch": 1682294400.0,
+        "expiration_date": "24-apr-2023",
         "state": "future"
     },
     "yourcamera4free.com": {
