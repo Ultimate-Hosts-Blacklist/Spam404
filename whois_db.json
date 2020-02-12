@@ -4924,6 +4924,11 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "exodus-web.net": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
     "exodus-web.ws": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -9302,7 +9307,7 @@
     "hackingfacebook.net": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hackingfree.com": {
         "epoch": 1606867200.0,
@@ -12312,6 +12317,11 @@
     "monsterlegendshack.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "monsterloot.fun": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "moonetizer.com": {
