@@ -9125,9 +9125,9 @@
         "state": "future"
     },
     "hackdownloadzone.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
     },
     "hackdragoncity.net": {
         "epoch": 1602979200.0,
@@ -14807,6 +14807,11 @@
     "rippleairdrop.net": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "ripplelab.space": {
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "risehack.com": {
