@@ -2870,9 +2870,9 @@
         "state": "future"
     },
     "crackandhack.info": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
-        "state": "past"
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
     },
     "crackdb.info": {
         "epoch": 1612915200.0,
@@ -4897,6 +4897,11 @@
     "eweibo.ru": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "ex-exodus.info": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "ex-sites.net": {
