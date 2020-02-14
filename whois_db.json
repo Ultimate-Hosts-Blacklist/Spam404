@@ -5249,6 +5249,11 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "fb-gamer.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "fb-hacker.net": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -17732,7 +17737,7 @@
     "verifiedalts.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "verifiedreview.online": {
         "epoch": 1609891200.0,
