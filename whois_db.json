@@ -3962,7 +3962,7 @@
     "docactive.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "dofuskamas-generateur.com": {
         "epoch": 1594080000.0,
@@ -9907,7 +9907,7 @@
     "hearthstonegenerator.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hearthstonehack.com": {
         "epoch": 1586908800.0,
