@@ -8450,9 +8450,9 @@
         "state": "future"
     },
     "goggle.com": {
-        "epoch": 1581552000.0,
-        "expiration_date": "13-feb-2020",
-        "state": "past"
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
     },
     "gohus.ru": {
         "epoch": 1601510400.0,
@@ -10617,7 +10617,7 @@
     "is-apple.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "isasecret.com": {
         "epoch": 1617062400.0,
