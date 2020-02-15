@@ -3492,7 +3492,7 @@
     "csmoney24.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "csmoneycase.com": {
         "epoch": 1590883200.0,
@@ -4667,7 +4667,7 @@
     "elitemoneymethods.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "elohell.org": {
         "epoch": 1598745600.0,
@@ -8182,6 +8182,11 @@
     "getpasswordonline.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "getpokemoncoins.net": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "getpsn.net": {
