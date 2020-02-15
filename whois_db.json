@@ -3387,7 +3387,7 @@
     "csgospiner.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgotakeoff.com": {
         "epoch": 1576368000.0,
@@ -10772,6 +10772,11 @@
     "jaxx.in": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
+    "jaxx.site": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "jaxx.ws": {
