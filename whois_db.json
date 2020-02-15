@@ -114,6 +114,11 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "downhack.net": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "drelkawon.ru": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
