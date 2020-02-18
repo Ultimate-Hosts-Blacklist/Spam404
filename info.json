@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 327,
+            "invalid": 0,
+            "tested": 722,
+            "up": 395
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Mon Feb 17 12:26:40 2020",
     "end_epoch": 1581942400.489439,
-    "last_autosave_datetime": "Mon Feb 17 11:38:22 2020",
-    "last_autosave_epoch": 1581939502.722302,
+    "last_autosave_datetime": "Tue Feb 18 18:37:23 2020",
+    "last_autosave_epoch": 1582051043.409075,
     "name": "Spam404",
     "previous_stats": {
         "builds": 54,
@@ -20,6 +29,6 @@
         "whitelisted.list": 7332
     },
     "raw_link": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
-    "start_datetime": "Fri Feb 14 10:46:47 2020",
-    "start_epoch": 1581677207.056343
+    "start_datetime": "Tue Feb 18 18:27:22 2020",
+    "start_epoch": 1582050442.877831
 }
