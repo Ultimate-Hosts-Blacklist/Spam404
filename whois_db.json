@@ -1247,7 +1247,7 @@
     "bitdskins.com": {
         "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bitfiles.net": {
         "epoch": 1589500800.0,
@@ -10785,9 +10785,9 @@
         "state": "future"
     },
     "keygenallgame.com": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
-        "state": "past"
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
     },
     "keygens-and-cheat.com": {
         "epoch": 1601596800.0,
