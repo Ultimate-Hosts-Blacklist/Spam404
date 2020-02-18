@@ -1149,6 +1149,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "betack.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "betagiveaway.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -8164,6 +8169,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "giveawayskin.xyz": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "givehack.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
@@ -12074,6 +12084,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "moonskins.fun": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "morehacks.net": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
@@ -13253,6 +13268,11 @@
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "past"
+    },
+    "panacinema.pw": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "pandawamovie.com": {
         "epoch": 1600992000.0,
@@ -15774,6 +15794,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "st4ckgiveway.site": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "stackpoints.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
@@ -16749,6 +16774,11 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "tradecsgo.online": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "tradefastskin.com": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
@@ -17140,9 +17170,9 @@
         "state": "future"
     },
     "unrealhack.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "uomo-shopping.com": {
         "epoch": 1578700800.0,
@@ -17932,6 +17962,11 @@
     "workingkeys.com": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
+    "worldcase.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "worldcases.fun": {
