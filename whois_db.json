@@ -4235,9 +4235,9 @@
         "state": "future"
     },
     "dragoncitygems.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "dragoncitygemshack.com": {
         "epoch": 1612742400.0,
@@ -11637,6 +11637,11 @@
     "luckygaimes.cc": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "luckygaimes.cx": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "luckygaims.cc": {
