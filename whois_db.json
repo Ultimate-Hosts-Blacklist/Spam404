@@ -11169,6 +11169,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "ledger.limited": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
     "ledgerwallet.life": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
@@ -13312,7 +13317,7 @@
     "opercase.com": {
         "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "opskins.pro": {
         "epoch": 1601596800.0,
