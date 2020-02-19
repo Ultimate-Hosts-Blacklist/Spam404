@@ -2312,7 +2312,7 @@
     "clashofclanhacks.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "clashofclans-hacks.com": {
         "epoch": 1599868800.0,
@@ -3652,6 +3652,11 @@
     "demhacks.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "demovie.xyz": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
         "state": "future"
     },
     "dequn.ru": {
@@ -7347,6 +7352,11 @@
     "gamecheathq.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "gamecheatpro.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "gamecheattools.com": {
@@ -13214,6 +13224,16 @@
         "expiration_date": "11-jul-2021",
         "state": "future"
     },
+    "onomovie.xyz": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
+    "open-skins.space": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "opencheats.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
@@ -15852,6 +15872,11 @@
     "starboundbeta.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "stardrop.fun": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "starrygamble.com": {
