@@ -3839,6 +3839,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "dlhaven.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "dlmyapp.net": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -5827,6 +5832,11 @@
     "filingking.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "filingmap.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "filingpal.com": {
@@ -7967,7 +7977,7 @@
     "get-bills.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "get-bitcoin.website": {
         "epoch": 1602547200.0,
