@@ -3069,6 +3069,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "csgo-skins.website": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "csgo-skins4.pro": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -13090,9 +13095,9 @@
         "state": "future"
     },
     "nulledshare.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "nulledstore.com": {
         "epoch": 1576108800.0,
@@ -17962,6 +17967,11 @@
     "webledger.ltd": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "webledger.site": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "webmaster322.ru": {
