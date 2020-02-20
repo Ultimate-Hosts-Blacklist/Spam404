@@ -2524,6 +2524,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "cloud-skins.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "clubproposte.it": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
@@ -2972,7 +2977,7 @@
     "crunchmutt.com": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "crushthecandy.com": {
         "epoch": 1595980800.0,
@@ -9647,7 +9652,7 @@
     "hackstation.net": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hackstogames.com": {
         "epoch": 1613520000.0,
@@ -11032,6 +11037,11 @@
     "klowis.ru": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "knife-case.fun": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "knightsanddragonshack.com": {
