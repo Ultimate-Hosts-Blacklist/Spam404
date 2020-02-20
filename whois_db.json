@@ -2330,9 +2330,9 @@
         "state": "future"
     },
     "clashofclanhacks.com": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
-        "state": "past"
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
     },
     "clashofclans-hacks.com": {
         "epoch": 1599868800.0,
@@ -3997,6 +3997,11 @@
     "dopalidi.ru": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "dota2.money": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "dota2eta.com": {
@@ -9182,6 +9187,11 @@
     "hackfbhacker.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "hackfbmessenger.xyz": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "hackfbprofile.com": {
