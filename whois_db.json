@@ -14674,6 +14674,11 @@
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
+    "requesttooldownload296.space": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "rescator.me": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
@@ -16042,6 +16047,11 @@
     "ssuvumo.ru": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "st4ck-game.site": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "st4ck-givesk1ns.site": {
