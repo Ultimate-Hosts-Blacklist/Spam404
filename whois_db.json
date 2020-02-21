@@ -2694,6 +2694,11 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "coinsgame.icu": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "coinshunt.com": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
@@ -11649,6 +11654,11 @@
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
+    "loot-kings.fun": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "loot-skins.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -15657,7 +15667,7 @@
     "skinscheck.com": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "skinschecker.com": {
         "epoch": 1587772800.0,
