@@ -829,6 +829,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "astralis-giveaway.fun": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "astralis-loot.fun": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
@@ -2007,7 +2012,7 @@
     "cheatsandhack.com": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "cheatsandhacks.net": {
         "epoch": 1587772800.0,
@@ -18662,6 +18667,11 @@
     "xrp-airdrop.net": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
+    "xtopinventory.fun": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "xuwud.ru": {
