@@ -1009,6 +1009,11 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "battlepass.icu": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
     "baystrade.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
@@ -10049,6 +10054,11 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "hot-skins.fun": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "hotdbase.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
@@ -10072,6 +10082,11 @@
     "how-to-hack-webcam.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "howllskins.fun": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "howtobypasssurveys.com": {
@@ -15457,7 +15472,7 @@
     "simpledownloadz.com": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "simplelifetimeapp.com": {
         "epoch": 1599868800.0,
