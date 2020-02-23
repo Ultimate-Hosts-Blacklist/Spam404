@@ -6197,7 +6197,7 @@
     "fortniteformobile.com": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "fortunefiles.org": {
         "epoch": 1610323200.0,
@@ -15690,9 +15690,9 @@
         "state": "future"
     },
     "skinscheck.com": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
-        "state": "past"
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
     },
     "skinschecker.com": {
         "epoch": 1587772800.0,
