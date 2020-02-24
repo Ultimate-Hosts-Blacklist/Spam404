@@ -434,6 +434,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "skinscloud.fun": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "skinsway.fun": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -462,6 +467,11 @@
     "st4ck-game.site": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "st4ck-giveaways.site": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "st4ckgiveway.site": {
@@ -577,6 +587,11 @@
     "xorody.ru": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "xtopskins.fun": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "zivog.ru": {
