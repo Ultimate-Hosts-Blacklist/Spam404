@@ -745,8 +745,8 @@
         "state": "future"
     },
     "applicationgrabb.net": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "appmyass.com": {
@@ -5272,6 +5272,11 @@
     "fbaccountrecoverer.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "fbcashclub.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "fbcheaterz.com": {
@@ -10182,6 +10187,11 @@
     "hugefileshare.com": {
         "epoch": 1612224000.0,
         "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "huis.su": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "huiso.si": {
