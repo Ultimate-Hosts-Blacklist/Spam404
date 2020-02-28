@@ -7274,6 +7274,11 @@
         "expiration_date": "23-jan-2021",
         "state": "future"
     },
+    "gameadditions.net": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
     "gameanarchy.org": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
@@ -12047,7 +12052,7 @@
     "mixedhacks.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "mmogamehack.com": {
         "epoch": 1609718400.0,
@@ -17777,7 +17782,7 @@
     "webdev0.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "webexodus.info": {
         "epoch": 1612396800.0,
