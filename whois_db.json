@@ -15084,6 +15084,11 @@
         "expiration_date": "06-jan-2021",
         "state": "future"
     },
+    "sharecloud.pl": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "sharefiled.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
