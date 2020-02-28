@@ -5979,6 +5979,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "flyercase.fun": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
     "flyextensions.com": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -13892,6 +13897,11 @@
     "prohacktools.com": {
         "epoch": 1611792000.0,
         "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "projetneon.xyz": {
+        "epoch": 1648252800.0,
+        "expiration_date": "26-mar-2022",
         "state": "future"
     },
     "promofferte.com": {
