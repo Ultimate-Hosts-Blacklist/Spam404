@@ -1280,9 +1280,9 @@
         "state": "future"
     },
     "bitskcin.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
-        "state": "past"
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
     },
     "bitskins.com.ua": {
         "epoch": 1583193600.0,
@@ -9215,8 +9215,8 @@
         "state": "future"
     },
     "hackoutils.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "hackphat.com": {
