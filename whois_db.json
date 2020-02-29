@@ -4834,6 +4834,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "exmovie.xyz": {
+        "epoch": 1576627200.0,
+        "expiration_date": "18-dec-2019",
+        "state": "past"
+    },
     "exodus-wallet.org": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
