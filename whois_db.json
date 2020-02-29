@@ -484,6 +484,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "alt-gen.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "altdispenser.net": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -13035,9 +13040,9 @@
         "state": "future"
     },
     "nulledstore.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "numberhacker.com": {
         "epoch": 1599264000.0,
