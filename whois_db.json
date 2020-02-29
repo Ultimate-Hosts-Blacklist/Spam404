@@ -579,6 +579,11 @@
         "expiration_date": "09-jan-2020",
         "state": "past"
     },
+    "easyloots.space": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "elite-cheats.net": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
