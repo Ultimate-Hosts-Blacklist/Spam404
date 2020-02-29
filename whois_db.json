@@ -7164,6 +7164,11 @@
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
+    "fullpcgames.xyz": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "fullysoftware.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -8427,6 +8432,11 @@
     "gpskins.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "gqskins.fun": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "gr8domain.biz": {
