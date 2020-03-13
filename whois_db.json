@@ -1582,7 +1582,7 @@
     "burnshare.net": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "burstskins.com": {
         "epoch": 1601683200.0,
@@ -14372,7 +14372,7 @@
     "quantumstresser.net": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "quickdl.net": {
         "epoch": 1610668800.0,
