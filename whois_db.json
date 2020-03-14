@@ -11854,6 +11854,11 @@
         "expiration_date": "19-oct-2022",
         "state": "future"
     },
+    "mcpgames.com": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
     "mcraftgiftcodes.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
@@ -14460,9 +14465,9 @@
         "state": "future"
     },
     "rarshare.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
     },
     "rasahack.com": {
         "epoch": 1590364800.0,
