@@ -4454,6 +4454,11 @@
         "expiration_date": "10-jan-2020",
         "state": "past"
     },
+    "e-kinoman.pl": {
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
     "e-telecharger.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
