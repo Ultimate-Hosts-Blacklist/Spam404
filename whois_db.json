@@ -1369,6 +1369,11 @@
         "expiration_date": "07-may-2020",
         "state": "future"
     },
+    "bo2-hack.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
     "bo2seasonpass.com": {
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
@@ -16260,8 +16265,8 @@
         "state": "future"
     },
     "steamkeysfree.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "steamplatform.wtf": {
