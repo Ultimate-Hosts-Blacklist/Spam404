@@ -1312,7 +1312,7 @@
     "bitskins.com.ua": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "biziux.ru": {
         "epoch": 1594598400.0,
@@ -2770,8 +2770,8 @@
         "state": "future"
     },
     "commentpirater.com": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "commentpiratercomptefacebook.org": {
@@ -2885,8 +2885,8 @@
         "state": "future"
     },
     "cpadoom.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "cpalead.com": {
@@ -17655,9 +17655,9 @@
         "state": "future"
     },
     "ultra-files.com": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
-        "state": "past"
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "state": "future"
     },
     "ultragamehacks.com": {
         "epoch": 1615939200.0,
