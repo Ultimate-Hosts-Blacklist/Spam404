@@ -709,6 +709,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "appannie.club": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "appcheatsonline.com": {
         "epoch": 1609113600.0,
         "expiration_date": "28-dec-2020",
@@ -2694,6 +2699,11 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "coinsgame.icu": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "coinshunt.com": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
@@ -2822,6 +2832,11 @@
     "couponspage.club": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "covid-19donor.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "cpadoom.com": {
@@ -3195,8 +3210,8 @@
         "state": "future"
     },
     "csgogivers.com": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "csgogreedy.com": {
@@ -5050,8 +5065,8 @@
         "state": "future"
     },
     "facebookaccounthack.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "facebookaccounthack.net": {
@@ -5847,7 +5862,7 @@
     "filewhite.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "fileyellow.com": {
         "epoch": 1599609600.0,
@@ -7363,6 +7378,11 @@
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
         "state": "past"
+    },
+    "futureloot.fun": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
     },
     "fuvow.ru": {
         "epoch": 1591142400.0,
@@ -11760,8 +11780,8 @@
         "state": "future"
     },
     "loungebots.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "loungeskins.com": {
@@ -13829,6 +13849,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "piraterhotmail.website": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
     "piraterlesjeuxgratuit.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
@@ -15175,8 +15200,8 @@
         "state": "future"
     },
     "secretfilez.com": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "secrethotgames.com": {
@@ -15195,8 +15220,8 @@
         "state": "future"
     },
     "secure-runescape.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "securefile.info": {
@@ -15922,7 +15947,7 @@
     "soccerstars-hack.net": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "social-cheats.com": {
         "epoch": 1603843200.0,
@@ -16197,6 +16222,11 @@
     "starrygamble.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "starsknife.fun": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "starstablehack.net": {
@@ -17164,6 +17194,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "tradebot.top": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
     "tradefastskin.com": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
@@ -18100,8 +18135,8 @@
         "state": "future"
     },
     "waystohack.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "wcracked.com": {
