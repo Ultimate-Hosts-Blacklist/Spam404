@@ -1580,8 +1580,8 @@
         "state": "future"
     },
     "btcxadder.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "budgetwizard.io": {
@@ -3107,6 +3107,11 @@
     "csgo-drop.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
+        "state": "future"
+    },
+    "csgo-empire.pro": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "csgo-finder.com": {
@@ -5212,6 +5217,11 @@
     "fakenotesplug.com": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "faker322.pro": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "famog.ru": {
@@ -15515,8 +15525,8 @@
         "state": "future"
     },
     "sharefiled.com": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "sharefileland.com": {
@@ -17017,7 +17027,7 @@
     "thebesthack24.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "thebestpsncodegenerator.com": {
         "epoch": 1578787200.0,
