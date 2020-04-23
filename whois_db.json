@@ -322,7 +322,7 @@
     "addpaypal.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "adgatemedia.com": {
         "epoch": 1611187200.0,
@@ -1807,7 +1807,7 @@
     "cazarure.ru": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "cazow.com": {
         "epoch": 1619136000.0,
@@ -2574,6 +2574,11 @@
         "expiration_date": "16-may-2020",
         "state": "future"
     },
+    "cmrewards.site": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
     "cocfreegems.net": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
@@ -3295,8 +3300,8 @@
         "state": "future"
     },
     "csgolden.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "csgolonuge.com": {
@@ -6310,8 +6315,8 @@
         "state": "future"
     },
     "free-codes.info": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "free-down.xyz": {
@@ -7424,6 +7429,11 @@
         "expiration_date": "06-jan-2020",
         "state": "past"
     },
+    "future-skins.fun": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "futureloot.fun": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
@@ -7975,8 +7985,8 @@
         "state": "future"
     },
     "gamezfree.net": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "gamezhack.com": {
@@ -10050,8 +10060,8 @@
         "state": "future"
     },
     "hobbitkomsecrets.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "hobfezu.ru": {
@@ -13200,8 +13210,8 @@
         "state": "future"
     },
     "nintendo3ds4free.com": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "nintendo3dshack.com": {
@@ -13950,8 +13960,8 @@
         "state": "future"
     },
     "piwite.ru": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "pixcheats.com": {
@@ -16477,6 +16487,11 @@
     "steamdomains.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "steamgames4free.net": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "steamgamesdownload.com": {
