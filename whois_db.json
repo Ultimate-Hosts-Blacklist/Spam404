@@ -975,8 +975,8 @@
         "state": "future"
     },
     "bandbuzzer.com": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "bandithacks.com": {
@@ -3265,8 +3265,8 @@
         "state": "future"
     },
     "csgohop.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "csgoid.com": {
@@ -4759,6 +4759,11 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "emlratesnbd-upgrade.icu": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "emulateur3ds.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -4827,7 +4832,7 @@
     "eplayleauge.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "esavefile.com": {
         "epoch": 1647216000.0,
@@ -6410,8 +6415,8 @@
         "state": "future"
     },
     "free-psncards.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "free-riotpoints.com": {
@@ -7415,8 +7420,8 @@
         "state": "future"
     },
     "furrydrop.net": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "furycheats.com": {
@@ -10380,8 +10385,8 @@
         "state": "future"
     },
     "igfreefollowers.com": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "igpasshack.com": {
@@ -10435,8 +10440,8 @@
         "state": "future"
     },
     "imaginarydiamond.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "imdbwatch.com": {
@@ -13125,8 +13130,8 @@
         "state": "future"
     },
     "newgamingstar.com": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "newgeneratorcodes.info": {
@@ -16689,6 +16694,11 @@
         "expiration_date": "29-mar-2021",
         "state": "future"
     },
+    "surveybypass.com": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "state": "future"
+    },
     "surveybypass.net": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -18715,8 +18725,8 @@
         "state": "future"
     },
     "xboxboss.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "xboxcodegenerator.com": {
