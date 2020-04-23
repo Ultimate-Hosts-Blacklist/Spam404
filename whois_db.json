@@ -1162,7 +1162,7 @@
     "bestorican.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bestphonehacks.com": {
         "epoch": 1587600000.0,
@@ -4780,8 +4780,8 @@
         "state": "future"
     },
     "epiccheats.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "epiccodes.com": {
@@ -6460,8 +6460,8 @@
         "state": "future"
     },
     "freebitcoinsworld.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "freebtcgenerator.net": {
@@ -7940,8 +7940,8 @@
         "state": "future"
     },
     "gametrainersave.com": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "gamexcode.com": {
@@ -8570,8 +8570,8 @@
         "state": "future"
     },
     "googletagnamager.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "goomia.net": {
@@ -9570,8 +9570,8 @@
         "state": "future"
     },
     "hacksbook.com": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "hacksbuddy.com": {
@@ -12130,8 +12130,8 @@
         "state": "future"
     },
     "megadirtyfiles.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "megadown.us": {
@@ -13944,6 +13944,11 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "pkgo.com.ve": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "placeofentertainment.org": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
@@ -15685,8 +15690,8 @@
         "state": "future"
     },
     "skin-traders.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "skin88trade.com": {
@@ -16715,8 +16720,8 @@
         "state": "future"
     },
     "takedaxgames.com": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "talk-for.com": {
@@ -16965,9 +16970,9 @@
         "state": "future"
     },
     "thehackspot.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
-        "state": "past"
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
     },
     "thekeygenfactory.co.uk": {
         "epoch": 1589587200.0,
