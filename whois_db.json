@@ -1514,6 +1514,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "bountywin.com": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
     "bowaq.ru": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -2739,6 +2744,11 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "com-ws.cz": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "combatarms-nx.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
@@ -2905,8 +2915,8 @@
         "state": "future"
     },
     "crackernapper.com": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "crackfulldownload.com": {
@@ -3197,7 +3207,7 @@
     "csgoflap.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgoflex.site": {
         "epoch": 1592265600.0,
@@ -3477,6 +3487,11 @@
     "csmoney.cc": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "csmoney.money": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "csmoney24.com": {
@@ -11735,8 +11750,8 @@
         "state": "future"
     },
     "loomplay.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1650412800.0,
+        "expiration_date": "20-apr-2022",
         "state": "future"
     },
     "loopfiles.com": {
@@ -13090,8 +13105,8 @@
         "state": "future"
     },
     "newmoviehq.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "newmoviesdownload.net": {
@@ -17492,7 +17507,7 @@
     "ultra-files.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "ultragamehacks.com": {
         "epoch": 1577577600.0,
@@ -18060,8 +18075,8 @@
         "state": "future"
     },
     "walemedia.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1650412800.0,
+        "expiration_date": "20-apr-2022",
         "state": "future"
     },
     "wandtrade.com": {
@@ -18885,8 +18900,8 @@
         "state": "future"
     },
     "yinkuya.ru": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "yituf.com": {
