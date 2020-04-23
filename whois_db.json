@@ -95,8 +95,8 @@
         "state": "future"
     },
     "270inc.com": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "2in1pill.com": {
@@ -1172,7 +1172,7 @@
     "bestphonehacks.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bestqualitynotes.com": {
         "epoch": 1607904000.0,
@@ -2872,6 +2872,11 @@
     "covid-19donor.com": {
         "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
+    "covid19grantor.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "cpadoom.com": {
@@ -9645,8 +9650,8 @@
         "state": "future"
     },
     "hacksdeposit.com": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "hackservices.com": {
