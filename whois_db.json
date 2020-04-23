@@ -220,9 +220,9 @@
         "state": "future"
     },
     "8cheat.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
-        "state": "past"
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
     },
     "999-proxy.com": {
         "epoch": 1599264000.0,
@@ -1805,8 +1805,8 @@
         "state": "future"
     },
     "cazow.com": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "ce7.org": {
@@ -1960,8 +1960,8 @@
         "state": "future"
     },
     "cheatfiles.org": {
-        "epoch": 1584403200.0,
-        "expiration_date": "17-mar-2020",
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "cheatgame4u.com": {
@@ -1970,9 +1970,9 @@
         "state": "future"
     },
     "cheatgametools.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
-        "state": "past"
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
     },
     "cheathacktool.com": {
         "epoch": 1595721600.0,
@@ -2420,8 +2420,8 @@
         "state": "future"
     },
     "clashofclanshackers.net": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "clashofclanshackgems.com": {
@@ -9360,8 +9360,8 @@
         "state": "future"
     },
     "hackingames24.com": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "hackingbooth.com": {
@@ -9595,8 +9595,8 @@
         "state": "future"
     },
     "hackscommunity.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "hacksday.com": {
@@ -10380,8 +10380,8 @@
         "state": "future"
     },
     "ihavetohave.net": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "iheaven.us": {
@@ -10490,8 +10490,8 @@
         "state": "future"
     },
     "inhacks.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "inlinevideos.com": {
@@ -12575,8 +12575,8 @@
         "state": "future"
     },
     "movieplatinum.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "movies-4you.com": {
@@ -13175,8 +13175,8 @@
         "state": "future"
     },
     "nintendobro.com": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "ninth.biz": {
@@ -13327,6 +13327,11 @@
     "numercoins.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "nutakuhackgold.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "nutom.ru": {
@@ -15200,8 +15205,8 @@
         "state": "future"
     },
     "screenercloud.com": {
-        "epoch": 1584230400.0,
-        "expiration_date": "15-mar-2020",
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
         "state": "future"
     },
     "screensflare.com": {
@@ -15307,7 +15312,7 @@
     "sendhack.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "sendshort.com": {
         "epoch": 1611792000.0,
@@ -16525,8 +16530,8 @@
         "state": "future"
     },
     "streamunion.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "streamvid.tv": {
