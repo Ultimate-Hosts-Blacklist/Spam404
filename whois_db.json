@@ -4530,8 +4530,8 @@
         "state": "future"
     },
     "dyndns.pro": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1649721600.0,
+        "expiration_date": "12-apr-2022",
         "state": "future"
     },
     "dynssl.com": {
@@ -10262,7 +10262,7 @@
     "hypedrop.net": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "icehacks.com": {
         "epoch": 1602374400.0,
@@ -11335,8 +11335,8 @@
         "state": "future"
     },
     "leagueskins.me": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "leakbay.net": {
@@ -11585,8 +11585,8 @@
         "state": "future"
     },
     "likefreehack.com": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "likeventy.com": {
@@ -14355,8 +14355,8 @@
         "state": "future"
     },
     "psn4free.com": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "psnboy.com": {
@@ -15035,8 +15035,8 @@
         "state": "future"
     },
     "rootcheats.com": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "rourl.me": {
@@ -16414,6 +16414,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "steamcommynity.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
     "steamcomrnunutu.com": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
@@ -16647,6 +16652,11 @@
     "surup.ru": {
         "epoch": 1616976000.0,
         "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
+    "surveybypass.net": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "surveyremovertool.com": {
@@ -17540,9 +17550,9 @@
         "state": "past"
     },
     "ultragamehacks.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
     },
     "ultrahacks.org": {
         "epoch": 1651536000.0,
@@ -17939,6 +17949,11 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "videoplex.pl": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
     "vidhaze.com": {
         "epoch": 1695513600.0,
         "expiration_date": "24-sep-2023",
@@ -17990,8 +18005,8 @@
         "state": "future"
     },
     "viralgag.net": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "viralvids.info": {
@@ -18177,6 +18192,11 @@
     "watchmuvee.info": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "watchrugbystream.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "watchthesenow.com": {
@@ -18840,8 +18860,8 @@
         "state": "future"
     },
     "xploitz.net": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "xravengames.com": {
