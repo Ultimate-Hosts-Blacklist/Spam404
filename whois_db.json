@@ -4769,6 +4769,11 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "emlratesnbd-account.icu": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "emlratesnbd-upgrade.icu": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -9960,8 +9965,8 @@
         "state": "future"
     },
     "haydayhacks.org": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "hdmoviefull.com": {
@@ -14099,6 +14104,11 @@
         "expiration_date": "20-dec-2020",
         "state": "future"
     },
+    "playtoolz.com": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "pobunu.ru": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
@@ -17495,8 +17505,8 @@
         "state": "future"
     },
     "tvmovies.us": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "tvreel.us": {
