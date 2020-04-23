@@ -255,8 +255,8 @@
         "state": "future"
     },
     "abscbn-news-online.info": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "accountemporium.com": {
@@ -1565,8 +1565,8 @@
         "state": "future"
     },
     "brokdrop.com": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "btcgen.info": {
@@ -2905,9 +2905,9 @@
         "state": "future"
     },
     "crackedscripts.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
-        "state": "past"
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
     },
     "crackelite.com": {
         "epoch": 1606348800.0,
@@ -3042,6 +3042,11 @@
     "cryptoxlogy.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
+    "cs-money.money": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "cs-money.pro": {
@@ -5469,6 +5474,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "fifa19.site": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "fifa19android.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
@@ -6065,8 +6075,8 @@
         "state": "future"
     },
     "fixabu.ru": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "fixxtrade.com": {
@@ -7980,8 +7990,8 @@
         "state": "future"
     },
     "gamezterror.com": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "gamhack.com": {
@@ -9645,8 +9655,8 @@
         "state": "future"
     },
     "hacksforiosgames.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "hacksfree.net": {
@@ -13595,8 +13605,8 @@
         "state": "future"
     },
     "optidl.com": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "optout-blglb.net": {
@@ -13920,8 +13930,8 @@
         "state": "future"
     },
     "pistes.ru": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "pitewu.ru": {
@@ -16280,8 +16290,8 @@
         "state": "future"
     },
     "starrygamble.com": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "starsknife.fun": {
@@ -17497,6 +17507,11 @@
     "ubifee.ru": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "ucfiles.com": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "ufc-streams.com": {
@@ -19240,8 +19255,8 @@
         "state": "future"
     },
     "zlippyshare.com": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "zobiv.ru": {
