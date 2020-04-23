@@ -9165,8 +9165,8 @@
         "state": "future"
     },
     "hack4us.com": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "hack4you.org": {
@@ -14175,8 +14175,8 @@
         "state": "future"
     },
     "pokemonxdownload.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "polquxa.ru": {
@@ -16564,6 +16564,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "steammarketcap.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "steamplatform.wtf": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
@@ -17130,9 +17135,9 @@
         "state": "future"
     },
     "ticfiles.com": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
-        "state": "past"
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "state": "future"
     },
     "tiiny.me": {
         "epoch": 1638057600.0,
