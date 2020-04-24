@@ -849,6 +849,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "astralis-giveaway.fun": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "astralis-loot.fun": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
@@ -13565,8 +13570,8 @@
         "state": "future"
     },
     "onlinebalances.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "onlinefbhack.com": {
@@ -13970,8 +13975,8 @@
         "state": "future"
     },
     "piratagelogiciels.com": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "pirater-compte.com": {
@@ -17422,7 +17427,7 @@
     "trending-video.com": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "trendingnewstv.com": {
         "epoch": 1612569600.0,
