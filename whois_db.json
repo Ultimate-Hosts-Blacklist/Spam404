@@ -5514,6 +5514,11 @@
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "ffa-hosting.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
     "fichierload.fr": {
         "epoch": 1613260800.0,
         "expiration_date": "14-feb-2021",
@@ -12522,6 +12527,11 @@
     "mobverify.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "modifiedgames.net": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "modwivi.ru": {
