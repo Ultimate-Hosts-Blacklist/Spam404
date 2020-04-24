@@ -715,8 +715,8 @@
         "state": "future"
     },
     "app-hack.com": {
-        "epoch": 1585440000.0,
-        "expiration_date": "29-mar-2020",
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "appannie.club": {
@@ -4115,8 +4115,8 @@
         "state": "future"
     },
     "dota2maphack.org": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "dota2money.ru": {
@@ -15932,7 +15932,7 @@
     "skinsbrain.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "skinscheck.com": {
         "epoch": 1613865600.0,
@@ -17497,6 +17497,11 @@
     "tricks4games.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "trippinger.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "trixcase.com": {
