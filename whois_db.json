@@ -3380,8 +3380,8 @@
         "state": "future"
     },
     "csgoocher.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "csgopassion.com": {
@@ -17532,6 +17532,11 @@
     "truehack.net": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "trueskins.fun": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "trustedhacks.com": {
