@@ -6155,8 +6155,8 @@
         "state": "future"
     },
     "flamefolders.com": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "flamehacks.com": {
@@ -7792,7 +7792,7 @@
     "gamerzcheats.com": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamerzhack.com": {
         "epoch": 1605744000.0,
