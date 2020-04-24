@@ -2825,9 +2825,9 @@
         "state": "future"
     },
     "cooldocument.com": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
-        "state": "past"
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
     },
     "cooldownloadz.com": {
         "epoch": 1611964800.0,
@@ -2892,6 +2892,11 @@
     "covid19grantor.com": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "covid19kit.online": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "cpadoom.com": {
@@ -16627,7 +16632,7 @@
     "steamgamesnetwork.com": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "steamgiftbonus.com": {
         "epoch": 1593216000.0,
