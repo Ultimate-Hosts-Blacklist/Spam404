@@ -2627,7 +2627,7 @@
     "codeforpsn.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "codegenerator.me": {
         "epoch": 1600387200.0,
@@ -6477,7 +6477,7 @@
     "free-riotpoints.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "free-serv.com": {
         "epoch": 1602028800.0,
