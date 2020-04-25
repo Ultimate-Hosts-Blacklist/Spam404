@@ -2057,7 +2057,7 @@
     "cheatsandhacks.net": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "cheatsandroid.com": {
         "epoch": 1611792000.0,
@@ -18355,9 +18355,9 @@
         "state": "future"
     },
     "watchfreestreamingmoviesonline.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
-        "state": "past"
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
     },
     "watchhdmovie.biz": {
         "epoch": 1592265600.0,
