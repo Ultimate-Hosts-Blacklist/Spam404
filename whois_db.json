@@ -1027,7 +1027,7 @@
     "battlefield4download.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "battlepass.icu": {
         "epoch": 1589155200.0,
@@ -5230,8 +5230,8 @@
         "state": "future"
     },
     "facpanel.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "fairhack.com": {
