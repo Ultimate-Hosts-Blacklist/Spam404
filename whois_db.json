@@ -4317,7 +4317,7 @@
     "downloadpokemonxandy.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "downloadsafe.org": {
         "epoch": 1603411200.0,
@@ -8502,6 +8502,11 @@
     "givehack.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "giveskins4you.fun": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "giveway-st4ck.site": {
