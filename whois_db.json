@@ -3750,9 +3750,9 @@
         "state": "future"
     },
     "deezerpremiumplusfree.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
-        "state": "past"
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
     },
     "defaulthacks.com": {
         "epoch": 1605052800.0,
@@ -9655,8 +9655,8 @@
         "state": "future"
     },
     "hacksandcheats.net": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "hacksandcheatsandroid.com": {
@@ -14542,7 +14542,7 @@
     "psncodegenerator.us": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "psncodegeneratordownload.net": {
         "epoch": 1601078400.0,
