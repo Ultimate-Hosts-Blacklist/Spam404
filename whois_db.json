@@ -3432,7 +3432,7 @@
     "csgoraptor.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgorazes.com": {
         "epoch": 1619222400.0,
@@ -4652,7 +4652,7 @@
     "easport19.live": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "easports19.club": {
         "epoch": 1578528000.0,
@@ -12002,7 +12002,7 @@
     "luckygaimes.cx": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "luckygaims.cc": {
         "epoch": 1610323200.0,
