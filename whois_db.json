@@ -3189,6 +3189,11 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "csgo-star.com": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
     "csgo-steamanalyst.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
@@ -17955,9 +17960,9 @@
         "state": "future"
     },
     "uploadserver.net": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
-        "state": "past"
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
     },
     "uploaduj.com": {
         "epoch": 1606953600.0,
