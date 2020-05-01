@@ -2872,7 +2872,7 @@
     "counterfeitmoneyshop.org": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "counterfeitnote.com": {
         "epoch": 1618963200.0,
@@ -19485,8 +19485,8 @@
         "state": "future"
     },
     "zisew.ru": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "zisogav.ru": {
