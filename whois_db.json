@@ -3432,7 +3432,7 @@
     "csgopump.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgoranger.com": {
         "epoch": 1614470400.0,
@@ -7547,6 +7547,11 @@
     "fuzem.ru": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "fv2cheats.com": {
+        "epoch": 1651276800.0,
+        "expiration_date": "30-apr-2022",
         "state": "future"
     },
     "fxscape.com": {
