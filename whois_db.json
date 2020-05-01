@@ -270,8 +270,8 @@
         "state": "future"
     },
     "accountgiveaway.com": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "accounthackers.com": {
@@ -10110,9 +10110,9 @@
         "state": "future"
     },
     "hellboost.com": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
-        "state": "past"
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "state": "future"
     },
     "helltrades.com": {
         "epoch": 1593475200.0,
