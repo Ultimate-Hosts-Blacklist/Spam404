@@ -6195,8 +6195,8 @@
         "state": "future"
     },
     "fkedup.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "flamefile.com": {
@@ -12897,7 +12897,7 @@
     "mubam.ru": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "multi.wtf": {
         "epoch": 1592438400.0,
