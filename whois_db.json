@@ -4732,7 +4732,7 @@
     "ehubgame.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ekszgamesoft.com": {
         "epoch": 1612483200.0,
@@ -14337,7 +14337,7 @@
     "powggi.ru": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "poyed.ru": {
         "epoch": 1594598400.0,
