@@ -17580,8 +17580,8 @@
         "state": "future"
     },
     "trickempire.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "trickip.net": {
@@ -18062,7 +18062,7 @@
     "utad.site": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "uziskins.com": {
         "epoch": 1616284800.0,
