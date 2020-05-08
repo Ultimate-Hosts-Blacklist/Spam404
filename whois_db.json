@@ -1775,9 +1775,9 @@
         "state": "future"
     },
     "cases-win.fun": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
-        "state": "past"
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
     },
     "cases500.com": {
         "epoch": 1617494400.0,
@@ -6927,7 +6927,7 @@
     "freemicrosoftpointsgen.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "freeminecraft.me": {
         "epoch": 1643068800.0,
@@ -17972,7 +17972,7 @@
     "uploaderonline.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "uploadgear.com": {
         "epoch": 1576972800.0,
@@ -19080,9 +19080,9 @@
         "state": "future"
     },
     "xhack4u.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
-        "state": "past"
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
     },
     "xhacked.com": {
         "epoch": 1603756800.0,
