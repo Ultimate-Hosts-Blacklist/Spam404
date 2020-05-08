@@ -1520,9 +1520,9 @@
         "state": "future"
     },
     "bootme.club": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "botmafia.com": {
         "epoch": 1601337600.0,
@@ -11470,8 +11470,8 @@
         "state": "future"
     },
     "leaguerewards.net": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "leagueriotpoints.com": {
