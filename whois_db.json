@@ -9344,6 +9344,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "hackearfacebook.net": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "hackearfacebook.tv": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
