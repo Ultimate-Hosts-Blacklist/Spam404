@@ -3845,9 +3845,9 @@
         "state": "future"
     },
     "devteamjailbreak.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "dfile.info": {
         "epoch": 1597276800.0,
@@ -14457,6 +14457,11 @@
     "premiumprovide.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "present4free.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "pricecsgo.net": {
