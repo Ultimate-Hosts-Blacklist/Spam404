@@ -4007,7 +4007,7 @@
     "dmzgames.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "dns-dns.com": {
         "epoch": 1609372800.0,
@@ -16360,9 +16360,9 @@
         "state": "future"
     },
     "solidhacks.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "sonic-skins.com": {
         "epoch": 1578182400.0,
