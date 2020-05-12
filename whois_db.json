@@ -1490,9 +1490,9 @@
         "state": "future"
     },
     "boomcash.org": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "booprice.com": {
         "epoch": 1594166400.0,
@@ -16362,7 +16362,7 @@
     "solidhacks.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sonic-skins.com": {
         "epoch": 1578182400.0,
