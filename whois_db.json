@@ -4005,9 +4005,9 @@
         "state": "future"
     },
     "dmzgames.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
-        "state": "past"
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "state": "future"
     },
     "dns-dns.com": {
         "epoch": 1609372800.0,
@@ -16077,7 +16077,7 @@
     "skinsfloat.info": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "skinsfree.win": {
         "epoch": 1597968000.0,
@@ -18060,8 +18060,8 @@
         "state": "future"
     },
     "urlstart.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "urlva.com": {
