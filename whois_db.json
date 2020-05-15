@@ -3647,7 +3647,7 @@
     "customermgmt.net": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cutin.ru": {
         "epoch": 1603065600.0,
@@ -8390,8 +8390,8 @@
         "state": "future"
     },
     "gewor.ru": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "gexaf.ru": {
