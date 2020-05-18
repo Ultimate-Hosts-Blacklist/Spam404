@@ -3220,8 +3220,8 @@
         "state": "future"
     },
     "csgo.run": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "csgoaimbot.com": {
@@ -11370,8 +11370,8 @@
         "state": "future"
     },
     "kolopopo.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "konere.ru": {
@@ -16642,7 +16642,7 @@
     "steamanalysts.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "steambonus.com": {
         "epoch": 1598659200.0,
