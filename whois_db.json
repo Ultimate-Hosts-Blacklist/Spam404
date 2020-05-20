@@ -7109,6 +7109,11 @@
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
+    "freepsncardsgenerator.com": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "state": "future"
+    },
     "freepsncodes.cc": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
