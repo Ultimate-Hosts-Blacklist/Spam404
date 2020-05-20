@@ -7252,7 +7252,7 @@
     "freevbucks.fun": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "freevbucksgen.com": {
         "epoch": 1592784000.0,
@@ -9962,7 +9962,7 @@
     "hackterritory.info": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hacktiger.com": {
         "epoch": 1602374400.0,
