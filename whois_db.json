@@ -11485,8 +11485,8 @@
         "state": "future"
     },
     "leaguegamer.net": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "leaguegift.com": {
@@ -19092,7 +19092,7 @@
     "xboxonegamesfree.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "xboxps3topc.com": {
         "epoch": 1600128000.0,
