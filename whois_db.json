@@ -5037,7 +5037,7 @@
     "eventsteam.pro": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "everyday-fun.us": {
         "epoch": 1586649600.0,
@@ -18085,8 +18085,8 @@
         "state": "future"
     },
     "upshare.org": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "uptodatemovie.com": {
