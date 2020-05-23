@@ -12539,6 +12539,11 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "minecraftpremiumgenerator.net": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
+    },
     "minecraftpromotions.com": {
         "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
@@ -15338,6 +15343,11 @@
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
         "state": "past"
+    },
+    "royal-skin.net": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "state": "future"
     },
     "royalegenerator.net": {
         "epoch": 1606867200.0,
