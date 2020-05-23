@@ -292,7 +292,7 @@
     "activefiles.org": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "activehacks.com": {
         "epoch": 1597104000.0,
@@ -17602,7 +17602,7 @@
     "tradeskinnow.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tradeskins.cash": {
         "epoch": 1612224000.0,
