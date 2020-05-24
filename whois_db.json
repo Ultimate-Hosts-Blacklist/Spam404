@@ -11795,8 +11795,8 @@
         "state": "future"
     },
     "linkur.org": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "linkz.it": {
@@ -11902,7 +11902,7 @@
     "lock24.net": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lockredirect.com": {
         "epoch": 1607040000.0,
