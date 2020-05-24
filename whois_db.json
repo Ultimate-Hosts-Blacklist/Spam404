@@ -1427,7 +1427,7 @@
     "bocui.ru": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bododu.ru": {
         "epoch": 1594944000.0,
@@ -3230,9 +3230,9 @@
         "state": "future"
     },
     "csgoaways.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "csgobetlegion.com": {
         "epoch": 1579219200.0,
