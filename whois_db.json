@@ -1702,7 +1702,7 @@
     "cajaro.ru": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "calhacks.org": {
         "epoch": 1620000000.0,
@@ -5035,9 +5035,9 @@
         "state": "past"
     },
     "eventsteam.pro": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "everyday-fun.us": {
         "epoch": 1586649600.0,
@@ -7260,9 +7260,9 @@
         "state": "future"
     },
     "freevbucks.fun": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
     },
     "freevbucksgen.com": {
         "epoch": 1592784000.0,
