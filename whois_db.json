@@ -2255,8 +2255,8 @@
         "state": "future"
     },
     "cheriefm.fr": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "chic-avenue.fr": {
@@ -9270,9 +9270,9 @@
         "state": "future"
     },
     "hack2all.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "hack2k.com": {
         "epoch": 1606348800.0,
