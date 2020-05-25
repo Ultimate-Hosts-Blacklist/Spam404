@@ -2145,8 +2145,8 @@
         "state": "future"
     },
     "cheatsoffuture.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "cheatsok.com": {
@@ -11277,7 +11277,7 @@
     "keygen4u.com": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "keygenallgame.com": {
         "epoch": 1613520000.0,
@@ -12877,7 +12877,7 @@
     "movieta.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "moviexe.com": {
         "epoch": 1591747200.0,
@@ -16062,7 +16062,7 @@
     "skins-index.info": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "skins-push.com": {
         "epoch": 1592006400.0,
