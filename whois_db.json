@@ -3552,7 +3552,7 @@
     "csgoxcup.pro": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgoxtrade.pro": {
         "epoch": 1590451200.0,
@@ -3642,7 +3642,7 @@
     "cupwith.pro": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cureofcoronavirus.com": {
         "epoch": 1615507200.0,
@@ -13325,9 +13325,9 @@
         "state": "future"
     },
     "newfastmediasearcher.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
-        "state": "past"
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "state": "future"
     },
     "newfbapps.com": {
         "epoch": 1619740800.0,
