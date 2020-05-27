@@ -3640,9 +3640,9 @@
         "state": "future"
     },
     "cupwith.pro": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "cureofcoronavirus.com": {
         "epoch": 1615507200.0,
@@ -18502,7 +18502,7 @@
     "warthunderhack.com": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "warzone.pw": {
         "epoch": 1602547200.0,
