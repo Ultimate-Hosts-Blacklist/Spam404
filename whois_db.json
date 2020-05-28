@@ -3845,8 +3845,8 @@
         "state": "future"
     },
     "descargar-pdf.org": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "descargas24.com": {
@@ -17212,7 +17212,7 @@
     "testgamesjob.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tetuma.ru": {
         "epoch": 1595203200.0,
