@@ -3680,9 +3680,9 @@
         "state": "future"
     },
     "cybermini.com": {
-        "epoch": 1583798400.0,
-        "expiration_date": "10-mar-2020",
-        "state": "past"
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
     },
     "cyberoos.com": {
         "epoch": 1606608000.0,
@@ -17967,6 +17967,11 @@
     "universehacks.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "universityhacker.com": {
+        "epoch": 1716768000.0,
+        "expiration_date": "27-may-2024",
         "state": "future"
     },
     "universityofhackers.com": {
