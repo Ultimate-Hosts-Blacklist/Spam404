@@ -2459,6 +2459,11 @@
         "expiration_date": "17-apr-2021",
         "state": "future"
     },
+    "clashofclanshackonline.com": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
+    },
     "clashofclanshackonline.org": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -16860,9 +16865,9 @@
         "state": "future"
     },
     "stormxcup.pro": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
-        "state": "past"
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
     },
     "str3ssed.me": {
         "epoch": 1611532800.0,
