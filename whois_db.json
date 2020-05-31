@@ -4550,8 +4550,8 @@
         "state": "future"
     },
     "dropx.fun": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "drudgetube.com": {
@@ -9197,7 +9197,7 @@
     "hack-clash-of-clans.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hack-download.com": {
         "epoch": 1593820800.0,
