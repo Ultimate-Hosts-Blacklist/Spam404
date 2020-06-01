@@ -1774,6 +1774,11 @@
         "expiration_date": "11-mar-2021",
         "state": "future"
     },
+    "cardsfree.net": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
+    },
     "case-csgo.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -3420,9 +3425,9 @@
         "state": "future"
     },
     "csgonyx.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "csgoocher.com": {
         "epoch": 1617408000.0,
@@ -9195,9 +9200,9 @@
         "state": "future"
     },
     "hack-clash-of-clans.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "hack-download.com": {
         "epoch": 1593820800.0,
@@ -12150,9 +12155,9 @@
         "state": "future"
     },
     "make-skins.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "makeios.com": {
         "epoch": 1599782400.0,
@@ -12687,6 +12692,11 @@
     "monsterlegendshack.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "monsterlegendshacker.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "monsterloot.fun": {
