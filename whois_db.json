@@ -1597,7 +1597,7 @@
     "btcgen.info": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "btcxadder.com": {
         "epoch": 1617753600.0,
@@ -3117,7 +3117,7 @@
     "cs-trader.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cs1.money": {
         "epoch": 1612310400.0,
@@ -9305,9 +9305,9 @@
         "state": "future"
     },
     "hack4you.org": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "hackallgames.com": {
         "epoch": 1593820800.0,
@@ -11710,8 +11710,8 @@
         "state": "future"
     },
     "letsupload.net": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "letsweb.info": {
