@@ -9345,8 +9345,8 @@
         "state": "future"
     },
     "hackclash.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "hackclashclans.com": {
@@ -12365,8 +12365,8 @@
         "state": "future"
     },
     "megadownloder.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "megadropfiles.com": {
@@ -14017,7 +14017,7 @@
     "paysafecardgenerator.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "pcanywhere.net": {
         "epoch": 1608336000.0,
