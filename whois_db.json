@@ -3149,6 +3149,11 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "csgetskin.com": {
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
+    },
     "csgiveaways.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -7585,8 +7590,8 @@
         "state": "future"
     },
     "fuvow.ru": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "fuzegameit.com": {
@@ -9977,7 +9982,7 @@
     "hackszone.com": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hackteam-adreon.com": {
         "epoch": 1598832000.0,
