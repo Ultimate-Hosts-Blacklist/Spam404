@@ -10022,7 +10022,7 @@
     "hacktoolsforeveryone.info": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hackwifipass.com": {
         "epoch": 1606262400.0,
@@ -16882,6 +16882,11 @@
     "storegiftcardgiveaways.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "storm-hacks.com": {
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "stormxcup.pro": {
