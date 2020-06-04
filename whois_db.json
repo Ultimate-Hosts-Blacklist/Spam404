@@ -5205,8 +5205,8 @@
         "state": "future"
     },
     "ezua.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "ezzdrop.com": {
@@ -16882,7 +16882,7 @@
     "storegiftcardgiveaways.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "storm-hacks.com": {
         "epoch": 1622505600.0,
