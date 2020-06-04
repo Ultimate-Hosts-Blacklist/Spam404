@@ -5375,9 +5375,9 @@
         "state": "future"
     },
     "fastleakedmedia.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
-        "state": "past"
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
     },
     "fastmediasearcher.com": {
         "epoch": 1591488000.0,
@@ -19632,7 +19632,7 @@
     "zemuro.ru": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "zfile.us": {
         "epoch": 1638576000.0,
