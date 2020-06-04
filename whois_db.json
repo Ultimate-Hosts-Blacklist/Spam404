@@ -9980,9 +9980,9 @@
         "state": "future"
     },
     "hackszone.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
-        "state": "past"
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
     },
     "hackteam-adreon.com": {
         "epoch": 1598832000.0,
@@ -10020,9 +10020,9 @@
         "state": "future"
     },
     "hacktoolsforeveryone.info": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
-        "state": "past"
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
     },
     "hackwifipass.com": {
         "epoch": 1606262400.0,
@@ -15372,7 +15372,7 @@
     "rowomo.ru": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "rowskins.com": {
         "epoch": 1583971200.0,
