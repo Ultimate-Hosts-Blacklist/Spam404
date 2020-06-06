@@ -3147,7 +3147,7 @@
     "csfreshskins.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgetskin.com": {
         "epoch": 1622505600.0,
@@ -16867,7 +16867,7 @@
     "stickfile.net": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "stnitro.com": {
         "epoch": 1613433600.0,
