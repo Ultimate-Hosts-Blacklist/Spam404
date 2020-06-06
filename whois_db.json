@@ -8197,7 +8197,7 @@
     "gamingstreet.org": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamonig.com": {
         "epoch": 1619308800.0,
@@ -8835,9 +8835,9 @@
         "state": "future"
     },
     "goxcup.pro": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
-        "state": "past"
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
     },
     "gpotatogenerator.com": {
         "epoch": 1604793600.0,
