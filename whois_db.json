@@ -1195,8 +1195,8 @@
         "state": "future"
     },
     "bestsupertech.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "bestwarezone.com": {
@@ -3145,9 +3145,9 @@
         "state": "future"
     },
     "csfreshskins.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "csgetskin.com": {
         "epoch": 1622505600.0,
@@ -12710,9 +12710,9 @@
         "state": "future"
     },
     "monsterloot.fun": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "moonetizer.com": {
         "epoch": 1611964800.0,
