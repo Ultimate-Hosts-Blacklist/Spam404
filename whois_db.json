@@ -17660,9 +17660,9 @@
         "state": "future"
     },
     "tradersbotgg.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
-        "state": "past"
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "state": "future"
     },
     "tradeskinnow.com": {
         "epoch": 1621728000.0,
@@ -19217,7 +19217,7 @@
     "xgame-drop.store": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "xgamering.com": {
         "epoch": 1606003200.0,
