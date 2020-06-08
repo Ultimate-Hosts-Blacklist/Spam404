@@ -12490,8 +12490,8 @@
         "state": "future"
     },
     "migohi.ru": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "miguk.ru": {
@@ -15452,7 +15452,7 @@
     "ruyat.ru": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "s-telecharger.com": {
         "epoch": 1622332800.0,
