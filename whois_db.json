@@ -1470,8 +1470,8 @@
         "state": "future"
     },
     "boombeachhack.org": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "boombeachhackguide.com": {
@@ -2237,7 +2237,7 @@
     "checkcsgo.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "checkerskins.com": {
         "epoch": 1620172800.0,
@@ -5465,8 +5465,8 @@
         "state": "future"
     },
     "fbgamescheats.net": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "fbgamesgiveaway.com": {
@@ -7200,9 +7200,9 @@
         "state": "future"
     },
     "freerobuxandtickets.in": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
-        "state": "past"
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
     },
     "freeskins.live": {
         "epoch": 1601596800.0,
@@ -14232,7 +14232,7 @@
     "pixifog.ru": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "pkgo.com.ve": {
         "epoch": 1589587200.0,
@@ -14685,9 +14685,9 @@
         "state": "future"
     },
     "psncodegenerator.us": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "psncodegeneratordownload.net": {
         "epoch": 1601078400.0,
