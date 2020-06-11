@@ -143,8 +143,8 @@
         "360emulator.com": {
             "included_at_epoch": 1588477334.0,
             "included_at_iso": "2020-05-03T03:42:14",
-            "last_retested_at_epoch": 1591713013.077684,
-            "last_retested_at_iso": "2020-06-09T14:30:13.077684",
+            "last_retested_at_epoch": 1591833780.880791,
+            "last_retested_at_iso": "2020-06-11T00:03:00.880791",
             "status": "INACTIVE"
         },
         "3d-download.org": {
@@ -535,8 +535,8 @@
         "allgamehacks.org": {
             "included_at_epoch": 1588492268.0,
             "included_at_iso": "2020-05-03T07:51:08",
-            "last_retested_at_epoch": 1591747441.909331,
-            "last_retested_at_iso": "2020-06-10T00:04:01.909331",
+            "last_retested_at_epoch": 1591833872.995429,
+            "last_retested_at_iso": "2020-06-11T00:04:32.995429",
             "status": "INACTIVE"
         },
         "allgameshacked.com": {
@@ -731,8 +731,8 @@
         "androidapsgameshacks.com": {
             "included_at_epoch": 1588443966.0,
             "included_at_iso": "2020-05-02T18:26:06",
-            "last_retested_at_epoch": 1591632283.457051,
-            "last_retested_at_iso": "2020-06-08T16:04:43.457051",
+            "last_retested_at_epoch": 1591833501.966691,
+            "last_retested_at_iso": "2020-06-10T23:58:21.966691",
             "status": "INACTIVE"
         },
         "androidgamemods.com": {
@@ -878,8 +878,8 @@
         "app-hackss.com": {
             "included_at_epoch": 1588182240.0,
             "included_at_iso": "2020-04-29T17:44:00",
-            "last_retested_at_epoch": 1591732225.492735,
-            "last_retested_at_iso": "2020-06-09T19:50:25.492735",
+            "last_retested_at_epoch": 1591834063.946586,
+            "last_retested_at_iso": "2020-06-11T00:07:43.946586",
             "status": "INACTIVE"
         },
         "appbin.me": {
@@ -1246,6 +1246,13 @@
             "last_retested_at_iso": "2020-06-10T21:07:53.416800",
             "status": "INACTIVE"
         },
+        "banhok.ru": {
+            "included_at_epoch": 1591834287.355283,
+            "included_at_iso": "2020-06-11T00:11:27.355283",
+            "last_retested_at_epoch": 1591834287.355283,
+            "last_retested_at_iso": "2020-06-11T00:11:27.355283",
+            "status": "INACTIVE"
+        },
         "baronskins.com": {
             "included_at_epoch": 1588477025.0,
             "included_at_iso": "2020-05-03T03:37:05",
@@ -1403,8 +1410,8 @@
         "bdmako.ru": {
             "included_at_epoch": 1588986652.745336,
             "included_at_iso": "2020-05-09T01:10:52.745336",
-            "last_retested_at_epoch": 1591679212.225114,
-            "last_retested_at_iso": "2020-06-09T05:06:52.225114",
+            "last_retested_at_epoch": 1591834195.275516,
+            "last_retested_at_iso": "2020-06-11T00:09:55.275516",
             "status": "INACTIVE"
         },
         "beautyspaguide.com": {
@@ -1550,8 +1557,8 @@
         "bestgameshack.info": {
             "included_at_epoch": 1588363476.0,
             "included_at_iso": "2020-05-01T20:04:36",
-            "last_retested_at_epoch": 1591721931.404853,
-            "last_retested_at_iso": "2020-06-09T16:58:51.404853",
+            "last_retested_at_epoch": 1591834208.326629,
+            "last_retested_at_iso": "2020-06-11T00:10:08.326629",
             "status": "INACTIVE"
         },
         "bestgametools.com": {
@@ -1571,8 +1578,8 @@
         "besthackgames.com": {
             "included_at_epoch": 1588377245.0,
             "included_at_iso": "2020-05-01T23:54:05",
-            "last_retested_at_epoch": 1591708304.477325,
-            "last_retested_at_iso": "2020-06-09T13:11:44.477325",
+            "last_retested_at_epoch": 1591833624.211047,
+            "last_retested_at_iso": "2020-06-11T00:00:24.211047",
             "status": "INACTIVE"
         },
         "besthackingsoftwares.com": {
@@ -1662,8 +1669,8 @@
         "beta-darksoulsii.us": {
             "included_at_epoch": 1588313294.0,
             "included_at_iso": "2020-05-01T06:08:14",
-            "last_retested_at_epoch": 1591738127.010065,
-            "last_retested_at_iso": "2020-06-09T21:28:47.010065",
+            "last_retested_at_epoch": 1591833775.391678,
+            "last_retested_at_iso": "2020-06-11T00:02:55.391678",
             "status": "INACTIVE"
         },
         "beta-gamers.com": {
@@ -1781,8 +1788,8 @@
         "biggyupload.com": {
             "included_at_epoch": 1588336683.0,
             "included_at_iso": "2020-05-01T12:38:03",
-            "last_retested_at_epoch": 1591688957.626185,
-            "last_retested_at_iso": "2020-06-09T07:49:17.626185",
+            "last_retested_at_epoch": 1591833764.594916,
+            "last_retested_at_iso": "2020-06-11T00:02:44.594916",
             "status": "INACTIVE"
         },
         "bigrxdiscountmedstore.com": {
@@ -1928,8 +1935,8 @@
         "blackops2steam.com": {
             "included_at_epoch": 1588363635.0,
             "included_at_iso": "2020-05-01T20:07:15",
-            "last_retested_at_epoch": 1591657983.38262,
-            "last_retested_at_iso": "2020-06-08T23:13:03.382620",
+            "last_retested_at_epoch": 1591833477.410148,
+            "last_retested_at_iso": "2020-06-10T23:57:57.410148",
             "status": "INACTIVE"
         },
         "blackopsprestigehack.com": {
@@ -2110,8 +2117,8 @@
         "boombeachhackz.com": {
             "included_at_epoch": 1588393735.0,
             "included_at_iso": "2020-05-02T04:28:55",
-            "last_retested_at_epoch": 1591612026.252797,
-            "last_retested_at_iso": "2020-06-08T10:27:06.252797",
+            "last_retested_at_epoch": 1591833471.518557,
+            "last_retested_at_iso": "2020-06-10T23:57:51.518557",
             "status": "INACTIVE"
         },
         "boombeachunlimited.com": {
@@ -2187,8 +2194,8 @@
         "brazzers-hack.com": {
             "included_at_epoch": 1588260964.0,
             "included_at_iso": "2020-04-30T15:36:04",
-            "last_retested_at_epoch": 1591703255.834904,
-            "last_retested_at_iso": "2020-06-09T11:47:35.834904",
+            "last_retested_at_epoch": 1591833539.089762,
+            "last_retested_at_iso": "2020-06-10T23:58:59.089762",
             "status": "INACTIVE"
         },
         "brazzersfreeaccount.net": {
@@ -2306,8 +2313,8 @@
         "caaarss.us": {
             "included_at_epoch": 1588481310.0,
             "included_at_iso": "2020-05-03T04:48:30",
-            "last_retested_at_epoch": 1591693305.04159,
-            "last_retested_at_iso": "2020-06-09T09:01:45.041590",
+            "last_retested_at_epoch": 1591834003.456955,
+            "last_retested_at_iso": "2020-06-11T00:06:43.456955",
             "status": "INACTIVE"
         },
         "cajaro.ru": {
@@ -2397,8 +2404,8 @@
         "candycrush-hack.com": {
             "included_at_epoch": 1588439132.0,
             "included_at_iso": "2020-05-02T17:05:32",
-            "last_retested_at_epoch": 1591738174.209083,
-            "last_retested_at_iso": "2020-06-09T21:29:34.209083",
+            "last_retested_at_epoch": 1591833451.163386,
+            "last_retested_at_iso": "2020-06-10T23:57:31.163386",
             "status": "INACTIVE"
         },
         "candycrushcandies.com": {
@@ -3146,8 +3153,8 @@
         "chronicmirror.com": {
             "included_at_epoch": 1588261342.0,
             "included_at_iso": "2020-04-30T15:42:22",
-            "last_retested_at_epoch": 1591694018.323859,
-            "last_retested_at_iso": "2020-06-09T09:13:38.323859",
+            "last_retested_at_epoch": 1591834188.87255,
+            "last_retested_at_iso": "2020-06-11T00:09:48.872550",
             "status": "INACTIVE"
         },
         "chroniczip.com": {
@@ -3230,8 +3237,8 @@
         "clash.newclashgems.com": {
             "included_at_epoch": 1588304468.0,
             "included_at_iso": "2020-05-01T03:41:08",
-            "last_retested_at_epoch": 1591668524.688022,
-            "last_retested_at_iso": "2020-06-09T02:08:44.688022",
+            "last_retested_at_epoch": 1591833451.610647,
+            "last_retested_at_iso": "2020-06-10T23:57:31.610647",
             "status": "INACTIVE"
         },
         "clash4free.com": {
@@ -3279,8 +3286,8 @@
         "clashofclans.hackfbgames.com": {
             "included_at_epoch": 1588447945.0,
             "included_at_iso": "2020-05-02T19:32:25",
-            "last_retested_at_epoch": 1591717906.313468,
-            "last_retested_at_iso": "2020-06-09T15:51:46.313468",
+            "last_retested_at_epoch": 1591834214.259284,
+            "last_retested_at_iso": "2020-06-11T00:10:14.259284",
             "status": "INACTIVE"
         },
         "clashofclansastuce.fr": {
@@ -3342,8 +3349,8 @@
         "clashofclanshack.io": {
             "included_at_epoch": 1588414863.0,
             "included_at_iso": "2020-05-02T10:21:03",
-            "last_retested_at_epoch": 1591737972.753071,
-            "last_retested_at_iso": "2020-06-09T21:26:12.753071",
+            "last_retested_at_epoch": 1591834001.384136,
+            "last_retested_at_iso": "2020-06-11T00:06:41.384136",
             "status": "INACTIVE"
         },
         "clashofclanshack.me": {
@@ -3573,8 +3580,8 @@
         "clubpenguingenerator.com": {
             "included_at_epoch": 1588409826.0,
             "included_at_iso": "2020-05-02T08:57:06",
-            "last_retested_at_epoch": 1591721894.534638,
-            "last_retested_at_iso": "2020-06-09T16:58:14.534638",
+            "last_retested_at_epoch": 1591834272.125183,
+            "last_retested_at_iso": "2020-06-11T00:11:12.125183",
             "status": "INACTIVE"
         },
         "clydegen.me": {
@@ -3888,8 +3895,8 @@
         "como-descargar-gta-5-para-pc.official-guide.net": {
             "included_at_epoch": 1588476877.0,
             "included_at_iso": "2020-05-03T03:34:37",
-            "last_retested_at_epoch": 1591738033.461046,
-            "last_retested_at_iso": "2020-06-09T21:27:13.461046",
+            "last_retested_at_epoch": 1591833566.358191,
+            "last_retested_at_iso": "2020-06-10T23:59:26.358191",
             "status": "INACTIVE"
         },
         "comohackearelface.com": {
@@ -4021,8 +4028,8 @@
         "crackfifa13.com": {
             "included_at_epoch": 1588481062.0,
             "included_at_iso": "2020-05-03T04:44:22",
-            "last_retested_at_epoch": 1591693605.142758,
-            "last_retested_at_iso": "2020-06-09T09:06:45.142758",
+            "last_retested_at_epoch": 1591834156.950783,
+            "last_retested_at_iso": "2020-06-11T00:09:16.950783",
             "status": "INACTIVE"
         },
         "crackhackcheats.com": {
@@ -4084,15 +4091,15 @@
         "cracksplay.com": {
             "included_at_epoch": 1588443709.0,
             "included_at_iso": "2020-05-02T18:21:49",
-            "last_retested_at_epoch": 1591647415.212737,
-            "last_retested_at_iso": "2020-06-08T20:16:55.212737",
+            "last_retested_at_epoch": 1591833865.888759,
+            "last_retested_at_iso": "2020-06-11T00:04:25.888759",
             "status": "INACTIVE"
         },
         "crackyourworld.com": {
             "included_at_epoch": 1588439110.0,
             "included_at_iso": "2020-05-02T17:05:10",
-            "last_retested_at_epoch": 1591738001.214317,
-            "last_retested_at_iso": "2020-06-09T21:26:41.214317",
+            "last_retested_at_epoch": 1591834264.010503,
+            "last_retested_at_iso": "2020-06-11T00:11:04.010503",
             "status": "INACTIVE"
         },
         "crackyteam.com": {
@@ -4658,8 +4665,8 @@
         "csgobulls.com": {
             "included_at_epoch": 1588159288.0,
             "included_at_iso": "2020-04-29T11:21:28",
-            "last_retested_at_epoch": 1591742780.661271,
-            "last_retested_at_iso": "2020-06-09T22:46:20.661271",
+            "last_retested_at_epoch": 1591833618.96668,
+            "last_retested_at_iso": "2020-06-11T00:00:18.966680",
             "status": "INACTIVE"
         },
         "csgobuster.com": {
@@ -4770,8 +4777,8 @@
         "csgodino.net": {
             "included_at_epoch": 1588434358.0,
             "included_at_iso": "2020-05-02T15:45:58",
-            "last_retested_at_epoch": 1591727147.480496,
-            "last_retested_at_iso": "2020-06-09T18:25:47.480496",
+            "last_retested_at_epoch": 1591833495.277791,
+            "last_retested_at_iso": "2020-06-10T23:58:15.277791",
             "status": "INACTIVE"
         },
         "csgodmarket.com": {
@@ -4868,8 +4875,8 @@
         "csgofastmoney.com": {
             "included_at_epoch": 1588485479.0,
             "included_at_iso": "2020-05-03T05:57:59",
-            "last_retested_at_epoch": 1591638229.810065,
-            "last_retested_at_iso": "2020-06-08T17:43:49.810065",
+            "last_retested_at_epoch": 1591834097.43423,
+            "last_retested_at_iso": "2020-06-11T00:08:17.434230",
             "status": "INACTIVE"
         },
         "csgofastrade.com": {
@@ -4903,8 +4910,8 @@
         "csgoflame.online": {
             "included_at_epoch": 1588260904.0,
             "included_at_iso": "2020-04-30T15:35:04",
-            "last_retested_at_epoch": 1591732325.243606,
-            "last_retested_at_iso": "2020-06-09T19:52:05.243606",
+            "last_retested_at_epoch": 1591834234.442864,
+            "last_retested_at_iso": "2020-06-11T00:10:34.442864",
             "status": "INACTIVE"
         },
         "csgoflaming.com": {
@@ -4931,8 +4938,8 @@
         "csgofoster.com": {
             "included_at_epoch": 1588488346.0,
             "included_at_iso": "2020-05-03T06:45:46",
-            "last_retested_at_epoch": 1591698276.639629,
-            "last_retested_at_iso": "2020-06-09T10:24:36.639629",
+            "last_retested_at_epoch": 1591833970.817905,
+            "last_retested_at_iso": "2020-06-11T00:06:10.817905",
             "status": "INACTIVE"
         },
         "csgofrozl.com": {
@@ -4987,8 +4994,8 @@
         "csgogorila.com": {
             "included_at_epoch": 1588393275.0,
             "included_at_iso": "2020-05-02T04:21:15",
-            "last_retested_at_epoch": 1591722201.456426,
-            "last_retested_at_iso": "2020-06-09T17:03:21.456426",
+            "last_retested_at_epoch": 1591833671.070438,
+            "last_retested_at_iso": "2020-06-11T00:01:11.070438",
             "status": "INACTIVE"
         },
         "csgograys.com": {
@@ -5099,8 +5106,8 @@
         "csgoiunge.com": {
             "included_at_epoch": 1588259794.0,
             "included_at_iso": "2020-04-30T15:16:34",
-            "last_retested_at_epoch": 1591737346.932316,
-            "last_retested_at_iso": "2020-06-09T21:15:46.932316",
+            "last_retested_at_epoch": 1591833564.592097,
+            "last_retested_at_iso": "2020-06-10T23:59:24.592097",
             "status": "INACTIVE"
         },
         "csgojack.net": {
@@ -5225,8 +5232,8 @@
         "csgolevar.com": {
             "included_at_epoch": 1588453314.0,
             "included_at_iso": "2020-05-02T21:01:54",
-            "last_retested_at_epoch": 1591742604.863844,
-            "last_retested_at_iso": "2020-06-09T22:43:24.863844",
+            "last_retested_at_epoch": 1591833896.715565,
+            "last_retested_at_iso": "2020-06-11T00:04:56.715565",
             "status": "INACTIVE"
         },
         "csgolightspot.com": {
@@ -5281,8 +5288,8 @@
         "csgoluxe.top": {
             "included_at_epoch": 1588443460.0,
             "included_at_iso": "2020-05-02T18:17:40",
-            "last_retested_at_epoch": 1591732126.65319,
-            "last_retested_at_iso": "2020-06-09T19:48:46.653190",
+            "last_retested_at_epoch": 1591833775.018681,
+            "last_retested_at_iso": "2020-06-11T00:02:55.018681",
             "status": "INACTIVE"
         },
         "csgolympia.com": {
@@ -5386,8 +5393,8 @@
         "csgooneitems.com": {
             "included_at_epoch": 1588229845.0,
             "included_at_iso": "2020-04-30T06:57:25",
-            "last_retested_at_epoch": 1591703468.459912,
-            "last_retested_at_iso": "2020-06-09T11:51:08.459912",
+            "last_retested_at_epoch": 1591833538.720111,
+            "last_retested_at_iso": "2020-06-10T23:58:58.720111",
             "status": "INACTIVE"
         },
         "csgoperry.com": {
@@ -5428,15 +5435,15 @@
         "csgopour.com": {
             "included_at_epoch": 1588388280.0,
             "included_at_iso": "2020-05-02T02:58:00",
-            "last_retested_at_epoch": 1591742886.446453,
-            "last_retested_at_iso": "2020-06-09T22:48:06.446453",
+            "last_retested_at_epoch": 1591834234.871714,
+            "last_retested_at_iso": "2020-06-11T00:10:34.871714",
             "status": "INACTIVE"
         },
         "csgoproskins.com": {
             "included_at_epoch": 1588118291.0,
             "included_at_iso": "2020-04-28T23:58:11",
-            "last_retested_at_epoch": 1591737777.737751,
-            "last_retested_at_iso": "2020-06-09T21:22:57.737751",
+            "last_retested_at_epoch": 1591834270.742097,
+            "last_retested_at_iso": "2020-06-11T00:11:10.742097",
             "status": "INACTIVE"
         },
         "csgoravebet.com": {
@@ -5659,8 +5666,8 @@
         "csgoswaps.top": {
             "included_at_epoch": 1588448189.0,
             "included_at_iso": "2020-05-02T19:36:29",
-            "last_retested_at_epoch": 1591717440.952703,
-            "last_retested_at_iso": "2020-06-09T15:44:00.952703",
+            "last_retested_at_epoch": 1591833599.166158,
+            "last_retested_at_iso": "2020-06-10T23:59:59.166158",
             "status": "INACTIVE"
         },
         "csgosxe.com": {
@@ -5715,8 +5722,8 @@
         "csgotrade.co": {
             "included_at_epoch": 1588388827.0,
             "included_at_iso": "2020-05-02T03:07:07",
-            "last_retested_at_epoch": 1591648029.515483,
-            "last_retested_at_iso": "2020-06-08T20:27:09.515483",
+            "last_retested_at_epoch": 1591833777.166734,
+            "last_retested_at_iso": "2020-06-11T00:02:57.166734",
             "status": "INACTIVE"
         },
         "csgotradearea.com": {
@@ -5736,8 +5743,8 @@
         "csgottr.com": {
             "included_at_epoch": 1588171979.0,
             "included_at_iso": "2020-04-29T14:52:59",
-            "last_retested_at_epoch": 1591721813.196983,
-            "last_retested_at_iso": "2020-06-09T16:56:53.196983",
+            "last_retested_at_epoch": 1591834121.84932,
+            "last_retested_at_iso": "2020-06-11T00:08:41.849320",
             "status": "INACTIVE"
         },
         "csgotunes.com": {
@@ -5757,8 +5764,8 @@
         "csgoultras.com": {
             "included_at_epoch": 1588457688.0,
             "included_at_iso": "2020-05-02T22:14:48",
-            "last_retested_at_epoch": 1591712448.633999,
-            "last_retested_at_iso": "2020-06-09T14:20:48.633999",
+            "last_retested_at_epoch": 1591833915.881668,
+            "last_retested_at_iso": "2020-06-11T00:05:15.881668",
             "status": "INACTIVE"
         },
         "csgouno.com": {
@@ -6331,8 +6338,8 @@
         "dayzstandalonebeta.com": {
             "included_at_epoch": 1588358697.0,
             "included_at_iso": "2020-05-01T18:44:57",
-            "last_retested_at_epoch": 1591698880.36676,
-            "last_retested_at_iso": "2020-06-09T10:34:40.366760",
+            "last_retested_at_epoch": 1591833657.859567,
+            "last_retested_at_iso": "2020-06-11T00:00:57.859567",
             "status": "INACTIVE"
         },
         "ddtankhack.net": {
@@ -6380,8 +6387,8 @@
         "demongenerator.com": {
             "included_at_epoch": 1588453217.0,
             "included_at_iso": "2020-05-02T21:00:17",
-            "last_retested_at_epoch": 1591743046.671788,
-            "last_retested_at_iso": "2020-06-09T22:50:46.671788",
+            "last_retested_at_epoch": 1591833505.707593,
+            "last_retested_at_iso": "2020-06-10T23:58:25.707593",
             "status": "INACTIVE"
         },
         "demonstreet.net": {
@@ -6422,8 +6429,8 @@
         "descargasytrucos.eu": {
             "included_at_epoch": 1588414981.0,
             "included_at_iso": "2020-05-02T10:23:01",
-            "last_retested_at_epoch": 1591742482.63248,
-            "last_retested_at_iso": "2020-06-09T22:41:22.632480",
+            "last_retested_at_epoch": 1591833959.568501,
+            "last_retested_at_iso": "2020-06-11T00:05:59.568501",
             "status": "INACTIVE"
         },
         "descontosloucos.com": {
@@ -6786,8 +6793,8 @@
         "download-free-ebooks.in": {
             "included_at_epoch": 1588452961.0,
             "included_at_iso": "2020-05-02T20:56:01",
-            "last_retested_at_epoch": 1591742380.079273,
-            "last_retested_at_iso": "2020-06-09T22:39:40.079273",
+            "last_retested_at_epoch": 1591834179.45452,
+            "last_retested_at_iso": "2020-06-11T00:09:39.454520",
             "status": "INACTIVE"
         },
         "download-game-hack.com": {
@@ -7045,15 +7052,15 @@
         "dragoncity-hack.org": {
             "included_at_epoch": 1588453308.0,
             "included_at_iso": "2020-05-02T21:01:48",
-            "last_retested_at_epoch": 1591708278.612355,
-            "last_retested_at_iso": "2020-06-09T13:11:18.612355",
+            "last_retested_at_epoch": 1591834123.280861,
+            "last_retested_at_iso": "2020-06-11T00:08:43.280861",
             "status": "INACTIVE"
         },
         "dragoncity.fbgamesgiveaway.com": {
             "included_at_epoch": 1588480975.0,
             "included_at_iso": "2020-05-03T04:42:55",
-            "last_retested_at_epoch": 1591742527.738707,
-            "last_retested_at_iso": "2020-06-09T22:42:07.738707",
+            "last_retested_at_epoch": 1591833685.104297,
+            "last_retested_at_iso": "2020-06-11T00:01:25.104297",
             "status": "INACTIVE"
         },
         "dragoncity.gaminghazard.com": {
@@ -7136,8 +7143,8 @@
         "dragoncityhackstool.net": {
             "included_at_epoch": 1588327295.0,
             "included_at_iso": "2020-05-01T10:01:35",
-            "last_retested_at_epoch": 1591683718.220378,
-            "last_retested_at_iso": "2020-06-09T06:21:58.220378",
+            "last_retested_at_epoch": 1591833873.444292,
+            "last_retested_at_iso": "2020-06-11T00:04:33.444292",
             "status": "INACTIVE"
         },
         "dragoncityhacktool.net": {
@@ -7297,8 +7304,8 @@
         "e-currencyhacks.com": {
             "included_at_epoch": 1588313720.0,
             "included_at_iso": "2020-05-01T06:15:20",
-            "last_retested_at_epoch": 1591742458.824834,
-            "last_retested_at_iso": "2020-06-09T22:40:58.824834",
+            "last_retested_at_epoch": 1591833556.453492,
+            "last_retested_at_iso": "2020-06-10T23:59:16.453492",
             "status": "INACTIVE"
         },
         "e-filesroom.com": {
@@ -7815,15 +7822,15 @@
         "epicproductgiveaway.com": {
             "included_at_epoch": 1588448221.0,
             "included_at_iso": "2020-05-02T19:37:01",
-            "last_retested_at_epoch": 1591683807.208726,
-            "last_retested_at_iso": "2020-06-09T06:23:27.208726",
+            "last_retested_at_epoch": 1591833889.489786,
+            "last_retested_at_iso": "2020-06-11T00:04:49.489786",
             "status": "INACTIVE"
         },
         "eplayleauge.com": {
             "included_at_epoch": 1590179565.847097,
             "included_at_iso": "2020-05-22T20:32:45.847097",
-            "last_retested_at_epoch": 1591737768.632245,
-            "last_retested_at_iso": "2020-06-09T21:22:48.632245",
+            "last_retested_at_epoch": 1591833967.129832,
+            "last_retested_at_iso": "2020-06-11T00:06:07.129832",
             "status": "INACTIVE"
         },
         "equsi0n.com": {
@@ -7948,8 +7955,8 @@
         "eu.id474190312-1662660088.y439967.com": {
             "included_at_epoch": 1588492362.0,
             "included_at_iso": "2020-05-03T07:52:42",
-            "last_retested_at_epoch": 1591747384.530399,
-            "last_retested_at_iso": "2020-06-10T00:03:04.530399",
+            "last_retested_at_epoch": 1591834046.076506,
+            "last_retested_at_iso": "2020-06-11T00:07:26.076506",
             "status": "INACTIVE"
         },
         "eu.id527347220-7229513996.p250632.com": {
@@ -8109,8 +8116,8 @@
         "evad3rsteam.com": {
             "included_at_epoch": 1587933427.0,
             "included_at_iso": "2020-04-26T20:37:07",
-            "last_retested_at_epoch": 1591658103.745526,
-            "last_retested_at_iso": "2020-06-08T23:15:03.745526",
+            "last_retested_at_epoch": 1591834265.859865,
+            "last_retested_at_iso": "2020-06-11T00:11:05.859865",
             "status": "INACTIVE"
         },
         "evasi0n-download.com": {
@@ -8172,8 +8179,8 @@
         "eve-online-credit.net": {
             "included_at_epoch": 1588405622.0,
             "included_at_iso": "2020-05-02T07:47:02",
-            "last_retested_at_epoch": 1591668172.651727,
-            "last_retested_at_iso": "2020-06-09T02:02:52.651727",
+            "last_retested_at_epoch": 1591834049.120106,
+            "last_retested_at_iso": "2020-06-11T00:07:29.120106",
             "status": "INACTIVE"
         },
         "evenfunny.com": {
@@ -8256,8 +8263,8 @@
         "exforgames.net": {
             "included_at_epoch": 1588373225.0,
             "included_at_iso": "2020-05-01T22:47:05",
-            "last_retested_at_epoch": 1591703381.438046,
-            "last_retested_at_iso": "2020-06-09T11:49:41.438046",
+            "last_retested_at_epoch": 1591833778.341338,
+            "last_retested_at_iso": "2020-06-11T00:02:58.341338",
             "status": "INACTIVE"
         },
         "exgrafix.com": {
@@ -8375,8 +8382,8 @@
         "ezhackfacebook.com": {
             "included_at_epoch": 1588299445.0,
             "included_at_iso": "2020-05-01T02:17:25",
-            "last_retested_at_epoch": 1591662717.719864,
-            "last_retested_at_iso": "2020-06-09T00:31:57.719864",
+            "last_retested_at_epoch": 1591833634.156149,
+            "last_retested_at_iso": "2020-06-11T00:00:34.156149",
             "status": "INACTIVE"
         },
         "ezhotdownload.com": {
@@ -8389,8 +8396,8 @@
         "ezloaded.com": {
             "included_at_epoch": 1588358547.0,
             "included_at_iso": "2020-05-01T18:42:27",
-            "last_retested_at_epoch": 1591708458.613471,
-            "last_retested_at_iso": "2020-06-09T13:14:18.613471",
+            "last_retested_at_epoch": 1591834096.891793,
+            "last_retested_at_iso": "2020-06-11T00:08:16.891793",
             "status": "INACTIVE"
         },
         "ezskins.trade": {
@@ -8487,8 +8494,8 @@
         "facebookgamehacks.net": {
             "included_at_epoch": 1588443849.0,
             "included_at_iso": "2020-05-02T18:24:09",
-            "last_retested_at_epoch": 1591731814.096577,
-            "last_retested_at_iso": "2020-06-09T19:43:34.096577",
+            "last_retested_at_epoch": 1591834077.299851,
+            "last_retested_at_iso": "2020-06-11T00:07:57.299851",
             "status": "INACTIVE"
         },
         "facebookgameshacks.com": {
@@ -8522,8 +8529,8 @@
         "facebookhacker2013.org": {
             "included_at_epoch": 1588418972.0,
             "included_at_iso": "2020-05-02T11:29:32",
-            "last_retested_at_epoch": 1591679198.13539,
-            "last_retested_at_iso": "2020-06-09T05:06:38.135390",
+            "last_retested_at_epoch": 1591834319.44284,
+            "last_retested_at_iso": "2020-06-11T00:11:59.442840",
             "status": "INACTIVE"
         },
         "facebookhackerpro2013.com": {
@@ -8697,8 +8704,8 @@
         "fandom-case.com": {
             "included_at_epoch": 1588256997.0,
             "included_at_iso": "2020-04-30T14:29:57",
-            "last_retested_at_epoch": 1591747823.087982,
-            "last_retested_at_iso": "2020-06-10T00:10:23.087982",
+            "last_retested_at_epoch": 1591834318.915186,
+            "last_retested_at_iso": "2020-06-11T00:11:58.915186",
             "status": "INACTIVE"
         },
         "fandomcase.com": {
@@ -8711,8 +8718,8 @@
         "fantasy-hacks.com": {
             "included_at_epoch": 1588259826.0,
             "included_at_iso": "2020-04-30T15:17:06",
-            "last_retested_at_epoch": 1591732014.247356,
-            "last_retested_at_iso": "2020-06-09T19:46:54.247356",
+            "last_retested_at_epoch": 1591833599.892021,
+            "last_retested_at_iso": "2020-06-10T23:59:59.892021",
             "status": "INACTIVE"
         },
         "farmville2.fbgamesgiveaway.com": {
@@ -9061,8 +9068,8 @@
         "fbpasswordshack.com": {
             "included_at_epoch": 1588210630.0,
             "included_at_iso": "2020-04-30T01:37:10",
-            "last_retested_at_epoch": 1591742952.600966,
-            "last_retested_at_iso": "2020-06-09T22:49:12.600966",
+            "last_retested_at_epoch": 1591833895.671717,
+            "last_retested_at_iso": "2020-06-11T00:04:55.671717",
             "status": "INACTIVE"
         },
         "fbpirateruncompte.com": {
@@ -9152,8 +9159,8 @@
         "fifa13pointsfree.com": {
             "included_at_epoch": 1588354660.0,
             "included_at_iso": "2020-05-01T17:37:40",
-            "last_retested_at_epoch": 1591742651.670859,
-            "last_retested_at_iso": "2020-06-09T22:44:11.670859",
+            "last_retested_at_epoch": 1591833865.298785,
+            "last_retested_at_iso": "2020-06-11T00:04:25.298785",
             "status": "INACTIVE"
         },
         "fifa13ultimateteamfreecoins.com": {
@@ -9390,8 +9397,8 @@
         "filegoodie.com": {
             "included_at_epoch": 1588434615.0,
             "included_at_iso": "2020-05-02T15:50:15",
-            "last_retested_at_epoch": 1591662382.788291,
-            "last_retested_at_iso": "2020-06-09T00:26:22.788291",
+            "last_retested_at_epoch": 1591833656.967756,
+            "last_retested_at_iso": "2020-06-11T00:00:56.967756",
             "status": "INACTIVE"
         },
         "filehubonline.com": {
@@ -9859,8 +9866,8 @@
         "fm2013cdkey.com": {
             "included_at_epoch": 1588373339.0,
             "included_at_iso": "2020-05-01T22:48:59",
-            "last_retested_at_epoch": 1591612287.732092,
-            "last_retested_at_iso": "2020-06-08T10:31:27.732092",
+            "last_retested_at_epoch": 1591834082.392384,
+            "last_retested_at_iso": "2020-06-11T00:08:02.392384",
             "status": "INACTIVE"
         },
         "fnbeta.app": {
@@ -9887,8 +9894,8 @@
         "footballgamespot.com": {
             "included_at_epoch": 1590312239.124657,
             "included_at_iso": "2020-05-24T09:23:59.124657",
-            "last_retested_at_epoch": 1591702921.837207,
-            "last_retested_at_iso": "2020-06-09T11:42:01.837207",
+            "last_retested_at_epoch": 1591834006.835836,
+            "last_retested_at_iso": "2020-06-11T00:06:46.835836",
             "status": "INACTIVE"
         },
         "forceopminecraft.com": {
@@ -9999,8 +10006,8 @@
         "france.id100429421-9222533281.e406019.com": {
             "included_at_epoch": 1588405351.0,
             "included_at_iso": "2020-05-02T07:42:31",
-            "last_retested_at_epoch": 1591678847.289195,
-            "last_retested_at_iso": "2020-06-09T05:00:47.289195",
+            "last_retested_at_epoch": 1591834205.594645,
+            "last_retested_at_iso": "2020-06-11T00:10:05.594645",
             "status": "INACTIVE"
         },
         "france.id108979765-7218227704.w595505.com": {
@@ -10111,8 +10118,8 @@
         "free-gaiaonline.com": {
             "included_at_epoch": 1588485166.0,
             "included_at_iso": "2020-05-03T05:52:46",
-            "last_retested_at_epoch": 1591738056.110772,
-            "last_retested_at_iso": "2020-06-09T21:27:36.110772",
+            "last_retested_at_epoch": 1591833622.859739,
+            "last_retested_at_iso": "2020-06-11T00:00:22.859739",
             "status": "INACTIVE"
         },
         "free-gc.com": {
@@ -10125,8 +10132,8 @@
         "free-hacks.info": {
             "included_at_epoch": 1588458186.0,
             "included_at_iso": "2020-05-02T22:23:06",
-            "last_retested_at_epoch": 1591732180.811417,
-            "last_retested_at_iso": "2020-06-09T19:49:40.811417",
+            "last_retested_at_epoch": 1591834321.534736,
+            "last_retested_at_iso": "2020-06-11T00:12:01.534736",
             "status": "INACTIVE"
         },
         "free-hacks1.com": {
@@ -10146,8 +10153,8 @@
         "free-hacks24.com": {
             "included_at_epoch": 1588467611.0,
             "included_at_iso": "2020-05-03T01:00:11",
-            "last_retested_at_epoch": 1591717223.627298,
-            "last_retested_at_iso": "2020-06-09T15:40:23.627298",
+            "last_retested_at_epoch": 1591833658.801743,
+            "last_retested_at_iso": "2020-06-11T00:00:58.801743",
             "status": "INACTIVE"
         },
         "free-hacks4u.com": {
@@ -10601,8 +10608,8 @@
         "freefacecredits.com": {
             "included_at_epoch": 1588388548.0,
             "included_at_iso": "2020-05-02T03:02:28",
-            "last_retested_at_epoch": 1591737994.975846,
-            "last_retested_at_iso": "2020-06-09T21:26:34.975846",
+            "last_retested_at_epoch": 1591833852.486,
+            "last_retested_at_iso": "2020-06-11T00:04:12.486000",
             "status": "INACTIVE"
         },
         "freefantagemembership.com": {
@@ -10643,15 +10650,15 @@
         "freefifacoinandpoints.com": {
             "included_at_epoch": 1588358584.0,
             "included_at_iso": "2020-05-01T18:43:04",
-            "last_retested_at_epoch": 1591742375.678139,
-            "last_retested_at_iso": "2020-06-09T22:39:35.678139",
+            "last_retested_at_epoch": 1591833476.886439,
+            "last_retested_at_iso": "2020-06-10T23:57:56.886439",
             "status": "INACTIVE"
         },
         "freefileus.com": {
             "included_at_epoch": 1588382625.0,
             "included_at_iso": "2020-05-02T01:23:45",
-            "last_retested_at_epoch": 1591737570.266857,
-            "last_retested_at_iso": "2020-06-09T21:19:30.266857",
+            "last_retested_at_epoch": 1591833744.555443,
+            "last_retested_at_iso": "2020-06-11T00:02:24.555443",
             "status": "INACTIVE"
         },
         "freeflappybirdhacks.com": {
@@ -10860,8 +10867,8 @@
         "freeitunescodes.cracknhacks.net": {
             "included_at_epoch": 1588322706.0,
             "included_at_iso": "2020-05-01T08:45:06",
-            "last_retested_at_epoch": 1591747405.630615,
-            "last_retested_at_iso": "2020-06-10T00:03:25.630615",
+            "last_retested_at_epoch": 1591833966.234748,
+            "last_retested_at_iso": "2020-06-11T00:06:06.234748",
             "status": "INACTIVE"
         },
         "freeitunescodes.info": {
@@ -10874,8 +10881,8 @@
         "freeitunescodesgen.com": {
             "included_at_epoch": 1588410034.0,
             "included_at_iso": "2020-05-02T09:00:34",
-            "last_retested_at_epoch": 1591732327.773881,
-            "last_retested_at_iso": "2020-06-09T19:52:07.773881",
+            "last_retested_at_epoch": 1591833580.309646,
+            "last_retested_at_iso": "2020-06-10T23:59:40.309646",
             "status": "INACTIVE"
         },
         "freeitunescodeshere.com": {
@@ -11126,8 +11133,8 @@
         "freenba2k14vccodes.com": {
             "included_at_epoch": 1588358829.0,
             "included_at_iso": "2020-05-01T18:47:09",
-            "last_retested_at_epoch": 1591712418.857515,
-            "last_retested_at_iso": "2020-06-09T14:20:18.857515",
+            "last_retested_at_epoch": 1591834224.04234,
+            "last_retested_at_iso": "2020-06-11T00:10:24.042340",
             "status": "INACTIVE"
         },
         "freeneopets.com": {
@@ -11945,8 +11952,8 @@
         "galaxydrop.top": {
             "included_at_epoch": 1588472512.0,
             "included_at_iso": "2020-05-03T02:21:52",
-            "last_retested_at_epoch": 1591698951.328628,
-            "last_retested_at_iso": "2020-06-09T10:35:51.328628",
+            "last_retested_at_epoch": 1591833791.305825,
+            "last_retested_at_iso": "2020-06-11T00:03:11.305825",
             "status": "INACTIVE"
         },
         "galaxygiveaways.com": {
@@ -11980,8 +11987,8 @@
         "game-crack.org": {
             "included_at_epoch": 1588462774.0,
             "included_at_iso": "2020-05-02T23:39:34",
-            "last_retested_at_epoch": 1591742402.28679,
-            "last_retested_at_iso": "2020-06-09T22:40:02.286790",
+            "last_retested_at_epoch": 1591833578.909496,
+            "last_retested_at_iso": "2020-06-10T23:59:38.909496",
             "status": "INACTIVE"
         },
         "game-hack24.com": {
@@ -12281,8 +12288,8 @@
         "gameleadon.com": {
             "included_at_epoch": 1588463009.0,
             "included_at_iso": "2020-05-02T23:43:29",
-            "last_retested_at_epoch": 1591632788.561848,
-            "last_retested_at_iso": "2020-06-08T16:13:08.561848",
+            "last_retested_at_epoch": 1591834031.499619,
+            "last_retested_at_iso": "2020-06-11T00:07:11.499619",
             "status": "INACTIVE"
         },
         "gamenationz.com": {
@@ -12400,8 +12407,8 @@
         "gamescheatparadise.com": {
             "included_at_epoch": 1588191303.0,
             "included_at_iso": "2020-04-29T20:15:03",
-            "last_retested_at_epoch": 1591722177.566903,
-            "last_retested_at_iso": "2020-06-09T17:02:57.566903",
+            "last_retested_at_epoch": 1591834139.471783,
+            "last_retested_at_iso": "2020-06-11T00:08:59.471783",
             "status": "INACTIVE"
         },
         "gamescheats4u.com": {
@@ -12771,8 +12778,8 @@
         "generateurdekamas.org": {
             "included_at_epoch": 1588481543.0,
             "included_at_iso": "2020-05-03T04:52:23",
-            "last_retested_at_epoch": 1591699039.578768,
-            "last_retested_at_iso": "2020-06-09T10:37:19.578768",
+            "last_retested_at_epoch": 1591833502.729509,
+            "last_retested_at_iso": "2020-06-10T23:58:22.729509",
             "status": "INACTIVE"
         },
         "generateurderiotpoints.com": {
@@ -12827,8 +12834,8 @@
         "get4games.com": {
             "included_at_epoch": 1588484976.0,
             "included_at_iso": "2020-05-03T05:49:36",
-            "last_retested_at_epoch": 1591717425.193075,
-            "last_retested_at_iso": "2020-06-09T15:43:45.193075",
+            "last_retested_at_epoch": 1591833913.878412,
+            "last_retested_at_iso": "2020-06-11T00:05:13.878412",
             "status": "INACTIVE"
         },
         "getbetafree.com": {
@@ -12911,22 +12918,22 @@
         "getfreeminecraftaccounts.net": {
             "included_at_epoch": 1588453208.0,
             "included_at_iso": "2020-05-02T21:00:08",
-            "last_retested_at_epoch": 1591732157.834151,
-            "last_retested_at_iso": "2020-06-09T19:49:17.834151",
+            "last_retested_at_epoch": 1591834098.883537,
+            "last_retested_at_iso": "2020-06-11T00:08:18.883537",
             "status": "INACTIVE"
         },
         "getfreeminecraftpremiumcodeshere.com": {
             "included_at_epoch": 1588260847.0,
             "included_at_iso": "2020-04-30T15:34:07",
-            "last_retested_at_epoch": 1591717277.554202,
-            "last_retested_at_iso": "2020-06-09T15:41:17.554202",
+            "last_retested_at_epoch": 1591833464.750659,
+            "last_retested_at_iso": "2020-06-10T23:57:44.750659",
             "status": "INACTIVE"
         },
         "getfreeonlinestuffs.com": {
             "included_at_epoch": 1588438930.0,
             "included_at_iso": "2020-05-02T17:02:10",
-            "last_retested_at_epoch": 1591738147.522905,
-            "last_retested_at_iso": "2020-06-09T21:29:07.522905",
+            "last_retested_at_epoch": 1591834004.939511,
+            "last_retested_at_iso": "2020-06-11T00:06:44.939511",
             "status": "INACTIVE"
         },
         "getfreepsncodesnow.com": {
@@ -12960,8 +12967,8 @@
         "gethacknow.com": {
             "included_at_epoch": 1588377645.0,
             "included_at_iso": "2020-05-02T00:00:45",
-            "last_retested_at_epoch": 1591717079.867798,
-            "last_retested_at_iso": "2020-06-09T15:37:59.867798",
+            "last_retested_at_epoch": 1591833519.251725,
+            "last_retested_at_iso": "2020-06-10T23:58:39.251725",
             "status": "INACTIVE"
         },
         "gethacksfree.com": {
@@ -13002,8 +13009,8 @@
         "getminecraftpremium.us": {
             "included_at_epoch": 1588418925.0,
             "included_at_iso": "2020-05-02T11:28:45",
-            "last_retested_at_epoch": 1591668379.661942,
-            "last_retested_at_iso": "2020-06-09T02:06:19.661942",
+            "last_retested_at_epoch": 1591834054.647105,
+            "last_retested_at_iso": "2020-06-11T00:07:34.647105",
             "status": "INACTIVE"
         },
         "getmmogold.com": {
@@ -13114,8 +13121,8 @@
         "ghooet.com": {
             "included_at_epoch": 1588133373.0,
             "included_at_iso": "2020-04-29T04:09:33",
-            "last_retested_at_epoch": 1591727803.42663,
-            "last_retested_at_iso": "2020-06-09T18:36:43.426630",
+            "last_retested_at_epoch": 1591833731.537713,
+            "last_retested_at_iso": "2020-06-11T00:02:11.537713",
             "status": "INACTIVE"
         },
         "ghost-team.info": {
@@ -13492,8 +13499,8 @@
         "grabhosted.com": {
             "included_at_epoch": 1588363723.0,
             "included_at_iso": "2020-05-01T20:08:43",
-            "last_retested_at_epoch": 1591674250.732039,
-            "last_retested_at_iso": "2020-06-09T03:44:10.732039",
+            "last_retested_at_epoch": 1591833438.71778,
+            "last_retested_at_iso": "2020-06-10T23:57:18.717780",
             "status": "INACTIVE"
         },
         "grabpokecoins.xyz": {
@@ -13905,8 +13912,8 @@
         "hack-facebook-account.com": {
             "included_at_epoch": 1588438740.0,
             "included_at_iso": "2020-05-02T16:59:00",
-            "last_retested_at_epoch": 1591722062.711012,
-            "last_retested_at_iso": "2020-06-09T17:01:02.711012",
+            "last_retested_at_epoch": 1591834005.435267,
+            "last_retested_at_iso": "2020-06-11T00:06:45.435267",
             "status": "INACTIVE"
         },
         "hack-facebook-account.info": {
@@ -14304,8 +14311,8 @@
         "hackeruniveristy.com": {
             "included_at_epoch": 1588434440.0,
             "included_at_iso": "2020-05-02T15:47:20",
-            "last_retested_at_epoch": 1591693877.905116,
-            "last_retested_at_iso": "2020-06-09T09:11:17.905116",
+            "last_retested_at_epoch": 1591833542.247646,
+            "last_retested_at_iso": "2020-06-10T23:59:02.247646",
             "status": "INACTIVE"
         },
         "hackeverygame.com": {
@@ -14451,8 +14458,8 @@
         "hackig.online": {
             "included_at_epoch": 1588443685.0,
             "included_at_iso": "2020-05-02T18:21:25",
-            "last_retested_at_epoch": 1591732386.665392,
-            "last_retested_at_iso": "2020-06-09T19:53:06.665392",
+            "last_retested_at_epoch": 1591833761.728715,
+            "last_retested_at_iso": "2020-06-11T00:02:41.728715",
             "status": "INACTIVE"
         },
         "hackingclashofclans.com": {
@@ -14556,8 +14563,8 @@
         "hackncheatshouse.win": {
             "included_at_epoch": 1588313654.0,
             "included_at_iso": "2020-05-01T06:14:14",
-            "last_retested_at_epoch": 1591708394.50208,
-            "last_retested_at_iso": "2020-06-09T13:13:14.502080",
+            "last_retested_at_epoch": 1591834077.859904,
+            "last_retested_at_iso": "2020-06-11T00:07:57.859904",
             "status": "INACTIVE"
         },
         "hacknet24.com": {
@@ -14577,8 +14584,8 @@
         "hackongame.com": {
             "included_at_epoch": 1588438887.0,
             "included_at_iso": "2020-05-02T17:01:27",
-            "last_retested_at_epoch": 1591737413.960943,
-            "last_retested_at_iso": "2020-06-09T21:16:53.960943",
+            "last_retested_at_epoch": 1591834206.249317,
+            "last_retested_at_iso": "2020-06-11T00:10:06.249317",
             "status": "INACTIVE"
         },
         "hackpassfb.com": {
@@ -14689,8 +14696,8 @@
         "hacks4free.net": {
             "included_at_epoch": 1588192528.0,
             "included_at_iso": "2020-04-29T20:35:28",
-            "last_retested_at_epoch": 1591731885.27368,
-            "last_retested_at_iso": "2020-06-09T19:44:45.273680",
+            "last_retested_at_epoch": 1591833857.614926,
+            "last_retested_at_iso": "2020-06-11T00:04:17.614926",
             "status": "INACTIVE"
         },
         "hacks4games.biz": {
@@ -15214,8 +15221,8 @@
         "hd-livetream.com": {
             "included_at_epoch": 1588238965.0,
             "included_at_iso": "2020-04-30T09:29:25",
-            "last_retested_at_epoch": 1591688570.036481,
-            "last_retested_at_iso": "2020-06-09T07:42:50.036481",
+            "last_retested_at_epoch": 1591834272.661513,
+            "last_retested_at_iso": "2020-06-11T00:11:12.661513",
             "status": "INACTIVE"
         },
         "hdshow-online.com": {
@@ -15417,8 +15424,8 @@
         "hognoob.se": {
             "included_at_epoch": 1588443485.0,
             "included_at_iso": "2020-05-02T18:18:05",
-            "last_retested_at_epoch": 1591743257.817834,
-            "last_retested_at_iso": "2020-06-09T22:54:17.817834",
+            "last_retested_at_epoch": 1591833676.595964,
+            "last_retested_at_iso": "2020-06-11T00:01:16.595964",
             "status": "INACTIVE"
         },
         "homem-shopping.com": {
@@ -15732,8 +15739,8 @@
         "icloud-appleid-information-safe-link-apple-inc.com": {
             "included_at_epoch": 1588458102.0,
             "included_at_iso": "2020-05-02T22:21:42",
-            "last_retested_at_epoch": 1591737735.390109,
-            "last_retested_at_iso": "2020-06-09T21:22:15.390109",
+            "last_retested_at_epoch": 1591833690.947091,
+            "last_retested_at_iso": "2020-06-11T00:01:30.947091",
             "status": "INACTIVE"
         },
         "icloud-applev1.com": {
@@ -15767,8 +15774,8 @@
         "icodecrypt.com": {
             "included_at_epoch": 1588467587.0,
             "included_at_iso": "2020-05-03T00:59:47",
-            "last_retested_at_epoch": 1591722172.950077,
-            "last_retested_at_iso": "2020-06-09T17:02:52.950077",
+            "last_retested_at_epoch": 1591833689.55482,
+            "last_retested_at_iso": "2020-06-11T00:01:29.554820",
             "status": "INACTIVE"
         },
         "id100429421-9222533281.e406019.com": {
@@ -16145,8 +16152,8 @@
         "instantfreepsncodes.com": {
             "included_at_epoch": 1588363423.0,
             "included_at_iso": "2020-05-01T20:03:43",
-            "last_retested_at_epoch": 1591732088.579039,
-            "last_retested_at_iso": "2020-06-09T19:48:08.579039",
+            "last_retested_at_epoch": 1591833463.529278,
+            "last_retested_at_iso": "2020-06-10T23:57:43.529278",
             "status": "INACTIVE"
         },
         "intl-paypal-com.com": {
@@ -16460,8 +16467,8 @@
         "itunesgiftcardsgenerator.com": {
             "included_at_epoch": 1588171568.0,
             "included_at_iso": "2020-04-29T14:46:08",
-            "last_retested_at_epoch": 1591731657.815543,
-            "last_retested_at_iso": "2020-06-09T19:40:57.815543",
+            "last_retested_at_epoch": 1591833888.287298,
+            "last_retested_at_iso": "2020-06-11T00:04:48.287298",
             "status": "INACTIVE"
         },
         "itunesvouchergiveaway.com": {
@@ -16761,8 +16768,8 @@
         "keepskins.com": {
             "included_at_epoch": 1588240743.0,
             "included_at_iso": "2020-04-30T09:59:03",
-            "last_retested_at_epoch": 1591737658.369578,
-            "last_retested_at_iso": "2020-06-09T21:20:58.369578",
+            "last_retested_at_epoch": 1591834328.252685,
+            "last_retested_at_iso": "2020-06-11T00:12:08.252685",
             "status": "INACTIVE"
         },
         "kellaform.ru": {
@@ -17034,8 +17041,8 @@
         "latestgamehacks.com": {
             "included_at_epoch": 1588240619.0,
             "included_at_iso": "2020-04-30T09:56:59",
-            "last_retested_at_epoch": 1591722164.345001,
-            "last_retested_at_iso": "2020-06-09T17:02:44.345001",
+            "last_retested_at_epoch": 1591834101.76206,
+            "last_retested_at_iso": "2020-06-11T00:08:21.762060",
             "status": "INACTIVE"
         },
         "latestphonehacks.com": {
@@ -17244,8 +17251,8 @@
         "lessims4crack.com": {
             "included_at_epoch": 1588481291.0,
             "included_at_iso": "2020-05-03T04:48:11",
-            "last_retested_at_epoch": 1591653383.753241,
-            "last_retested_at_iso": "2020-06-08T21:56:23.753241",
+            "last_retested_at_epoch": 1591833688.588265,
+            "last_retested_at_iso": "2020-06-11T00:01:28.588265",
             "status": "INACTIVE"
         },
         "libros-gratis.org": {
@@ -17398,8 +17405,8 @@
         "loadfiles.pl": {
             "included_at_epoch": 1588188391.0,
             "included_at_iso": "2020-04-29T19:26:31",
-            "last_retested_at_epoch": 1591717225.136046,
-            "last_retested_at_iso": "2020-06-09T15:40:25.136046",
+            "last_retested_at_epoch": 1591833459.429991,
+            "last_retested_at_iso": "2020-06-10T23:57:39.429991",
             "status": "INACTIVE"
         },
         "loadfreefile.com": {
@@ -17622,8 +17629,8 @@
         "luxury-roll.com": {
             "included_at_epoch": 1588240588.0,
             "included_at_iso": "2020-04-30T09:56:28",
-            "last_retested_at_epoch": 1591713213.099899,
-            "last_retested_at_iso": "2020-06-09T14:33:33.099899",
+            "last_retested_at_epoch": 1591833961.671408,
+            "last_retested_at_iso": "2020-06-11T00:06:01.671408",
             "status": "INACTIVE"
         },
         "machine-err0r-dial-startup-sdd.website": {
@@ -17685,8 +17692,8 @@
         "magiccase.net": {
             "included_at_epoch": 1588317855.0,
             "included_at_iso": "2020-05-01T07:24:15",
-            "last_retested_at_epoch": 1591702983.112443,
-            "last_retested_at_iso": "2020-06-09T11:43:03.112443",
+            "last_retested_at_epoch": 1591833687.400101,
+            "last_retested_at_iso": "2020-06-11T00:01:27.400101",
             "status": "INACTIVE"
         },
         "magiccheats.com": {
@@ -17748,8 +17755,8 @@
         "makifege.ru": {
             "included_at_epoch": 1591149542.522793,
             "included_at_iso": "2020-06-03T01:59:02.522793",
-            "last_retested_at_epoch": 1591707622.753474,
-            "last_retested_at_iso": "2020-06-09T13:00:22.753474",
+            "last_retested_at_epoch": 1591833763.077356,
+            "last_retested_at_iso": "2020-06-11T00:02:43.077356",
             "status": "INACTIVE"
         },
         "mannen-shopping.com": {
@@ -17783,8 +17790,8 @@
         "marvelavengersalliancecheats.com": {
             "included_at_epoch": 1588434276.0,
             "included_at_iso": "2020-05-02T15:44:36",
-            "last_retested_at_epoch": 1591622426.278162,
-            "last_retested_at_iso": "2020-06-08T13:20:26.278162",
+            "last_retested_at_epoch": 1591833764.136554,
+            "last_retested_at_iso": "2020-06-11T00:02:44.136554",
             "status": "INACTIVE"
         },
         "marvelavengersalliancehack.org": {
@@ -17853,8 +17860,8 @@
         "mcdonaldsmonopoly.net": {
             "included_at_epoch": 1588377339.0,
             "included_at_iso": "2020-05-01T23:55:39",
-            "last_retested_at_epoch": 1591737676.222438,
-            "last_retested_at_iso": "2020-06-09T21:21:16.222438",
+            "last_retested_at_epoch": 1591834085.155052,
+            "last_retested_at_iso": "2020-06-11T00:08:05.155052",
             "status": "INACTIVE"
         },
         "mcpgames.com": {
@@ -18196,8 +18203,8 @@
         "minecraftfreegiftcode.com": {
             "included_at_epoch": 1588363584.0,
             "included_at_iso": "2020-05-01T20:06:24",
-            "last_retested_at_epoch": 1591693248.880601,
-            "last_retested_at_iso": "2020-06-09T09:00:48.880601",
+            "last_retested_at_epoch": 1591833904.084975,
+            "last_retested_at_iso": "2020-06-11T00:05:04.084975",
             "status": "INACTIVE"
         },
         "minecraftfreepremiumaccounts.com": {
@@ -18238,15 +18245,15 @@
         "minecraftgratuit.org": {
             "included_at_epoch": 1588363752.0,
             "included_at_iso": "2020-05-01T20:09:12",
-            "last_retested_at_epoch": 1591727219.530585,
-            "last_retested_at_iso": "2020-06-09T18:26:59.530585",
+            "last_retested_at_epoch": 1591834251.242386,
+            "last_retested_at_iso": "2020-06-11T00:10:51.242386",
             "status": "INACTIVE"
         },
         "minecrafthosting.biz": {
             "included_at_epoch": 1588438754.0,
             "included_at_iso": "2020-05-02T16:59:14",
-            "last_retested_at_epoch": 1591702657.959969,
-            "last_retested_at_iso": "2020-06-09T11:37:37.959969",
+            "last_retested_at_epoch": 1591834075.172552,
+            "last_retested_at_iso": "2020-06-11T00:07:55.172552",
             "status": "INACTIVE"
         },
         "minecraftophack.com": {
@@ -18336,8 +18343,8 @@
         "mingle-case.net": {
             "included_at_epoch": 1588178351.0,
             "included_at_iso": "2020-04-29T16:39:11",
-            "last_retested_at_epoch": 1591747627.038857,
-            "last_retested_at_iso": "2020-06-10T00:07:07.038857",
+            "last_retested_at_epoch": 1591834329.765557,
+            "last_retested_at_iso": "2020-06-11T00:12:09.765557",
             "status": "INACTIVE"
         },
         "mingle-case.pro": {
@@ -18595,8 +18602,8 @@
         "movie1get.com": {
             "included_at_epoch": 1588477263.0,
             "included_at_iso": "2020-05-03T03:41:03",
-            "last_retested_at_epoch": 1591722449.149309,
-            "last_retested_at_iso": "2020-06-09T17:07:29.149309",
+            "last_retested_at_epoch": 1591833520.354676,
+            "last_retested_at_iso": "2020-06-10T23:58:40.354676",
             "status": "INACTIVE"
         },
         "movie24.tv": {
@@ -18623,8 +18630,8 @@
         "movieapunk.com": {
             "included_at_epoch": 1588265258.0,
             "included_at_iso": "2020-04-30T16:47:38",
-            "last_retested_at_epoch": 1591662856.833862,
-            "last_retested_at_iso": "2020-06-09T00:34:16.833862",
+            "last_retested_at_epoch": 1591833538.175189,
+            "last_retested_at_iso": "2020-06-10T23:58:58.175189",
             "status": "INACTIVE"
         },
         "moviearie.com": {
@@ -18686,8 +18693,8 @@
         "movieloader.net": {
             "included_at_epoch": 1588467298.0,
             "included_at_iso": "2020-05-03T00:54:58",
-            "last_retested_at_epoch": 1591737725.713178,
-            "last_retested_at_iso": "2020-06-09T21:22:05.713178",
+            "last_retested_at_epoch": 1591834186.179182,
+            "last_retested_at_iso": "2020-06-11T00:09:46.179182",
             "status": "INACTIVE"
         },
         "moviemblo.com": {
@@ -18805,8 +18812,8 @@
         "mslivegirl.com": {
             "included_at_epoch": 1588257332.0,
             "included_at_iso": "2020-04-30T14:35:32",
-            "last_retested_at_epoch": 1591712990.089085,
-            "last_retested_at_iso": "2020-06-09T14:29:50.089085",
+            "last_retested_at_epoch": 1591834190.604868,
+            "last_retested_at_iso": "2020-06-11T00:09:50.604868",
             "status": "INACTIVE"
         },
         "msp.get4games.com": {
@@ -19001,8 +19008,8 @@
         "myfilehigh.com": {
             "included_at_epoch": 1588492234.0,
             "included_at_iso": "2020-05-03T07:50:34",
-            "last_retested_at_epoch": 1591712675.629999,
-            "last_retested_at_iso": "2020-06-09T14:24:35.629999",
+            "last_retested_at_epoch": 1591834189.942379,
+            "last_retested_at_iso": "2020-06-11T00:09:49.942379",
             "status": "INACTIVE"
         },
         "myfilehome.com": {
@@ -19323,8 +19330,8 @@
         "newgamecheats.net": {
             "included_at_epoch": 1588372885.0,
             "included_at_iso": "2020-05-01T22:41:25",
-            "last_retested_at_epoch": 1591742644.22636,
-            "last_retested_at_iso": "2020-06-09T22:44:04.226360",
+            "last_retested_at_epoch": 1591833778.939431,
+            "last_retested_at_iso": "2020-06-11T00:02:58.939431",
             "status": "INACTIVE"
         },
         "newgames-hack.com": {
@@ -19337,8 +19344,8 @@
         "newgames4download.com": {
             "included_at_epoch": 1588393726.0,
             "included_at_iso": "2020-05-02T04:28:46",
-            "last_retested_at_epoch": 1591731684.985774,
-            "last_retested_at_iso": "2020-06-09T19:41:24.985774",
+            "last_retested_at_epoch": 1591833522.934144,
+            "last_retested_at_iso": "2020-06-10T23:58:42.934144",
             "status": "INACTIVE"
         },
         "newhacksandcracks.com": {
@@ -19603,8 +19610,8 @@
         "online-pictures.net": {
             "included_at_epoch": 1588414604.0,
             "included_at_iso": "2020-05-02T10:16:44",
-            "last_retested_at_epoch": 1591717068.807455,
-            "last_retested_at_iso": "2020-06-09T15:37:48.807455",
+            "last_retested_at_epoch": 1591833760.677095,
+            "last_retested_at_iso": "2020-06-11T00:02:40.677095",
             "status": "INACTIVE"
         },
         "onlinebitcoingenerator.org": {
@@ -19939,8 +19946,8 @@
         "pakjevoordeel.net": {
             "included_at_epoch": 1588192784.0,
             "included_at_iso": "2020-04-29T20:39:44",
-            "last_retested_at_epoch": 1591737897.857827,
-            "last_retested_at_iso": "2020-06-09T21:24:57.857827",
+            "last_retested_at_epoch": 1591833858.482219,
+            "last_retested_at_iso": "2020-06-11T00:04:18.482219",
             "status": "INACTIVE"
         },
         "pamila.medlafare.com": {
@@ -20016,8 +20023,8 @@
         "password-remover-tools.com": {
             "included_at_epoch": 1588476811.0,
             "included_at_iso": "2020-05-03T03:33:31",
-            "last_retested_at_epoch": 1591727683.136871,
-            "last_retested_at_iso": "2020-06-09T18:34:43.136871",
+            "last_retested_at_epoch": 1591834158.391788,
+            "last_retested_at_iso": "2020-06-11T00:09:18.391788",
             "status": "INACTIVE"
         },
         "password.thishack.org": {
@@ -20051,8 +20058,8 @@
         "pboh.punklocalbabez.com": {
             "included_at_epoch": 1588405589.0,
             "included_at_iso": "2020-05-02T07:46:29",
-            "last_retested_at_epoch": 1591717705.329024,
-            "last_retested_at_iso": "2020-06-09T15:48:25.329024",
+            "last_retested_at_epoch": 1591834098.077421,
+            "last_retested_at_iso": "2020-06-11T00:08:18.077421",
             "status": "INACTIVE"
         },
         "pcgame-hacks.com": {
@@ -20163,8 +20170,8 @@
         "pic4web.org": {
             "included_at_epoch": 1588405298.0,
             "included_at_iso": "2020-05-02T07:41:38",
-            "last_retested_at_epoch": 1591727120.280192,
-            "last_retested_at_iso": "2020-06-09T18:25:20.280192",
+            "last_retested_at_epoch": 1591833596.011972,
+            "last_retested_at_iso": "2020-06-10T23:59:56.011972",
             "status": "INACTIVE"
         },
         "pickuchu.com": {
@@ -20275,8 +20282,8 @@
         "piragiciel.com": {
             "included_at_epoch": 1588336377.0,
             "included_at_iso": "2020-05-01T12:32:57",
-            "last_retested_at_epoch": 1591727020.288889,
-            "last_retested_at_iso": "2020-06-09T18:23:40.288889",
+            "last_retested_at_epoch": 1591833712.369503,
+            "last_retested_at_iso": "2020-06-11T00:01:52.369503",
             "status": "INACTIVE"
         },
         "piranhacheats.com": {
@@ -20289,8 +20296,8 @@
         "piratage-fb.com": {
             "included_at_epoch": 1588419276.0,
             "included_at_iso": "2020-05-02T11:34:36",
-            "last_retested_at_epoch": 1591747695.356019,
-            "last_retested_at_iso": "2020-06-10T00:08:15.356019",
+            "last_retested_at_epoch": 1591834135.214649,
+            "last_retested_at_iso": "2020-06-11T00:08:55.214649",
             "status": "INACTIVE"
         },
         "piratageface.com": {
@@ -20352,8 +20359,8 @@
         "pirater-facebook-msn.com": {
             "included_at_epoch": 1588261417.0,
             "included_at_iso": "2020-04-30T15:43:37",
-            "last_retested_at_epoch": 1591726921.079997,
-            "last_retested_at_iso": "2020-06-09T18:22:01.079997",
+            "last_retested_at_epoch": 1591833750.487366,
+            "last_retested_at_iso": "2020-06-11T00:02:30.487366",
             "status": "INACTIVE"
         },
         "pirater-msn-facebook.eu": {
@@ -20527,8 +20534,8 @@
         "piraterunfacebook.net": {
             "included_at_epoch": 1588480993.0,
             "included_at_iso": "2020-05-03T04:43:13",
-            "last_retested_at_epoch": 1591743117.428912,
-            "last_retested_at_iso": "2020-06-09T22:51:57.428912",
+            "last_retested_at_epoch": 1591834193.606193,
+            "last_retested_at_iso": "2020-06-11T00:09:53.606193",
             "status": "INACTIVE"
         },
         "piraterwhatsapp.com": {
@@ -20611,8 +20618,8 @@
         "play.movieglobal.co": {
             "included_at_epoch": 1588448181.0,
             "included_at_iso": "2020-05-02T19:36:21",
-            "last_retested_at_epoch": 1591731771.481957,
-            "last_retested_at_iso": "2020-06-09T19:42:51.481957",
+            "last_retested_at_epoch": 1591833566.2054,
+            "last_retested_at_iso": "2020-06-10T23:59:26.205400",
             "status": "INACTIVE"
         },
         "playbattlegrounds.trade": {
@@ -20646,8 +20653,8 @@
         "playdownstationdownloadlinks.com": {
             "included_at_epoch": 1588472404.0,
             "included_at_iso": "2020-05-03T02:20:04",
-            "last_retested_at_epoch": 1591737392.285943,
-            "last_retested_at_iso": "2020-06-09T21:16:32.285943",
+            "last_retested_at_epoch": 1591834082.723483,
+            "last_retested_at_iso": "2020-06-11T00:08:02.723483",
             "status": "INACTIVE"
         },
         "playerbattleground.com": {
@@ -20891,8 +20898,8 @@
         "poptropica-cheats-free.com": {
             "included_at_epoch": 1588175893.0,
             "included_at_iso": "2020-04-29T15:58:13",
-            "last_retested_at_epoch": 1591742686.142718,
-            "last_retested_at_iso": "2020-06-09T22:44:46.142718",
+            "last_retested_at_epoch": 1591833722.774856,
+            "last_retested_at_iso": "2020-06-11T00:02:02.774856",
             "status": "INACTIVE"
         },
         "popularfilm.us": {
@@ -20982,8 +20989,8 @@
         "premiumarea.eu": {
             "included_at_epoch": 1588382601.0,
             "included_at_iso": "2020-05-02T01:23:21",
-            "last_retested_at_epoch": 1591689226.020468,
-            "last_retested_at_iso": "2020-06-09T07:53:46.020468",
+            "last_retested_at_epoch": 1591834213.591424,
+            "last_retested_at_iso": "2020-06-11T00:10:13.591424",
             "status": "INACTIVE"
         },
         "premiumdata.info": {
@@ -21521,15 +21528,15 @@
         "psncodeshere.com": {
             "included_at_epoch": 1588472475.0,
             "included_at_iso": "2020-05-03T02:21:15",
-            "last_retested_at_epoch": 1591727711.732632,
-            "last_retested_at_iso": "2020-06-09T18:35:11.732632",
+            "last_retested_at_epoch": 1591833675.004655,
+            "last_retested_at_iso": "2020-06-11T00:01:15.004655",
             "status": "INACTIVE"
         },
         "psnetworkcodes.com": {
             "included_at_epoch": 1588481046.0,
             "included_at_iso": "2020-05-03T04:44:06",
-            "last_retested_at_epoch": 1591731678.901502,
-            "last_retested_at_iso": "2020-06-09T19:41:18.901502",
+            "last_retested_at_epoch": 1591833505.23191,
+            "last_retested_at_iso": "2020-06-10T23:58:25.231910",
             "status": "INACTIVE"
         },
         "psnfreecards.com": {
@@ -21556,8 +21563,8 @@
         "psnlivecodegenerator.com": {
             "included_at_epoch": 1588257309.0,
             "included_at_iso": "2020-04-30T14:35:09",
-            "last_retested_at_epoch": 1591742743.392529,
-            "last_retested_at_iso": "2020-06-09T22:45:43.392529",
+            "last_retested_at_epoch": 1591833467.718132,
+            "last_retested_at_iso": "2020-06-10T23:57:47.718132",
             "status": "INACTIVE"
         },
         "psnlivecodegenerator.net": {
@@ -21654,8 +21661,8 @@
         "quality-hacks.com": {
             "included_at_epoch": 1588405577.0,
             "included_at_iso": "2020-05-02T07:46:17",
-            "last_retested_at_epoch": 1591738047.05809,
-            "last_retested_at_iso": "2020-06-09T21:27:27.058090",
+            "last_retested_at_epoch": 1591834275.683836,
+            "last_retested_at_iso": "2020-06-11T00:11:15.683836",
             "status": "INACTIVE"
         },
         "quick-exchange.com": {
@@ -21717,15 +21724,15 @@
         "rampageskins.com": {
             "included_at_epoch": 1588178395.0,
             "included_at_iso": "2020-04-29T16:39:55",
-            "last_retested_at_epoch": 1591737722.191921,
-            "last_retested_at_iso": "2020-06-09T21:22:02.191921",
+            "last_retested_at_epoch": 1591833936.930148,
+            "last_retested_at_iso": "2020-06-11T00:05:36.930148",
             "status": "INACTIVE"
         },
         "rapidfilesending.com": {
             "included_at_epoch": 1588405514.0,
             "included_at_iso": "2020-05-02T07:45:14",
-            "last_retested_at_epoch": 1591743163.902567,
-            "last_retested_at_iso": "2020-06-09T22:52:43.902567",
+            "last_retested_at_epoch": 1591833970.165765,
+            "last_retested_at_iso": "2020-06-11T00:06:10.165765",
             "status": "INACTIVE"
         },
         "rapidsharemirror.com": {
@@ -21899,8 +21906,8 @@
         "recharge-mobile-gratuit.fr": {
             "included_at_epoch": 1588481313.0,
             "included_at_iso": "2020-05-03T04:48:33",
-            "last_retested_at_epoch": 1591738090.862111,
-            "last_retested_at_iso": "2020-06-09T21:28:10.862111",
+            "last_retested_at_epoch": 1591833867.122777,
+            "last_retested_at_iso": "2020-06-11T00:04:27.122777",
             "status": "INACTIVE"
         },
         "recording-music.net": {
@@ -21990,15 +21997,15 @@
         "revengecase.com": {
             "included_at_epoch": 1588453031.0,
             "included_at_iso": "2020-05-02T20:57:11",
-            "last_retested_at_epoch": 1591747476.194419,
-            "last_retested_at_iso": "2020-06-10T00:04:36.194419",
+            "last_retested_at_epoch": 1591833905.841105,
+            "last_retested_at_iso": "2020-06-11T00:05:05.841105",
             "status": "INACTIVE"
         },
         "rich-bets.one": {
             "included_at_epoch": 1588484972.0,
             "included_at_iso": "2020-05-03T05:49:32",
-            "last_retested_at_epoch": 1591727126.019049,
-            "last_retested_at_iso": "2020-06-09T18:25:26.019049",
+            "last_retested_at_epoch": 1591833889.088885,
+            "last_retested_at_iso": "2020-06-11T00:04:49.088885",
             "status": "INACTIVE"
         },
         "richboysblog.com": {
@@ -22011,8 +22018,8 @@
         "riot-codes.com": {
             "included_at_epoch": 1588377203.0,
             "included_at_iso": "2020-05-01T23:53:23",
-            "last_retested_at_epoch": 1591737659.784093,
-            "last_retested_at_iso": "2020-06-09T21:20:59.784093",
+            "last_retested_at_epoch": 1591833937.454208,
+            "last_retested_at_iso": "2020-06-11T00:05:37.454208",
             "status": "INACTIVE"
         },
         "riot.hudbee.com": {
@@ -22053,8 +22060,8 @@
         "riotpoints.net": {
             "included_at_epoch": 1588477260.0,
             "included_at_iso": "2020-05-03T03:41:00",
-            "last_retested_at_epoch": 1591747433.392124,
-            "last_retested_at_iso": "2020-06-10T00:03:53.392124",
+            "last_retested_at_epoch": 1591833893.283473,
+            "last_retested_at_iso": "2020-06-11T00:04:53.283473",
             "status": "INACTIVE"
         },
         "riotpointsgenerator.fr": {
@@ -22193,8 +22200,8 @@
         "rolls-hack.com": {
             "included_at_epoch": 1588438870.0,
             "included_at_iso": "2020-05-02T17:01:10",
-            "last_retested_at_epoch": 1591742868.556021,
-            "last_retested_at_iso": "2020-06-09T22:47:48.556021",
+            "last_retested_at_epoch": 1591834133.215605,
+            "last_retested_at_iso": "2020-06-11T00:08:53.215605",
             "status": "INACTIVE"
         },
         "rollskins.one": {
@@ -22305,8 +22312,8 @@
         "rpfree4.me": {
             "included_at_epoch": 1588230107.0,
             "included_at_iso": "2020-04-30T07:01:47",
-            "last_retested_at_epoch": 1591673938.782688,
-            "last_retested_at_iso": "2020-06-09T03:38:58.782688",
+            "last_retested_at_epoch": 1591834098.54573,
+            "last_retested_at_iso": "2020-06-11T00:08:18.545730",
             "status": "INACTIVE"
         },
         "rpgratuit.com": {
@@ -22732,8 +22739,8 @@
         "seventin17.com": {
             "included_at_epoch": 1588481149.0,
             "included_at_iso": "2020-05-03T04:45:49",
-            "last_retested_at_epoch": 1591674380.319705,
-            "last_retested_at_iso": "2020-06-09T03:46:20.319705",
+            "last_retested_at_epoch": 1591834299.136057,
+            "last_retested_at_iso": "2020-06-11T00:11:39.136057",
             "status": "INACTIVE"
         },
         "sex-incest.ru": {
@@ -22760,8 +22767,8 @@
         "sharechronic.com": {
             "included_at_epoch": 1588272966.0,
             "included_at_iso": "2020-04-30T18:56:06",
-            "last_retested_at_epoch": 1591738166.897716,
-            "last_retested_at_iso": "2020-06-09T21:29:26.897716",
+            "last_retested_at_epoch": 1591834215.873283,
+            "last_retested_at_iso": "2020-06-11T00:10:15.873283",
             "status": "INACTIVE"
         },
         "sharedez.com": {
@@ -23236,8 +23243,8 @@
         "skinsbrain.com": {
             "included_at_epoch": 1589072781.942683,
             "included_at_iso": "2020-05-10T01:06:21.942683",
-            "last_retested_at_epoch": 1591727112.294764,
-            "last_retested_at_iso": "2020-06-09T18:25:12.294764",
+            "last_retested_at_epoch": 1591833750.916777,
+            "last_retested_at_iso": "2020-06-11T00:02:30.916777",
             "status": "INACTIVE"
         },
         "skinsbrave.com": {
@@ -23250,8 +23257,8 @@
         "skinsbrawl.com": {
             "included_at_epoch": 1588438914.0,
             "included_at_iso": "2020-05-02T17:01:54",
-            "last_retested_at_epoch": 1591721797.731539,
-            "last_retested_at_iso": "2020-06-09T16:56:37.731539",
+            "last_retested_at_epoch": 1591834035.429581,
+            "last_retested_at_iso": "2020-06-11T00:07:15.429581",
             "status": "INACTIVE"
         },
         "skinscage.com": {
@@ -23383,8 +23390,8 @@
         "skinsmade.com": {
             "included_at_epoch": 1588322920.0,
             "included_at_iso": "2020-05-01T08:48:40",
-            "last_retested_at_epoch": 1591712884.983319,
-            "last_retested_at_iso": "2020-06-09T14:28:04.983319",
+            "last_retested_at_epoch": 1591833929.294004,
+            "last_retested_at_iso": "2020-06-11T00:05:29.294004",
             "status": "INACTIVE"
         },
         "skinsmath.com": {
@@ -23677,8 +23684,8 @@
         "snowcases.net": {
             "included_at_epoch": 1588114183.0,
             "included_at_iso": "2020-04-28T22:49:43",
-            "last_retested_at_epoch": 1591727123.403615,
-            "last_retested_at_iso": "2020-06-09T18:25:23.403615",
+            "last_retested_at_epoch": 1591833937.832302,
+            "last_retested_at_iso": "2020-06-11T00:05:37.832302",
             "status": "INACTIVE"
         },
         "soccerstars-hack.net": {
@@ -23719,15 +23726,15 @@
         "socmedfollowers.com": {
             "included_at_epoch": 1588382791.0,
             "included_at_iso": "2020-05-02T01:26:31",
-            "last_retested_at_epoch": 1591743167.214879,
-            "last_retested_at_iso": "2020-06-09T22:52:47.214879",
+            "last_retested_at_epoch": 1591833848.823486,
+            "last_retested_at_iso": "2020-06-11T00:04:08.823486",
             "status": "INACTIVE"
         },
         "softedoo.com": {
             "included_at_epoch": 1588363765.0,
             "included_at_iso": "2020-05-01T20:09:25",
-            "last_retested_at_epoch": 1591743009.255756,
-            "last_retested_at_iso": "2020-06-09T22:50:09.255756",
+            "last_retested_at_epoch": 1591833653.815245,
+            "last_retested_at_iso": "2020-06-11T00:00:53.815245",
             "status": "INACTIVE"
         },
         "softwarecrackfree.com": {
@@ -23978,8 +23985,8 @@
         "spotygen.com": {
             "included_at_epoch": 1588414677.0,
             "included_at_iso": "2020-05-02T10:17:57",
-            "last_retested_at_epoch": 1591742497.348021,
-            "last_retested_at_iso": "2020-06-09T22:41:37.348021",
+            "last_retested_at_epoch": 1591834255.412801,
+            "last_retested_at_iso": "2020-06-11T00:10:55.412801",
             "status": "INACTIVE"
         },
         "srv5.movie1get.com": {
@@ -24321,8 +24328,8 @@
         "steamcoymmunity.com": {
             "included_at_epoch": 1588159760.0,
             "included_at_iso": "2020-04-29T11:29:20",
-            "last_retested_at_epoch": 1591732331.45737,
-            "last_retested_at_iso": "2020-06-09T19:52:11.457370",
+            "last_retested_at_epoch": 1591833442.361877,
+            "last_retested_at_iso": "2020-06-10T23:57:22.361877",
             "status": "INACTIVE"
         },
         "steamfreestore.ru": {
@@ -24545,8 +24552,8 @@
         "steomcannunily.com": {
             "included_at_epoch": 1588472102.0,
             "included_at_iso": "2020-05-03T02:15:02",
-            "last_retested_at_epoch": 1591742907.654914,
-            "last_retested_at_iso": "2020-06-09T22:48:27.654914",
+            "last_retested_at_epoch": 1591834232.832047,
+            "last_retested_at_iso": "2020-06-11T00:10:32.832047",
             "status": "INACTIVE"
         },
         "stickrunhack.com": {
@@ -24713,15 +24720,15 @@
         "superbowl2014.streams24.tv": {
             "included_at_epoch": 1588492170.0,
             "included_at_iso": "2020-05-03T07:49:30",
-            "last_retested_at_epoch": 1591722333.548669,
-            "last_retested_at_iso": "2020-06-09T17:05:33.548669",
+            "last_retested_at_epoch": 1591833944.955125,
+            "last_retested_at_iso": "2020-06-11T00:05:44.955125",
             "status": "INACTIVE"
         },
         "superfreehacks.com": {
             "included_at_epoch": 1588098952.0,
             "included_at_iso": "2020-04-28T18:35:52",
-            "last_retested_at_epoch": 1591743241.091303,
-            "last_retested_at_iso": "2020-06-09T22:54:01.091303",
+            "last_retested_at_epoch": 1591833586.633745,
+            "last_retested_at_iso": "2020-06-10T23:59:46.633745",
             "status": "INACTIVE"
         },
         "supernotessolution.com": {
@@ -24748,8 +24755,8 @@
         "support-apple-services.net": {
             "included_at_epoch": 1588313518.0,
             "included_at_iso": "2020-05-01T06:11:58",
-            "last_retested_at_epoch": 1591717669.826218,
-            "last_retested_at_iso": "2020-06-09T15:47:49.826218",
+            "last_retested_at_epoch": 1591833543.496356,
+            "last_retested_at_iso": "2020-06-10T23:59:03.496356",
             "status": "INACTIVE"
         },
         "surveybypassdirect.com": {
@@ -24916,8 +24923,8 @@
         "teamvoxinger.net": {
             "included_at_epoch": 1588054619.0,
             "included_at_iso": "2020-04-28T06:16:59",
-            "last_retested_at_epoch": 1591727722.484645,
-            "last_retested_at_iso": "2020-06-09T18:35:22.484645",
+            "last_retested_at_epoch": 1591833987.127054,
+            "last_retested_at_iso": "2020-06-11T00:06:27.127054",
             "status": "INACTIVE"
         },
         "technicalfault.tech": {
@@ -24993,8 +25000,8 @@
         "tescovouchersfree.com": {
             "included_at_epoch": 1588363482.0,
             "included_at_iso": "2020-05-01T20:04:42",
-            "last_retested_at_epoch": 1591727276.39283,
-            "last_retested_at_iso": "2020-06-09T18:27:56.392830",
+            "last_retested_at_epoch": 1591833540.528215,
+            "last_retested_at_iso": "2020-06-10T23:59:00.528215",
             "status": "INACTIVE"
         },
         "tesla-musk.eu": {
@@ -25091,8 +25098,8 @@
         "thebestpsncodegenerator.com": {
             "included_at_epoch": 1588457820.0,
             "included_at_iso": "2020-05-02T22:17:00",
-            "last_retested_at_epoch": 1591717804.264692,
-            "last_retested_at_iso": "2020-06-09T15:50:04.264692",
+            "last_retested_at_epoch": 1591833689.934542,
+            "last_retested_at_iso": "2020-06-11T00:01:29.934542",
             "status": "INACTIVE"
         },
         "theblackops2hack.com": {
@@ -25287,8 +25294,8 @@
         "thronerushhackonline.net": {
             "included_at_epoch": 1588409825.0,
             "included_at_iso": "2020-05-02T08:57:05",
-            "last_retested_at_epoch": 1591737380.838519,
-            "last_retested_at_iso": "2020-06-09T21:16:20.838519",
+            "last_retested_at_epoch": 1591834140.35115,
+            "last_retested_at_iso": "2020-06-11T00:09:00.351150",
             "status": "INACTIVE"
         },
         "thugskins.top": {
@@ -25574,8 +25581,8 @@
         "touslesjeuxpiraternouveau.fr": {
             "included_at_epoch": 1588283012.0,
             "included_at_iso": "2020-04-30T21:43:32",
-            "last_retested_at_epoch": 1591737642.450012,
-            "last_retested_at_iso": "2020-06-09T21:20:42.450012",
+            "last_retested_at_epoch": 1591833710.450592,
+            "last_retested_at_iso": "2020-06-11T00:01:50.450592",
             "status": "INACTIVE"
         },
         "tovermailtje.nl": {
@@ -26092,8 +26099,8 @@
         "ultra-hack.com": {
             "included_at_epoch": 1588240800.0,
             "included_at_iso": "2020-04-30T10:00:00",
-            "last_retested_at_epoch": 1591707854.137262,
-            "last_retested_at_iso": "2020-06-09T13:04:14.137262",
+            "last_retested_at_epoch": 1591834318.380691,
+            "last_retested_at_iso": "2020-06-11T00:11:58.380691",
             "status": "INACTIVE"
         },
         "ultrasn0wtool.com": {
@@ -26295,8 +26302,8 @@
         "uploadgreat.com": {
             "included_at_epoch": 1588161398.0,
             "included_at_iso": "2020-04-29T11:56:38",
-            "last_retested_at_epoch": 1591689233.814263,
-            "last_retested_at_iso": "2020-06-09T07:53:53.814263",
+            "last_retested_at_epoch": 1591834022.591519,
+            "last_retested_at_iso": "2020-06-11T00:07:02.591519",
             "status": "INACTIVE"
         },
         "uploadjunkies.com": {
@@ -26414,8 +26421,8 @@
         "v339419.com": {
             "included_at_epoch": 1588481480.0,
             "included_at_iso": "2020-05-03T04:51:20",
-            "last_retested_at_epoch": 1591658084.663102,
-            "last_retested_at_iso": "2020-06-08T23:14:44.663102",
+            "last_retested_at_epoch": 1591833468.980003,
+            "last_retested_at_iso": "2020-06-10T23:57:48.980003",
             "status": "INACTIVE"
         },
         "varefication.us": {
@@ -26428,8 +26435,8 @@
         "veasydownload.net": {
             "included_at_epoch": 1588061800.0,
             "included_at_iso": "2020-04-28T08:16:40",
-            "last_retested_at_epoch": 1591708478.506762,
-            "last_retested_at_iso": "2020-06-09T13:14:38.506762",
+            "last_retested_at_epoch": 1591833870.628037,
+            "last_retested_at_iso": "2020-06-11T00:04:30.628037",
             "status": "INACTIVE"
         },
         "verified-hacks.net": {
@@ -26477,8 +26484,8 @@
         "video-id.org": {
             "included_at_epoch": 1588272693.0,
             "included_at_iso": "2020-04-30T18:51:33",
-            "last_retested_at_epoch": 1591742702.251112,
-            "last_retested_at_iso": "2020-06-09T22:45:02.251112",
+            "last_retested_at_epoch": 1591833890.457774,
+            "last_retested_at_iso": "2020-06-11T00:04:50.457774",
             "status": "INACTIVE"
         },
         "video.get4games.com": {
@@ -26708,8 +26715,8 @@
         "wallhackblackops2.com": {
             "included_at_epoch": 1588358590.0,
             "included_at_iso": "2020-05-01T18:43:10",
-            "last_retested_at_epoch": 1591662590.802096,
-            "last_retested_at_iso": "2020-06-09T00:29:50.802096",
+            "last_retested_at_epoch": 1591834139.857074,
+            "last_retested_at_iso": "2020-06-11T00:08:59.857074",
             "status": "INACTIVE"
         },
         "wannacrydecryptor.com": {
@@ -26876,8 +26883,8 @@
         "wayofgambling.com": {
             "included_at_epoch": 1588414795.0,
             "included_at_iso": "2020-05-02T10:19:55",
-            "last_retested_at_epoch": 1591632756.280994,
-            "last_retested_at_iso": "2020-06-08T16:12:36.280994",
+            "last_retested_at_epoch": 1591833690.411613,
+            "last_retested_at_iso": "2020-06-11T00:01:30.411613",
             "status": "INACTIVE"
         },
         "webcamhackpro.com": {
@@ -27065,8 +27072,8 @@
         "wifi-password-finder.org": {
             "included_at_epoch": 1588174038.0,
             "included_at_iso": "2020-04-29T15:27:18",
-            "last_retested_at_epoch": 1591722342.226632,
-            "last_retested_at_iso": "2020-06-09T17:05:42.226632",
+            "last_retested_at_epoch": 1591833868.143054,
+            "last_retested_at_iso": "2020-06-11T00:04:28.143054",
             "status": "INACTIVE"
         },
         "wifihack.org": {
@@ -27422,8 +27429,8 @@
         "wsofreedownload.com": {
             "included_at_epoch": 1588453272.0,
             "included_at_iso": "2020-05-02T21:01:12",
-            "last_retested_at_epoch": 1591713123.88574,
-            "last_retested_at_iso": "2020-06-09T14:32:03.885740",
+            "last_retested_at_epoch": 1591833461.149427,
+            "last_retested_at_iso": "2020-06-10T23:57:41.149427",
             "status": "INACTIVE"
         },
         "wtfdrops.com": {
@@ -27660,8 +27667,8 @@
         "www.360emulator.com": {
             "included_at_epoch": 1588457855.0,
             "included_at_iso": "2020-05-02T22:17:35",
-            "last_retested_at_epoch": 1591713013.177967,
-            "last_retested_at_iso": "2020-06-09T14:30:13.177967",
+            "last_retested_at_epoch": 1591833780.925115,
+            "last_retested_at_iso": "2020-06-11T00:03:00.925115",
             "status": "INACTIVE"
         },
         "www.365giveaways.com": {
@@ -27849,8 +27856,8 @@
         "www.abscbn-news-online.info": {
             "included_at_epoch": 1588731159.788026,
             "included_at_iso": "2020-05-06T02:12:39.788026",
-            "last_retested_at_epoch": 1591742574.479103,
-            "last_retested_at_iso": "2020-06-09T22:42:54.479103",
+            "last_retested_at_epoch": 1591834210.853634,
+            "last_retested_at_iso": "2020-06-11T00:10:10.853634",
             "status": "INACTIVE"
         },
         "www.abscbnetoph.biz": {
@@ -28115,8 +28122,8 @@
         "www.allgamehacks.org": {
             "included_at_epoch": 1588318196.0,
             "included_at_iso": "2020-05-01T07:29:56",
-            "last_retested_at_epoch": 1591747442.239031,
-            "last_retested_at_iso": "2020-06-10T00:04:02.239031",
+            "last_retested_at_epoch": 1591833872.948261,
+            "last_retested_at_iso": "2020-06-11T00:04:32.948261",
             "status": "INACTIVE"
         },
         "www.allgameshack.com": {
@@ -28325,8 +28332,8 @@
         "www.androidapsgameshacks.com": {
             "included_at_epoch": 1588123067.0,
             "included_at_iso": "2020-04-29T01:17:47",
-            "last_retested_at_epoch": 1591632283.447632,
-            "last_retested_at_iso": "2020-06-08T16:04:43.447632",
+            "last_retested_at_epoch": 1591833501.916369,
+            "last_retested_at_iso": "2020-06-10T23:58:21.916369",
             "status": "INACTIVE"
         },
         "www.androidbests.com": {
@@ -28479,8 +28486,8 @@
         "www.app-hackss.com": {
             "included_at_epoch": 1588180201.0,
             "included_at_iso": "2020-04-29T17:10:01",
-            "last_retested_at_epoch": 1591732225.37815,
-            "last_retested_at_iso": "2020-06-09T19:50:25.378150",
+            "last_retested_at_epoch": 1591834063.91987,
+            "last_retested_at_iso": "2020-06-11T00:07:43.919870",
             "status": "INACTIVE"
         },
         "www.appbin.me": {
@@ -29144,8 +29151,8 @@
         "www.bdmako.ru": {
             "included_at_epoch": 1583095725.0,
             "included_at_iso": "2020-03-01T20:48:45",
-            "last_retested_at_epoch": 1591679212.304737,
-            "last_retested_at_iso": "2020-06-09T05:06:52.304737",
+            "last_retested_at_epoch": 1591834195.535979,
+            "last_retested_at_iso": "2020-06-11T00:09:55.535979",
             "status": "INACTIVE"
         },
         "www.beautyspaguide.com": {
@@ -29277,8 +29284,8 @@
         "www.bestappsforpc.com": {
             "included_at_epoch": 1588477304.0,
             "included_at_iso": "2020-05-03T03:41:44",
-            "last_retested_at_epoch": 1591737864.159462,
-            "last_retested_at_iso": "2020-06-09T21:24:24.159462",
+            "last_retested_at_epoch": 1591834204.862413,
+            "last_retested_at_iso": "2020-06-11T00:10:04.862413",
             "status": "INACTIVE"
         },
         "www.bestcase.pro": {
@@ -29347,8 +29354,8 @@
         "www.bestgameshack.info": {
             "included_at_epoch": 1588363476.0,
             "included_at_iso": "2020-05-01T20:04:36",
-            "last_retested_at_epoch": 1591721931.270787,
-            "last_retested_at_iso": "2020-06-09T16:58:51.270787",
+            "last_retested_at_epoch": 1591834208.119878,
+            "last_retested_at_iso": "2020-06-11T00:10:08.119878",
             "status": "INACTIVE"
         },
         "www.bestgametools.com": {
@@ -29368,8 +29375,8 @@
         "www.besthackgames.com": {
             "included_at_epoch": 1588093851.0,
             "included_at_iso": "2020-04-28T17:10:51",
-            "last_retested_at_epoch": 1591708304.606516,
-            "last_retested_at_iso": "2020-06-09T13:11:44.606516",
+            "last_retested_at_epoch": 1591833624.30878,
+            "last_retested_at_iso": "2020-06-11T00:00:24.308780",
             "status": "INACTIVE"
         },
         "www.besthackingsoftwares.com": {
@@ -29480,8 +29487,8 @@
         "www.beta-darksoulsii.us": {
             "included_at_epoch": 1588488584.0,
             "included_at_iso": "2020-05-03T06:49:44",
-            "last_retested_at_epoch": 1591738126.968676,
-            "last_retested_at_iso": "2020-06-09T21:28:46.968676",
+            "last_retested_at_epoch": 1591833775.347177,
+            "last_retested_at_iso": "2020-06-11T00:02:55.347177",
             "status": "INACTIVE"
         },
         "www.beta-gamers.com": {
@@ -29606,8 +29613,8 @@
         "www.biggyupload.com": {
             "included_at_epoch": 1588336683.0,
             "included_at_iso": "2020-05-01T12:38:03",
-            "last_retested_at_epoch": 1591688957.648379,
-            "last_retested_at_iso": "2020-06-09T07:49:17.648379",
+            "last_retested_at_epoch": 1591833764.642354,
+            "last_retested_at_iso": "2020-06-11T00:02:44.642354",
             "status": "INACTIVE"
         },
         "www.bigrxdiscountmedstore.com": {
@@ -29816,8 +29823,8 @@
         "www.blackops2steam.com": {
             "included_at_epoch": 1588373062.0,
             "included_at_iso": "2020-05-01T22:44:22",
-            "last_retested_at_epoch": 1591657983.511132,
-            "last_retested_at_iso": "2020-06-08T23:13:03.511132",
+            "last_retested_at_epoch": 1591833477.433037,
+            "last_retested_at_iso": "2020-06-10T23:57:57.433037",
             "status": "INACTIVE"
         },
         "www.blackopsprestigehack.com": {
@@ -30026,8 +30033,8 @@
         "www.boombeachhackz.com": {
             "included_at_epoch": 1588393736.0,
             "included_at_iso": "2020-05-02T04:28:56",
-            "last_retested_at_epoch": 1591612026.330332,
-            "last_retested_at_iso": "2020-06-08T10:27:06.330332",
+            "last_retested_at_epoch": 1591833471.532412,
+            "last_retested_at_iso": "2020-06-10T23:57:51.532412",
             "status": "INACTIVE"
         },
         "www.boombeachunlimited.com": {
@@ -30138,8 +30145,8 @@
         "www.brazzers-hack.com": {
             "included_at_epoch": 1588178337.0,
             "included_at_iso": "2020-04-29T16:38:57",
-            "last_retested_at_epoch": 1591703256.078789,
-            "last_retested_at_iso": "2020-06-09T11:47:36.078789",
+            "last_retested_at_epoch": 1591833539.10155,
+            "last_retested_at_iso": "2020-06-10T23:58:59.101550",
             "status": "INACTIVE"
         },
         "www.brazzersfreeaccount.net": {
@@ -30271,8 +30278,8 @@
         "www.caaarss.us": {
             "included_at_epoch": 1588161076.0,
             "included_at_iso": "2020-04-29T11:51:16",
-            "last_retested_at_epoch": 1591693305.017528,
-            "last_retested_at_iso": "2020-06-09T09:01:45.017528",
+            "last_retested_at_epoch": 1591834003.429734,
+            "last_retested_at_iso": "2020-06-11T00:06:43.429734",
             "status": "INACTIVE"
         },
         "www.cadeaux-psn.com": {
@@ -30383,8 +30390,8 @@
         "www.candycrush-hack.com": {
             "included_at_epoch": 1588382458.0,
             "included_at_iso": "2020-05-02T01:20:58",
-            "last_retested_at_epoch": 1591738174.346727,
-            "last_retested_at_iso": "2020-06-09T21:29:34.346727",
+            "last_retested_at_epoch": 1591833451.154462,
+            "last_retested_at_iso": "2020-06-10T23:57:31.154462",
             "status": "INACTIVE"
         },
         "www.candycrushcandies.com": {
@@ -31370,8 +31377,8 @@
         "www.chronicmirror.com": {
             "included_at_epoch": 1588304536.0,
             "included_at_iso": "2020-05-01T03:42:16",
-            "last_retested_at_epoch": 1591694018.228094,
-            "last_retested_at_iso": "2020-06-09T09:13:38.228094",
+            "last_retested_at_epoch": 1591834188.713816,
+            "last_retested_at_iso": "2020-06-11T00:09:48.713816",
             "status": "INACTIVE"
         },
         "www.chroniczip.com": {
@@ -31594,8 +31601,8 @@
         "www.clashofclanshack.io": {
             "included_at_epoch": 1588414863.0,
             "included_at_iso": "2020-05-02T10:21:03",
-            "last_retested_at_epoch": 1591737972.633012,
-            "last_retested_at_iso": "2020-06-09T21:26:12.633012",
+            "last_retested_at_epoch": 1591834001.307443,
+            "last_retested_at_iso": "2020-06-11T00:06:41.307443",
             "status": "INACTIVE"
         },
         "www.clashofclanshack.me": {
@@ -31832,8 +31839,8 @@
         "www.clubpenguingenerator.com": {
             "included_at_epoch": 1588409827.0,
             "included_at_iso": "2020-05-02T08:57:07",
-            "last_retested_at_epoch": 1591721894.658333,
-            "last_retested_at_iso": "2020-06-09T16:58:14.658333",
+            "last_retested_at_epoch": 1591834272.204539,
+            "last_retested_at_iso": "2020-06-11T00:11:12.204539",
             "status": "INACTIVE"
         },
         "www.clubproposte.it": {
@@ -31972,8 +31979,8 @@
         "www.codegenerators.net": {
             "included_at_epoch": 1588414588.0,
             "included_at_iso": "2020-05-02T10:16:28",
-            "last_retested_at_epoch": 1591707670.588435,
-            "last_retested_at_iso": "2020-06-09T13:01:10.588435",
+            "last_retested_at_epoch": 1591833914.770952,
+            "last_retested_at_iso": "2020-06-11T00:05:14.770952",
             "status": "INACTIVE"
         },
         "www.codegratuit.net": {
@@ -32462,8 +32469,8 @@
         "www.crackfifa13.com": {
             "included_at_epoch": 1588393246.0,
             "included_at_iso": "2020-05-02T04:20:46",
-            "last_retested_at_epoch": 1591693605.261845,
-            "last_retested_at_iso": "2020-06-09T09:06:45.261845",
+            "last_retested_at_epoch": 1591834156.973938,
+            "last_retested_at_iso": "2020-06-11T00:09:16.973938",
             "status": "INACTIVE"
         },
         "www.crackhackcheats.com": {
@@ -32532,8 +32539,8 @@
         "www.cracksplay.com": {
             "included_at_epoch": 1588485389.0,
             "included_at_iso": "2020-05-03T05:56:29",
-            "last_retested_at_epoch": 1591647415.261786,
-            "last_retested_at_iso": "2020-06-08T20:16:55.261786",
+            "last_retested_at_epoch": 1591833865.839671,
+            "last_retested_at_iso": "2020-06-11T00:04:25.839671",
             "status": "INACTIVE"
         },
         "www.crackssite.com": {
@@ -32553,8 +32560,8 @@
         "www.crackyourworld.com": {
             "included_at_epoch": 1588190995.0,
             "included_at_iso": "2020-04-29T20:09:55",
-            "last_retested_at_epoch": 1591738001.399785,
-            "last_retested_at_iso": "2020-06-09T21:26:41.399785",
+            "last_retested_at_epoch": 1591834264.138692,
+            "last_retested_at_iso": "2020-06-11T00:11:04.138692",
             "status": "INACTIVE"
         },
         "www.crackyteam.com": {
@@ -33239,8 +33246,8 @@
         "www.csgobulls.com": {
             "included_at_epoch": 1588143796.0,
             "included_at_iso": "2020-04-29T07:03:16",
-            "last_retested_at_epoch": 1591742780.450387,
-            "last_retested_at_iso": "2020-06-09T22:46:20.450387",
+            "last_retested_at_epoch": 1591833618.988516,
+            "last_retested_at_iso": "2020-06-11T00:00:18.988516",
             "status": "INACTIVE"
         },
         "www.csgobuster.com": {
@@ -33358,8 +33365,8 @@
         "www.csgodino.net": {
             "included_at_epoch": 1588434358.0,
             "included_at_iso": "2020-05-02T15:45:58",
-            "last_retested_at_epoch": 1591727147.570414,
-            "last_retested_at_iso": "2020-06-09T18:25:47.570414",
+            "last_retested_at_epoch": 1591833495.331474,
+            "last_retested_at_iso": "2020-06-10T23:58:15.331474",
             "status": "INACTIVE"
         },
         "www.csgodmarket.com": {
@@ -33470,8 +33477,8 @@
         "www.csgofastmoney.com": {
             "included_at_epoch": 1588358761.0,
             "included_at_iso": "2020-05-01T18:46:01",
-            "last_retested_at_epoch": 1591638229.723322,
-            "last_retested_at_iso": "2020-06-08T17:43:49.723322",
+            "last_retested_at_epoch": 1591834097.563322,
+            "last_retested_at_iso": "2020-06-11T00:08:17.563322",
             "status": "INACTIVE"
         },
         "www.csgofastrade.com": {
@@ -33519,8 +33526,8 @@
         "www.csgoflame.online": {
             "included_at_epoch": 1588260900.0,
             "included_at_iso": "2020-04-30T15:35:00",
-            "last_retested_at_epoch": 1591732324.965811,
-            "last_retested_at_iso": "2020-06-09T19:52:04.965811",
+            "last_retested_at_epoch": 1591834234.22291,
+            "last_retested_at_iso": "2020-06-11T00:10:34.222910",
             "status": "INACTIVE"
         },
         "www.csgoflaming.com": {
@@ -33561,8 +33568,8 @@
         "www.csgofoster.com": {
             "included_at_epoch": 1588154232.0,
             "included_at_iso": "2020-04-29T09:57:12",
-            "last_retested_at_epoch": 1591698276.728486,
-            "last_retested_at_iso": "2020-06-09T10:24:36.728486",
+            "last_retested_at_epoch": 1591833970.912556,
+            "last_retested_at_iso": "2020-06-11T00:06:10.912556",
             "status": "INACTIVE"
         },
         "www.csgofrozl.com": {
@@ -33631,8 +33638,8 @@
         "www.csgogorila.com": {
             "included_at_epoch": 1588372830.0,
             "included_at_iso": "2020-05-01T22:40:30",
-            "last_retested_at_epoch": 1591722201.386975,
-            "last_retested_at_iso": "2020-06-09T17:03:21.386975",
+            "last_retested_at_epoch": 1591833671.043839,
+            "last_retested_at_iso": "2020-06-11T00:01:11.043839",
             "status": "INACTIVE"
         },
         "www.csgograys.com": {
@@ -33771,8 +33778,8 @@
         "www.csgoiunge.com": {
             "included_at_epoch": 1588363299.0,
             "included_at_iso": "2020-05-01T20:01:39",
-            "last_retested_at_epoch": 1591737346.965943,
-            "last_retested_at_iso": "2020-06-09T21:15:46.965943",
+            "last_retested_at_epoch": 1591833564.560285,
+            "last_retested_at_iso": "2020-06-10T23:59:24.560285",
             "status": "INACTIVE"
         },
         "www.csgojack.net": {
@@ -33904,8 +33911,8 @@
         "www.csgolevar.com": {
             "included_at_epoch": 1588419016.0,
             "included_at_iso": "2020-05-02T11:30:16",
-            "last_retested_at_epoch": 1591742605.12601,
-            "last_retested_at_iso": "2020-06-09T22:43:25.126010",
+            "last_retested_at_epoch": 1591833896.945,
+            "last_retested_at_iso": "2020-06-11T00:04:56.945000",
             "status": "INACTIVE"
         },
         "www.csgolightspot.com": {
@@ -33967,8 +33974,8 @@
         "www.csgoluxe.top": {
             "included_at_epoch": 1588443459.0,
             "included_at_iso": "2020-05-02T18:17:39",
-            "last_retested_at_epoch": 1591732126.671996,
-            "last_retested_at_iso": "2020-06-09T19:48:46.671996",
+            "last_retested_at_epoch": 1591833774.983909,
+            "last_retested_at_iso": "2020-06-11T00:02:54.983909",
             "status": "INACTIVE"
         },
         "www.csgolympia.com": {
@@ -34086,8 +34093,8 @@
         "www.csgooneitems.com": {
             "included_at_epoch": 1588363591.0,
             "included_at_iso": "2020-05-01T20:06:31",
-            "last_retested_at_epoch": 1591703468.711613,
-            "last_retested_at_iso": "2020-06-09T11:51:08.711613",
+            "last_retested_at_epoch": 1591833538.71092,
+            "last_retested_at_iso": "2020-06-10T23:58:58.710920",
             "status": "INACTIVE"
         },
         "www.csgopattern.info": {
@@ -34135,15 +34142,15 @@
         "www.csgopour.com": {
             "included_at_epoch": 1588388281.0,
             "included_at_iso": "2020-05-02T02:58:01",
-            "last_retested_at_epoch": 1591742886.592223,
-            "last_retested_at_iso": "2020-06-09T22:48:06.592223",
+            "last_retested_at_epoch": 1591834234.941437,
+            "last_retested_at_iso": "2020-06-11T00:10:34.941437",
             "status": "INACTIVE"
         },
         "www.csgoproskins.com": {
             "included_at_epoch": 1588041987.0,
             "included_at_iso": "2020-04-28T02:46:27",
-            "last_retested_at_epoch": 1591737777.724685,
-            "last_retested_at_iso": "2020-06-09T21:22:57.724685",
+            "last_retested_at_epoch": 1591834270.741247,
+            "last_retested_at_iso": "2020-06-11T00:11:10.741247",
             "status": "INACTIVE"
         },
         "www.csgopump.com": {
@@ -34408,8 +34415,8 @@
         "www.csgoswaps.top": {
             "included_at_epoch": 1588448187.0,
             "included_at_iso": "2020-05-02T19:36:27",
-            "last_retested_at_epoch": 1591717440.41263,
-            "last_retested_at_iso": "2020-06-09T15:44:00.412630",
+            "last_retested_at_epoch": 1591833598.271011,
+            "last_retested_at_iso": "2020-06-10T23:59:58.271011",
             "status": "INACTIVE"
         },
         "www.csgosxe.com": {
@@ -34471,8 +34478,8 @@
         "www.csgotrade.co": {
             "included_at_epoch": 1588336792.0,
             "included_at_iso": "2020-05-01T12:39:52",
-            "last_retested_at_epoch": 1591648029.416255,
-            "last_retested_at_iso": "2020-06-08T20:27:09.416255",
+            "last_retested_at_epoch": 1591833777.042294,
+            "last_retested_at_iso": "2020-06-11T00:02:57.042294",
             "status": "INACTIVE"
         },
         "www.csgotradearea.com": {
@@ -34499,8 +34506,8 @@
         "www.csgottr.com": {
             "included_at_epoch": 1588180338.0,
             "included_at_iso": "2020-04-29T17:12:18",
-            "last_retested_at_epoch": 1591721813.231397,
-            "last_retested_at_iso": "2020-06-09T16:56:53.231397",
+            "last_retested_at_epoch": 1591834121.848323,
+            "last_retested_at_iso": "2020-06-11T00:08:41.848323",
             "status": "INACTIVE"
         },
         "www.csgotunes.com": {
@@ -34520,8 +34527,8 @@
         "www.csgoultras.com": {
             "included_at_epoch": 1588434159.0,
             "included_at_iso": "2020-05-02T15:42:39",
-            "last_retested_at_epoch": 1591712448.591305,
-            "last_retested_at_iso": "2020-06-09T14:20:48.591305",
+            "last_retested_at_epoch": 1591833915.91202,
+            "last_retested_at_iso": "2020-06-11T00:05:15.912020",
             "status": "INACTIVE"
         },
         "www.csgouno.com": {
@@ -35171,8 +35178,8 @@
         "www.dayzstandalonebeta.com": {
             "included_at_epoch": 1588358697.0,
             "included_at_iso": "2020-05-01T18:44:57",
-            "last_retested_at_epoch": 1591698880.438577,
-            "last_retested_at_iso": "2020-06-09T10:34:40.438577",
+            "last_retested_at_epoch": 1591833657.990308,
+            "last_retested_at_iso": "2020-06-11T00:00:57.990308",
             "status": "INACTIVE"
         },
         "www.ddns.info": {
@@ -35234,8 +35241,8 @@
         "www.demongenerator.com": {
             "included_at_epoch": 1588453217.0,
             "included_at_iso": "2020-05-02T21:00:17",
-            "last_retested_at_epoch": 1591743046.556964,
-            "last_retested_at_iso": "2020-06-09T22:50:46.556964",
+            "last_retested_at_epoch": 1591833505.93848,
+            "last_retested_at_iso": "2020-06-10T23:58:25.938480",
             "status": "INACTIVE"
         },
         "www.demonstreet.net": {
@@ -35283,8 +35290,8 @@
         "www.descargasytrucos.eu": {
             "included_at_epoch": 1588414981.0,
             "included_at_iso": "2020-05-02T10:23:01",
-            "last_retested_at_epoch": 1591742482.371301,
-            "last_retested_at_iso": "2020-06-09T22:41:22.371301",
+            "last_retested_at_epoch": 1591833959.517628,
+            "last_retested_at_iso": "2020-06-11T00:05:59.517628",
             "status": "INACTIVE"
         },
         "www.descontosloucos.com": {
@@ -35486,8 +35493,8 @@
         "www.dlupload.com": {
             "included_at_epoch": 1588415040.0,
             "included_at_iso": "2020-05-02T10:24:00",
-            "last_retested_at_epoch": 1591727021.810677,
-            "last_retested_at_iso": "2020-06-09T18:23:41.810677",
+            "last_retested_at_epoch": 1591834065.160093,
+            "last_retested_at_iso": "2020-06-11T00:07:45.160093",
             "status": "INACTIVE"
         },
         "www.dnjss.com": {
@@ -35787,8 +35794,8 @@
         "www.download-free-ebooks.in": {
             "included_at_epoch": 1588452960.0,
             "included_at_iso": "2020-05-02T20:56:00",
-            "last_retested_at_epoch": 1591742379.553234,
-            "last_retested_at_iso": "2020-06-09T22:39:39.553234",
+            "last_retested_at_epoch": 1591834178.979249,
+            "last_retested_at_iso": "2020-06-11T00:09:38.979249",
             "status": "INACTIVE"
         },
         "www.download-free-hack.com": {
@@ -36067,8 +36074,8 @@
         "www.dragoncity-hack.org": {
             "included_at_epoch": 1588377248.0,
             "included_at_iso": "2020-05-01T23:54:08",
-            "last_retested_at_epoch": 1591708278.602798,
-            "last_retested_at_iso": "2020-06-09T13:11:18.602798",
+            "last_retested_at_epoch": 1591834123.313983,
+            "last_retested_at_iso": "2020-06-11T00:08:43.313983",
             "status": "INACTIVE"
         },
         "www.dragoncitycheat.biz": {
@@ -36151,8 +36158,8 @@
         "www.dragoncityhackstool.net": {
             "included_at_epoch": 1588327295.0,
             "included_at_iso": "2020-05-01T10:01:35",
-            "last_retested_at_epoch": 1591683718.268867,
-            "last_retested_at_iso": "2020-06-09T06:21:58.268867",
+            "last_retested_at_epoch": 1591833873.530072,
+            "last_retested_at_iso": "2020-06-11T00:04:33.530072",
             "status": "INACTIVE"
         },
         "www.dragoncityhacktool.net": {
@@ -36333,8 +36340,8 @@
         "www.duteja.ru": {
             "included_at_epoch": 1588439125.0,
             "included_at_iso": "2020-05-02T17:05:25",
-            "last_retested_at_epoch": 1591684105.720405,
-            "last_retested_at_iso": "2020-06-09T06:28:25.720405",
+            "last_retested_at_epoch": 1591834274.846135,
+            "last_retested_at_iso": "2020-06-11T00:11:14.846135",
             "status": "INACTIVE"
         },
         "www.duvuku.ru": {
@@ -36389,8 +36396,8 @@
         "www.e-currencyhacks.com": {
             "included_at_epoch": 1588354999.0,
             "included_at_iso": "2020-05-01T17:43:19",
-            "last_retested_at_epoch": 1591742458.957616,
-            "last_retested_at_iso": "2020-06-09T22:40:58.957616",
+            "last_retested_at_epoch": 1591833556.483809,
+            "last_retested_at_iso": "2020-06-10T23:59:16.483809",
             "status": "INACTIVE"
         },
         "www.e-filesroom.com": {
@@ -37026,15 +37033,15 @@
         "www.epicproductgiveaway.com": {
             "included_at_epoch": 1588458085.0,
             "included_at_iso": "2020-05-02T22:21:25",
-            "last_retested_at_epoch": 1591683807.336896,
-            "last_retested_at_iso": "2020-06-09T06:23:27.336896",
+            "last_retested_at_epoch": 1591833889.391915,
+            "last_retested_at_iso": "2020-06-11T00:04:49.391915",
             "status": "INACTIVE"
         },
         "www.eplayleauge.com": {
             "included_at_epoch": 1588188672.0,
             "included_at_iso": "2020-04-29T19:31:12",
-            "last_retested_at_epoch": 1591737768.774221,
-            "last_retested_at_iso": "2020-06-09T21:22:48.774221",
+            "last_retested_at_epoch": 1591833967.190572,
+            "last_retested_at_iso": "2020-06-11T00:06:07.190572",
             "status": "INACTIVE"
         },
         "www.equsi0n.com": {
@@ -37103,8 +37110,8 @@
         "www.esl-tournament.net": {
             "included_at_epoch": 1588462776.0,
             "included_at_iso": "2020-05-02T23:39:36",
-            "last_retested_at_epoch": 1591632407.689762,
-            "last_retested_at_iso": "2020-06-08T16:06:47.689762",
+            "last_retested_at_epoch": 1591833844.651605,
+            "last_retested_at_iso": "2020-06-11T00:04:04.651605",
             "status": "INACTIVE"
         },
         "www.esl-tournaments.com": {
@@ -37201,8 +37208,8 @@
         "www.evad3rsteam.com": {
             "included_at_epoch": 1588129860.0,
             "included_at_iso": "2020-04-29T03:11:00",
-            "last_retested_at_epoch": 1591658103.830431,
-            "last_retested_at_iso": "2020-06-08T23:15:03.830431",
+            "last_retested_at_epoch": 1591834266.050448,
+            "last_retested_at_iso": "2020-06-11T00:11:06.050448",
             "status": "INACTIVE"
         },
         "www.evasi0n-download.com": {
@@ -37257,8 +37264,8 @@
         "www.eve-online-credit.net": {
             "included_at_epoch": 1588405622.0,
             "included_at_iso": "2020-05-02T07:47:02",
-            "last_retested_at_epoch": 1591668172.619365,
-            "last_retested_at_iso": "2020-06-09T02:02:52.619365",
+            "last_retested_at_epoch": 1591834049.28637,
+            "last_retested_at_iso": "2020-06-11T00:07:29.286370",
             "status": "INACTIVE"
         },
         "www.evenfunny.com": {
@@ -37376,8 +37383,8 @@
         "www.exforgames.net": {
             "included_at_epoch": 1588373225.0,
             "included_at_iso": "2020-05-01T22:47:05",
-            "last_retested_at_epoch": 1591703381.686609,
-            "last_retested_at_iso": "2020-06-09T11:49:41.686609",
+            "last_retested_at_epoch": 1591833778.416707,
+            "last_retested_at_iso": "2020-06-11T00:02:58.416707",
             "status": "INACTIVE"
         },
         "www.exgrafix.com": {
@@ -37425,8 +37432,8 @@
         "www.exodus-web.ws": {
             "included_at_epoch": 1588414761.0,
             "included_at_iso": "2020-05-02T10:19:21",
-            "last_retested_at_epoch": 1591731984.453194,
-            "last_retested_at_iso": "2020-06-09T19:46:24.453194",
+            "last_retested_at_epoch": 1591834260.469848,
+            "last_retested_at_iso": "2020-06-11T00:11:00.469848",
             "status": "INACTIVE"
         },
         "www.exodus.cash": {
@@ -37572,8 +37579,8 @@
         "www.ezhackfacebook.com": {
             "included_at_epoch": 1588472254.0,
             "included_at_iso": "2020-05-03T02:17:34",
-            "last_retested_at_epoch": 1591662717.604447,
-            "last_retested_at_iso": "2020-06-09T00:31:57.604447",
+            "last_retested_at_epoch": 1591833634.231329,
+            "last_retested_at_iso": "2020-06-11T00:00:34.231329",
             "status": "INACTIVE"
         },
         "www.ezhotdownload.com": {
@@ -37586,8 +37593,8 @@
         "www.ezloaded.com": {
             "included_at_epoch": 1588405166.0,
             "included_at_iso": "2020-05-02T07:39:26",
-            "last_retested_at_epoch": 1591708458.516587,
-            "last_retested_at_iso": "2020-06-09T13:14:18.516587",
+            "last_retested_at_epoch": 1591834096.989239,
+            "last_retested_at_iso": "2020-06-11T00:08:16.989239",
             "status": "INACTIVE"
         },
         "www.ezskins.trade": {
@@ -37698,8 +37705,8 @@
         "www.facebookgamehacks.net": {
             "included_at_epoch": 1588477149.0,
             "included_at_iso": "2020-05-03T03:39:09",
-            "last_retested_at_epoch": 1591731814.221835,
-            "last_retested_at_iso": "2020-06-09T19:43:34.221835",
+            "last_retested_at_epoch": 1591834077.393173,
+            "last_retested_at_iso": "2020-06-11T00:07:57.393173",
             "status": "INACTIVE"
         },
         "www.facebookgameshacks.com": {
@@ -37719,8 +37726,8 @@
         "www.facebookhack.pl": {
             "included_at_epoch": 1588434419.0,
             "included_at_iso": "2020-05-02T15:46:59",
-            "last_retested_at_epoch": 1591693387.813649,
-            "last_retested_at_iso": "2020-06-09T09:03:07.813649",
+            "last_retested_at_epoch": 1591833946.977012,
+            "last_retested_at_iso": "2020-06-11T00:05:46.977012",
             "status": "INACTIVE"
         },
         "www.facebookhackbase.com": {
@@ -37740,8 +37747,8 @@
         "www.facebookhacker2013.org": {
             "included_at_epoch": 1588418972.0,
             "included_at_iso": "2020-05-02T11:29:32",
-            "last_retested_at_epoch": 1591679198.240698,
-            "last_retested_at_iso": "2020-06-09T05:06:38.240698",
+            "last_retested_at_epoch": 1591834319.327862,
+            "last_retested_at_iso": "2020-06-11T00:11:59.327862",
             "status": "INACTIVE"
         },
         "www.facebookhackerpro2013.com": {
@@ -37929,8 +37936,8 @@
         "www.fandom-case.com": {
             "included_at_epoch": 1588317838.0,
             "included_at_iso": "2020-05-01T07:23:58",
-            "last_retested_at_epoch": 1591747823.272111,
-            "last_retested_at_iso": "2020-06-10T00:10:23.272111",
+            "last_retested_at_epoch": 1591834318.893015,
+            "last_retested_at_iso": "2020-06-11T00:11:58.893015",
             "status": "INACTIVE"
         },
         "www.fandomcase.com": {
@@ -37950,8 +37957,8 @@
         "www.fantasy-hacks.com": {
             "included_at_epoch": 1587951835.0,
             "included_at_iso": "2020-04-27T01:43:55",
-            "last_retested_at_epoch": 1591732014.440595,
-            "last_retested_at_iso": "2020-06-09T19:46:54.440595",
+            "last_retested_at_epoch": 1591833599.994765,
+            "last_retested_at_iso": "2020-06-10T23:59:59.994765",
             "status": "INACTIVE"
         },
         "www.farmville2generator.com": {
@@ -38370,8 +38377,8 @@
         "www.fbpasswordshack.com": {
             "included_at_epoch": 1588240287.0,
             "included_at_iso": "2020-04-30T09:51:27",
-            "last_retested_at_epoch": 1591742952.614702,
-            "last_retested_at_iso": "2020-06-09T22:49:12.614702",
+            "last_retested_at_epoch": 1591833895.719364,
+            "last_retested_at_iso": "2020-06-11T00:04:55.719364",
             "status": "INACTIVE"
         },
         "www.fbpirateruncompte.com": {
@@ -38489,8 +38496,8 @@
         "www.fifa13pointsfree.com": {
             "included_at_epoch": 1588359129.0,
             "included_at_iso": "2020-05-01T18:52:09",
-            "last_retested_at_epoch": 1591742651.548718,
-            "last_retested_at_iso": "2020-06-09T22:44:11.548718",
+            "last_retested_at_epoch": 1591833865.36418,
+            "last_retested_at_iso": "2020-06-11T00:04:25.364180",
             "status": "INACTIVE"
         },
         "www.fifa13ultimateteamfreecoins.com": {
@@ -38776,8 +38783,8 @@
         "www.filegoodie.com": {
             "included_at_epoch": 1588373362.0,
             "included_at_iso": "2020-05-01T22:49:22",
-            "last_retested_at_epoch": 1591662382.611817,
-            "last_retested_at_iso": "2020-06-09T00:26:22.611817",
+            "last_retested_at_epoch": 1591833656.945881,
+            "last_retested_at_iso": "2020-06-11T00:00:56.945881",
             "status": "INACTIVE"
         },
         "www.fileharmony.com": {
@@ -39357,8 +39364,8 @@
         "www.flexdrop.fun": {
             "included_at_epoch": 1588476948.0,
             "included_at_iso": "2020-05-03T03:35:48",
-            "last_retested_at_epoch": 1591727145.80389,
-            "last_retested_at_iso": "2020-06-09T18:25:45.803890",
+            "last_retested_at_epoch": 1591833994.301968,
+            "last_retested_at_iso": "2020-06-11T00:06:34.301968",
             "status": "INACTIVE"
         },
         "www.flexdrops.fun": {
@@ -39413,8 +39420,8 @@
         "www.fm2013cdkey.com": {
             "included_at_epoch": 1588373339.0,
             "included_at_iso": "2020-05-01T22:48:59",
-            "last_retested_at_epoch": 1591612287.764138,
-            "last_retested_at_iso": "2020-06-08T10:31:27.764138",
+            "last_retested_at_epoch": 1591834082.317776,
+            "last_retested_at_iso": "2020-06-11T00:08:02.317776",
             "status": "INACTIVE"
         },
         "www.fnbeta.app": {
@@ -39448,8 +39455,8 @@
         "www.footballgamespot.com": {
             "included_at_epoch": 1588377628.0,
             "included_at_iso": "2020-05-02T00:00:28",
-            "last_retested_at_epoch": 1591702921.940093,
-            "last_retested_at_iso": "2020-06-09T11:42:01.940093",
+            "last_retested_at_epoch": 1591834006.69259,
+            "last_retested_at_iso": "2020-06-11T00:06:46.692590",
             "status": "INACTIVE"
         },
         "www.forceopminecraft.com": {
@@ -39665,8 +39672,8 @@
         "www.free-gaiaonline.com": {
             "included_at_epoch": 1588373136.0,
             "included_at_iso": "2020-05-01T22:45:36",
-            "last_retested_at_epoch": 1591738056.124392,
-            "last_retested_at_iso": "2020-06-09T21:27:36.124392",
+            "last_retested_at_epoch": 1591833622.794839,
+            "last_retested_at_iso": "2020-06-11T00:00:22.794839",
             "status": "INACTIVE"
         },
         "www.free-gc.com": {
@@ -39679,8 +39686,8 @@
         "www.free-hacks.info": {
             "included_at_epoch": 1588458185.0,
             "included_at_iso": "2020-05-02T22:23:05",
-            "last_retested_at_epoch": 1591732180.898743,
-            "last_retested_at_iso": "2020-06-09T19:49:40.898743",
+            "last_retested_at_epoch": 1591834321.548269,
+            "last_retested_at_iso": "2020-06-11T00:12:01.548269",
             "status": "INACTIVE"
         },
         "www.free-hacks1.com": {
@@ -39700,8 +39707,8 @@
         "www.free-hacks24.com": {
             "included_at_epoch": 1588439103.0,
             "included_at_iso": "2020-05-02T17:05:03",
-            "last_retested_at_epoch": 1591717223.705626,
-            "last_retested_at_iso": "2020-06-09T15:40:23.705626",
+            "last_retested_at_epoch": 1591833658.884046,
+            "last_retested_at_iso": "2020-06-11T00:00:58.884046",
             "status": "INACTIVE"
         },
         "www.free-hacks4u.com": {
@@ -40141,8 +40148,8 @@
         "www.freefacecredits.com": {
             "included_at_epoch": 1588448170.0,
             "included_at_iso": "2020-05-02T19:36:10",
-            "last_retested_at_epoch": 1591737994.963705,
-            "last_retested_at_iso": "2020-06-09T21:26:34.963705",
+            "last_retested_at_epoch": 1591833850.642129,
+            "last_retested_at_iso": "2020-06-11T00:04:10.642129",
             "status": "INACTIVE"
         },
         "www.freefantagemembership.com": {
@@ -40183,15 +40190,15 @@
         "www.freefifacoinandpoints.com": {
             "included_at_epoch": 1588098710.0,
             "included_at_iso": "2020-04-28T18:31:50",
-            "last_retested_at_epoch": 1591742375.803868,
-            "last_retested_at_iso": "2020-06-09T22:39:35.803868",
+            "last_retested_at_epoch": 1591833476.985549,
+            "last_retested_at_iso": "2020-06-10T23:57:56.985549",
             "status": "INACTIVE"
         },
         "www.freefileus.com": {
             "included_at_epoch": 1588238596.0,
             "included_at_iso": "2020-04-30T09:23:16",
-            "last_retested_at_epoch": 1591737570.464074,
-            "last_retested_at_iso": "2020-06-09T21:19:30.464074",
+            "last_retested_at_epoch": 1591833744.685289,
+            "last_retested_at_iso": "2020-06-11T00:02:24.685289",
             "status": "INACTIVE"
         },
         "www.freeflappybirdhacks.com": {
@@ -40344,8 +40351,8 @@
         "www.freehackz.com": {
             "included_at_epoch": 1590438455.386356,
             "included_at_iso": "2020-05-25T20:27:35.386356",
-            "last_retested_at_epoch": 1591727353.038598,
-            "last_retested_at_iso": "2020-06-09T18:29:13.038598",
+            "last_retested_at_epoch": 1591834080.807453,
+            "last_retested_at_iso": "2020-06-11T00:08:00.807453",
             "status": "INACTIVE"
         },
         "www.freehearthstonebetakey.com": {
@@ -40428,8 +40435,8 @@
         "www.freeitunescodesgen.com": {
             "included_at_epoch": 1588410035.0,
             "included_at_iso": "2020-05-02T09:00:35",
-            "last_retested_at_epoch": 1591732327.808308,
-            "last_retested_at_iso": "2020-06-09T19:52:07.808308",
+            "last_retested_at_epoch": 1591833580.436727,
+            "last_retested_at_iso": "2020-06-10T23:59:40.436727",
             "status": "INACTIVE"
         },
         "www.freeitunescodeshere.com": {
@@ -40708,8 +40715,8 @@
         "www.freenba2k14vccodes.com": {
             "included_at_epoch": 1588358829.0,
             "included_at_iso": "2020-05-01T18:47:09",
-            "last_retested_at_epoch": 1591712419.038336,
-            "last_retested_at_iso": "2020-06-09T14:20:19.038336",
+            "last_retested_at_epoch": 1591834224.161122,
+            "last_retested_at_iso": "2020-06-11T00:10:24.161122",
             "status": "INACTIVE"
         },
         "www.freeneopets.com": {
@@ -41387,8 +41394,8 @@
         "www.fridero.ru": {
             "included_at_epoch": 1588481321.0,
             "included_at_iso": "2020-05-03T04:48:41",
-            "last_retested_at_epoch": 1591703336.359064,
-            "last_retested_at_iso": "2020-06-09T11:48:56.359064",
+            "last_retested_at_epoch": 1591834217.145179,
+            "last_retested_at_iso": "2020-06-11T00:10:17.145179",
             "status": "INACTIVE"
         },
         "www.frosgame.com": {
@@ -41674,8 +41681,8 @@
         "www.galaxydrop.top": {
             "included_at_epoch": 1588472513.0,
             "included_at_iso": "2020-05-03T02:21:53",
-            "last_retested_at_epoch": 1591698951.302533,
-            "last_retested_at_iso": "2020-06-09T10:35:51.302533",
+            "last_retested_at_epoch": 1591833791.457123,
+            "last_retested_at_iso": "2020-06-11T00:03:11.457123",
             "status": "INACTIVE"
         },
         "www.galaxygiveaways.com": {
@@ -41716,8 +41723,8 @@
         "www.game-crack.org": {
             "included_at_epoch": 1588448182.0,
             "included_at_iso": "2020-05-02T19:36:22",
-            "last_retested_at_epoch": 1591742402.745002,
-            "last_retested_at_iso": "2020-06-09T22:40:02.745002",
+            "last_retested_at_epoch": 1591833578.907883,
+            "last_retested_at_iso": "2020-06-10T23:59:38.907883",
             "status": "INACTIVE"
         },
         "www.game-fix.com": {
@@ -42066,8 +42073,8 @@
         "www.gameleadon.com": {
             "included_at_epoch": 1588467656.0,
             "included_at_iso": "2020-05-03T01:00:56",
-            "last_retested_at_epoch": 1591632788.658783,
-            "last_retested_at_iso": "2020-06-08T16:13:08.658783",
+            "last_retested_at_epoch": 1591834031.636648,
+            "last_retested_at_iso": "2020-06-11T00:07:11.636648",
             "status": "INACTIVE"
         },
         "www.gamenationz.com": {
@@ -42213,8 +42220,8 @@
         "www.gamescheatparadise.com": {
             "included_at_epoch": 1588434457.0,
             "included_at_iso": "2020-05-02T15:47:37",
-            "last_retested_at_epoch": 1591722177.567988,
-            "last_retested_at_iso": "2020-06-09T17:02:57.567988",
+            "last_retested_at_epoch": 1591834139.445444,
+            "last_retested_at_iso": "2020-06-11T00:08:59.445444",
             "status": "INACTIVE"
         },
         "www.gamescheats4u.com": {
@@ -42549,8 +42556,8 @@
         "www.gegig.ru": {
             "included_at_epoch": 1588410082.0,
             "included_at_iso": "2020-05-02T09:01:22",
-            "last_retested_at_epoch": 1591732461.184217,
-            "last_retested_at_iso": "2020-06-09T19:54:21.184217",
+            "last_retested_at_epoch": 1591834110.888434,
+            "last_retested_at_iso": "2020-06-11T00:08:30.888434",
             "status": "INACTIVE"
         },
         "www.gehifu.ru": {
@@ -42696,8 +42703,8 @@
         "www.generateurdekamas.org": {
             "included_at_epoch": 1588477086.0,
             "included_at_iso": "2020-05-03T03:38:06",
-            "last_retested_at_epoch": 1591699039.438811,
-            "last_retested_at_iso": "2020-06-09T10:37:19.438811",
+            "last_retested_at_epoch": 1591833502.797929,
+            "last_retested_at_iso": "2020-06-10T23:58:22.797929",
             "status": "INACTIVE"
         },
         "www.generateurderiotpoints.com": {
@@ -42759,8 +42766,8 @@
         "www.get4games.com": {
             "included_at_epoch": 1587996159.0,
             "included_at_iso": "2020-04-27T14:02:39",
-            "last_retested_at_epoch": 1591717425.138849,
-            "last_retested_at_iso": "2020-06-09T15:43:45.138849",
+            "last_retested_at_epoch": 1591833913.932653,
+            "last_retested_at_iso": "2020-06-11T00:05:13.932653",
             "status": "INACTIVE"
         },
         "www.getallforgames.com": {
@@ -42850,22 +42857,22 @@
         "www.getfreeminecraftaccounts.net": {
             "included_at_epoch": 1588485440.0,
             "included_at_iso": "2020-05-03T05:57:20",
-            "last_retested_at_epoch": 1591732157.831857,
-            "last_retested_at_iso": "2020-06-09T19:49:17.831857",
+            "last_retested_at_epoch": 1591834098.891255,
+            "last_retested_at_iso": "2020-06-11T00:08:18.891255",
             "status": "INACTIVE"
         },
         "www.getfreeminecraftpremiumcodeshere.com": {
             "included_at_epoch": 1588326889.0,
             "included_at_iso": "2020-05-01T09:54:49",
-            "last_retested_at_epoch": 1591717277.728727,
-            "last_retested_at_iso": "2020-06-09T15:41:17.728727",
+            "last_retested_at_epoch": 1591833464.964771,
+            "last_retested_at_iso": "2020-06-10T23:57:44.964771",
             "status": "INACTIVE"
         },
         "www.getfreeonlinestuffs.com": {
             "included_at_epoch": 1588438930.0,
             "included_at_iso": "2020-05-02T17:02:10",
-            "last_retested_at_epoch": 1591738147.638004,
-            "last_retested_at_iso": "2020-06-09T21:29:07.638004",
+            "last_retested_at_epoch": 1591834005.085779,
+            "last_retested_at_iso": "2020-06-11T00:06:45.085779",
             "status": "INACTIVE"
         },
         "www.getfreepsncodesnow.com": {
@@ -42906,8 +42913,8 @@
         "www.gethacknow.com": {
             "included_at_epoch": 1588377645.0,
             "included_at_iso": "2020-05-02T00:00:45",
-            "last_retested_at_epoch": 1591717079.943832,
-            "last_retested_at_iso": "2020-06-09T15:37:59.943832",
+            "last_retested_at_epoch": 1591833519.252326,
+            "last_retested_at_iso": "2020-06-10T23:58:39.252326",
             "status": "INACTIVE"
         },
         "www.gethacksfree.com": {
@@ -42948,8 +42955,8 @@
         "www.getminecraftpremium.us": {
             "included_at_epoch": 1588443473.0,
             "included_at_iso": "2020-05-02T18:17:53",
-            "last_retested_at_epoch": 1591668379.654685,
-            "last_retested_at_iso": "2020-06-09T02:06:19.654685",
+            "last_retested_at_epoch": 1591834054.620747,
+            "last_retested_at_iso": "2020-06-11T00:07:34.620747",
             "status": "INACTIVE"
         },
         "www.getminecraftpremiumaccount.com": {
@@ -43102,8 +43109,8 @@
         "www.ghooet.com": {
             "included_at_epoch": 1587925467.0,
             "included_at_iso": "2020-04-26T18:24:27",
-            "last_retested_at_epoch": 1591727803.555212,
-            "last_retested_at_iso": "2020-06-09T18:36:43.555212",
+            "last_retested_at_epoch": 1591833731.613025,
+            "last_retested_at_iso": "2020-06-11T00:02:11.613025",
             "status": "INACTIVE"
         },
         "www.ghost-team.info": {
@@ -43634,8 +43641,8 @@
         "www.grabhosted.com": {
             "included_at_epoch": 1588240368.0,
             "included_at_iso": "2020-04-30T09:52:48",
-            "last_retested_at_epoch": 1591674250.731215,
-            "last_retested_at_iso": "2020-06-09T03:44:10.731215",
+            "last_retested_at_epoch": 1591833438.809412,
+            "last_retested_at_iso": "2020-06-10T23:57:18.809412",
             "status": "INACTIVE"
         },
         "www.grabpokecoins.xyz": {
@@ -44117,8 +44124,8 @@
         "www.hack-facebook-account.com": {
             "included_at_epoch": 1588472230.0,
             "included_at_iso": "2020-05-03T02:17:10",
-            "last_retested_at_epoch": 1591722062.532953,
-            "last_retested_at_iso": "2020-06-09T17:01:02.532953",
+            "last_retested_at_epoch": 1591834005.584523,
+            "last_retested_at_iso": "2020-06-11T00:06:45.584523",
             "status": "INACTIVE"
         },
         "www.hack-facebook-account.info": {
@@ -44152,8 +44159,8 @@
         "www.hack-free.com": {
             "included_at_epoch": 1588481272.0,
             "included_at_iso": "2020-05-03T04:47:52",
-            "last_retested_at_epoch": 1591713033.823061,
-            "last_retested_at_iso": "2020-06-09T14:30:33.823061",
+            "last_retested_at_epoch": 1591833813.557043,
+            "last_retested_at_iso": "2020-06-11T00:03:33.557043",
             "status": "INACTIVE"
         },
         "www.hack-freedownload.com": {
@@ -44572,8 +44579,8 @@
         "www.hackeruniveristy.com": {
             "included_at_epoch": 1588230281.0,
             "included_at_iso": "2020-04-30T07:04:41",
-            "last_retested_at_epoch": 1591693877.928506,
-            "last_retested_at_iso": "2020-06-09T09:11:17.928506",
+            "last_retested_at_epoch": 1591833542.435038,
+            "last_retested_at_iso": "2020-06-10T23:59:02.435038",
             "status": "INACTIVE"
         },
         "www.hackeverygame.com": {
@@ -44740,8 +44747,8 @@
         "www.hackig.online": {
             "included_at_epoch": 1588443680.0,
             "included_at_iso": "2020-05-02T18:21:20",
-            "last_retested_at_epoch": 1591732386.426002,
-            "last_retested_at_iso": "2020-06-09T19:53:06.426002",
+            "last_retested_at_epoch": 1591833761.458481,
+            "last_retested_at_iso": "2020-06-11T00:02:41.458481",
             "status": "INACTIVE"
         },
         "www.hackindustry.com": {
@@ -44880,8 +44887,8 @@
         "www.hackncheatshouse.win": {
             "included_at_epoch": 1588131812.0,
             "included_at_iso": "2020-04-29T03:43:32",
-            "last_retested_at_epoch": 1591708394.517809,
-            "last_retested_at_iso": "2020-06-09T13:13:14.517809",
+            "last_retested_at_epoch": 1591834077.829529,
+            "last_retested_at_iso": "2020-06-11T00:07:57.829529",
             "status": "INACTIVE"
         },
         "www.hacknet24.com": {
@@ -44901,8 +44908,8 @@
         "www.hackongame.com": {
             "included_at_epoch": 1588272757.0,
             "included_at_iso": "2020-04-30T18:52:37",
-            "last_retested_at_epoch": 1591737414.07905,
-            "last_retested_at_iso": "2020-06-09T21:16:54.079050",
+            "last_retested_at_epoch": 1591834206.398134,
+            "last_retested_at_iso": "2020-06-11T00:10:06.398134",
             "status": "INACTIVE"
         },
         "www.hackoutils.com": {
@@ -45034,8 +45041,8 @@
         "www.hacks4free.net": {
             "included_at_epoch": 1588264713.0,
             "included_at_iso": "2020-04-30T16:38:33",
-            "last_retested_at_epoch": 1591731885.190192,
-            "last_retested_at_iso": "2020-06-09T19:44:45.190192",
+            "last_retested_at_epoch": 1591833857.584533,
+            "last_retested_at_iso": "2020-06-11T00:04:17.584533",
             "status": "INACTIVE"
         },
         "www.hacks4games.biz": {
@@ -45657,8 +45664,8 @@
         "www.hd-livetream.com": {
             "included_at_epoch": 1588154611.0,
             "included_at_iso": "2020-04-29T10:03:31",
-            "last_retested_at_epoch": 1591688570.008248,
-            "last_retested_at_iso": "2020-06-09T07:42:50.008248",
+            "last_retested_at_epoch": 1591834272.654117,
+            "last_retested_at_iso": "2020-06-11T00:11:12.654117",
             "status": "INACTIVE"
         },
         "www.hdshow-online.com": {
@@ -45916,8 +45923,8 @@
         "www.hognoob.se": {
             "included_at_epoch": 1588467150.0,
             "included_at_iso": "2020-05-03T00:52:30",
-            "last_retested_at_epoch": 1591743257.738367,
-            "last_retested_at_iso": "2020-06-09T22:54:17.738367",
+            "last_retested_at_epoch": 1591833676.687993,
+            "last_retested_at_iso": "2020-06-11T00:01:16.687993",
             "status": "INACTIVE"
         },
         "www.hojava.ru": {
@@ -46070,8 +46077,8 @@
         "www.howllskins.fun": {
             "included_at_epoch": 1588363770.0,
             "included_at_iso": "2020-05-01T20:09:30",
-            "last_retested_at_epoch": 1591722299.417542,
-            "last_retested_at_iso": "2020-06-09T17:04:59.417542",
+            "last_retested_at_epoch": 1591833980.37343,
+            "last_retested_at_iso": "2020-06-11T00:06:20.373430",
             "status": "INACTIVE"
         },
         "www.howlmax.com": {
@@ -46350,8 +46357,8 @@
         "www.icloud-appleid-information-safe-link-apple-inc.com": {
             "included_at_epoch": 1588481354.0,
             "included_at_iso": "2020-05-03T04:49:14",
-            "last_retested_at_epoch": 1591737735.443658,
-            "last_retested_at_iso": "2020-06-09T21:22:15.443658",
+            "last_retested_at_epoch": 1591833691.165302,
+            "last_retested_at_iso": "2020-06-11T00:01:31.165302",
             "status": "INACTIVE"
         },
         "www.icloud-applev1.com": {
@@ -46385,8 +46392,8 @@
         "www.icodecrypt.com": {
             "included_at_epoch": 1588283225.0,
             "included_at_iso": "2020-04-30T21:47:05",
-            "last_retested_at_epoch": 1591722172.960452,
-            "last_retested_at_iso": "2020-06-09T17:02:52.960452",
+            "last_retested_at_epoch": 1591833689.554394,
+            "last_retested_at_iso": "2020-06-11T00:01:29.554394",
             "status": "INACTIVE"
         },
         "www.idealhacks.com": {
@@ -46714,8 +46721,8 @@
         "www.instantfreepsncodes.com": {
             "included_at_epoch": 1588438921.0,
             "included_at_iso": "2020-05-02T17:02:01",
-            "last_retested_at_epoch": 1591732088.57822,
-            "last_retested_at_iso": "2020-06-09T19:48:08.578220",
+            "last_retested_at_epoch": 1591833463.401927,
+            "last_retested_at_iso": "2020-06-10T23:57:43.401927",
             "status": "INACTIVE"
         },
         "www.instatracker.org": {
@@ -47085,8 +47092,8 @@
         "www.itunesgiftcardsgenerator.com": {
             "included_at_epoch": 1588118198.0,
             "included_at_iso": "2020-04-28T23:56:38",
-            "last_retested_at_epoch": 1591731657.816514,
-            "last_retested_at_iso": "2020-06-09T19:40:57.816514",
+            "last_retested_at_epoch": 1591833888.300939,
+            "last_retested_at_iso": "2020-06-11T00:04:48.300939",
             "status": "INACTIVE"
         },
         "www.itunesvouchergiveaway.com": {
@@ -47484,8 +47491,8 @@
         "www.keepskins.com": {
             "included_at_epoch": 1588156404.0,
             "included_at_iso": "2020-04-29T10:33:24",
-            "last_retested_at_epoch": 1591737658.380231,
-            "last_retested_at_iso": "2020-06-09T21:20:58.380231",
+            "last_retested_at_epoch": 1591834328.198798,
+            "last_retested_at_iso": "2020-06-11T00:12:08.198798",
             "status": "INACTIVE"
         },
         "www.kegiw.ru": {
@@ -47925,8 +47932,8 @@
         "www.latestgamehacks.com": {
             "included_at_epoch": 1588336418.0,
             "included_at_iso": "2020-05-01T12:33:38",
-            "last_retested_at_epoch": 1591722164.357277,
-            "last_retested_at_iso": "2020-06-09T17:02:44.357277",
+            "last_retested_at_epoch": 1591834101.710575,
+            "last_retested_at_iso": "2020-06-11T00:08:21.710575",
             "status": "INACTIVE"
         },
         "www.latestphonehacks.com": {
@@ -48247,8 +48254,8 @@
         "www.lessims4crack.com": {
             "included_at_epoch": 1588481292.0,
             "included_at_iso": "2020-05-03T04:48:12",
-            "last_retested_at_epoch": 1591653383.674226,
-            "last_retested_at_iso": "2020-06-08T21:56:23.674226",
+            "last_retested_at_epoch": 1591833688.696048,
+            "last_retested_at_iso": "2020-06-11T00:01:28.696048",
             "status": "INACTIVE"
         },
         "www.letsweb.info": {
@@ -48338,8 +48345,8 @@
         "www.limehacks.com": {
             "included_at_epoch": 1588458074.0,
             "included_at_iso": "2020-05-02T22:21:14",
-            "last_retested_at_epoch": 1591721904.769808,
-            "last_retested_at_iso": "2020-06-09T16:58:24.769808",
+            "last_retested_at_epoch": 1591833784.014211,
+            "last_retested_at_iso": "2020-06-11T00:03:04.014211",
             "status": "INACTIVE"
         },
         "www.limited-accountsecure.com": {
@@ -48373,8 +48380,8 @@
         "www.litefreedom.com": {
             "included_at_epoch": 1588419203.0,
             "included_at_iso": "2020-05-02T11:33:23",
-            "last_retested_at_epoch": 1591689071.272345,
-            "last_retested_at_iso": "2020-06-09T07:51:11.272345",
+            "last_retested_at_epoch": 1591834290.517695,
+            "last_retested_at_iso": "2020-06-11T00:11:30.517695",
             "status": "INACTIVE"
         },
         "www.live-cheat.com": {
@@ -48464,8 +48471,8 @@
         "www.loadfiles.pl": {
             "included_at_epoch": 1588191215.0,
             "included_at_iso": "2020-04-29T20:13:35",
-            "last_retested_at_epoch": 1591717225.420328,
-            "last_retested_at_iso": "2020-06-09T15:40:25.420328",
+            "last_retested_at_epoch": 1591833459.559818,
+            "last_retested_at_iso": "2020-06-10T23:57:39.559818",
             "status": "INACTIVE"
         },
         "www.loadfreefile.com": {
@@ -48772,8 +48779,8 @@
         "www.luxury-roll.com": {
             "included_at_epoch": 1588476991.0,
             "included_at_iso": "2020-05-03T03:36:31",
-            "last_retested_at_epoch": 1591713212.95474,
-            "last_retested_at_iso": "2020-06-09T14:33:32.954740",
+            "last_retested_at_epoch": 1591833961.790213,
+            "last_retested_at_iso": "2020-06-11T00:06:01.790213",
             "status": "INACTIVE"
         },
         "www.mabexo.ru": {
@@ -48842,8 +48849,8 @@
         "www.magiccase.net": {
             "included_at_epoch": 1588317855.0,
             "included_at_iso": "2020-05-01T07:24:15",
-            "last_retested_at_epoch": 1591702983.087668,
-            "last_retested_at_iso": "2020-06-09T11:43:03.087668",
+            "last_retested_at_epoch": 1591833687.470585,
+            "last_retested_at_iso": "2020-06-11T00:01:27.470585",
             "status": "INACTIVE"
         },
         "www.magiccheats.com": {
@@ -48905,8 +48912,8 @@
         "www.makifege.ru": {
             "included_at_epoch": 1588410182.0,
             "included_at_iso": "2020-05-02T09:03:02",
-            "last_retested_at_epoch": 1591707623.100128,
-            "last_retested_at_iso": "2020-06-09T13:00:23.100128",
+            "last_retested_at_epoch": 1591833763.409524,
+            "last_retested_at_iso": "2020-06-11T00:02:43.409524",
             "status": "INACTIVE"
         },
         "www.mannen-shopping.com": {
@@ -48926,8 +48933,8 @@
         "www.marvelavengersalliancecheats.com": {
             "included_at_epoch": 1588363599.0,
             "included_at_iso": "2020-05-01T20:06:39",
-            "last_retested_at_epoch": 1591622426.296517,
-            "last_retested_at_iso": "2020-06-08T13:20:26.296517",
+            "last_retested_at_epoch": 1591833764.130075,
+            "last_retested_at_iso": "2020-06-11T00:02:44.130075",
             "status": "INACTIVE"
         },
         "www.marvelavengersalliancehack.org": {
@@ -49031,8 +49038,8 @@
         "www.mcdonaldsmonopoly.net": {
             "included_at_epoch": 1588359008.0,
             "included_at_iso": "2020-05-01T18:50:08",
-            "last_retested_at_epoch": 1591737676.447896,
-            "last_retested_at_iso": "2020-06-09T21:21:16.447896",
+            "last_retested_at_epoch": 1591834085.248544,
+            "last_retested_at_iso": "2020-06-11T00:08:05.248544",
             "status": "INACTIVE"
         },
         "www.mcfreepremium.com": {
@@ -49164,8 +49171,8 @@
         "www.megadropfiles.com": {
             "included_at_epoch": 1588443510.0,
             "included_at_iso": "2020-05-02T18:18:30",
-            "last_retested_at_epoch": 1591722343.521818,
-            "last_retested_at_iso": "2020-06-09T17:05:43.521818",
+            "last_retested_at_epoch": 1591834268.263042,
+            "last_retested_at_iso": "2020-06-11T00:11:08.263042",
             "status": "INACTIVE"
         },
         "www.megahackfrancaise.com": {
@@ -49248,8 +49255,8 @@
         "www.merrygamble.com": {
             "included_at_epoch": 1588414764.0,
             "included_at_iso": "2020-05-02T10:19:24",
-            "last_retested_at_epoch": 1591722529.027334,
-            "last_retested_at_iso": "2020-06-09T17:08:49.027334",
+            "last_retested_at_epoch": 1591834196.696292,
+            "last_retested_at_iso": "2020-06-11T00:09:56.696292",
             "status": "INACTIVE"
         },
         "www.mesexclusivites.fr": {
@@ -49381,8 +49388,8 @@
         "www.miguk.ru": {
             "included_at_epoch": 1588143726.0,
             "included_at_iso": "2020-04-29T07:02:06",
-            "last_retested_at_epoch": 1591732297.067865,
-            "last_retested_at_iso": "2020-06-09T19:51:37.067865",
+            "last_retested_at_epoch": 1591833780.230273,
+            "last_retested_at_iso": "2020-06-11T00:03:00.230273",
             "status": "INACTIVE"
         },
         "www.mikarl.ru": {
@@ -49472,8 +49479,8 @@
         "www.minecraftfreegiftcode.com": {
             "included_at_epoch": 1588443796.0,
             "included_at_iso": "2020-05-02T18:23:16",
-            "last_retested_at_epoch": 1591693249.020599,
-            "last_retested_at_iso": "2020-06-09T09:00:49.020599",
+            "last_retested_at_epoch": 1591833904.048125,
+            "last_retested_at_iso": "2020-06-11T00:05:04.048125",
             "status": "INACTIVE"
         },
         "www.minecraftfreepremiumaccounts.com": {
@@ -49507,15 +49514,15 @@
         "www.minecraftgratuit.org": {
             "included_at_epoch": 1588231150.0,
             "included_at_iso": "2020-04-30T07:19:10",
-            "last_retested_at_epoch": 1591727219.451899,
-            "last_retested_at_iso": "2020-06-09T18:26:59.451899",
+            "last_retested_at_epoch": 1591834251.356923,
+            "last_retested_at_iso": "2020-06-11T00:10:51.356923",
             "status": "INACTIVE"
         },
         "www.minecrafthosting.biz": {
             "included_at_epoch": 1588484993.0,
             "included_at_iso": "2020-05-03T05:49:53",
-            "last_retested_at_epoch": 1591702657.915419,
-            "last_retested_at_iso": "2020-06-09T11:37:37.915419",
+            "last_retested_at_epoch": 1591834075.218593,
+            "last_retested_at_iso": "2020-06-11T00:07:55.218593",
             "status": "INACTIVE"
         },
         "www.minecraftmodification.com": {
@@ -49612,8 +49619,8 @@
         "www.mingle-case.net": {
             "included_at_epoch": 1588299750.0,
             "included_at_iso": "2020-05-01T02:22:30",
-            "last_retested_at_epoch": 1591747627.084731,
-            "last_retested_at_iso": "2020-06-10T00:07:07.084731",
+            "last_retested_at_epoch": 1591834329.867895,
+            "last_retested_at_iso": "2020-06-11T00:12:09.867895",
             "status": "INACTIVE"
         },
         "www.mingle-case.pro": {
@@ -49920,8 +49927,8 @@
         "www.movie1get.com": {
             "included_at_epoch": 1588467529.0,
             "included_at_iso": "2020-05-03T00:58:49",
-            "last_retested_at_epoch": 1591722449.229248,
-            "last_retested_at_iso": "2020-06-09T17:07:29.229248",
+            "last_retested_at_epoch": 1591833520.502626,
+            "last_retested_at_iso": "2020-06-10T23:58:40.502626",
             "status": "INACTIVE"
         },
         "www.movie24.tv": {
@@ -49948,8 +49955,8 @@
         "www.movieapunk.com": {
             "included_at_epoch": 1588485440.0,
             "included_at_iso": "2020-05-03T05:57:20",
-            "last_retested_at_epoch": 1591662856.921317,
-            "last_retested_at_iso": "2020-06-09T00:34:16.921317",
+            "last_retested_at_epoch": 1591833538.24886,
+            "last_retested_at_iso": "2020-06-10T23:58:58.248860",
             "status": "INACTIVE"
         },
         "www.moviearie.com": {
@@ -50025,8 +50032,8 @@
         "www.movieloader.net": {
             "included_at_epoch": 1588410197.0,
             "included_at_iso": "2020-05-02T09:03:17",
-            "last_retested_at_epoch": 1591737723.815273,
-            "last_retested_at_iso": "2020-06-09T21:22:03.815273",
+            "last_retested_at_epoch": 1591834186.167097,
+            "last_retested_at_iso": "2020-06-11T00:09:46.167097",
             "status": "INACTIVE"
         },
         "www.moviemblo.com": {
@@ -50130,8 +50137,8 @@
         "www.mslivegirl.com": {
             "included_at_epoch": 1588181951.0,
             "included_at_iso": "2020-04-29T17:39:11",
-            "last_retested_at_epoch": 1591712990.173395,
-            "last_retested_at_iso": "2020-06-09T14:29:50.173395",
+            "last_retested_at_epoch": 1591834190.591571,
+            "last_retested_at_iso": "2020-06-11T00:09:50.591571",
             "status": "INACTIVE"
         },
         "www.mspointgenerator.net": {
@@ -50354,8 +50361,8 @@
         "www.myfilehigh.com": {
             "included_at_epoch": 1588448394.0,
             "included_at_iso": "2020-05-02T19:39:54",
-            "last_retested_at_epoch": 1591712675.628877,
-            "last_retested_at_iso": "2020-06-09T14:24:35.628877",
+            "last_retested_at_epoch": 1591834190.16272,
+            "last_retested_at_iso": "2020-06-11T00:09:50.162720",
             "status": "INACTIVE"
         },
         "www.myfilehome.com": {
@@ -50746,8 +50753,8 @@
         "www.newgamecheats.net": {
             "included_at_epoch": 1588268965.0,
             "included_at_iso": "2020-04-30T17:49:25",
-            "last_retested_at_epoch": 1591742644.225474,
-            "last_retested_at_iso": "2020-06-09T22:44:04.225474",
+            "last_retested_at_epoch": 1591833778.867281,
+            "last_retested_at_iso": "2020-06-11T00:02:58.867281",
             "status": "INACTIVE"
         },
         "www.newgames-hack.com": {
@@ -50760,8 +50767,8 @@
         "www.newgames4download.com": {
             "included_at_epoch": 1588393726.0,
             "included_at_iso": "2020-05-02T04:28:46",
-            "last_retested_at_epoch": 1591731685.00195,
-            "last_retested_at_iso": "2020-06-09T19:41:25.001950",
+            "last_retested_at_epoch": 1591833522.807526,
+            "last_retested_at_iso": "2020-06-10T23:58:42.807526",
             "status": "INACTIVE"
         },
         "www.newhacksandcracks.com": {
@@ -51166,8 +51173,8 @@
         "www.online-pictures.net": {
             "included_at_epoch": 1588393455.0,
             "included_at_iso": "2020-05-02T04:24:15",
-            "last_retested_at_epoch": 1591717068.806526,
-            "last_retested_at_iso": "2020-06-09T15:37:48.806526",
+            "last_retested_at_epoch": 1591833760.73701,
+            "last_retested_at_iso": "2020-06-11T00:02:40.737010",
             "status": "INACTIVE"
         },
         "www.onlinebitcoingenerator.org": {
@@ -51530,8 +51537,8 @@
         "www.pakjevoordeel.net": {
             "included_at_epoch": 1588354862.0,
             "included_at_iso": "2020-05-01T17:41:02",
-            "last_retested_at_epoch": 1591737897.984678,
-            "last_retested_at_iso": "2020-06-09T21:24:57.984678",
+            "last_retested_at_epoch": 1591833858.504506,
+            "last_retested_at_iso": "2020-06-11T00:04:18.504506",
             "status": "INACTIVE"
         },
         "www.pandapopcheats.xyz": {
@@ -51614,8 +51621,8 @@
         "www.password-remover-tools.com": {
             "included_at_epoch": 1588405208.0,
             "included_at_iso": "2020-05-02T07:40:08",
-            "last_retested_at_epoch": 1591727683.244394,
-            "last_retested_at_iso": "2020-06-09T18:34:43.244394",
+            "last_retested_at_epoch": 1591834158.574935,
+            "last_retested_at_iso": "2020-06-11T00:09:18.574935",
             "status": "INACTIVE"
         },
         "www.pastetext.online": {
@@ -51768,8 +51775,8 @@
         "www.pic4web.org": {
             "included_at_epoch": 1588405297.0,
             "included_at_iso": "2020-05-02T07:41:37",
-            "last_retested_at_epoch": 1591727120.267201,
-            "last_retested_at_iso": "2020-06-09T18:25:20.267201",
+            "last_retested_at_epoch": 1591833596.010772,
+            "last_retested_at_iso": "2020-06-10T23:59:56.010772",
             "status": "INACTIVE"
         },
         "www.pickuchu.com": {
@@ -51873,8 +51880,8 @@
         "www.piragiciel.com": {
             "included_at_epoch": 1588322464.0,
             "included_at_iso": "2020-05-01T08:41:04",
-            "last_retested_at_epoch": 1591727020.237405,
-            "last_retested_at_iso": "2020-06-09T18:23:40.237405",
+            "last_retested_at_epoch": 1591833712.530182,
+            "last_retested_at_iso": "2020-06-11T00:01:52.530182",
             "status": "INACTIVE"
         },
         "www.piranhacheats.com": {
@@ -51887,8 +51894,8 @@
         "www.piratage-fb.com": {
             "included_at_epoch": 1588175670.0,
             "included_at_iso": "2020-04-29T15:54:30",
-            "last_retested_at_epoch": 1591747695.409231,
-            "last_retested_at_iso": "2020-06-10T00:08:15.409231",
+            "last_retested_at_epoch": 1591834135.417368,
+            "last_retested_at_iso": "2020-06-11T00:08:55.417368",
             "status": "INACTIVE"
         },
         "www.piratageface.com": {
@@ -51957,15 +51964,15 @@
         "www.pirater-facebook-gratuit.net": {
             "included_at_epoch": 1588377535.0,
             "included_at_iso": "2020-05-01T23:58:55",
-            "last_retested_at_epoch": 1591698971.618496,
-            "last_retested_at_iso": "2020-06-09T10:36:11.618496",
+            "last_retested_at_epoch": 1591833723.339899,
+            "last_retested_at_iso": "2020-06-11T00:02:03.339899",
             "status": "INACTIVE"
         },
         "www.pirater-facebook-msn.com": {
             "included_at_epoch": 1588304451.0,
             "included_at_iso": "2020-05-01T03:40:51",
-            "last_retested_at_epoch": 1591726921.305139,
-            "last_retested_at_iso": "2020-06-09T18:22:01.305139",
+            "last_retested_at_epoch": 1591833750.488499,
+            "last_retested_at_iso": "2020-06-11T00:02:30.488499",
             "status": "INACTIVE"
         },
         "www.pirater-msn-facebook.eu": {
@@ -52139,8 +52146,8 @@
         "www.piraterunfacebook.net": {
             "included_at_epoch": 1588480993.0,
             "included_at_iso": "2020-05-03T04:43:13",
-            "last_retested_at_epoch": 1591743117.505465,
-            "last_retested_at_iso": "2020-06-09T22:51:57.505465",
+            "last_retested_at_epoch": 1591834193.631944,
+            "last_retested_at_iso": "2020-06-11T00:09:53.631944",
             "status": "INACTIVE"
         },
         "www.piraterwhatsapp.com": {
@@ -52286,8 +52293,8 @@
         "www.playdownstationdownloadlinks.com": {
             "included_at_epoch": 1588472404.0,
             "included_at_iso": "2020-05-03T02:20:04",
-            "last_retested_at_epoch": 1591737392.220192,
-            "last_retested_at_iso": "2020-06-09T21:16:32.220192",
+            "last_retested_at_epoch": 1591834082.773728,
+            "last_retested_at_iso": "2020-06-11T00:08:02.773728",
             "status": "INACTIVE"
         },
         "www.playerbattleground.com": {
@@ -52566,8 +52573,8 @@
         "www.poptropica-cheats-free.com": {
             "included_at_epoch": 1588481190.0,
             "included_at_iso": "2020-05-03T04:46:30",
-            "last_retested_at_epoch": 1591742686.086369,
-            "last_retested_at_iso": "2020-06-09T22:44:46.086369",
+            "last_retested_at_epoch": 1591833722.890966,
+            "last_retested_at_iso": "2020-06-11T00:02:02.890966",
             "status": "INACTIVE"
         },
         "www.popularfilm.us": {
@@ -52692,8 +52699,8 @@
         "www.premiumarea.eu": {
             "included_at_epoch": 1588382601.0,
             "included_at_iso": "2020-05-02T01:23:21",
-            "last_retested_at_epoch": 1591689225.900717,
-            "last_retested_at_iso": "2020-06-09T07:53:45.900717",
+            "last_retested_at_epoch": 1591834213.639634,
+            "last_retested_at_iso": "2020-06-11T00:10:13.639634",
             "status": "INACTIVE"
         },
         "www.premiumcracks.com": {
@@ -53273,8 +53280,8 @@
         "www.psncodeshere.com": {
             "included_at_epoch": 1588472476.0,
             "included_at_iso": "2020-05-03T02:21:16",
-            "last_retested_at_epoch": 1591727711.869101,
-            "last_retested_at_iso": "2020-06-09T18:35:11.869101",
+            "last_retested_at_epoch": 1591833675.207636,
+            "last_retested_at_iso": "2020-06-11T00:01:15.207636",
             "status": "INACTIVE"
         },
         "www.psncodesnow.com": {
@@ -53287,8 +53294,8 @@
         "www.psnetworkcodes.com": {
             "included_at_epoch": 1588079946.0,
             "included_at_iso": "2020-04-28T13:19:06",
-            "last_retested_at_epoch": 1591731678.884693,
-            "last_retested_at_iso": "2020-06-09T19:41:18.884693",
+            "last_retested_at_epoch": 1591833505.302994,
+            "last_retested_at_iso": "2020-06-10T23:58:25.302994",
             "status": "INACTIVE"
         },
         "www.psnfreecards.com": {
@@ -53315,8 +53322,8 @@
         "www.psnlivecodegenerator.com": {
             "included_at_epoch": 1588462532.0,
             "included_at_iso": "2020-05-02T23:35:32",
-            "last_retested_at_epoch": 1591742743.483685,
-            "last_retested_at_iso": "2020-06-09T22:45:43.483685",
+            "last_retested_at_epoch": 1591833467.796302,
+            "last_retested_at_iso": "2020-06-10T23:57:47.796302",
             "status": "INACTIVE"
         },
         "www.psnlivecodegenerator.net": {
@@ -53504,8 +53511,8 @@
         "www.qomeg.ru": {
             "included_at_epoch": 1588221362.0,
             "included_at_iso": "2020-04-30T04:36:02",
-            "last_retested_at_epoch": 1591737818.628186,
-            "last_retested_at_iso": "2020-06-09T21:23:38.628186",
+            "last_retested_at_epoch": 1591834058.923982,
+            "last_retested_at_iso": "2020-06-11T00:07:38.923982",
             "status": "INACTIVE"
         },
         "www.qoqupi.ru": {
@@ -53532,15 +53539,15 @@
         "www.quality-hacks.com": {
             "included_at_epoch": 1588438872.0,
             "included_at_iso": "2020-05-02T17:01:12",
-            "last_retested_at_epoch": 1591738047.057181,
-            "last_retested_at_iso": "2020-06-09T21:27:27.057181",
+            "last_retested_at_epoch": 1591834275.690893,
+            "last_retested_at_iso": "2020-06-11T00:11:15.690893",
             "status": "INACTIVE"
         },
         "www.quantumstresser.net": {
             "included_at_epoch": 1588462663.0,
             "included_at_iso": "2020-05-02T23:37:43",
-            "last_retested_at_epoch": 1591693578.484742,
-            "last_retested_at_iso": "2020-06-09T09:06:18.484742",
+            "last_retested_at_epoch": 1591834277.552435,
+            "last_retested_at_iso": "2020-06-11T00:11:17.552435",
             "status": "INACTIVE"
         },
         "www.quick-exchange.com": {
@@ -53637,15 +53644,15 @@
         "www.rampageskins.com": {
             "included_at_epoch": 1588448243.0,
             "included_at_iso": "2020-05-02T19:37:23",
-            "last_retested_at_epoch": 1591737722.307867,
-            "last_retested_at_iso": "2020-06-09T21:22:02.307867",
+            "last_retested_at_epoch": 1591833937.010618,
+            "last_retested_at_iso": "2020-06-11T00:05:37.010618",
             "status": "INACTIVE"
         },
         "www.rapidfilesending.com": {
             "included_at_epoch": 1588481026.0,
             "included_at_iso": "2020-05-03T04:43:46",
-            "last_retested_at_epoch": 1591743163.997566,
-            "last_retested_at_iso": "2020-06-09T22:52:43.997566",
+            "last_retested_at_epoch": 1591833970.316792,
+            "last_retested_at_iso": "2020-06-11T00:06:10.316792",
             "status": "INACTIVE"
         },
         "www.rapidsharemirror.com": {
@@ -53847,8 +53854,8 @@
         "www.recharge-mobile-gratuit.fr": {
             "included_at_epoch": 1588363372.0,
             "included_at_iso": "2020-05-01T20:02:52",
-            "last_retested_at_epoch": 1591738090.519174,
-            "last_retested_at_iso": "2020-06-09T21:28:10.519174",
+            "last_retested_at_epoch": 1591833866.476136,
+            "last_retested_at_iso": "2020-06-11T00:04:26.476136",
             "status": "INACTIVE"
         },
         "www.recording-music.net": {
@@ -53966,8 +53973,8 @@
         "www.revengecase.com": {
             "included_at_epoch": 1588268875.0,
             "included_at_iso": "2020-04-30T17:47:55",
-            "last_retested_at_epoch": 1591747476.354235,
-            "last_retested_at_iso": "2020-06-10T00:04:36.354235",
+            "last_retested_at_epoch": 1591833905.806084,
+            "last_retested_at_iso": "2020-06-11T00:05:05.806084",
             "status": "INACTIVE"
         },
         "www.rexisa.ru": {
@@ -53987,8 +53994,8 @@
         "www.rich-bets.one": {
             "included_at_epoch": 1588084528.0,
             "included_at_iso": "2020-04-28T14:35:28",
-            "last_retested_at_epoch": 1591727125.977209,
-            "last_retested_at_iso": "2020-06-09T18:25:25.977209",
+            "last_retested_at_epoch": 1591833888.798075,
+            "last_retested_at_iso": "2020-06-11T00:04:48.798075",
             "status": "INACTIVE"
         },
         "www.richboysblog.com": {
@@ -54015,8 +54022,8 @@
         "www.riot-codes.com": {
             "included_at_epoch": 1588405626.0,
             "included_at_iso": "2020-05-02T07:47:06",
-            "last_retested_at_epoch": 1591737659.749537,
-            "last_retested_at_iso": "2020-06-09T21:20:59.749537",
+            "last_retested_at_epoch": 1591833937.423669,
+            "last_retested_at_iso": "2020-06-11T00:05:37.423669",
             "status": "INACTIVE"
         },
         "www.riotcodes.net": {
@@ -54043,8 +54050,8 @@
         "www.riotpoints.net": {
             "included_at_epoch": 1588467330.0,
             "included_at_iso": "2020-05-03T00:55:30",
-            "last_retested_at_epoch": 1591747433.330666,
-            "last_retested_at_iso": "2020-06-10T00:03:53.330666",
+            "last_retested_at_epoch": 1591833893.508649,
+            "last_retested_at_iso": "2020-06-11T00:04:53.508649",
             "status": "INACTIVE"
         },
         "www.riotpointscodes.info": {
@@ -54155,8 +54162,8 @@
         "www.robux-hacks.com": {
             "included_at_epoch": 1588477014.0,
             "included_at_iso": "2020-05-03T03:36:54",
-            "last_retested_at_epoch": 1591731829.490711,
-            "last_retested_at_iso": "2020-06-09T19:43:49.490711",
+            "last_retested_at_epoch": 1591834259.534093,
+            "last_retested_at_iso": "2020-06-11T00:10:59.534093",
             "status": "INACTIVE"
         },
         "www.robuxfreebies.site": {
@@ -54246,8 +54253,8 @@
         "www.rolls-hack.com": {
             "included_at_epoch": 1588438870.0,
             "included_at_iso": "2020-05-02T17:01:10",
-            "last_retested_at_epoch": 1591742868.601745,
-            "last_retested_at_iso": "2020-06-09T22:47:48.601745",
+            "last_retested_at_epoch": 1591834133.226363,
+            "last_retested_at_iso": "2020-06-11T00:08:53.226363",
             "status": "INACTIVE"
         },
         "www.rolls.wtf": {
@@ -54393,8 +54400,8 @@
         "www.rpfree4.me": {
             "included_at_epoch": 1588191345.0,
             "included_at_iso": "2020-04-29T20:15:45",
-            "last_retested_at_epoch": 1591673938.879876,
-            "last_retested_at_iso": "2020-06-09T03:38:58.879876",
+            "last_retested_at_epoch": 1591834098.475214,
+            "last_retested_at_iso": "2020-06-11T00:08:18.475214",
             "status": "INACTIVE"
         },
         "www.rpgratuit.com": {
@@ -54925,8 +54932,8 @@
         "www.seventin17.com": {
             "included_at_epoch": 1588299485.0,
             "included_at_iso": "2020-05-01T02:18:05",
-            "last_retested_at_epoch": 1591674380.346319,
-            "last_retested_at_iso": "2020-06-09T03:46:20.346319",
+            "last_retested_at_epoch": 1591834299.342895,
+            "last_retested_at_iso": "2020-06-11T00:11:39.342895",
             "status": "INACTIVE"
         },
         "www.sewipo.ru": {
@@ -54967,8 +54974,8 @@
         "www.sharechronic.com": {
             "included_at_epoch": 1588452994.0,
             "included_at_iso": "2020-05-02T20:56:34",
-            "last_retested_at_epoch": 1591738166.853914,
-            "last_retested_at_iso": "2020-06-09T21:29:26.853914",
+            "last_retested_at_epoch": 1591834215.856885,
+            "last_retested_at_iso": "2020-06-11T00:10:15.856885",
             "status": "INACTIVE"
         },
         "www.sharedez.com": {
@@ -55485,8 +55492,8 @@
         "www.skins-roulette.com": {
             "included_at_epoch": 1588443747.0,
             "included_at_iso": "2020-05-02T18:22:27",
-            "last_retested_at_epoch": 1591738203.486744,
-            "last_retested_at_iso": "2020-06-09T21:30:03.486744",
+            "last_retested_at_epoch": 1591833670.54761,
+            "last_retested_at_iso": "2020-06-11T00:01:10.547610",
             "status": "INACTIVE"
         },
         "www.skins-supply.com": {
@@ -55520,8 +55527,8 @@
         "www.skins888trade.com": {
             "included_at_epoch": 1588905378.942519,
             "included_at_iso": "2020-05-08T02:36:18.942519",
-            "last_retested_at_epoch": 1591606913.353329,
-            "last_retested_at_iso": "2020-06-08T09:01:53.353329",
+            "last_retested_at_epoch": 1591834317.389192,
+            "last_retested_at_iso": "2020-06-11T00:11:57.389192",
             "status": "INACTIVE"
         },
         "www.skinsacademy.com": {
@@ -55590,8 +55597,8 @@
         "www.skinsbrain.com": {
             "included_at_epoch": 1588492308.0,
             "included_at_iso": "2020-05-03T07:51:48",
-            "last_retested_at_epoch": 1591727112.497802,
-            "last_retested_at_iso": "2020-06-09T18:25:12.497802",
+            "last_retested_at_epoch": 1591833751.139678,
+            "last_retested_at_iso": "2020-06-11T00:02:31.139678",
             "status": "INACTIVE"
         },
         "www.skinsbrave.com": {
@@ -55604,8 +55611,8 @@
         "www.skinsbrawl.com": {
             "included_at_epoch": 1588131923.0,
             "included_at_iso": "2020-04-29T03:45:23",
-            "last_retested_at_epoch": 1591721797.766505,
-            "last_retested_at_iso": "2020-06-09T16:56:37.766505",
+            "last_retested_at_epoch": 1591834035.515581,
+            "last_retested_at_iso": "2020-06-11T00:07:15.515581",
             "status": "INACTIVE"
         },
         "www.skinscage.com": {
@@ -55786,8 +55793,8 @@
         "www.skinsmade.com": {
             "included_at_epoch": 1588467468.0,
             "included_at_iso": "2020-05-03T00:57:48",
-            "last_retested_at_epoch": 1591712884.903784,
-            "last_retested_at_iso": "2020-06-09T14:28:04.903784",
+            "last_retested_at_epoch": 1591833929.374346,
+            "last_retested_at_iso": "2020-06-11T00:05:29.374346",
             "status": "INACTIVE"
         },
         "www.skinsmath.com": {
@@ -56080,8 +56087,8 @@
         "www.snapchathack.co": {
             "included_at_epoch": 1588269109.0,
             "included_at_iso": "2020-04-30T17:51:49",
-            "last_retested_at_epoch": 1591747634.963527,
-            "last_retested_at_iso": "2020-06-10T00:07:14.963527",
+            "last_retested_at_epoch": 1591834136.742932,
+            "last_retested_at_iso": "2020-06-11T00:08:56.742932",
             "status": "INACTIVE"
         },
         "www.snapchathack.mobi": {
@@ -56122,8 +56129,8 @@
         "www.snowcases.net": {
             "included_at_epoch": 1588156592.0,
             "included_at_iso": "2020-04-29T10:36:32",
-            "last_retested_at_epoch": 1591727123.470647,
-            "last_retested_at_iso": "2020-06-09T18:25:23.470647",
+            "last_retested_at_epoch": 1591833937.853582,
+            "last_retested_at_iso": "2020-06-11T00:05:37.853582",
             "status": "INACTIVE"
         },
         "www.soccerstars-hack.net": {
@@ -56164,8 +56171,8 @@
         "www.socmedfollowers.com": {
             "included_at_epoch": 1588230325.0,
             "included_at_iso": "2020-04-30T07:05:25",
-            "last_retested_at_epoch": 1591743167.29508,
-            "last_retested_at_iso": "2020-06-09T22:52:47.295080",
+            "last_retested_at_epoch": 1591833848.916078,
+            "last_retested_at_iso": "2020-06-11T00:04:08.916078",
             "status": "INACTIVE"
         },
         "www.sodudak.ru": {
@@ -56185,8 +56192,8 @@
         "www.softedoo.com": {
             "included_at_epoch": 1588363765.0,
             "included_at_iso": "2020-05-01T20:09:25",
-            "last_retested_at_epoch": 1591743009.235218,
-            "last_retested_at_iso": "2020-06-09T22:50:09.235218",
+            "last_retested_at_epoch": 1591833653.983688,
+            "last_retested_at_iso": "2020-06-11T00:00:53.983688",
             "status": "INACTIVE"
         },
         "www.softwarecrackfree.com": {
@@ -56451,8 +56458,8 @@
         "www.spotygen.com": {
             "included_at_epoch": 1588414677.0,
             "included_at_iso": "2020-05-02T10:17:57",
-            "last_retested_at_epoch": 1591742497.290098,
-            "last_retested_at_iso": "2020-06-09T22:41:37.290098",
+            "last_retested_at_epoch": 1591834255.494635,
+            "last_retested_at_iso": "2020-06-11T00:10:55.494635",
             "status": "INACTIVE"
         },
         "www.spywhatsapp.es": {
@@ -56948,8 +56955,8 @@
         "www.steamcoymmunity.com": {
             "included_at_epoch": 1588488368.0,
             "included_at_iso": "2020-05-03T06:46:08",
-            "last_retested_at_epoch": 1591732331.456422,
-            "last_retested_at_iso": "2020-06-09T19:52:11.456422",
+            "last_retested_at_epoch": 1591833442.485001,
+            "last_retested_at_iso": "2020-06-10T23:57:22.485001",
             "status": "INACTIVE"
         },
         "www.steamcrash.su": {
@@ -57207,8 +57214,8 @@
         "www.steomcannunily.com": {
             "included_at_epoch": 1588472103.0,
             "included_at_iso": "2020-05-03T02:15:03",
-            "last_retested_at_epoch": 1591742907.679134,
-            "last_retested_at_iso": "2020-06-09T22:48:27.679134",
+            "last_retested_at_epoch": 1591834232.849134,
+            "last_retested_at_iso": "2020-06-11T00:10:32.849134",
             "status": "INACTIVE"
         },
         "www.stickrunhack.com": {
@@ -57382,8 +57389,8 @@
         "www.sunnygamble.com": {
             "included_at_epoch": 1590211087.174702,
             "included_at_iso": "2020-05-23T05:18:07.174702",
-            "last_retested_at_epoch": 1591727140.048638,
-            "last_retested_at_iso": "2020-06-09T18:25:40.048638",
+            "last_retested_at_epoch": 1591834278.39207,
+            "last_retested_at_iso": "2020-06-11T00:11:18.392070",
             "status": "INACTIVE"
         },
         "www.super-cheats.com": {
@@ -57410,8 +57417,8 @@
         "www.superfreehacks.com": {
             "included_at_epoch": 1588382237.0,
             "included_at_iso": "2020-05-02T01:17:17",
-            "last_retested_at_epoch": 1591743241.12046,
-            "last_retested_at_iso": "2020-06-09T22:54:01.120460",
+            "last_retested_at_epoch": 1591833586.756993,
+            "last_retested_at_iso": "2020-06-10T23:59:46.756993",
             "status": "INACTIVE"
         },
         "www.supernotessolution.com": {
@@ -57438,8 +57445,8 @@
         "www.support-apple-services.net": {
             "included_at_epoch": 1588313519.0,
             "included_at_iso": "2020-05-01T06:11:59",
-            "last_retested_at_epoch": 1591717669.939369,
-            "last_retested_at_iso": "2020-06-09T15:47:49.939369",
+            "last_retested_at_epoch": 1591833543.6233,
+            "last_retested_at_iso": "2020-06-10T23:59:03.623300",
             "status": "INACTIVE"
         },
         "www.surup.ru": {
@@ -57690,8 +57697,8 @@
         "www.teamvoxinger.net": {
             "included_at_epoch": 1588033077.0,
             "included_at_iso": "2020-04-28T00:17:57",
-            "last_retested_at_epoch": 1591727722.53121,
-            "last_retested_at_iso": "2020-06-09T18:35:22.531210",
+            "last_retested_at_epoch": 1591833987.139927,
+            "last_retested_at_iso": "2020-06-11T00:06:27.139927",
             "status": "INACTIVE"
         },
         "www.technicalfault.tech": {
@@ -57795,8 +57802,8 @@
         "www.tescovouchersfree.com": {
             "included_at_epoch": 1588419252.0,
             "included_at_iso": "2020-05-02T11:34:12",
-            "last_retested_at_epoch": 1591727276.829886,
-            "last_retested_at_iso": "2020-06-09T18:27:56.829886",
+            "last_retested_at_epoch": 1591833540.579235,
+            "last_retested_at_iso": "2020-06-10T23:59:00.579235",
             "status": "INACTIVE"
         },
         "www.tesla-gifting.site": {
@@ -57949,8 +57956,8 @@
         "www.thebestpsncodegenerator.com": {
             "included_at_epoch": 1588457820.0,
             "included_at_iso": "2020-05-02T22:17:00",
-            "last_retested_at_epoch": 1591717804.278722,
-            "last_retested_at_iso": "2020-06-09T15:50:04.278722",
+            "last_retested_at_epoch": 1591833689.960049,
+            "last_retested_at_iso": "2020-06-11T00:01:29.960049",
             "status": "INACTIVE"
         },
         "www.theblackops2hack.com": {
@@ -57991,8 +57998,8 @@
         "www.thedailyreward.com": {
             "included_at_epoch": 1588178045.0,
             "included_at_iso": "2020-04-29T16:34:05",
-            "last_retested_at_epoch": 1591727180.107818,
-            "last_retested_at_iso": "2020-06-09T18:26:20.107818",
+            "last_retested_at_epoch": 1591834192.758669,
+            "last_retested_at_iso": "2020-06-11T00:09:52.758669",
             "status": "INACTIVE"
         },
         "www.thefreeiphoneunlock.com": {
@@ -58194,8 +58201,8 @@
         "www.thronerushhackonline.net": {
             "included_at_epoch": 1588480982.0,
             "included_at_iso": "2020-05-03T04:43:02",
-            "last_retested_at_epoch": 1591737380.954562,
-            "last_retested_at_iso": "2020-06-09T21:16:20.954562",
+            "last_retested_at_epoch": 1591834140.3787,
+            "last_retested_at_iso": "2020-06-11T00:09:00.378700",
             "status": "INACTIVE"
         },
         "www.thugskins.top": {
@@ -58432,8 +58439,8 @@
         "www.topfree.us": {
             "included_at_epoch": 1588388530.0,
             "included_at_iso": "2020-05-02T03:02:10",
-            "last_retested_at_epoch": 1591713238.915339,
-            "last_retested_at_iso": "2020-06-09T14:33:58.915339",
+            "last_retested_at_epoch": 1591833828.691865,
+            "last_retested_at_iso": "2020-06-11T00:03:48.691865",
             "status": "INACTIVE"
         },
         "www.topgamecrack.top": {
@@ -58544,8 +58551,8 @@
         "www.touslesjeuxpiraternouveau.fr": {
             "included_at_epoch": 1588410148.0,
             "included_at_iso": "2020-05-02T09:02:28",
-            "last_retested_at_epoch": 1591737641.670044,
-            "last_retested_at_iso": "2020-06-09T21:20:41.670044",
+            "last_retested_at_epoch": 1591833710.197151,
+            "last_retested_at_iso": "2020-06-11T00:01:50.197151",
             "status": "INACTIVE"
         },
         "www.tovermailtje.nl": {
@@ -59174,8 +59181,8 @@
         "www.ultra-hack.com": {
             "included_at_epoch": 1588438942.0,
             "included_at_iso": "2020-05-02T17:02:22",
-            "last_retested_at_epoch": 1591707854.136175,
-            "last_retested_at_iso": "2020-06-09T13:04:14.136175",
+            "last_retested_at_epoch": 1591834318.472739,
+            "last_retested_at_iso": "2020-06-11T00:11:58.472739",
             "status": "INACTIVE"
         },
         "www.ultragamehacks.com": {
@@ -59195,8 +59202,8 @@
         "www.undetectedcheats.com": {
             "included_at_epoch": 1590041061.65274,
             "included_at_iso": "2020-05-21T06:04:21.652740",
-            "last_retested_at_epoch": 1591702730.323388,
-            "last_retested_at_iso": "2020-06-09T11:38:50.323388",
+            "last_retested_at_epoch": 1591833438.340061,
+            "last_retested_at_iso": "2020-06-10T23:57:18.340061",
             "status": "INACTIVE"
         },
         "www.unionxcase.com": {
@@ -59398,8 +59405,8 @@
         "www.uploadgreat.com": {
             "included_at_epoch": 1588240457.0,
             "included_at_iso": "2020-04-30T09:54:17",
-            "last_retested_at_epoch": 1591689233.882174,
-            "last_retested_at_iso": "2020-06-09T07:53:53.882174",
+            "last_retested_at_epoch": 1591834022.515316,
+            "last_retested_at_iso": "2020-06-11T00:07:02.515316",
             "status": "INACTIVE"
         },
         "www.uploadjunkies.com": {
@@ -59566,8 +59573,8 @@
         "www.v339419.com": {
             "included_at_epoch": 1587854852.0,
             "included_at_iso": "2020-04-25T22:47:32",
-            "last_retested_at_epoch": 1591658084.940849,
-            "last_retested_at_iso": "2020-06-08T23:14:44.940849",
+            "last_retested_at_epoch": 1591833469.060951,
+            "last_retested_at_iso": "2020-06-10T23:57:49.060951",
             "status": "INACTIVE"
         },
         "www.vaccine-coronavirus.com": {
@@ -59636,8 +59643,8 @@
         "www.veasydownload.net": {
             "included_at_epoch": 1588212466.0,
             "included_at_iso": "2020-04-30T02:07:46",
-            "last_retested_at_epoch": 1591708478.504481,
-            "last_retested_at_iso": "2020-06-09T13:14:38.504481",
+            "last_retested_at_epoch": 1591833870.627166,
+            "last_retested_at_iso": "2020-06-11T00:04:30.627166",
             "status": "INACTIVE"
         },
         "www.verified-hacks.net": {
@@ -59713,8 +59720,8 @@
         "www.video-id.org": {
             "included_at_epoch": 1588481154.0,
             "included_at_iso": "2020-05-03T04:45:54",
-            "last_retested_at_epoch": 1591742702.339209,
-            "last_retested_at_iso": "2020-06-09T22:45:02.339209",
+            "last_retested_at_epoch": 1591833892.507658,
+            "last_retested_at_iso": "2020-06-11T00:04:52.507658",
             "status": "INACTIVE"
         },
         "www.videofxtools.com": {
@@ -59951,8 +59958,8 @@
         "www.vor.cc": {
             "included_at_epoch": 1588462707.0,
             "included_at_iso": "2020-05-02T23:38:27",
-            "last_retested_at_epoch": 1591742730.807813,
-            "last_retested_at_iso": "2020-06-09T22:45:30.807813",
+            "last_retested_at_epoch": 1591833905.408802,
+            "last_retested_at_iso": "2020-06-11T00:05:05.408802",
             "status": "INACTIVE"
         },
         "www.voucherfree.info": {
@@ -60049,8 +60056,8 @@
         "www.wallhackblackops2.com": {
             "included_at_epoch": 1588472228.0,
             "included_at_iso": "2020-05-03T02:17:08",
-            "last_retested_at_epoch": 1591662590.815244,
-            "last_retested_at_iso": "2020-06-09T00:29:50.815244",
+            "last_retested_at_epoch": 1591834139.854969,
+            "last_retested_at_iso": "2020-06-11T00:08:59.854969",
             "status": "INACTIVE"
         },
         "www.wannacrydecryptor.com": {
@@ -60196,8 +60203,8 @@
         "www.wayofgambling.com": {
             "included_at_epoch": 1588190784.0,
             "included_at_iso": "2020-04-29T20:06:24",
-            "last_retested_at_epoch": 1591632756.429902,
-            "last_retested_at_iso": "2020-06-08T16:12:36.429902",
+            "last_retested_at_epoch": 1591833690.55709,
+            "last_retested_at_iso": "2020-06-11T00:01:30.557090",
             "status": "INACTIVE"
         },
         "www.weakwiki.com": {
@@ -60462,8 +60469,8 @@
         "www.wifi-password-finder.org": {
             "included_at_epoch": 1588230283.0,
             "included_at_iso": "2020-04-30T07:04:43",
-            "last_retested_at_epoch": 1591722342.204865,
-            "last_retested_at_iso": "2020-06-09T17:05:42.204865",
+            "last_retested_at_epoch": 1591833868.00574,
+            "last_retested_at_iso": "2020-06-11T00:04:28.005740",
             "status": "INACTIVE"
         },
         "www.wifihack.org": {
@@ -60847,8 +60854,8 @@
         "www.wsofreedownload.com": {
             "included_at_epoch": 1588453272.0,
             "included_at_iso": "2020-05-02T21:01:12",
-            "last_retested_at_epoch": 1591713124.031749,
-            "last_retested_at_iso": "2020-06-09T14:32:04.031749",
+            "last_retested_at_epoch": 1591833461.264799,
+            "last_retested_at_iso": "2020-06-10T23:57:41.264799",
             "status": "INACTIVE"
         },
         "www.wtfdrops.com": {
@@ -60875,8 +60882,8 @@
         "www.wukivu.ru": {
             "included_at_epoch": 1588336753.0,
             "included_at_iso": "2020-05-01T12:39:13",
-            "last_retested_at_epoch": 1591702821.107687,
-            "last_retested_at_iso": "2020-06-09T11:40:21.107687",
+            "last_retested_at_epoch": 1591834047.77458,
+            "last_retested_at_iso": "2020-06-11T00:07:27.774580",
             "status": "INACTIVE"
         },
         "www.wular.ru": {
@@ -60945,8 +60952,8 @@
         "www.x-steam.com": {
             "included_at_epoch": 1588377375.0,
             "included_at_iso": "2020-05-01T23:56:15",
-            "last_retested_at_epoch": 1591732102.76162,
-            "last_retested_at_iso": "2020-06-09T19:48:22.761620",
+            "last_retested_at_epoch": 1591833752.719092,
+            "last_retested_at_iso": "2020-06-11T00:02:32.719092",
             "status": "INACTIVE"
         },
         "www.x3x.su": {
@@ -61008,8 +61015,8 @@
         "www.xblgenerator.com": {
             "included_at_epoch": 1588372934.0,
             "included_at_iso": "2020-05-01T22:42:14",
-            "last_retested_at_epoch": 1591742795.918417,
-            "last_retested_at_iso": "2020-06-09T22:46:35.918417",
+            "last_retested_at_epoch": 1591833703.108998,
+            "last_retested_at_iso": "2020-06-11T00:01:43.108998",
             "status": "INACTIVE"
         },
         "www.xblpointcodes.com": {
@@ -61064,8 +61071,8 @@
         "www.xboxlive4free.net": {
             "included_at_epoch": 1588409749.0,
             "included_at_iso": "2020-05-02T08:55:49",
-            "last_retested_at_epoch": 1591742544.676864,
-            "last_retested_at_iso": "2020-06-09T22:42:24.676864",
+            "last_retested_at_epoch": 1591833673.424561,
+            "last_retested_at_iso": "2020-06-11T00:01:13.424561",
             "status": "INACTIVE"
         },
         "www.xboxlivecodegenerator.info": {
@@ -61197,8 +61204,8 @@
         "www.xg-hacks.com": {
             "included_at_epoch": 1588488531.0,
             "included_at_iso": "2020-05-03T06:48:51",
-            "last_retested_at_epoch": 1591731747.223232,
-            "last_retested_at_iso": "2020-06-09T19:42:27.223232",
+            "last_retested_at_epoch": 1591833896.35064,
+            "last_retested_at_iso": "2020-06-11T00:04:56.350640",
             "status": "INACTIVE"
         },
         "www.xgamble.wtf": {
@@ -61211,8 +61218,8 @@
         "www.xgame-drop.store": {
             "included_at_epoch": 1588481099.0,
             "included_at_iso": "2020-05-03T04:44:59",
-            "last_retested_at_epoch": 1591737804.264994,
-            "last_retested_at_iso": "2020-06-09T21:23:24.264994",
+            "last_retested_at_epoch": 1591833673.925636,
+            "last_retested_at_iso": "2020-06-11T00:01:13.925636",
             "status": "INACTIVE"
         },
         "www.xgamehacking.eu": {
@@ -61260,8 +61267,8 @@
         "www.xmultiply.pro": {
             "included_at_epoch": 1588304128.0,
             "included_at_iso": "2020-05-01T03:35:28",
-            "last_retested_at_epoch": 1591708094.568561,
-            "last_retested_at_iso": "2020-06-09T13:08:14.568561",
+            "last_retested_at_epoch": 1591834146.135883,
+            "last_retested_at_iso": "2020-06-11T00:09:06.135883",
             "status": "INACTIVE"
         },
         "www.xn--bitskns-vfb.com": {
@@ -61589,8 +61596,8 @@
         "www.yourfreesoftonline.com": {
             "included_at_epoch": 1589603371.378413,
             "included_at_iso": "2020-05-16T04:29:31.378413",
-            "last_retested_at_epoch": 1591702641.732383,
-            "last_retested_at_iso": "2020-06-09T11:37:21.732383",
+            "last_retested_at_epoch": 1591833541.850831,
+            "last_retested_at_iso": "2020-06-10T23:59:01.850831",
             "status": "INACTIVE"
         },
         "www.yourfreevideoipods.com": {
@@ -61631,8 +61638,8 @@
         "www.yousendit.fr": {
             "included_at_epoch": 1588452954.0,
             "included_at_iso": "2020-05-02T20:55:54",
-            "last_retested_at_epoch": 1591717353.56352,
-            "last_retested_at_iso": "2020-06-09T15:42:33.563520",
+            "last_retested_at_epoch": 1591833719.643614,
+            "last_retested_at_iso": "2020-06-11T00:01:59.643614",
             "status": "INACTIVE"
         },
         "www.youshouldwatch.me": {
@@ -61848,8 +61855,8 @@
         "www.zurev.ru": {
             "included_at_epoch": 1588373185.0,
             "included_at_iso": "2020-05-01T22:46:25",
-            "last_retested_at_epoch": 1591586708.811048,
-            "last_retested_at_iso": "2020-06-08T03:25:08.811048",
+            "last_retested_at_epoch": 1591833442.003957,
+            "last_retested_at_iso": "2020-06-10T23:57:22.003957",
             "status": "INACTIVE"
         },
         "www.zynga-poker-hack.net": {
@@ -61918,8 +61925,8 @@
         "xblgenerator.com": {
             "included_at_epoch": 1588457689.0,
             "included_at_iso": "2020-05-02T22:14:49",
-            "last_retested_at_epoch": 1591742795.962111,
-            "last_retested_at_iso": "2020-06-09T22:46:35.962111",
+            "last_retested_at_epoch": 1591833703.066262,
+            "last_retested_at_iso": "2020-06-11T00:01:43.066262",
             "status": "INACTIVE"
         },
         "xblunter.net": {
@@ -61967,8 +61974,8 @@
         "xboxlive4free.net": {
             "included_at_epoch": 1588257272.0,
             "included_at_iso": "2020-04-30T14:34:32",
-            "last_retested_at_epoch": 1591742544.570572,
-            "last_retested_at_iso": "2020-06-09T22:42:24.570572",
+            "last_retested_at_epoch": 1591833673.304214,
+            "last_retested_at_iso": "2020-06-11T00:01:13.304214",
             "status": "INACTIVE"
         },
         "xboxlivecodegenerator.info": {
@@ -62079,8 +62086,8 @@
         "xg-hacks.com": {
             "included_at_epoch": 1588488531.0,
             "included_at_iso": "2020-05-03T06:48:51",
-            "last_retested_at_epoch": 1591731747.200737,
-            "last_retested_at_iso": "2020-06-09T19:42:27.200737",
+            "last_retested_at_epoch": 1591833896.170195,
+            "last_retested_at_iso": "2020-06-11T00:04:56.170195",
             "status": "INACTIVE"
         },
         "xgame-drop.store": {
@@ -62338,8 +62345,8 @@
         "yousendit.fr": {
             "included_at_epoch": 1588452953.0,
             "included_at_iso": "2020-05-02T20:55:53",
-            "last_retested_at_epoch": 1591717354.170475,
-            "last_retested_at_iso": "2020-06-09T15:42:34.170475",
+            "last_retested_at_epoch": 1591833720.78392,
+            "last_retested_at_iso": "2020-06-11T00:02:00.783920",
             "status": "INACTIVE"
         },
         "youshouldwatch.me": {
@@ -62513,8 +62520,8 @@
         "zurev.ru": {
             "included_at_epoch": 1588373185.0,
             "included_at_iso": "2020-05-01T22:46:25",
-            "last_retested_at_epoch": 1591586708.687179,
-            "last_retested_at_iso": "2020-06-08T03:25:08.687179",
+            "last_retested_at_epoch": 1591833441.67535,
+            "last_retested_at_iso": "2020-06-10T23:57:21.675350",
             "status": "INACTIVE"
         },
         "zynga-poker-hack.net": {

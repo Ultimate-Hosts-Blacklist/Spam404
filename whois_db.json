@@ -6804,6 +6804,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "freegies.com": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
     "freegiftcardgenerator.com": {
         "epoch": 1622592000.0,
         "expiration_date": "02-jun-2021",
@@ -17582,7 +17587,7 @@
     "topmoviehd.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "topmovies4free.com": {
         "epoch": 1607212800.0,
