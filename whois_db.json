@@ -5392,7 +5392,7 @@
     "fastrade.net": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "fazebet.com": {
         "epoch": 1597708800.0,
@@ -12432,7 +12432,7 @@
     "merrygamble.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mesexclusivites.fr": {
         "epoch": 1593648000.0,
