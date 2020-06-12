@@ -492,7 +492,7 @@
     "alphajailbreak.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "alt-gen.com": {
         "epoch": 1604102400.0,
@@ -4547,7 +4547,7 @@
     "dropingskins.fun": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dropskinz.net": {
         "epoch": 1616457600.0,
@@ -4905,8 +4905,8 @@
         "state": "future"
     },
     "ep0ch.net": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "epctrking.com": {
