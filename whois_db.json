@@ -3482,7 +3482,7 @@
     "csgosearchengine.com": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgoshow.com": {
         "epoch": 1613779200.0,
@@ -16260,9 +16260,9 @@
         "state": "future"
     },
     "skinxprize.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
-        "state": "past"
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
     },
     "skinxswap.com": {
         "epoch": 1613001600.0,
