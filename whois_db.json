@@ -5049,6 +5049,11 @@
         "expiration_date": "16-jun-2020",
         "state": "future"
     },
+    "eve-online-credit.net": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "state": "future"
+    },
     "eventcsgo.pro": {
         "epoch": 1621728000.0,
         "expiration_date": "23-may-2021",
@@ -12355,8 +12360,8 @@
         "state": "future"
     },
     "meezhacks.net": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "mefid.ru": {
