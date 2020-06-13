@@ -16112,7 +16112,7 @@
     "skins-push.com": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "skins-roulette.com": {
         "epoch": 1621987200.0,
@@ -17062,7 +17062,7 @@
     "suvomac.ru": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "suvoz.ru": {
         "epoch": 1595203200.0,
