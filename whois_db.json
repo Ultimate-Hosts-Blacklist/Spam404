@@ -3387,7 +3387,7 @@
     "csgolaw.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgolden.com": {
         "epoch": 1618876800.0,
@@ -13670,8 +13670,8 @@
         "state": "future"
     },
     "ofclans.com": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "officialcheats.info": {
@@ -18955,8 +18955,8 @@
         "state": "future"
     },
     "worldhack.net": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "worldjailbreak.com": {
