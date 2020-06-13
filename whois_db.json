@@ -3615,8 +3615,8 @@
         "state": "future"
     },
     "csmoonrise.pro": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "csrich.pro": {
@@ -11220,9 +11220,9 @@
         "state": "future"
     },
     "k-cheats.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
-        "state": "past"
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
     },
     "k4movie.com": {
         "epoch": 1619827200.0,
@@ -12430,9 +12430,9 @@
         "state": "future"
     },
     "merrygamble.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
-        "state": "past"
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
     },
     "mesexclusivites.fr": {
         "epoch": 1593648000.0,
@@ -16457,6 +16457,11 @@
     "softwarestab.com": {
         "epoch": 1622073600.0,
         "expiration_date": "27-may-2021",
+        "state": "future"
+    },
+    "softwaretricks.net": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "soigbu.ru": {
