@@ -997,7 +997,7 @@
     "bamosis.ru": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bandbuzzer.com": {
         "epoch": 1616716800.0,
@@ -3807,7 +3807,7 @@
     "deezer-france.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "deezerpremiumplusfree.com": {
         "epoch": 1619308800.0,
@@ -4550,9 +4550,9 @@
         "state": "future"
     },
     "dropingskins.fun": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
-        "state": "past"
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
     },
     "dropskinz.net": {
         "epoch": 1616457600.0,
