@@ -14290,9 +14290,9 @@
         "state": "future"
     },
     "platformhub.wtf": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
-        "state": "past"
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
     },
     "play-services.com": {
         "epoch": 1600819200.0,
@@ -16657,7 +16657,7 @@
     "stardrop.fun": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "starrygamble.com": {
         "epoch": 1618099200.0,
