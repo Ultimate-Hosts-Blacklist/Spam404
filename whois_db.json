@@ -7159,6 +7159,11 @@
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
+    "freepsn.net": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
     "freepsncardsgenerator.com": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
@@ -16400,8 +16405,8 @@
         "state": "future"
     },
     "socialgamerhelpers.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "socialhacks.net": {
