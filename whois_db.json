@@ -5050,8 +5050,8 @@
         "state": "future"
     },
     "evasionjailbreak.net": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "eve-online-credit.net": {
@@ -12442,7 +12442,7 @@
     "meromou.ru": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "merrygamble.com": {
         "epoch": 1623456000.0,
