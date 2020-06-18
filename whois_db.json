@@ -1860,8 +1860,8 @@
         "state": "future"
     },
     "ce7.org": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "cecav.ru": {
@@ -8490,8 +8490,8 @@
         "state": "future"
     },
     "ggmail.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "ggooogle.com": {
@@ -8617,7 +8617,7 @@
     "giveawayskin.pro": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "giveawayskin.xyz": {
         "epoch": 1621382400.0,
@@ -18325,8 +18325,8 @@
         "state": "future"
     },
     "vbucksepic.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "vbucksmillionaire.com": {
