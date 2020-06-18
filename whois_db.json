@@ -647,7 +647,7 @@
     "anonyscrip.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "anyhacks.com": {
         "epoch": 1617321600.0,
@@ -2602,7 +2602,7 @@
     "cloud-skins.fun": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "clubproposte.it": {
         "epoch": 1602115200.0,
@@ -6337,7 +6337,7 @@
     "foduzi.ru": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "foldertube.com": {
         "epoch": 1648857600.0,
@@ -9115,8 +9115,8 @@
         "state": "future"
     },
     "gsniper.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "gsniper2.com": {
@@ -13027,7 +13027,7 @@
     "multigamble.wtf": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "musicg8.com": {
         "epoch": 1633392000.0,
@@ -16267,7 +16267,7 @@
     "skinsway.fun": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "skinswhite.com": {
         "epoch": 1623283200.0,
@@ -18970,9 +18970,9 @@
         "state": "future"
     },
     "world-case.fun": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
-        "state": "past"
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
     },
     "worldcase.fun": {
         "epoch": 1592438400.0,
@@ -18982,7 +18982,7 @@
     "worldcases.fun": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "worldhack.net": {
         "epoch": 1623542400.0,
