@@ -2292,7 +2292,7 @@
     "chop.wtf": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "chopchop.wtf": {
         "epoch": 1592611200.0,
@@ -2600,9 +2600,9 @@
         "state": "future"
     },
     "cloud-skins.fun": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "clubproposte.it": {
         "epoch": 1602115200.0,
@@ -16275,9 +16275,9 @@
         "state": "future"
     },
     "skinsway.fun": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "skinswhite.com": {
         "epoch": 1623283200.0,
