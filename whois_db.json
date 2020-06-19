@@ -4267,7 +4267,7 @@
     "download-fast.net": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "download-free-hack.com": {
         "epoch": 1622505600.0,
@@ -8625,9 +8625,9 @@
         "state": "future"
     },
     "giveawayskin.pro": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "giveawayskin.xyz": {
         "epoch": 1621382400.0,
@@ -18985,8 +18985,8 @@
         "state": "future"
     },
     "worldcase.fun": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "worldcases.fun": {
