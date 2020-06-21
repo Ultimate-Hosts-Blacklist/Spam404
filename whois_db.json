@@ -2530,8 +2530,8 @@
         "state": "future"
     },
     "clashofclanswar.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "clashofgems.net": {
@@ -7595,8 +7595,8 @@
         "state": "future"
     },
     "funinformatique.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1782000000.0,
+        "expiration_date": "21-jun-2026",
         "state": "future"
     },
     "funshared.com": {
@@ -11572,7 +11572,7 @@
     "league-gamers.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "leaguegamer.net": {
         "epoch": 1621555200.0,
