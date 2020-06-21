@@ -5482,7 +5482,7 @@
     "fbcheats.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "fbcreditsfree.com": {
         "epoch": 1597449600.0,
@@ -9425,8 +9425,8 @@
         "state": "future"
     },
     "hackclashofclans.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "hackcrackkeygenteam.com": {
@@ -14855,8 +14855,8 @@
         "state": "future"
     },
     "purebits.net": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "purecheats.net": {
@@ -15397,7 +15397,7 @@
     "rolls.wtf": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "rollskins.one": {
         "epoch": 1580601600.0,
