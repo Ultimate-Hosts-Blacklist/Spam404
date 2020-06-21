@@ -13060,9 +13060,9 @@
         "state": "future"
     },
     "musicleaked.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
-        "state": "past"
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
     },
     "musique-france.com": {
         "epoch": 1593907200.0,
@@ -17747,6 +17747,11 @@
     "trainerfree.com": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
+        "state": "future"
+    },
+    "transferspeedy.com": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "trek21.net": {
