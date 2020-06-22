@@ -3657,7 +3657,7 @@
     "cubegaming.net": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cubeworlddownload.com": {
         "epoch": 1606089600.0,
@@ -12287,7 +12287,7 @@
     "maxecoko.ru": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "maximhack.com": {
         "epoch": 1600214400.0,
