@@ -1942,7 +1942,7 @@
     "cf2.me": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ch3at.com": {
         "epoch": 1595030400.0,
@@ -18767,7 +18767,7 @@
     "webeyu.ru": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "webfullhd-uk.com": {
         "epoch": 1603584000.0,
