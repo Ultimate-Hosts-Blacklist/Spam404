@@ -11317,7 +11317,7 @@
     "keliye.ru": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "kellaform.ru": {
         "epoch": 1586736000.0,
@@ -11570,9 +11570,9 @@
         "state": "future"
     },
     "league-gamers.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "leaguegamer.net": {
         "epoch": 1621555200.0,
@@ -14690,9 +14690,9 @@
         "state": "future"
     },
     "ps3portal.net": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "ps3superslimjailbreak.com": {
         "epoch": 1621814400.0,
