@@ -7130,9 +7130,9 @@
         "state": "future"
     },
     "freeplaygiftcards.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
-        "state": "past"
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
     },
     "freeplaystationcards.info": {
         "epoch": 1609200000.0,
@@ -12672,7 +12672,7 @@
     "mishacks.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "misscrack.com": {
         "epoch": 1600387200.0,
