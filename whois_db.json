@@ -245,9 +245,9 @@
         "state": "future"
     },
     "99cheats.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
-        "state": "past"
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
     },
     "99noivas.com": {
         "epoch": 1605484800.0,
@@ -1137,7 +1137,7 @@
     "bestfiles.org": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bestfreecodes.com": {
         "epoch": 1612396800.0,
