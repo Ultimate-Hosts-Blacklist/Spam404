@@ -2242,7 +2242,7 @@
     "cheatsup.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cheatswithoutjailbreak.com": {
         "epoch": 1603929600.0,
@@ -5750,8 +5750,8 @@
         "state": "future"
     },
     "filecracks.net": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "filedictation.com": {
@@ -11925,8 +11925,8 @@
         "state": "future"
     },
     "livedirsetsoftware.org": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "livefunz.com": {
@@ -14235,9 +14235,9 @@
         "state": "future"
     },
     "pirater-compte.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
     },
     "pirater-facebook-gratuit.net": {
         "epoch": 1611705600.0,
