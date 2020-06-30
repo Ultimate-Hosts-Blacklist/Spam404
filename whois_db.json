@@ -10462,7 +10462,7 @@
     "hqhacks.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hqshared.com": {
         "epoch": 1631664000.0,
@@ -12010,9 +12010,9 @@
         "state": "future"
     },
     "locktrk.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
     },
     "logabc.pro": {
         "epoch": 1594598400.0,
