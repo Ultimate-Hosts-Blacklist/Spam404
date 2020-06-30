@@ -1762,7 +1762,7 @@
     "candycrushcheat.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "candycrushcheatzone.com": {
         "epoch": 1632787200.0,
@@ -6865,8 +6865,8 @@
         "state": "future"
     },
     "freeguildwars.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "freehack-softwares.com": {
@@ -8327,7 +8327,7 @@
     "genhack.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "genuinehacks.com": {
         "epoch": 1621123200.0,
