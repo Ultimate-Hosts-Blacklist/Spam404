@@ -12757,7 +12757,7 @@
     "mokov.ru": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "moneyhome.biz": {
         "epoch": 1604707200.0,
@@ -13310,8 +13310,8 @@
         "state": "future"
     },
     "nedepi.ru": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "needforfile.net": {
