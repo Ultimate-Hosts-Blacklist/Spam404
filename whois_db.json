@@ -13994,6 +13994,11 @@
         "expiration_date": "04-apr-2021",
         "state": "future"
     },
+    "ovicase.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
     "owhacks.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
