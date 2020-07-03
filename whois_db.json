@@ -3952,7 +3952,7 @@
     "dikisigi.ru": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dinxteam.com": {
         "epoch": 1603670400.0,
@@ -7275,9 +7275,9 @@
         "state": "future"
     },
     "freesoftgenerators.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
     },
     "freesoftware4all.com": {
         "epoch": 1598054400.0,
@@ -13587,7 +13587,7 @@
     "nopaku.ru": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "nosurveyhack.net": {
         "epoch": 1620950400.0,
