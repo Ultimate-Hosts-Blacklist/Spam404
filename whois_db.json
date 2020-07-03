@@ -10465,9 +10465,9 @@
         "state": "future"
     },
     "hqhacks.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
-        "state": "past"
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
     },
     "hqshared.com": {
         "epoch": 1631664000.0,
@@ -18592,7 +18592,7 @@
     "vomoko.ru": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "vooney.com": {
         "epoch": 1602288000.0,
