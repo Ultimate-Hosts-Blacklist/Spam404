@@ -1837,7 +1837,7 @@
     "cashfly.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "cashu.biz": {
         "epoch": 1622332800.0,
@@ -7257,6 +7257,11 @@
     "freerobuxandtickets.in": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "freeskin.online": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "freeskins.live": {
@@ -18920,8 +18925,8 @@
         "state": "future"
     },
     "wifihacked.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "wifihackfree.com": {
