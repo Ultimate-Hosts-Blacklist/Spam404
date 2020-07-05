@@ -9750,9 +9750,9 @@
         "state": "future"
     },
     "hackrobot.net": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
-        "state": "past"
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
     },
     "hacks-games.com": {
         "epoch": 1617148800.0,
@@ -15407,7 +15407,7 @@
     "rodekon.ru": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "rofowa.ru": {
         "epoch": 1613606400.0,
