@@ -3062,7 +3062,7 @@
     "crackssite.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "cracktheworld.com": {
         "epoch": 1619395200.0,
@@ -15352,7 +15352,7 @@
     "risehack.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "rivekre.ru": {
         "epoch": 1614729600.0,
