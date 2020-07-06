@@ -60,8 +60,8 @@
         "state": "future"
     },
     "21boxoffice.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "24-tabs.ru": {
@@ -9382,7 +9382,7 @@
     "hack4games.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hack4us.com": {
         "epoch": 1616112000.0,
