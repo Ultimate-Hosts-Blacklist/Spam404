@@ -4125,8 +4125,8 @@
         "state": "future"
     },
     "dofuskamas-generateur.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "dokona.ru": {
@@ -10427,7 +10427,7 @@
     "housemovieonline.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "houseofhacks.info": {
         "epoch": 1604102400.0,
@@ -14065,8 +14065,8 @@
         "state": "future"
     },
     "papekut.ru": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "paradiseofhacks.com": {
@@ -15365,9 +15365,9 @@
         "state": "future"
     },
     "risehack.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "rivekre.ru": {
         "epoch": 1614729600.0,
@@ -17007,7 +17007,7 @@
     "stream7.info": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "stream80.com": {
         "epoch": 1609632000.0,
