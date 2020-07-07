@@ -18914,6 +18914,11 @@
         "expiration_date": "25-sep-2021",
         "state": "future"
     },
+    "whatsappcl.com": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "whatsapphack.com": {
         "epoch": 1624752000.0,
         "expiration_date": "27-jun-2021",
