@@ -915,8 +915,8 @@
         "state": "future"
     },
     "autolikefb.net": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "avantcase.com": {
@@ -3977,7 +3977,7 @@
     "directfilelinks.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "diriginal.info": {
         "epoch": 1614297600.0,
@@ -9390,9 +9390,9 @@
         "state": "future"
     },
     "hack4games.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "hack4us.com": {
         "epoch": 1616112000.0,
@@ -10290,9 +10290,9 @@
         "state": "future"
     },
     "highschoolstoryhack.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "highwaystech.co": {
         "epoch": 1596412800.0,
