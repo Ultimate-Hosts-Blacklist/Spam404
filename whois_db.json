@@ -11532,7 +11532,7 @@
     "kufuner.ru": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "kukiwu.ru": {
         "epoch": 1595203200.0,
@@ -12400,8 +12400,8 @@
         "state": "future"
     },
     "mecetu.ru": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "media-fire.org": {
@@ -15495,8 +15495,8 @@
         "state": "future"
     },
     "rozqet.ru": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "rpfree.com": {
