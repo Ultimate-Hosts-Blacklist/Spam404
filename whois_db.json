@@ -462,7 +462,7 @@
     "allhacks2games.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "allhacksforgames.com": {
         "epoch": 1624579200.0,
@@ -1515,9 +1515,9 @@
         "state": "future"
     },
     "booprice.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
-        "state": "past"
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
     },
     "booshare.net": {
         "epoch": 1596844800.0,
