@@ -1935,8 +1935,8 @@
         "state": "future"
     },
     "certified-hacks.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "cf2.me": {
@@ -6642,7 +6642,7 @@
     "freeastuces.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "freebiecodes.com": {
         "epoch": 1608422400.0,
@@ -18035,8 +18035,8 @@
         "state": "future"
     },
     "ultimahacks.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "ultimatedownloadz.net": {
@@ -18647,7 +18647,7 @@
     "vurud.ru": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "vutera.ru": {
         "epoch": 1606780800.0,
