@@ -5314,6 +5314,11 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "facebooksteal.com": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "facebypass.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
@@ -8015,9 +8020,9 @@
         "state": "future"
     },
     "gamesarea24.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "gamesbase24.com": {
         "epoch": 1602028800.0,
@@ -18927,6 +18932,11 @@
     "whatsappmy.com": {
         "epoch": 1636502400.0,
         "expiration_date": "10-nov-2021",
+        "state": "future"
+    },
+    "whatsapps.org": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "whatstracker.org": {
