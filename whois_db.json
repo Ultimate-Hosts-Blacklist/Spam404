@@ -6110,9 +6110,9 @@
         "state": "future"
     },
     "filinggood.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
-        "state": "past"
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
     },
     "filingking.com": {
         "epoch": 1601078400.0,
@@ -9537,7 +9537,7 @@
     "hackersuniversity.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hackeruncomptefacebook.com": {
         "epoch": 1611273600.0,
