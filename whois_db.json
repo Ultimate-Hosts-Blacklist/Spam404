@@ -3322,7 +3322,7 @@
     "csgofirst.ru": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgoflap.com": {
         "epoch": 1584921600.0,
@@ -8547,7 +8547,7 @@
     "ggskinsx.fun": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ggxskins.fun": {
         "epoch": 1624752000.0,
@@ -8645,9 +8645,9 @@
         "state": "future"
     },
     "gitorm.info": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
-        "state": "past"
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
     },
     "give-aways.net": {
         "epoch": 1607644800.0,
@@ -11915,8 +11915,8 @@
         "state": "future"
     },
     "limehacks.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "linkur.org": {
