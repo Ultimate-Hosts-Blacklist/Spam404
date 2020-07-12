@@ -11192,7 +11192,7 @@
     "jeuxpirate.fr": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "jeuxpsvitagratuit.com": {
         "epoch": 1598832000.0,
@@ -16717,7 +16717,7 @@
     "st4ckgiveway.site": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "stackpoints.com": {
         "epoch": 1600905600.0,
