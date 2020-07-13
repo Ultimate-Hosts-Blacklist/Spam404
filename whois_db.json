@@ -2372,7 +2372,7 @@
     "citagiva.ru": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "claimiphone7.net": {
         "epoch": 1611532800.0,
@@ -3872,6 +3872,11 @@
     "demovie.xyz": {
         "epoch": 1621468800.0,
         "expiration_date": "20-may-2021",
+        "state": "future"
+    },
+    "depotfichiers.us": {
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "dequn.ru": {
@@ -10357,7 +10362,7 @@
     "hojava.ru": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "holadescuentos.com": {
         "epoch": 1600905600.0,
