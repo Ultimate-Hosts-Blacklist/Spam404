@@ -11372,7 +11372,7 @@
     "kesconti.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "kesslerpark.org": {
         "epoch": 1598227200.0,
@@ -15732,7 +15732,7 @@
     "sekaze.ru": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "sellclassics.com": {
         "epoch": 1622160000.0,
