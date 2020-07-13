@@ -8545,9 +8545,9 @@
         "state": "future"
     },
     "ggskinsx.fun": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "ggxskins.fun": {
         "epoch": 1624752000.0,
@@ -9535,9 +9535,9 @@
         "state": "future"
     },
     "hackersuniversity.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "hackeruncomptefacebook.com": {
         "epoch": 1611273600.0,
@@ -14707,7 +14707,7 @@
     "promofferte.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "prosperityteam.co": {
         "epoch": 1606953600.0,
