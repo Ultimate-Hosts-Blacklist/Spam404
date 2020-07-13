@@ -11890,8 +11890,8 @@
         "state": "past"
     },
     "liftmygram.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "lightdrop.top": {
@@ -15292,7 +15292,7 @@
     "rewardsforpoints.info": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "rexisa.ru": {
         "epoch": 1594684800.0,
@@ -16057,7 +16057,7 @@
     "sivanik.ru": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "sixth.biz": {
         "epoch": 1604793600.0,
@@ -16715,9 +16715,9 @@
         "state": "future"
     },
     "st4ckgiveway.site": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "stackpoints.com": {
         "epoch": 1600905600.0,
@@ -18310,8 +18310,8 @@
         "state": "future"
     },
     "usefulforgames.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "usehack.com": {
