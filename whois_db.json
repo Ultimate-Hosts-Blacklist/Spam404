@@ -2780,8 +2780,8 @@
         "state": "future"
     },
     "coinspokemongo.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "coinxback.com": {
@@ -8700,9 +8700,9 @@
         "state": "future"
     },
     "giveway-st4ck.site": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
-        "state": "past"
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "state": "future"
     },
     "glitchez.com": {
         "epoch": 1610928000.0,
