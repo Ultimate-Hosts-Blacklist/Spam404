@@ -12840,9 +12840,9 @@
         "state": "future"
     },
     "morehacks.net": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
-        "state": "past"
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "state": "future"
     },
     "morenewmedia.com": {
         "epoch": 1613952000.0,
@@ -15002,7 +15002,7 @@
     "qqskinsx.fun": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "qskin.pro": {
         "epoch": 1619049600.0,
