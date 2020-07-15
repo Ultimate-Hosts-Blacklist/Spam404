@@ -1495,8 +1495,8 @@
         "state": "future"
     },
     "boombeachhacks.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "boombeachhacks.net": {
@@ -5272,6 +5272,11 @@
     "face-woot.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "facebook-hacks.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "facebookaccounthack.com": {
