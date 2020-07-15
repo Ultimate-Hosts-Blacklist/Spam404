@@ -6942,7 +6942,7 @@
     "freehst.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "freehuluplus.org": {
         "epoch": 1606089600.0,
@@ -10087,7 +10087,7 @@
     "hacktelecharger.net": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hackterritory.info": {
         "epoch": 1621468800.0,
@@ -11465,8 +11465,8 @@
         "state": "future"
     },
     "kinako.ru": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "kinghackerworld.com": {
@@ -18932,6 +18932,11 @@
     "whatsapp-app.com": {
         "epoch": 1632528000.0,
         "expiration_date": "25-sep-2021",
+        "state": "future"
+    },
+    "whatsapp-hack.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "whatsappcl.com": {
