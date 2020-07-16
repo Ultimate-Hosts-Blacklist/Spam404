@@ -3119,6 +3119,11 @@
         "expiration_date": "29-apr-2021",
         "state": "future"
     },
+    "cryptoforhealth.com": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
+    },
     "cryptoxcash.com": {
         "epoch": 1613433600.0,
         "expiration_date": "16-feb-2021",
