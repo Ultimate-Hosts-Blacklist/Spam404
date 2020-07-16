@@ -772,7 +772,7 @@
     "appscracker.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "appsdroid.org": {
         "epoch": 1619049600.0,
@@ -18347,7 +18347,7 @@
     "usa-hacks.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "usefulforgames.com": {
         "epoch": 1626134400.0,
