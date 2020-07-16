@@ -3442,7 +3442,7 @@
     "csgomagic.org": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgomarkets.icu": {
         "epoch": 1621900800.0,
@@ -6492,6 +6492,11 @@
     "freasoft.com": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "frecheats.com": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "free-amazon-gifts.info": {
@@ -12142,7 +12147,7 @@
     "lootversus.wtf": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "lopagu.ru": {
         "epoch": 1618099200.0,
@@ -15010,9 +15015,9 @@
         "state": "future"
     },
     "qqskinsx.fun": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "qskin.pro": {
         "epoch": 1619049600.0,
