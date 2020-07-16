@@ -10105,9 +10105,9 @@
         "state": "future"
     },
     "hacktelecharger.net": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "hackterritory.info": {
         "epoch": 1621468800.0,
@@ -10817,7 +10817,7 @@
     "infocsgo.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "infragantes.com": {
         "epoch": 1616457600.0,
