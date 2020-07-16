@@ -6482,7 +6482,7 @@
     "fpstool.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "frankjackpot.pro": {
         "epoch": 1622160000.0,
@@ -6955,9 +6955,9 @@
         "state": "future"
     },
     "freehst.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "freehuluplus.org": {
         "epoch": 1606089600.0,
@@ -19745,9 +19745,9 @@
         "state": "future"
     },
     "yournintendowii4free.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "youronlinesoft.com": {
         "epoch": 1604102400.0,
