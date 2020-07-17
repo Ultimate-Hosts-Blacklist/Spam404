@@ -7617,7 +7617,7 @@
     "fullgamesonline.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "fullgamespc.com": {
         "epoch": 1596153600.0,
@@ -8660,8 +8660,8 @@
         "state": "future"
     },
     "gipova.ru": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "giredo.com": {
@@ -10037,7 +10037,7 @@
     "hacksonline.org": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hacksparadise.com": {
         "epoch": 1606521600.0,
@@ -16737,7 +16737,7 @@
     "st4ck-giveaways.site": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "st4ck-givesk1ns.site": {
         "epoch": 1595116800.0,
@@ -16747,7 +16747,7 @@
     "st4ck-tournament.site": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "st4ckgives.site": {
         "epoch": 1626048000.0,
