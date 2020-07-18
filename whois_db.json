@@ -8757,7 +8757,7 @@
     "glveway-st4ck.site": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "gmailhack.top": {
         "epoch": 1609027200.0,
@@ -10035,9 +10035,9 @@
         "state": "future"
     },
     "hacksonline.org": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "hacksparadise.com": {
         "epoch": 1606521600.0,
