@@ -8755,9 +8755,9 @@
         "state": "future"
     },
     "glveway-st4ck.site": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
-        "state": "past"
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
     },
     "gmailhack.top": {
         "epoch": 1609027200.0,
@@ -12282,6 +12282,11 @@
     "magicchance.com": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "magiccheats.com": {
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "magicranktracker.com": {
@@ -16807,7 +16812,7 @@
     "stats-cs.ru": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "steam-analyst.ru": {
         "epoch": 1595030400.0,
@@ -18432,7 +18437,7 @@
     "vaxeta.ru": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "vbtrst.info": {
         "epoch": 1599436800.0,
