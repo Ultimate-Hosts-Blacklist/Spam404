@@ -1945,8 +1945,8 @@
         "state": "future"
     },
     "ch3at.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "chackscheats.com": {
@@ -18962,7 +18962,7 @@
     "wewgaming.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "wha.la": {
         "epoch": 1515110400.0,
