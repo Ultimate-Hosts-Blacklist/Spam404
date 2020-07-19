@@ -5227,7 +5227,7 @@
     "extrafree.fun": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "extragamebox.com": {
         "epoch": 1615766400.0,
@@ -10412,7 +10412,7 @@
     "hosavaza.ru": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hostdocument.com": {
         "epoch": 1622851200.0,
