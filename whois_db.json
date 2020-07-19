@@ -5900,8 +5900,8 @@
         "state": "future"
     },
     "fileoasis.net": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "filepaid.com": {
@@ -9630,8 +9630,8 @@
         "state": "future"
     },
     "hackforyou.xyz": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "hackgames.us": {
@@ -11877,7 +11877,7 @@
     "lezepi.ru": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "lflink.com": {
         "epoch": 1607126400.0,
@@ -18677,7 +18677,7 @@
     "vor.cc": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "vskin.pro": {
         "epoch": 1617321600.0,
