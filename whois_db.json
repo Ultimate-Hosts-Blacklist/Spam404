@@ -4050,8 +4050,8 @@
         "state": "future"
     },
     "dlmyapp.net": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "dloadgame.com": {
@@ -12252,7 +12252,7 @@
     "lushbombfree.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "m0vl.com": {
         "epoch": 1595721600.0,
@@ -12637,7 +12637,7 @@
     "mikarl.ru": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "minecraft-server.com": {
         "epoch": 1632873600.0,
