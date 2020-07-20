@@ -17412,7 +17412,7 @@
     "tetuma.ru": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "teyayo.ru": {
         "epoch": 1606780800.0,
@@ -18680,9 +18680,9 @@
         "state": "future"
     },
     "vor.cc": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "vskin.pro": {
         "epoch": 1617321600.0,
