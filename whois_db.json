@@ -16050,8 +16050,8 @@
         "state": "future"
     },
     "shortftp.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "shortupload.com": {
@@ -16382,7 +16382,7 @@
     "skinsmagic.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "skinsrate.com": {
         "epoch": 1625788800.0,
