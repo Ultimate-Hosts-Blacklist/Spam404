@@ -474,6 +474,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "alljazeera.co": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
     "allkeygensdownload.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -16387,6 +16392,11 @@
     "skinsrate.com": {
         "epoch": 1625788800.0,
         "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
+    "skinsregal.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "skinstown.com": {
