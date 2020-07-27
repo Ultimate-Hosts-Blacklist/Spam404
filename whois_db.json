@@ -2880,9 +2880,9 @@
         "state": "future"
     },
     "coolluck.info": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
-        "state": "past"
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
     },
     "copob.ru": {
         "epoch": 1618012800.0,
@@ -8600,8 +8600,8 @@
         "state": "future"
     },
     "gidaq.ru": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "giffgaff-helpconnect.co.uk": {
@@ -13367,7 +13367,7 @@
     "naxeb.ru": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "nazvsat.ru": {
         "epoch": 1615939200.0,
