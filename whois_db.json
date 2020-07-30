@@ -13645,8 +13645,8 @@
         "state": "future"
     },
     "nitasodo.ru": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "noirpirater.com": {
@@ -16775,9 +16775,9 @@
         "state": "past"
     },
     "st4ck-game.site": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
-        "state": "past"
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "state": "future"
     },
     "st4ck-giveaways.site": {
         "epoch": 1626480000.0,
@@ -18695,8 +18695,8 @@
         "state": "future"
     },
     "volifern.ru": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "vomoko.ru": {
@@ -19887,7 +19887,7 @@
     "zisogav.ru": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "zisuh.ru": {
         "epoch": 1601510400.0,
