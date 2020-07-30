@@ -352,7 +352,7 @@
     "adshiftmedia.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adult18games.com": {
         "epoch": 1607990400.0,
@@ -667,7 +667,7 @@
     "apapaxu.ru": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "apcoi.com": {
         "epoch": 1618358400.0,
@@ -17872,6 +17872,11 @@
     "tradeskins.cash": {
         "epoch": 1612224000.0,
         "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "tradingcsgo.com": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "trafficultimatum.com": {
