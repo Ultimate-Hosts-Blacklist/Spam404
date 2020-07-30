@@ -9587,7 +9587,7 @@
     "hackersuniversit.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hackersuniversity.com": {
         "epoch": 1626048000.0,
@@ -16605,9 +16605,9 @@
         "state": "future"
     },
     "softkeygens.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
-        "state": "past"
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "state": "future"
     },
     "software-freee.com": {
         "epoch": 1607644800.0,
