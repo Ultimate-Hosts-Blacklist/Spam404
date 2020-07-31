@@ -7642,7 +7642,7 @@
     "fullgamespc.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "fullpcgames.xyz": {
         "epoch": 1600992000.0,
@@ -8455,8 +8455,8 @@
         "state": "future"
     },
     "getclashofclanshack.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "getcrackfile.com": {
@@ -12060,8 +12060,8 @@
         "state": "future"
     },
     "livestreamfilms.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "lnked.org": {
@@ -19472,7 +19472,7 @@
     "xidibumu.ru": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "xl-partenariat.com": {
         "epoch": 1608940800.0,
