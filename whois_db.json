@@ -15662,7 +15662,7 @@
     "salime.ru": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "samhacker.com": {
         "epoch": 1615334400.0,
@@ -17242,7 +17242,7 @@
     "susazu.ru": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "suvomac.ru": {
         "epoch": 1592006400.0,
