@@ -1720,9 +1720,9 @@
         "state": "future"
     },
     "cadeaux-psn.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
     },
     "cajaro.ru": {
         "epoch": 1590278400.0,
@@ -2650,9 +2650,9 @@
         "state": "future"
     },
     "cocgemtool.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
     },
     "cochacks.com": {
         "epoch": 1616198400.0,
@@ -5032,7 +5032,7 @@
     "esl-tournaments.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "eslcase.com": {
         "epoch": 1619913600.0,
