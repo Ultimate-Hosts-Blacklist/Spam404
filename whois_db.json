@@ -1542,7 +1542,7 @@
     "booter.xyz": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bootme.club": {
         "epoch": 1620432000.0,
