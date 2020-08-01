@@ -555,8 +555,8 @@
         "state": "future"
     },
     "amazongiftcardgiveaway.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "amazongiftcardscodes.com": {
@@ -6437,7 +6437,7 @@
     "forcebets.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "forcehacks.com": {
         "epoch": 1616630400.0,
