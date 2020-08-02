@@ -1757,7 +1757,7 @@
     "camerarollspy.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "canadianmedstores.org": {
         "epoch": 1614124800.0,
@@ -14495,8 +14495,8 @@
         "state": "future"
     },
     "playstationgiftcards.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "playstationnetworkcard.com": {
