@@ -4342,7 +4342,7 @@
     "downloadcounterstrikehack.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "downloadfreehackgames.com": {
         "epoch": 1601251200.0,
@@ -5030,9 +5030,9 @@
         "state": "future"
     },
     "esl-tournaments.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
-        "state": "past"
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "state": "future"
     },
     "eslcase.com": {
         "epoch": 1619913600.0,
