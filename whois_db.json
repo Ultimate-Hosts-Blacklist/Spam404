@@ -8922,7 +8922,7 @@
     "goplayz.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "goprocheats.com": {
         "epoch": 1609545600.0,
@@ -14102,7 +14102,7 @@
     "owlplayz.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ozogame.com": {
         "epoch": 1622073600.0,
