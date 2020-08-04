@@ -12809,6 +12809,11 @@
         "expiration_date": "11-apr-2021",
         "state": "future"
     },
+    "mobacoinhack.com": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
     "mobigamesforpc.com": {
         "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
@@ -14555,9 +14560,9 @@
         "state": "future"
     },
     "pokecoinsgrab.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
-        "state": "past"
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
     },
     "pokemoncoins.com": {
         "epoch": 1601424000.0,
