@@ -182,7 +182,7 @@
     "411playz.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "4dq.com": {
         "epoch": 1622937600.0,
@@ -4065,8 +4065,8 @@
         "state": "future"
     },
     "dloadgame.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "dlupload.com": {
@@ -11507,7 +11507,7 @@
     "kickplays.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "kill-case.ru": {
         "epoch": 1615939200.0,
@@ -14452,7 +14452,7 @@
     "playcapt.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "playdowngames.com": {
         "epoch": 1602460800.0,
@@ -16600,8 +16600,8 @@
         "state": "past"
     },
     "soft-hack.net": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "soft4cash.net": {
@@ -18225,8 +18225,8 @@
         "state": "future"
     },
     "unityhacks.zone": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "universalhack.net": {
