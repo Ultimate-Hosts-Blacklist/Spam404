@@ -14110,9 +14110,9 @@
         "state": "future"
     },
     "owlplayz.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
-        "state": "past"
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "state": "future"
     },
     "ozogame.com": {
         "epoch": 1622073600.0,
@@ -14195,9 +14195,9 @@
         "state": "future"
     },
     "patch-game.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "pathofhacks.com": {
         "epoch": 1606694400.0,
@@ -15622,7 +15622,7 @@
     "rubickgames.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "runedo.ru": {
         "epoch": 1594944000.0,
