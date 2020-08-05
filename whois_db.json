@@ -7467,7 +7467,7 @@
     "freewizard101codes.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "freewowtime.net": {
         "epoch": 1597795200.0,
@@ -11610,9 +11610,9 @@
         "state": "past"
     },
     "kunapu.ru": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "state": "future"
     },
     "kupug.ru": {
         "epoch": 1606780800.0,
@@ -11635,8 +11635,8 @@
         "state": "past"
     },
     "lakotorra.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "lakuhi.ru": {
