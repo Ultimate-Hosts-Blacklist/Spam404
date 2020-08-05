@@ -5830,8 +5830,8 @@
         "state": "future"
     },
     "filefreehost.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "filefreeshare.com": {
@@ -10107,7 +10107,7 @@
     "hacksroom.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hacksstore.com": {
         "epoch": 1614643200.0,
@@ -10360,9 +10360,9 @@
         "state": "future"
     },
     "highwaystech.co": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
-        "state": "past"
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
     },
     "hihuz.ru": {
         "epoch": 1614729600.0,
@@ -14197,7 +14197,7 @@
     "patch-game.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pathofhacks.com": {
         "epoch": 1606694400.0,
