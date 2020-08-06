@@ -5212,7 +5212,7 @@
     "expressgrab.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "extafiles.com": {
         "epoch": 1616889600.0,
@@ -5835,8 +5835,8 @@
         "state": "future"
     },
     "filefreeshare.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "filefrost.com": {
@@ -8965,8 +8965,8 @@
         "state": "future"
     },
     "gotgamefree.us": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "gotlinks.co": {
@@ -13052,7 +13052,7 @@
     "movies-mania.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "movies20ntvshow.com": {
         "epoch": 1609027200.0,
@@ -15672,7 +15672,7 @@
     "saison-x.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "sakumix.ru": {
         "epoch": 1615852800.0,
@@ -16962,7 +16962,7 @@
     "steamcommunitiy.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "steamcommunituy.com": {
         "epoch": 1597449600.0,
