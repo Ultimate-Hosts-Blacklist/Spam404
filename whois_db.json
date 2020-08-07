@@ -11577,7 +11577,7 @@
     "knowledgeonline.site": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "kolopopo.com": {
         "epoch": 1621296000.0,
@@ -15435,8 +15435,8 @@
         "state": "past"
     },
     "riotpointshop.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "ripple.gift": {
