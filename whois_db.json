@@ -419,6 +419,11 @@
         "expiration_date": "03-feb-2021",
         "state": "future"
     },
+    "allfreehack.com": {
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
+    },
     "allfreesoftware.org": {
         "epoch": 1613865600.0,
         "expiration_date": "21-feb-2021",
@@ -11970,9 +11975,9 @@
         "state": "future"
     },
     "lightingshots.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "likefreehack.com": {
         "epoch": 1618012800.0,
