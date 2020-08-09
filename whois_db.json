@@ -11575,9 +11575,9 @@
         "state": "future"
     },
     "knowledgeonline.site": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "kolopopo.com": {
         "epoch": 1621296000.0,
@@ -19807,7 +19807,7 @@
     "yourfreexboxone.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "yourfreezunehd.com": {
         "epoch": 1604707200.0,
