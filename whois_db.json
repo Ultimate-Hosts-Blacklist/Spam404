@@ -1319,6 +1319,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "bitdrop.top": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
+    },
     "bitdskins.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
@@ -17232,7 +17237,7 @@
     "superalts.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "superbhacks.com": {
         "epoch": 1609200000.0,
