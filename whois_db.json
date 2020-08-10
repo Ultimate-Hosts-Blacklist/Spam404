@@ -12802,7 +12802,7 @@
     "misterhack.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "mixedhacks.com": {
         "epoch": 1614470400.0,
@@ -15935,8 +15935,8 @@
         "state": "future"
     },
     "setupandcrack.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "sevenhack.com": {
