@@ -7500,8 +7500,8 @@
         "state": "future"
     },
     "freexblcode.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "freexblgold.com": {
@@ -17235,9 +17235,9 @@
         "state": "future"
     },
     "superalts.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
-        "state": "past"
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
     },
     "superbhacks.com": {
         "epoch": 1609200000.0,
