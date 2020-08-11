@@ -4224,6 +4224,11 @@
         "expiration_date": "09-jul-2021",
         "state": "future"
     },
+    "dota2-exchanger.online": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
+    },
     "dota2.money": {
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
@@ -6222,7 +6227,7 @@
     "fime2013.com": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "findcheat.com": {
         "epoch": 1624665600.0,
@@ -12800,9 +12805,9 @@
         "state": "future"
     },
     "misterhack.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
-        "state": "past"
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
     },
     "mixedhacks.com": {
         "epoch": 1614470400.0,
