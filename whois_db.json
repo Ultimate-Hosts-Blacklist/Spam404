@@ -9407,7 +9407,7 @@
     "hack-fbook-password.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hack-free.com": {
         "epoch": 1618012800.0,
@@ -14767,7 +14767,7 @@
     "prizemeter.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "prkrls.info": {
         "epoch": 1628035200.0,
@@ -19587,7 +19587,7 @@
     "xorody.ru": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "xpandhacks.net": {
         "epoch": 1611446400.0,
