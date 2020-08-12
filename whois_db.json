@@ -1002,7 +1002,7 @@
     "bakmid.ru": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bamosis.ru": {
         "epoch": 1592006400.0,
@@ -1267,7 +1267,7 @@
     "bimil.ru": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bingoblitzcheats.com": {
         "epoch": 1607904000.0,
