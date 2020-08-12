@@ -8962,7 +8962,7 @@
     "gostream.us": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gosugrounds.com": {
         "epoch": 1607212800.0,
@@ -13797,7 +13797,7 @@
     "nuhus.ru": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nulledshare.com": {
         "epoch": 1613433600.0,
@@ -15047,7 +15047,7 @@
     "qeqom.ru": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "qeret.ru": {
         "epoch": 1616025600.0,
@@ -19170,8 +19170,8 @@
         "state": "past"
     },
     "wilom.ru": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "win7phone.net": {
@@ -19430,8 +19430,8 @@
         "state": "past"
     },
     "xboxjailbreak.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "xboxlab.com": {
