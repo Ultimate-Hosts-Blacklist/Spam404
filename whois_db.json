@@ -4877,7 +4877,7 @@
     "elitehacking.net": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "elitehacksor.com": {
         "epoch": 1627862400.0,
@@ -19375,9 +19375,9 @@
         "state": "future"
     },
     "xafon.ru": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
-        "state": "past"
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
     },
     "xblmspointscodes.com": {
         "epoch": 1597968000.0,
