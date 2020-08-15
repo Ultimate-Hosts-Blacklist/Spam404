@@ -3175,8 +3175,8 @@
         "state": "future"
     },
     "cscccase.online": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "cscccase.ru": {
@@ -5547,7 +5547,7 @@
     "fbcreditsfree.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "fbforce.net": {
         "epoch": 1602374400.0,
