@@ -4875,9 +4875,9 @@
         "state": "future"
     },
     "elitehacking.net": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
-        "state": "past"
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
     },
     "elitehacksor.com": {
         "epoch": 1627862400.0,
@@ -13482,7 +13482,7 @@
     "netflix-accounts.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "netflix-membership.com": {
         "epoch": 1620345600.0,
