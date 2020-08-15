@@ -137,7 +137,7 @@
     "3dmoviehd.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "3dsemudownload.com": {
         "epoch": 1627257600.0,
@@ -3442,7 +3442,7 @@
     "csgoloot.site": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgolounge.trade": {
         "epoch": 1626393600.0,
@@ -16610,9 +16610,9 @@
         "state": "future"
     },
     "socialgamegifts.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
-        "state": "past"
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
     },
     "socialgamerhelpers.com": {
         "epoch": 1623801600.0,
