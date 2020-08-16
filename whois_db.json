@@ -7207,7 +7207,7 @@
     "freeplaycard.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "freeplaygiftcards.com": {
         "epoch": 1624492800.0,
