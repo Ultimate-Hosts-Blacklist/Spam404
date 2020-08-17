@@ -7472,7 +7472,7 @@
     "freewiipointsgen.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "freewiiugamesiso.com": {
         "epoch": 1604448000.0,
@@ -16990,9 +16990,9 @@
         "state": "future"
     },
     "steamcommunituy.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
-        "state": "past"
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "state": "future"
     },
     "steamcommuniuitiy.info": {
         "epoch": 1599868800.0,
