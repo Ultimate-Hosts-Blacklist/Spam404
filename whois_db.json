@@ -3765,8 +3765,8 @@
         "state": "future"
     },
     "dailycheats.net": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "dailyxboxlivecodes.com": {
@@ -8785,9 +8785,9 @@
         "state": "future"
     },
     "globalhacks.org": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "glorycheats.com": {
         "epoch": 1635984000.0,
@@ -11145,9 +11145,9 @@
         "state": "future"
     },
     "jackpotwinner.info": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "jafiles.net": {
         "epoch": 1610755200.0,
@@ -12702,7 +12702,7 @@
     "minecraftcode.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "minecraftcode.me": {
         "epoch": 1628553600.0,
