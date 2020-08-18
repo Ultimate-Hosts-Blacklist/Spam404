@@ -5482,7 +5482,7 @@
     "fazebet.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "faztplay.com": {
         "epoch": 1633392000.0,
@@ -9160,8 +9160,8 @@
         "state": "future"
     },
     "gripdownload.co": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "gripdownload.com": {
@@ -15502,7 +15502,7 @@
     "robbobrothers.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "robig.ru": {
         "epoch": 1615161600.0,
@@ -17742,7 +17742,7 @@
     "todayinfos.us": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "toh.info": {
         "epoch": 1603670400.0,
