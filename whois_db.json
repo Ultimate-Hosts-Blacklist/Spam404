@@ -3770,9 +3770,9 @@
         "state": "future"
     },
     "dailyxboxlivecodes.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "dakrox.com": {
         "epoch": 1610755200.0,
@@ -12657,7 +12657,7 @@
     "mhacks.net": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "miboh.ru": {
         "epoch": 1584316800.0,
