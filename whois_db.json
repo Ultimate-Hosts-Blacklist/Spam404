@@ -9902,7 +9902,7 @@
     "hacks4me.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hacks4mobile.com": {
         "epoch": 1603065600.0,
@@ -14292,7 +14292,7 @@
     "pdfepub-ebooks.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pdfonlineworld.com": {
         "epoch": 1605312000.0,
