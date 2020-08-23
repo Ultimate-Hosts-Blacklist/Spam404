@@ -2707,7 +2707,7 @@
     "codeprimeur.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "codepsngratuit.com": {
         "epoch": 1627603200.0,
@@ -8525,8 +8525,8 @@
         "state": "future"
     },
     "getgiftcardcodes.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "getgiftcards.org": {
@@ -15867,6 +15867,11 @@
     "sellclassics.com": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
+        "state": "future"
+    },
+    "sellix.io": {
+        "epoch": 1643673600.0,
+        "expiration_date": "01-feb-2022",
         "state": "future"
     },
     "semec.ru": {
