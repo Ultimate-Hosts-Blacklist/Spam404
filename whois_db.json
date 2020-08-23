@@ -1474,6 +1474,11 @@
         "expiration_date": "07-apr-2021",
         "state": "future"
     },
+    "bombalts.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
     "bombhack.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
@@ -8500,9 +8505,9 @@
         "state": "future"
     },
     "getfiles.co": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
-        "state": "past"
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "state": "future"
     },
     "getfilesfrom.net": {
         "epoch": 1605225600.0,
@@ -12965,8 +12970,8 @@
         "state": "future"
     },
     "motdepasse.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "motifiles.com": {
@@ -18547,7 +18552,7 @@
     "validcheats.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "validhacks.com": {
         "epoch": 1611100800.0,
