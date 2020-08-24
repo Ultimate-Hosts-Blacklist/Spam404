@@ -11472,7 +11472,7 @@
     "kesslerpark.org": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "kevuci.ru": {
         "epoch": 1625270400.0,
@@ -11655,9 +11655,9 @@
         "state": "past"
     },
     "la.land": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
-        "state": "past"
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "state": "future"
     },
     "labono.ru": {
         "epoch": 1591747200.0,
