@@ -1044,6 +1044,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "battle-mix.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
+    },
     "battlefield3game.info": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -14647,7 +14652,7 @@
     "pornpasswordhack.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "port25.biz": {
         "epoch": 1604707200.0,
