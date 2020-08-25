@@ -1550,9 +1550,9 @@
         "state": "future"
     },
     "boost-my-game.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
-        "state": "past"
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "state": "future"
     },
     "booter.pw": {
         "epoch": 1672272000.0,
@@ -2947,7 +2947,7 @@
     "couponspage.club": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "covid-19donator.com": {
         "epoch": 1616198400.0,
