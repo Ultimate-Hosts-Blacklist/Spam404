@@ -2527,7 +2527,7 @@
     "clashofclanshackonline.org": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "clashofclanshacksnosurvey.com": {
         "epoch": 1608681600.0,
@@ -13460,8 +13460,8 @@
         "state": "future"
     },
     "nebula-team.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "nedepi.ru": {
