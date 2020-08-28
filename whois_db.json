@@ -449,6 +449,11 @@
         "expiration_date": "25-jan-2021",
         "state": "future"
     },
+    "allgethack.com": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "state": "future"
+    },
     "allhack.net": {
         "epoch": 1618272000.0,
         "expiration_date": "13-apr-2021",
