@@ -3875,9 +3875,9 @@
         "state": "future"
     },
     "defcon.pro": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
     },
     "dehacks.com": {
         "epoch": 1625875200.0,
@@ -13775,8 +13775,8 @@
         "state": "future"
     },
     "now-movie.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "nowmusik.com": {
