@@ -10382,7 +10382,7 @@
     "hecuq.ru": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hell-trade.com": {
         "epoch": 1608768000.0,
@@ -11620,8 +11620,8 @@
         "state": "future"
     },
     "klowis.ru": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "knife-case.fun": {
@@ -17655,8 +17655,8 @@
         "state": "future"
     },
     "thedailyreward.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "thedataworld.com": {
