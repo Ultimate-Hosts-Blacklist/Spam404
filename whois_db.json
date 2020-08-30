@@ -2422,7 +2422,7 @@
     "clanshacktool.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "clanshelper.com": {
         "epoch": 1611705600.0,
@@ -6720,8 +6720,8 @@
         "state": "future"
     },
     "freeamazongift.net": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "freeastuces.com": {
@@ -8392,7 +8392,7 @@
     "gegig.ru": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gehifu.ru": {
         "epoch": 1613606400.0,
