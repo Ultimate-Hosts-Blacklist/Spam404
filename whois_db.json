@@ -1770,9 +1770,9 @@
         "state": "future"
     },
     "callofduty-beta.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
-        "state": "past"
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
     },
     "callofduty-officiel.com": {
         "epoch": 1602892800.0,
@@ -4435,8 +4435,8 @@
         "state": "future"
     },
     "downloadkeyfull.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
         "state": "future"
     },
     "downloadme.org": {
@@ -15357,7 +15357,7 @@
     "redissoft.ru": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "reditions.net": {
         "epoch": 1607126400.0,
