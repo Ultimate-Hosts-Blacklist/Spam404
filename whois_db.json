@@ -704,6 +704,11 @@
         "expiration_date": "31-aug-2021",
         "state": "future"
     },
+    "apkhackz.com": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "state": "future"
+    },
     "apkpros.com": {
         "epoch": 1627171200.0,
         "expiration_date": "25-jul-2021",
@@ -7450,8 +7455,8 @@
         "state": "future"
     },
     "freetoppcgames.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
         "state": "future"
     },
     "freevbucks.fun": {
@@ -8222,7 +8227,7 @@
     "gameshaxtools.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "gameskeys.info": {
         "epoch": 1602374400.0,
