@@ -1695,8 +1695,8 @@
         "state": "future"
     },
     "bumpgaming.net": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "state": "future"
     },
     "burnshare.net": {
@@ -4632,7 +4632,7 @@
     "dropbbase.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "dropingskins.fun": {
         "epoch": 1623456000.0,
@@ -17432,7 +17432,7 @@
     "tabfirmware.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "taged.ru": {
         "epoch": 1593043200.0,
