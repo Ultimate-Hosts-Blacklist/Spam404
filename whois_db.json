@@ -3067,7 +3067,7 @@
     "cracking-world.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "cracking.org": {
         "epoch": 1610668800.0,
@@ -9575,8 +9575,8 @@
         "state": "future"
     },
     "hackclashclans.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "state": "future"
     },
     "hackclashofclan.com": {
@@ -16152,7 +16152,7 @@
     "shelleylalonde.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "shhort.com": {
         "epoch": 1625097600.0,
