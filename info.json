@@ -1,41 +1,19 @@
 {
-    "current_stats": {
-        "builds": 3022,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 7364,
-        "whitelisted.list": 7364
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "description": null,
     "end_datetime": "2020-03-03T18:47:36.373777",
     "end_epoch": 1583168119.724688,
     "issue_link": "https://github.com/Spam404/lists/issues/new/choose",
-    "last_autosave_datetime": "2020-03-03T18:47:36.373795",
-    "last_autosave_epoch": 1583164779.477641,
     "link": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
     "name": "Spam404",
-    "previous_stats": {
-        "builds": 25,
-        "clean.list": 7366,
-        "counter": {
-            "down": 8271,
-            "invalid": 0,
-            "tested": 15637,
-            "up": 7366
-        },
-        "domains.list": 15637,
-        "ip.list": 0,
-        "volatile.list": 7366,
-        "whitelisted.list": 7366
+    "previous_end_datetime": "2020-01-25T04:16:18.563979",
+    "previous_end_epoch": 1579925778.563983,
+    "previous_start_datetime": "2020-01-25T04:16:18.563967",
+    "previous_start_epoch": 1579925778.563981,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
     "start_datetime": "2020-03-03T18:47:38.884956",

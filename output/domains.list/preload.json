@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/Spam404/Spam404/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "bd11fbee90843735d820cf3e735c4df8403a691446359d935b71a3e9",
+    "line_number": 11009,
+    "output_dir": "/home/runner/work/Spam404/Spam404/output/domains.list",
+    "previous_hash": null,
+    "rel_source": "domains.list",
+    "session_id": "de8d6b61e44ebe7b1da400cb",
+    "source": "/home/runner/work/Spam404/Spam404/domains.list",
+    "subject": "/home/runner/work/Spam404/Spam404/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
