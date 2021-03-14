@@ -682,6 +682,9 @@
         "net.bt",
         "org.bt"
     ],
+    "builders": [
+        "cloudsite.builders"
+    ],
     "business": [
         "co.business"
     ],
@@ -1005,7 +1008,9 @@
         "myasustor.com",
         "balena-devices.com",
         "betainabox.com",
+        "boutir.com",
         "bplaced.com",
+        "cafjs.com",
         "br.com",
         "cn.com",
         "de.com",
@@ -1340,6 +1345,8 @@
         "platter-app.com",
         "pleskns.com",
         "xen.prgmr.com",
+        "pythonanywhere.com",
+        "eu.pythonanywhere.com",
         "qualifioapp.com",
         "qbuser.com",
         "qa2.com",
@@ -1531,7 +1538,9 @@
     ],
     "dev": [
         "lcl.dev",
+        "lclstage.dev",
         "stg.dev",
+        "stgstage.dev",
         "pages.dev",
         "workers.dev",
         "curv.dev",
@@ -5048,7 +5057,7 @@
         "gorge.museum",
         "grandrapids.museum",
         "graz.museum",
-        "guernsey.museum",
+        "vlaanderen.museum",
         "halloffame.museum",
         "hamburg.museum",
         "handson.museum",
@@ -5347,7 +5356,6 @@
         "virginia.museum",
         "virtual.museum",
         "virtuel.museum",
-        "vlaanderen.museum",
         "volkenkunde.museum",
         "wales.museum",
         "wallonie.museum",
@@ -7229,7 +7237,8 @@
     ],
     "scot": [
         "edu.scot",
-        "gov.scot"
+        "gov.scot",
+        "service.gov.scot"
     ],
     "sd": [
         "com.sd",
@@ -7338,6 +7347,7 @@
         "opensocial.site",
         "platformsh.site",
         "byen.site",
+        "srht.site",
         "mintere.site"
     ],
     "sk": [
