@@ -166,6 +166,7 @@
     ],
     "app": [
         "wnext.app",
+        "multibaas.app",
         "platform0.app",
         "ondigitalocean.app",
         "edgecompute.app",
@@ -1037,6 +1038,7 @@
         "cloudcontrolled.com",
         "cloudcontrolapp.com",
         "trycloudflare.com",
+        "multibaas.com",
         "customer-oci.com",
         "oci.customer-oci.com",
         "ocp.customer-oci.com",
@@ -1341,6 +1343,7 @@
         "pgfog.com",
         "pagefrontapp.com",
         "pagexl.com",
+        "paywhirl.com",
         "gotpantheon.com",
         "platter-app.com",
         "pleskns.com",
@@ -1551,6 +1554,7 @@
         "iserv.dev",
         "loginline.dev",
         "platter-app.dev",
+        "shiftcrypto.dev",
         "vercel.dev",
         "webhare.dev"
     ],
@@ -1881,6 +1885,9 @@
         "nym.gy",
         "be.gy"
     ],
+    "health": [
+        "hra.health"
+    ],
     "hk": [
         "com.hk",
         "edu.hk",
@@ -2141,6 +2148,7 @@
         "devices.resinstaging.io",
         "hzc.io",
         "sandcats.io",
+        "shiftcrypto.io",
         "shiftedit.io",
         "mo-siemens.io",
         "apps.lair.io",
@@ -5057,7 +5065,7 @@
         "gorge.museum",
         "grandrapids.museum",
         "graz.museum",
-        "vlaanderen.museum",
+        "guernsey.museum",
         "halloffame.museum",
         "hamburg.museum",
         "handson.museum",
@@ -5356,6 +5364,7 @@
         "virginia.museum",
         "virtual.museum",
         "virtuel.museum",
+        "vlaanderen.museum",
         "volkenkunde.museum",
         "wales.museum",
         "wallonie.museum",
@@ -6716,7 +6725,8 @@
     "page": [
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "magnet.page"
     ],
     "party": [
         "ybo.party"
