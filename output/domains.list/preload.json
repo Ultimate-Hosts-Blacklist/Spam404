@@ -1,8 +1,8 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "bf5ff4bc5a89fb6b22dc49183cf33aaf0e622f5c9c6a6b95e7b9c8cf",
-    "line_number": 7357,
+    "hash": "40f30b1c4dc19f4bb36f3a14e5a21e51824b371ad2763fb8f5d09f0e",
+    "line_number": 7369,
     "output_dir": "/home/runner/work/Spam404/Spam404/output/domains.list",
     "previous_hash": "c40b73a0d520ddff95390894cc1f5620d5da3cb4318295151bf74fe2",
     "session_id": "02a3564445dfcfc0bf14dd65",
