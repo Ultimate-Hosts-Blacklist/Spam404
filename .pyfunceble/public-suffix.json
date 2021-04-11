@@ -1870,14 +1870,14 @@
         "to.gt"
     ],
     "gu": [
-        "web.gu",
         "com.gu",
         "edu.gu",
         "gov.gu",
         "guam.gu",
         "info.gu",
         "net.gu",
-        "org.gu"
+        "org.gu",
+        "web.gu"
     ],
     "gy": [
         "co.gy",
@@ -7827,9 +7827,9 @@
         "barsy.co.uk",
         "barsyonline.co.uk",
         "barsy.uk",
+        "no-ip.co.uk",
         "cust.retrosnub.co.uk",
         "nh-serv.co.uk",
-        "no-ip.co.uk",
         "wellbeingzone.co.uk",
         "gwiddle.co.uk"
     ],
