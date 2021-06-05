@@ -4929,6 +4929,7 @@
         "edu.ms",
         "gov.ms",
         "lab.ms",
+        "minisite.ms",
         "net.ms",
         "org.ms"
     ],
@@ -6812,7 +6813,6 @@
         "pro.om"
     ],
     "one": [
-        "cloudapps.digital",
         "for.one",
         "homelink.one",
         "onred.one",
