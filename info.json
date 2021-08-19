@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": null,
-    "end_datetime": "2021-08-19T03:13:15.895443",
-    "end_epoch": 1629342795.895443,
+    "end_datetime": "2021-08-19T11:47:15.061078",
+    "end_epoch": 1629373635.061078,
     "issue_link": "https://github.com/Spam404/lists/issues/new/choose",
     "link": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
     "name": "Spam404",
