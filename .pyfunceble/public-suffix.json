@@ -232,8 +232,7 @@
         "or.at",
         "priv.at",
         "sth.ac.at",
-        "wien.funkfeuer.at",
-        "ybo.party"
+        "wien.funkfeuer.at"
     ],
     "au": [
         "act.au",
@@ -7038,6 +7037,9 @@
         "pdns.page",
         "plesk.page",
         "prvcy.page"
+    ],
+    "party": [
+        "ybo.party"
     ],
     "pe": [
         "blogspot.pe",
