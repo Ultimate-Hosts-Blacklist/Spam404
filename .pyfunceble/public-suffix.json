@@ -748,6 +748,7 @@
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
+        "instances.spawn.cc",
         "myphotos.cc",
         "scrapping.cc",
         "twmail.cc"
@@ -1420,7 +1421,6 @@
         "wpmucdn.com",
         "writesthisblog.com",
         "x.mythic-beasts.com",
-        "x443.pw",
         "xen.prgmr.com",
         "xnbay.com",
         "yali.mythic-beasts.com",
@@ -7393,7 +7393,8 @@
         "ed.pw",
         "go.pw",
         "ne.pw",
-        "or.pw"
+        "or.pw",
+        "x443.pw"
     ],
     "py": [
         "com.py",
