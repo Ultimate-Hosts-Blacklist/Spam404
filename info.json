@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "description": null,
     "end_datetime": "2021-09-28T05:54:39.898724",
@@ -7,14 +7,14 @@
     "issue_link": "https://github.com/Spam404/lists/issues/new/choose",
     "link": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
     "name": "Spam404",
-    "previous_end_datetime": "2021-09-27T11:37:55.881607",
-    "previous_end_epoch": 1632742675.881607,
-    "previous_start_datetime": "2021-09-27T08:40:11.266214",
-    "previous_start_epoch": 1632732011.266214,
+    "previous_end_datetime": "2021-09-28T05:54:39.898724",
+    "previous_end_epoch": 1632808479.898724,
+    "previous_start_datetime": "2021-09-28T04:32:52.636008",
+    "previous_start_epoch": 1632803572.636008,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
-    "start_datetime": "2021-09-28T04:32:52.636008",
-    "start_epoch": 1632803572.636008
+    "start_datetime": "2021-09-28T07:48:02.581777",
+    "start_epoch": 1632815282.581777
 }
